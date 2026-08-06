@@ -143,44 +143,28 @@ cartography/AETHEON.geojson
 Este fichero constituye la referencia cartográfica canónica del Atlas.
 Toda ficha podrá referenciar elementos contenidos en él.
 
-## Sectores
-
-Norte
-
-Sur
-
-Este
-
-Oeste
-
-Centro
-
-## Elementos principales
-
-Casa
-
-Acceso
-
-Canal de riego
-
-Linde Norte
-
-Linde Este
-
-Linde Sur
-
-Linde Oeste
-
-## Distribución de Guardianes
-
-(Se completará progresivamente.)
 ## Plano general
 
 ## Sistema de coordenadas
 
 ## Sectores
+Norte
+Sur
+Este
+Oeste
+Centro
 
----
+## Elementos principales
+Casa
+Acceso
+Canal de riego
+Linde Norte
+Linde Este
+Linde Sur
+Linde Oeste
+
+## Distribución de Guardianes
+(Se completará progresivamente.)
 
 # Cosmogonía (visión de Edheo)
 
