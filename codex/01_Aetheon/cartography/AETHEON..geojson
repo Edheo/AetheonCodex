@@ -1,0 +1,22 @@
+{
+  "type": "Feature",
+  "properties": {
+    "type": "parcel",
+    "name": "Aetheon"
+  }
+}
+{
+  "type": "Feature",
+  "properties": {
+    "type": "building",
+    "name": "Casa"
+  }
+}
+{
+  "type": "Feature",
+  "properties": {
+      "type":"guardian",
+      "id":"vetusta",
+      "name":"Vetusta"
+  }
+}
