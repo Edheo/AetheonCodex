@@ -14,6 +14,7 @@ Coordenadas (decimal):	39.392794, -0.665926
 Se trata de un algarrobo de edad desconocida. Por sus dimensiones y aspecto se le atribuye, al menos, una antigüedad centenaria. Diversas personas han sugerido que podría superar ampliamente esa edad, aunque actualmente no existe forma de verificarlo sin comprometer la integridad del árbol.
 ### Relaciones
 Edheo:	Edheo ha expresado su voluntad de que, cuando concluya su tiempo en Aetheon, sus cenizas descansen a los pies de Vetusta, pasando así a formar parte inseparable del lugar que ha custodiado. Y de ese modo Miguel, pasará también por fin, a formar parte indisoluble de Aetheon.
+Titán:	Un dia, a unos 20 metros de ella, casi imperceptible, emergió un brote, con sus ajados ojos, apenas podía ver a Titán, pero algo verde crecía allá, poco a poco, con los años, incluso siglos, esa brizna verde, insignificante, fué ganando tamaño, parecía no tener límite, era lento, pero inexorable, las proporciones de esa brizna verde, fueron pasando a ser casi descomunales, podrían ser incluso amenazantes, pero a ella al contrario, le reconfortaba tener un vecino, tan tranquilo, tan pacífico, y a su vez, tan descomunal, que borró toda sombra de lo que un dia fué, sentirse completamente sola en el lugar. Ya nunca más lo estuvo.
 ## Presencia
 Vetusta domina visualmente la parte norte de Aetheon. Su porte hace difícil recorrer la parcela sin advertir su presencia.
 ## Cosmología
