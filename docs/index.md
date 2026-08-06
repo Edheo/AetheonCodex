@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+# Umbral
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bienvenido a Aetheon.
 
-## Commands
+No estás entrando en una documentación.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Estás cruzando el umbral de un lugar vivo.
 
-## Project layout
+---
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## El Codex
+
+Este espacio contiene la memoria de Aetheon.
+
+Aquí se entrelazan sus guardianes, sus acontecimientos, sus lugares y las crónicas que forman parte de su existencia.
+
+El Codex no pretende poseer Aetheon.
+
+Pretende conservar su memoria.

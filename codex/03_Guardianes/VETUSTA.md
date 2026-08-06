@@ -1,7 +1,7 @@
 # Nombre
 ## Canon
 ### Identificación
-Nombre:	VETUSTA
+Nombre:	Vetusta
 Tipo: Algarrobo
 Especie: Algarrobo común (Ceratonia siliqua)
 Estado: Prosigue su vida, con daños en pocas ramas, posiblemente causados por roedores.
