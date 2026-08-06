@@ -1,2 +1,6 @@
 /.vs
 /Aetheon.zip
+.venv/
+site/
+__pycache__/
+*.pyc
