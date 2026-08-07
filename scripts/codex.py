@@ -10,17 +10,6 @@ No publica el Atlas.
 Únicamente aprende a recorrer Aetheon.
 """
 
-"""
-Aetheon Codex Library
-
-Responsabilidad:
-    Leer y representar la estructura del Codex.
-
-Este módulo NO publica, NO copia archivos y NO genera documentación.
-Únicamente proporciona una representación del Codex para el resto
-del Builder.
-"""
-
 from pathlib import Path
 
 
@@ -38,7 +27,7 @@ CODEX = ROOT / "codex"
 
 def scan():
     """
-    Recorre todo el Codex y devuelve todos los archivos Markdown.
+    Devuelve todos los archivos Markdown del Codex.
     """
 
     return sorted(CODEX.rglob("*.md"))
@@ -50,7 +39,7 @@ def scan():
 
 def sections():
     """
-    Devuelve las secciones principales del Codex.
+    Devuelve todas las secciones principales del Codex.
     """
 
     return sorted(
@@ -67,56 +56,42 @@ def sections():
 # ==========================================================
 
 def entries():
-
     """
-    Devuelve todas las entradas del Codex como diccionarios.
+    Devuelve todas las entradas del Codex.
     """
 
     result = []
 
     for md in scan():
 
+        relative = md.relative_to(CODEX)
+
         result.append(
             {
                 "title": md.stem,
                 "path": md,
-                "relative": md.relative_to(CODEX),
-                "section": md.relative_to(CODEX).parts[0],
+                "relative": relative,
+                "section": relative.parts[0],
             }
         )
 
     return result
 
 
-# ==========================================================
-# Helpers
-# ==========================================================
+def section_entries(section_name):
+    """
+    Devuelve todas las entradas pertenecientes
+    a una sección concreta.
+    """
 
-def guardians():
-
-    return [
-        entry
-        for entry in entries()
-        if entry["section"] == "03_Guardianes"
-    ]
-
-
-def philosophy():
-
-    return [
-        entry
-        for entry in entries()
-        if entry["section"] == "02_Filosofia"
-    ]
-
-
-def aetheon():
-
-    return [
-        entry
-        for entry in entries()
-        if entry["section"] == "01_Aetheon"
-    ]
+    return sorted(
+        [
+            entry
+            for entry in entries()
+            if entry["section"] == section_name
+        ],
+        key=lambda entry: entry["title"],
+    )
 
 
 # ==========================================================
@@ -135,4 +110,4 @@ if __name__ == "__main__":
     print("Entries:")
 
     for entry in entries():
-        print(f" - {entry['relative']}")
+        print(" -", entry["relative"])

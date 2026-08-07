@@ -1,16 +1,61 @@
 # Aetheon
 
-Bienvenido al Atlas de Aetheon.
+> Atlas generado automáticamente a partir del Codex.
 
-Este sitio constituye la representación navegable del Codex de Aetheon, un archivo vivo dedicado a preservar la memoria, la cartografía y la evolución de este lugar.
+---
 
-## Estructura
+## 00_Prologo
 
-- Aetheon
-- Filosofía
-- Guardianes
-- Habitantes
-- Bitácora
-- Cartografía
+_Sin contenido._
 
-> El Atlas refleja el estado actual del Codex y se genera automáticamente mediante el Builder.
+## 01_Aetheon
+
+- [AETHEON](01_Aetheon/AETHEON.md)
+- [README](01_Aetheon/cartography/README.md)
+
+## 02_Geografia
+
+_Sin contenido._
+
+## 03_Guardianes
+
+- [README](03_Guardianes/README.md)
+- [TEMPLATE](03_Guardianes/TEMPLATE.md)
+- [TITAN](03_Guardianes/TITAN.md)
+- [VETUSTA](03_Guardianes/VETUSTA.md)
+
+## 04_Bitacora
+
+_Sin contenido._
+
+## 05_Cronologia
+
+_Sin contenido._
+
+## 06_Resonancias
+
+_Sin contenido._
+
+## 07_Cartografia
+
+_Sin contenido._
+
+## 08_Herbario
+
+_Sin contenido._
+
+## 09_Archivo
+
+_Sin contenido._
+
+## 10_Anexos
+
+_Sin contenido._
+
+## 11_Habitantes
+
+_Sin contenido._
+
+---
+
+_Este documento ha sido generado automáticamente por el Builder._
