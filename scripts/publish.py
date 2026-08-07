@@ -7,5 +7,24 @@ Responsabilidades:
 - mkdocs serve
 """
 
+import subprocess
+import sys
+
+def build():
+    subprocess.run(
+        [sys.executable, "-m", "mkdocs", "build"],
+        check=True
+    )
+
+
+def serve():
+    subprocess.run(
+        [sys.executable, "-m", "mkdocs", "serve"],
+        check=True
+    )
+
+
 def run():
-    print("[PUBLISH] Not implemented yet.")
+    print("[PUBLISH] Building site...")
+    build()
+    print("[PUBLISH] Done.")

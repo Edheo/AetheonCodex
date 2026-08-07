@@ -1,9 +1,9 @@
-# CartografÌa
+# Cartograf√≠a
 
-Este directorio contiene la representaciÛn espacial canÛnica del Atlas.
+Este directorio contiene la representaci√≥n espacial can√≥nica del Atlas.
 
-Los ficheros aquÌ almacenados constituyen la referencia oficial para la
-ubicaciÛn de Guardianes, Arquitecturas y dem·s elementos de Aetheon.
+Los ficheros aqu√≠ almacenados constituyen la referencia oficial para la
+ubicaci√≥n de Guardianes, Arquitecturas y dem√°s elementos de Aetheon.
 
-Toda representaciÛn gr·fica o interactiva deber· derivarse de estos
-ficheros, evitando duplicar informaciÛn cartogr·fica en otros documentos.
+Toda representaci√≥n gr√°fica o interactiva deber√° derivarse de estos
+ficheros, evitando duplicar informaci√≥n cartogr√°fica en otros documentos.
