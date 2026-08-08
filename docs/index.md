@@ -20,13 +20,17 @@ _Sin contenido._
 ## 03_Guardianes
 
 - [README](03_Guardianes/README.md)
-- [TEMPLATE](03_Guardianes/TEMPLATE.md)
 - [TITAN](03_Guardianes/TITAN.md)
 - [VETUSTA](03_Guardianes/VETUSTA.md)
 
 ## 04_Bitacora
 
-_Sin contenido._
+- [1978-00-00](04_Bitacora/1978-00-00.md)
+- [2015-06-23](04_Bitacora/2015-06-23.md)
+- [2024-03-27](04_Bitacora/2024-03-27.md)
+- [2024-04-28](04_Bitacora/2024-04-28.md)
+- [2024-10-29](04_Bitacora/2024-10-29.md)
+- [TEMPLATE-BITACORA](04_Bitacora/TEMPLATE-BITACORA.md)
 
 ## 05_Cronologia
 

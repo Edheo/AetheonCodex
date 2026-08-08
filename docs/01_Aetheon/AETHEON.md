@@ -125,7 +125,6 @@ Una piscina
 Un trastero con paellero pegado a la piscina
 
 # Bitácora
-1978-xx-xx - Así queda constituida a nivel catastral como fecha de construcción de la casa.
 2015-06-23 - Fecha de adquisición de los propietarios anteriores. El matrimonio Jose Lui Gomez Herrero y Maria Paloma Garcia Sanchez
 2024-03-27 - (Fecha aproximada) Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo recientemente vendí mi piso en Catarroja, con la idea de poder comprar algo como esto. Una casa, en una zona no exactamente urbana. Poder tener tierra, un lugar donde mis mascotas pudiesen tener espacio. Frank y yo nos ilusionamos mucho sólo con verla, todo se alineaba, la casa era adecuada, la parcela increible, el precio dentro de nuestras posibilidades... todo parecía alinearse.
 2024-03-28 - (Fecha aproximada) Conseguimos contactar con la inmobiliaria, y concertamos una cita para ese sábado
