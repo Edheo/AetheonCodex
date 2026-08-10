@@ -4,12 +4,17 @@
 Nombre:	Vetusta
 Tipo: Algarrobo
 Especie: Algarrobo común (Ceratonia siliqua)
+Fecha Nacimiento: Hay quien sugiere que puede ser milenaria años, así que lo único que si se, es que es posterior al año 1000ad.
 Estado: Prosigue su vida, con daños en pocas ramas, posiblemente causados por roedores.
+### Naturaleza
+Guardián
+### Mitología
+Romana
+La Regenta
+Historia Interminable
 ### Ubicación
 Descripción:	Parte trasera de la casa, pero desplazada hacia la derecha, por tanto más próxima a la valla exterior que delimita con la avenida.
 Sector:			Cuadrante Noroeste de la parcela, dentro de ese cuadrante, entre la casa y la valla exterior del camino.
-Coordenadas (WGS84):	39°23'34.1"N+0°39'57.3"W
-Coordenadas (decimal):	39.392794, -0.665926
 ### Descripción
 Se trata de un algarrobo de edad desconocida. Por sus dimensiones y aspecto se le atribuye, al menos, una antigüedad centenaria. Diversas personas han sugerido que podría superar ampliamente esa edad, aunque actualmente no existe forma de verificarlo sin comprometer la integridad del árbol.
 ### Relaciones
