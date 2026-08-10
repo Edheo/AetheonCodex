@@ -20,13 +20,18 @@ _Sin contenido._
 ## 03_Guardianes
 
 - [README](03_Guardianes/README.md)
-- [TEMPLATE](03_Guardianes/TEMPLATE.md)
 - [TITAN](03_Guardianes/TITAN.md)
 - [VETUSTA](03_Guardianes/VETUSTA.md)
 
 ## 04_Bitacora
 
-_Sin contenido._
+- [1978-00-00_Constitución_catastral](04_Bitacora/1978-00-00_Constitución_catastral.md)
+- [2015-06-23_Compra-anteriores-propietarios](04_Bitacora/2015-06-23_Compra-anteriores-propietarios.md)
+- [2024-03-27_Aetheon-en-venta](04_Bitacora/2024-03-27_Aetheon-en-venta.md)
+- [2024-04-28_Primera-visita](04_Bitacora/2024-04-28_Primera-visita.md)
+- [2024-10-29_Dana-de-Valencia](04_Bitacora/2024-10-29_Dana-de-Valencia.md)
+- [2026-08-06_Proteccion-de-los-arboles](04_Bitacora/2026-08-06_Proteccion-de-los-arboles.md)
+- [2026-08-08_Rhoa-y-Side](04_Bitacora/2026-08-08_Rhoa-y-Side.md)
 
 ## 05_Cronologia
 

@@ -60,7 +60,7 @@ Fecha desconocida	-	En algún momento de algún siglo más o menos reciente, má
 2024-07-16	-	Se ha realizado una primera inspección visual, y se ha determinado que el árbol está en buen estado, aunque con algunas ramas dañadas, posiblemente por roedores. Se ha decidido realizar un seguimiento periódico para evaluar su evolución y tomar medidas si es necesario.
 ## Recursos
 
-## Fotografías
+## Media
 001-VETUSTA.jpeg
 
 ## Croquis
