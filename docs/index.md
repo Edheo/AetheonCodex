@@ -25,12 +25,13 @@ _Sin contenido._
 
 ## 04_Bitacora
 
-- [1978-00-00](04_Bitacora/1978-00-00.md)
-- [2015-06-23](04_Bitacora/2015-06-23.md)
-- [2024-03-27](04_Bitacora/2024-03-27.md)
-- [2024-04-28](04_Bitacora/2024-04-28.md)
-- [2024-10-29](04_Bitacora/2024-10-29.md)
-- [TEMPLATE-BITACORA](04_Bitacora/TEMPLATE-BITACORA.md)
+- [1978-00-00_Constitución_catastral](04_Bitacora/1978-00-00_Constitución_catastral.md)
+- [2015-06-23_Compra-anteriores-propietarios](04_Bitacora/2015-06-23_Compra-anteriores-propietarios.md)
+- [2024-03-27_Aetheon-en-venta](04_Bitacora/2024-03-27_Aetheon-en-venta.md)
+- [2024-04-28_Primera-visita](04_Bitacora/2024-04-28_Primera-visita.md)
+- [2024-10-29_Dana-de-Valencia](04_Bitacora/2024-10-29_Dana-de-Valencia.md)
+- [2026-08-06_Proteccion-de-los-arboles](04_Bitacora/2026-08-06_Proteccion-de-los-arboles.md)
+- [2026-08-08_Rhoa-y-Side](04_Bitacora/2026-08-08_Rhoa-y-Side.md)
 
 ## 05_Cronologia
 
