@@ -4,62 +4,32 @@
 
 ---
 
-## 00_Prologo
-
-_Sin contenido._
-
 ## 01_Aetheon
 
 - [AETHEON](01_Aetheon/AETHEON.md)
-- [README](01_Aetheon/cartography/README.md)
 
-## 02_Geografia
+## 02_Bitacora
 
-_Sin contenido._
+- [1800-00-00_Tián-Germina](02_Bitacora/1800-00-00_Tián-Germina.md)
+- [1978-00-00_Constitución_catastral](02_Bitacora/1978-00-00_Constitución_catastral.md)
+- [2015-06-23_Compra-anteriores-propietarios](02_Bitacora/2015-06-23_Compra-anteriores-propietarios.md)
+- [2024-03-27_Aetheon-en-venta](02_Bitacora/2024-03-27_Aetheon-en-venta.md)
+- [2024-04-28_Primera-visita](02_Bitacora/2024-04-28_Primera-visita.md)
+- [2024-10-29_Dana-de-Valencia](02_Bitacora/2024-10-29_Dana-de-Valencia.md)
+- [2026-08-06_Proteccion-de-los-arboles](02_Bitacora/2026-08-06_Proteccion-de-los-arboles.md)
+- [2026-08-08_Rhoa-y-Side](02_Bitacora/2026-08-08_Rhoa-y-Side.md)
 
-## 03_Guardianes
+## 03_Miembros
 
-- [README](03_Guardianes/README.md)
-- [TITAN](03_Guardianes/TITAN.md)
-- [VETUSTA](03_Guardianes/VETUSTA.md)
+- [README](03_Miembros/README.md)
+- [SHENLONG](03_Miembros/SHENLONG.md)
+- [SHIVA](03_Miembros/SHIVA.md)
+- [TITAN](03_Miembros/TITAN.md)
+- [VETUSTA](03_Miembros/VETUSTA.md)
 
-## 04_Bitacora
+## 04_Cartografia
 
-- [1978-00-00_Constitución_catastral](04_Bitacora/1978-00-00_Constitución_catastral.md)
-- [2015-06-23_Compra-anteriores-propietarios](04_Bitacora/2015-06-23_Compra-anteriores-propietarios.md)
-- [2024-03-27_Aetheon-en-venta](04_Bitacora/2024-03-27_Aetheon-en-venta.md)
-- [2024-04-28_Primera-visita](04_Bitacora/2024-04-28_Primera-visita.md)
-- [2024-10-29_Dana-de-Valencia](04_Bitacora/2024-10-29_Dana-de-Valencia.md)
-- [2026-08-06_Proteccion-de-los-arboles](04_Bitacora/2026-08-06_Proteccion-de-los-arboles.md)
-- [2026-08-08_Rhoa-y-Side](04_Bitacora/2026-08-08_Rhoa-y-Side.md)
-
-## 05_Cronologia
-
-_Sin contenido._
-
-## 06_Resonancias
-
-_Sin contenido._
-
-## 07_Cartografia
-
-_Sin contenido._
-
-## 08_Herbario
-
-_Sin contenido._
-
-## 09_Archivo
-
-_Sin contenido._
-
-## 10_Anexos
-
-_Sin contenido._
-
-## 11_Habitantes
-
-_Sin contenido._
+- [README](04_Cartografia/README.md)
 
 ---
 
