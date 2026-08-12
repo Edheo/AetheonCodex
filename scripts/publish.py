@@ -30,7 +30,7 @@ import sys
 
 
 ROOT = Path(__file__).resolve().parent.parent
-PUBLISH_BRANCH = "main"
+PUBLISH_BRANCH = "master"
 REMOTE = "origin"
 
 
