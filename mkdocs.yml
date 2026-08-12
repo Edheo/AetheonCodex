@@ -1,0 +1,7 @@
+site_name: Aetheon
+
+theme:
+  name: material
+
+nav:
+  - Umbral: index.md
