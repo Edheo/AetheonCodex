@@ -18,20 +18,44 @@ Pipeline:
     Validate
         ↓
     Index
-        ↓
-    Publish
 
 Cada etapa debe ser independiente y reutilizable.
 """
 
+from pathlib import Path
+import subprocess
+import sys
+
 import sync
 import validate
 import index
-import publish
+
+
+ROOT = Path(__file__).resolve().parent.parent
+
+
+def build_site():
+    print("[SITE] Building MkDocs site...")
+
+    result = subprocess.run(
+        [
+            sys.executable,
+            "-m",
+            "mkdocs",
+            "build",
+        ],
+        cwd=ROOT,
+    )
+
+    if result.returncode != 0:
+        print()
+        print("[ERROR] MkDocs build failed.")
+        sys.exit(result.returncode)
+
+    print("[SITE] Done.")
 
 
 def main():
-
     print("======================================")
     print(" AETHEON CODEX BUILDER")
     print("======================================")
@@ -39,7 +63,7 @@ def main():
     sync.run()
     validate.run()
     index.run()
-    publish.run()
+    build_site()
 
     print()
     print("Build completed successfully.")
