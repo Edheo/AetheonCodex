@@ -1,13 +1,45 @@
+"""
+Aetheon Publisher
+
+Publica en GitHub un estado previamente preparado,
+commiteado y validado del repositorio.
+
+Este script NO crea commits.
+Este script NO modifica contenido.
+
+Flujo:
+
+    Check clean repository
+        ↓
+    Check branch
+        ↓
+    Check remote
+        ↓
+    Final build
+        ↓
+    Check repository remains clean
+        ↓
+    Confirmation
+        ↓
+    Git push
+"""
+
 from pathlib import Path
 import subprocess
 import sys
 
 
 ROOT = Path(__file__).resolve().parent.parent
+PUBLISH_BRANCH = "main"
+REMOTE = "origin"
 
 
 def run(command):
-    """Ejecuta un comando y devuelve su resultado."""
+    """
+    Ejecuta un comando y devuelve su resultado.
+
+    Si el comando falla, aborta inmediatamente.
+    """
 
     print(f"\n> {' '.join(command)}")
 
@@ -19,193 +51,295 @@ def run(command):
     )
 
     if result.stdout:
-        print(result.stdout)
+        print(result.stdout, end="")
 
     if result.stderr:
-        print(result.stderr)
+        print(result.stderr, end="")
 
     if result.returncode != 0:
-        print("\n[ERROR] El comando ha fallado.")
+        print()
+        print("[ERROR] Command failed.")
         sys.exit(result.returncode)
 
     return result
 
 
 def check_clean_worktree():
-    """Comprueba que no existen cambios sin commit."""
+    """
+    Comprueba que no existen cambios locales sin commit.
+    """
 
     print("\n[PUBLISH] Checking working tree...")
 
-    result = run([
-        "git",
-        "status",
-        "--porcelain",
-    ])
+    result = run(
+        [
+            "git",
+            "status",
+            "--porcelain",
+        ]
+    )
 
     if result.stdout.strip():
-        print(
-            "\n[ERROR] Repository contains uncommitted changes."
-        )
-        print(
-            "Commit all pending changes before publishing."
-        )
+
+        print()
+        print("[ERROR] Repository contains uncommitted changes.")
+        print("Commit all pending changes before publishing.")
+
         sys.exit(1)
 
     print("[OK] Working tree is clean.")
 
 
+def get_current_branch():
+    """
+    Devuelve la rama Git actual.
+    """
+
+    result = run(
+        [
+            "git",
+            "branch",
+            "--show-current",
+        ]
+    )
+
+    return result.stdout.strip()
+
+
 def check_branch():
-    """Comprueba la rama actual."""
+    """
+    Comprueba que la publicación se realiza desde main.
+    """
 
-    result = run([
-        "git",
-        "branch",
-        "--show-current",
-    ])
+    print("\n[PUBLISH] Checking branch...")
 
-    branch = result.stdout.strip()
+    branch = get_current_branch()
 
-    if branch != "main":
+    if branch != PUBLISH_BRANCH:
+
+        print()
+        print(f"[ERROR] Current branch is '{branch}'.")
         print(
-            f"\n[ERROR] Current branch is '{branch}'."
+            f"Publishing is only allowed from "
+            f"'{PUBLISH_BRANCH}'."
         )
-        print(
-            "Publishing is only allowed from 'main'."
-        )
+
         sys.exit(1)
 
-    print("[OK] Branch: main.")
+    print(f"[OK] Branch: {branch}.")
 
 
 def check_remote_state():
-    """Comprueba si la rama local está sincronizada."""
+    """
+    Actualiza la información del remoto y comprueba
+    que la rama local no esté por detrás de origin/main.
+
+    Estar por delante es correcto:
+    esos son precisamente los commits que se publicarán.
+    """
 
     print("\n[PUBLISH] Checking remote state...")
 
-    run(["git", "fetch"])
+    run(
+        [
+            "git",
+            "fetch",
+            REMOTE,
+        ]
+    )
 
-    result = run([
-        "git",
-        "status",
-        "--branch",
-        "--porcelain",
-    ])
+    result = run(
+        [
+            "git",
+            "status",
+            "--branch",
+            "--porcelain",
+        ]
+    )
 
     status = result.stdout
 
     if "behind" in status:
-        print(
-            "\n[ERROR] Local branch is behind remote."
-        )
-        print(
-            "Synchronize the repository before publishing."
-        )
+
+        print()
+        print("[ERROR] Local branch is behind remote.")
+        print("Synchronize the repository before publishing.")
+
         sys.exit(1)
 
     print("[OK] Remote state is compatible.")
 
 
-def build_codex():
-    """Genera el Codex."""
+def final_build():
+    """
+    Ejecuta el Builder completo como validación final.
+    """
 
-    print("\n[PUBLISH] Building Codex...")
+    print("\n[PUBLISH] Running final build...")
 
-    run([
-        sys.executable,
-        "scripts/codex.py",
-    ])
+    run(
+        [
+            sys.executable,
+            "scripts/build.py",
+        ]
+    )
 
-
-def build_site():
-    """Construye la documentación MkDocs."""
-
-    print("\n[PUBLISH] Building MkDocs site...")
-
-    run([
-        "mkdocs",
-        "build",
-    ])
+    print("[OK] Final build completed.")
 
 
 def get_commit():
-    """Obtiene el commit que se va a publicar."""
+    """
+    Obtiene el commit HEAD que se va a publicar.
+    """
 
-    result = run([
-        "git",
-        "log",
-        "-1",
-        "--oneline",
-    ])
+    result = run(
+        [
+            "git",
+            "log",
+            "-1",
+            "--oneline",
+        ]
+    )
 
     return result.stdout.strip()
 
 
-def show_summary(commit):
-    print("\n")
+def get_unpublished_commits():
+    """
+    Obtiene los commits locales todavía no publicados.
+    """
+
+    result = run(
+        [
+            "git",
+            "log",
+            f"{REMOTE}/{PUBLISH_BRANCH}..HEAD",
+            "--oneline",
+        ]
+    )
+
+    return result.stdout.strip()
+
+
+def show_summary(commit, unpublished_commits):
+    """
+    Muestra el resumen final antes de pedir confirmación.
+    """
+
+    print()
     print("=" * 50)
     print(" AETHEON PUBLISH")
     print("=" * 50)
 
-    print("\nCommit to publish:")
+    print()
+    print("Current commit:")
     print(f"  {commit}")
 
-    print("\nChecks:")
-    print("  ✓ Working tree clean")
-    print("  ✓ Main branch")
-    print("  ✓ Remote synchronized")
-    print("  ✓ Codex built")
-    print("  ✓ MkDocs built")
+    print()
+    print("Commits to publish:")
 
-    print("\n" + "-" * 50)
+    if unpublished_commits:
+        print(unpublished_commits)
+    else:
+        print("  No unpublished commits.")
+
+    print()
+    print("Checks:")
+    print("  ✓ Working tree clean")
+    print(f"  ✓ Branch: {PUBLISH_BRANCH}")
+    print("  ✓ Remote state compatible")
+    print("  ✓ Final build successful")
+    print("  ✓ Working tree still clean")
+
+    print()
+    print("-" * 50)
 
 
 def ask_confirmation():
+    """
+    Solicita confirmación explícita antes del push.
+    """
+
     answer = input(
-        "\nPublish this commit to GitHub? [y/N]: "
+        "\nPublish these commits to GitHub? [y/N]: "
     ).strip().lower()
 
     return answer == "y"
 
 
 def publish():
+    """
+    Publica la rama actual en GitHub.
+    """
+
     print("\n[PUBLISH] Pushing to GitHub...")
 
-    run([
-        "git",
-        "push",
-        "origin",
-        "main",
-    ])
+    run(
+        [
+            "git",
+            "push",
+            REMOTE,
+            PUBLISH_BRANCH,
+        ]
+    )
 
 
 def main():
-    print("\n")
+
+    print()
     print("=" * 50)
     print(" AETHEON PUBLISH")
     print("=" * 50)
 
+    # El estado inicial debe haber sido preparado
+    # deliberadamente por el usuario.
     check_clean_worktree()
+
+    # Sólo publicamos desde main.
     check_branch()
+
+    # Actualizamos la información remota y comprobamos
+    # que no estemos detrás de GitHub.
     check_remote_state()
 
-    build_codex()
-    build_site()
+    # El estado commiteado debe poder reconstruirse
+    # completamente.
+    final_build()
 
-    # El build podría haber generado cambios.
-    # Volvemos a comprobar que el estado sigue limpio.
+    # Muy importante:
+    # si el Builder ha generado cualquier diferencia,
+    # el estado publicado ya no coincidiría con el
+    # estado commiteado y debemos abortar.
     check_clean_worktree()
 
     commit = get_commit()
+    unpublished_commits = get_unpublished_commits()
 
-    show_summary(commit)
+    show_summary(
+        commit,
+        unpublished_commits,
+    )
+
+    # Si no hay nada nuevo que publicar,
+    # no tiene sentido ejecutar git push.
+    if not unpublished_commits:
+
+        print()
+        print("[PUBLISH] Nothing to publish.")
+
+        return
 
     if not ask_confirmation():
-        print("\n[PUBLISH] Publication cancelled.")
+
+        print()
+        print("[PUBLISH] Publication cancelled.")
+
         return
 
     publish()
 
-    print("\n[PUBLISH] Aetheon published successfully.")
+    print()
+    print("[PUBLISH] Aetheon published successfully.")
 
 
 if __name__ == "__main__":

@@ -1,22 +1,22 @@
 # Etiqueta del Codex de Aetheon
 
-VersiÛn: 0.1.0
+Versi√≥n: 0.1.0
 
 ---
 
-# PropÛsito
+# Prop√≥sito
 
 Este documento recoge la cultura editorial del Codex.
 
-No constituye un reglamento rÌgido.
+No constituye un reglamento r√≠gido.
 
-Su finalidad es favorecer una forma de colaboraciÛn coherente con la naturaleza de Aetheon.
+Su finalidad es favorecer una forma de colaboraci√≥n coherente con la naturaleza de Aetheon.
 
-Toda aportaciÛn deber· perseguir enriquecer el organismo antes que destacar a quien la realiza.
+Toda aportaci√≥n deber√° perseguir enriquecer el organismo antes que destacar a quien la realiza.
 
 ---
 
-# FilosofÌa
+# Filosof√≠a
 
 Aetheon no se construye mediante documentos.
 
@@ -24,7 +24,7 @@ Se construye mediante relaciones.
 
 El Codex es el tejido documental que conserva dichas relaciones.
 
-Toda modificaciÛn deber· realizarse procurando mantener la armonÌa del conjunto.
+Toda modificaci√≥n deber√° realizarse procurando mantener la armon√≠a del conjunto.
 
 ---
 
@@ -32,23 +32,23 @@ Toda modificaciÛn deber· realizarse procurando mantener la armonÌa del conjunto.
 
 Los commits forman parte de la historia documental de Aetheon.
 
-No constituyen ˙nicamente operaciones tÈcnicas.
+No constituyen √∫nicamente operaciones t√©cnicas.
 
-Siempre que sea posible deber·n explicar:
+Siempre que sea posible deber√°n explicar:
 
-- quÈ cambia;
-- por quÈ cambia;
-- quÈ impacto tiene sobre el Codex.
+- qu√© cambia;
+- por qu√© cambia;
+- qu√© impacto tiene sobre el Codex.
 
-Los mensajes de commit deber·n escribirse pensando en que alg˙n dÌa podr·n ser leÌdos como parte de la evoluciÛn histÛrica del proyecto.
+Los mensajes de commit deber√°n escribirse pensando en que alg√∫n d√≠a podr√°n ser le√≠dos como parte de la evoluci√≥n hist√≥rica del proyecto.
 
 ---
 
 # Formato recomendado
 
-[TIPO] TÌtulo breve
+[TIPO] T√≠tulo breve
 
-DescripciÛn.
+Descripci√≥n.
 
 Impacto en el Codex:
 
@@ -56,38 +56,38 @@ Impacto en el Codex:
 
 - ...
 
-Opcionalmente podr· aÒadirse una Nota del Cronista cuando el cambio represente un hito significativo.
+Opcionalmente podr√° a√±adirse una Nota del Cronista cuando el cambio represente un hito significativo.
 
 ---
 
 # Firmas
 
-Las aportaciones podr·n ir firmadas por su autor cuando ello aporte contexto histÛrico.
+Las aportaciones podr√°n ir firmadas por su autor cuando ello aporte contexto hist√≥rico.
 
 La firma no implica propiedad sobre el contenido.
 
-Representa ˙nicamente una referencia documental.
+Representa √∫nicamente una referencia documental.
 
 ---
 
-# ColaboraciÛn
+# Colaboraci√≥n
 
-Las propuestas podr·n ser revisadas, discutidas o refinadas antes de incorporarse al Canon.
+Las propuestas podr√°n ser revisadas, discutidas o refinadas antes de incorporarse al Canon.
 
-Toda revisiÛn deber· perseguir mejorar el Codex.
+Toda revisi√≥n deber√° perseguir mejorar el Codex.
 
 Nunca desacreditar a quien propone el cambio.
 
 ---
 
-# EspÌritu del proyecto
+# Esp√≠ritu del proyecto
 
-En caso de duda entre una soluciÛn elegante y una soluciÛn fiel a Aetheon,
+En caso de duda entre una soluci√≥n elegante y una soluci√≥n fiel a Aetheon,
 
-prevalecer· siempre la fidelidad a Aetheon.
+prevalecer√° siempre la fidelidad a Aetheon.
 
-El Codex no exige perfecciÛn a sus colaboradores.
+El Codex no exige perfecci√≥n a sus colaboradores.
 
-Les pide atenciÛn, honestidad y cuidado.
+Les pide atenci√≥n, honestidad y cuidado.
 
-Ser· el tiempo quien termine de dar forma a cada aportaciÛn.
+Ser√° el tiempo quien termine de dar forma a cada aportaci√≥n.
