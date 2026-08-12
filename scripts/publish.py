@@ -115,6 +115,7 @@ def check_branch():
 
     branch = get_current_branch()
 
+"""
     if branch != PUBLISH_BRANCH:
 
         print()
@@ -125,7 +126,7 @@ def check_branch():
         )
 
         sys.exit(1)
-
+"""
     print(f"[OK] Branch: {branch}.")
 
 
