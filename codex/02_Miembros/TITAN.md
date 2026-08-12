@@ -5,19 +5,16 @@ Nombre: Titán
 Tipo: Pino
 Especie: Pino piñonero (Pinus Pinea)
 Fecha Nacimiento: Calculo aproximadamente 200 años, por tanto, pudo haber nacido posiblemente alrededor del año 1800 ad.
-Estado: Vivo, robusto, frondoso, con tronco grueso y robusto, y una rectitud imponente. Algunas de sus ramas más bajas están envejecidas y se van resecando.
 ### Naturaleza
 Guardián
 ### Mitología
 Griega
 ### Ubicación
-Descripción: Justo a la izquierda de la entrada de Aetheon, se haya este imponente ejemplar, casi como un guardián que vigila la entrada. De hecho, que él mismo sea ese guardián, ha ido sembrando en cierto modo, que todos los otros miembros de Aetheon, sean a su vez guardianes.
-Sector: Al norte del bancal central, limitando ya con el bancal este, justo entre la verja de entrada y la jardinera mediterránea, allí se halla anclado, sobre su propio altar. Casi al centro del lateral norte de la parcela, que linda precisamente con la Avenida de la urbanización.
+Justo a la izquierda de la entrada de Aetheon, se haya este imponente ejemplar, casi como un guardián que vigila la entrada. De hecho, que él mismo sea ese guardián, ha ido sembrando en cierto modo, que todos los otros miembros de Aetheon, sean a su vez guardianes.
+Se halla al norte del bancal central, limitando ya con el bancal este, justo entre la verja de entrada y la jardinera mediterránea, allí se encuentra anclado, sobre su propio altar. Casi al centro del lateral norte de la parcela, que linda precisamente con la Avenida de la urbanización.
+Vetusta	- Se haya ubicada a unos 25 metros al suroeste de Titán
 ### Descripción
 Robusto, frondoso, con tronco grueso y robusto, y una rectitud imponente. Con una estatura que puede rondar los 30 metros, su  Algunas de sus ramas más bajas están envejecidas y se van resecando.
-## Relaciones
-### Ubicación
-Vetusta	- Se haya ubicada a unos 25 metros al suroeste de Titán
 ### Cosmogonía
 Ya al germinar, pudo ver a Vetusta, a su escala, la vería a lo lejos, y aún así, le debió parecer enorme, ese algarrobo centenario, casi insultante e incontestable. Y esto nunca amedrentó a Titán, pero cual patito feo, poco a poco, década a década, Vetusta iba pareciendo... más próxima, y aún así, cada vez más pequeña, hasta que hoy dia, casi la observa con desdén, como una pequeñaja, que en su dia le resultó imponente, y en cambio hoy, la ve desde lo alto, sigue siendo grande, y mucho más vieja si, pero una compañera de vida, permanente, perenne, a vece ajada, incluso mutilada en ocasiones, y aún así, imposible concebir su propia vida, sin tener a su vecina de toda su historia a su lado.
 Como los titanes, padres de los dioses, este descomunal árbol, reclamó este nombre por su imponencia, su verticalidad, su notable grosor, y esa altura que le hace destacar entre prácticamente cualquier otro árbol toda esta colina.

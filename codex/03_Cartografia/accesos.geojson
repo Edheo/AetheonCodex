@@ -1,0 +1,31 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.665765,
+					39.39272
+				]
+			},
+			"kind": "Acceso",
+			"name": "Entrada Casa",
+			"id": "aetheon-entrada-casa"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.6658745,
+					39.3928757
+				]
+			},
+			"name": "Verja Entrada",
+			"kind": "Acceso",
+			"id": "aetheon-verja-entrada"
+		}
+	]
+}

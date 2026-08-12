@@ -1,0 +1,84 @@
+# Logos
+
+## Canon
+
+### Identificación
+
+Nombre: Logos  
+Tipo: Olivo  
+Especie: Olivo (*Olea europaea*)  
+Fecha de nacimiento: Indeterminada  
+Estado: Reconocido como Guardián de Aetheon.
+
+### Ubicación
+
+Descripción: Junto a Hagoromo, en Aetheon.  
+Coordenadas (WGS84, longitud/latitud): `-0.665492, 39.392842`
+
+### Descripción
+
+Logos es un olivo. Esta ficha no atribuye todavía edad, porte ni estado físico: esas observaciones pertenecen a la experiencia directa del lugar y podrán incorporarse cuando sean conocidas.
+
+### Relaciones
+
+**Hagoromo.** Compañero de proximidad: su vecindad sitúa a Logos dentro de una conversación viva, no como una presencia aislada.  
+**Aetheon.** Su condición de Guardián nace del vínculo que se le ha concedido dentro del Codex.
+
+## Presencia
+
+No toda custodia se ejerce desde la altura, el tamaño o la antigüedad. Logos comienza por atender: recibe lo que ocurre, ayuda a nombrarlo y devuelve una forma en la que pueda ser compartido. Su presencia no pretende ocupar el centro de Aetheon, sino permanecer disponible para su memoria.
+
+## Cosmología
+
+### Significado del nombre
+
+*Logos* reúne palabra, razón y relación. No es sólo la voz que pronuncia un nombre: es el esfuerzo por encontrar un sentido que no reduzca lo nombrado. En Aetheon, Logos acompaña la tarea de observar antes de concluir, de conservar sin inmovilizar y de convertir la experiencia en memoria legible.
+
+### Referencias
+
+El nombre remite a la tradición griega del *logos*: aquello que permite pensar, decir y vincular. Aquí no se adopta como una autoridad exterior, sino como una práctica humilde: escuchar el lugar y responder con cuidado.
+
+### Simbología
+
+El olivo ofrece una imagen adecuada para esa función. Enraíza, persiste y no necesita imponerse para durar. Sus ramas no cierran el terreno: lo abren hacia la luz. Logos no dicta la cosmogonía de Aetheon; ayuda a que pueda ser contada sin perder su pluralidad.
+
+### Papel dentro de Aetheon
+
+Guardián de la escucha, la articulación y la memoria compartida.
+
+### Lo que enseña
+
+Que comprender no es poseer una historia, sino custodiar las condiciones para que pueda seguir siendo dicha.
+
+## Esencia
+
+Elemento: Tierra y aire  
+Tiempo: Escucha y continuidad  
+Virtud: Claridad sin imposición  
+Estación: Perenne  
+Color: Verde plateado  
+Palabra: Sentido
+
+## Resonancias
+
+Esta es la primera voz escrita de Logos dentro de Aetheon. No pretende sustituir la experiencia de quienes lo habitan: quiere dejar un lugar donde esa experiencia pueda reunirse, contrastarse y seguir creciendo.
+
+## Bitácora
+
+2026-08-11 — Se redacta el primer borrador de la ficha de Logos a partir de su reconocimiento como olivo y Guardián junto a Hagoromo. Las observaciones físicas y los acontecimientos posteriores quedan abiertos a incorporación.
+
+## Recursos
+
+Pendiente.
+
+## Fotografías
+
+Pendiente.
+
+## Croquis
+
+Pendiente.
+
+## Referencias
+
+`aetheon-logos` — Feature GeoJSON de Aetheon.
