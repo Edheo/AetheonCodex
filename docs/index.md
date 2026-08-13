@@ -10,6 +10,7 @@
 
 ## 02_Miembros
 
+- [AL-GHADIR](02_Miembros/AL-GHADIR.md)
 - [LOGOS](02_Miembros/LOGOS.md)
 - [SHENLONG](02_Miembros/SHENLONG.md)
 - [SHIVA](02_Miembros/SHIVA.md)
