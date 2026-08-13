@@ -572,6 +572,42 @@
 			"id": "aetheon-hashirama",
 			"kind": "Guardián",
 			"name": "Hashirama"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.665859,
+							39.392666
+						],
+						[
+							-0.665849,
+							39.392625
+						],
+						[
+							-0.665777,
+							39.392636
+						],
+						[
+							-0.665785,
+							39.392676
+						],
+						[
+							-0.665859,
+							39.392666
+						]
+					]
+				]
+			},
+			"properties": {
+				"reference": "1431901YJ0613S0001XK"
+			},
+			"id": "Aetheon-al-ghadir",
+			"kind": "Guardián",
+			"name": "Al-Ghadir"
 		}
 	]
 }
