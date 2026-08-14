@@ -9,6 +9,9 @@ Fuentes:
 
 Salida:
     docs/03_Cartografia/AETHEON.geojson
+    docs/03_Cartografia/MAPA.md
+    docs/assets/stylesheets/cartography.css
+    docs/assets/javascripts/cartography.js
 
 Principios:
 - codex es la fuente de verdad.
@@ -41,6 +44,141 @@ OUTPUT_FILE = (
     OUTPUT_DIR
     / "AETHEON.geojson"
 )
+
+MAP_FILE = OUTPUT_DIR / "MAPA.md"
+
+STYLESHEET_FILE = (
+    ROOT
+    / "docs"
+    / "assets"
+    / "stylesheets"
+    / "cartography.css"
+)
+
+JAVASCRIPT_FILE = (
+    ROOT
+    / "docs"
+    / "assets"
+    / "javascripts"
+    / "cartography.js"
+)
+
+MAP_MARKDOWN = """# Mapa de Aetheon
+
+<div
+    id="aetheon-map"
+    data-geojson="../AETHEON.geojson"
+    aria-label="Mapa interactivo de Aetheon">
+</div>
+
+<p id="aetheon-map-status" role="status"></p>
+"""
+
+MAP_STYLESHEET = """#aetheon-map {
+    width: 100%;
+    height: min(70vh, 720px);
+    min-height: 420px;
+    background: var(--md-default-bg-color);
+}
+
+#aetheon-map-status {
+    margin-top: 0.75rem;
+}
+"""
+
+MAP_JAVASCRIPT = r"""(() => {
+    "use strict";
+
+    const mapElement = document.getElementById("aetheon-map");
+
+    if (!mapElement || typeof L === "undefined") {
+        return;
+    }
+
+    const statusElement = document.getElementById(
+        "aetheon-map-status"
+    );
+
+    const setStatus = (message) => {
+        if (statusElement) {
+            statusElement.textContent = message;
+        }
+    };
+
+    const valueFromFeature = (feature, key) => {
+        const properties = feature.properties || {};
+        return feature[key] ?? properties[key];
+    };
+
+    const buildPopup = (feature) => {
+        const fields = [
+            ["Nombre", valueFromFeature(feature, "name")],
+            ["Tipo", valueFromFeature(feature, "kind")],
+            ["ID", valueFromFeature(feature, "id")],
+        ].filter(([, value]) => value !== undefined && value !== null && value !== "");
+
+        if (!fields.length) {
+            return null;
+        }
+
+        const container = document.createElement("dl");
+
+        fields.forEach(([label, value]) => {
+            const term = document.createElement("dt");
+            const description = document.createElement("dd");
+
+            term.textContent = label;
+            description.textContent = String(value);
+            container.append(term, description);
+        });
+
+        return container;
+    };
+
+    const map = L.map(mapElement);
+
+    L.tileLayer(
+        "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+        {
+            maxZoom: 19,
+            attribution: "Tiles &copy; Esri &mdash; Source: Esri and contributors",
+        }
+    ).addTo(map);
+
+    fetch(mapElement.dataset.geojson)
+        .then((response) => {
+            if (!response.ok) {
+                throw new Error(`HTTP ${response.status}`);
+            }
+
+            return response.json();
+        })
+        .then((data) => {
+            const geojsonLayer = L.geoJSON(data, {
+                onEachFeature(feature, layer) {
+                    const popup = buildPopup(feature);
+
+                    if (popup) {
+                        layer.bindPopup(popup);
+                    }
+                },
+            }).addTo(map);
+
+            const bounds = geojsonLayer.getBounds();
+
+            if (!bounds.isValid()) {
+                throw new Error("El GeoJSON no contiene geometrías válidas.");
+            }
+
+            map.fitBounds(bounds, { padding: [20, 20] });
+            setStatus("");
+        })
+        .catch((error) => {
+            console.error("Unable to load AETHEON.geojson:", error);
+            setStatus("No se ha podido cargar la cartografía de Aetheon.");
+        });
+})();
+"""
 
 
 SOURCE_FILES = [
@@ -288,6 +426,44 @@ def write_geojson(data):
     )
 
 
+def write_text_file(path, content):
+    """
+    Escribe un artefacto textual generado en UTF-8.
+    """
+
+    path.parent.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    try:
+        path.write_text(
+            content,
+            encoding="utf-8",
+        )
+
+    except OSError as exc:
+        print()
+        print(f"[ERROR] Unable to write {path}")
+        print(f"        {exc}")
+        sys.exit(1)
+
+    print(f"[OK] Generated: {path}")
+
+
+def generate_map():
+    """
+    Genera la página y los recursos del visor cartográfico.
+    """
+
+    print()
+    print("[CARTOGRAPHY] Generating interactive map...")
+
+    write_text_file(MAP_FILE, MAP_MARKDOWN)
+    write_text_file(STYLESHEET_FILE, MAP_STYLESHEET)
+    write_text_file(JAVASCRIPT_FILE, MAP_JAVASCRIPT)
+
+
 def run():
     """
     Ejecuta la construcción cartográfica completa.
@@ -309,6 +485,8 @@ def run():
     write_geojson(
         merged
     )
+
+    generate_map()
 
     print()
     print(
