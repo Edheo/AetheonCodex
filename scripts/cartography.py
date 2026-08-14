@@ -74,15 +74,25 @@ MAP_MARKDOWN = """# Mapa de Aetheon
 <p id="aetheon-map-status" role="status"></p>
 """
 
-MAP_STYLESHEET = """#aetheon-map {
+MAP_STYLESHEET = """.md-main__inner:has(#aetheon-map) {
+    max-width: 90rem;
+}
+
+#aetheon-map {
     width: 100%;
-    height: min(70vh, 720px);
-    min-height: 420px;
+    height: clamp(520px, 78vh, 900px);
     background: var(--md-default-bg-color);
 }
 
 #aetheon-map-status {
     margin-top: 0.75rem;
+}
+
+@media screen and (max-width: 44.984375em) {
+    #aetheon-map {
+        height: 65vh;
+        min-height: 420px;
+    }
 }
 """
 
@@ -140,7 +150,8 @@ MAP_JAVASCRIPT = r"""(() => {
     L.tileLayer(
         "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
         {
-            maxZoom: 19,
+            maxNativeZoom: 19,
+            maxZoom: 22,
             attribution: "Tiles &copy; Esri &mdash; Source: Esri and contributors",
         }
     ).addTo(map);

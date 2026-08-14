@@ -37,8 +37,8 @@
 
 ## 05_Libro
 
-- [BOOK.DEBUG](05_Libro/BOOK.DEBUG.md)
 - [README](05_Libro/README.md)
+- [Libro de Aetheon](05_Libro/BOOK.md)
 
 ---
 

@@ -15,6 +15,9 @@ def should_skip(source):
     Determina si un archivo no debe copiarse a docs.
     """
 
+    if source.name == "BOOK.DEBUG.md":
+        return True
+
     if (
         source.suffix.lower() == ".geojson"
         and CARTOGRAPHY_DIR_NAME in source.parts
