@@ -3,9 +3,7 @@
 ### Identificación
 Nombre:	Al-Ghadir
 Tipo: Piscina
-Especie: Algarrobo común (Ceratonia siliqua)
-Fecha Nacimiento: Hay quien sugiere que puede ser milenaria años, así que lo único que si se, es que es posterior al año 1000ad.
-Estado: Prosigue su vida, con daños en pocas ramas, posiblemente causados por roedores.
+Fecha Nacimiento: Supongo que fué creada al mismo tiempo que la casa.
 ### Naturaleza
 Guardián
 ### Mitología
@@ -13,15 +11,17 @@ Guardián
 ### Ubicación
 Descripción:	Se encuentra en el lateral sur de la casa
 Sector:			Cuadrante Noroeste de la parcela, dentro de ese cuadrante, entre la casa y la valla exterior del camino.
+La vida burbujea entre sus aguas, y no para de atraer fauna local.
 ### Descripción
 Inicialmente, era una simple piscina... nunca pretendimos tener una, pero aquí se encuentra, y nos suponía mucho mantenimiento, limpieza, y realmente, poco disfrute, era un poco un exceso innecesario.
 Accidentalmente, primero una rana, luego otra, la invadieron durante el invierno, y llegando la primavera, Frank y yo acordamos no expulsar a los nuevos inquilinos, y poco a poco, fué tomando forma.
 Este humedal artificial nació de forma inesperada y fue adoptado por la fauna local. Las islas flotantes sirven de refugio a renacuajos, alevines, insectos y aves visitantes. Aquí la naturaleza sigue escribiendo su propia historia.
 ## Presencia
 Un refugio vivo donde plantas, peces, ranas, aves e insectos conviven siguiendo el ritmo de la naturaleza.
-## Cosmología
+## Cosmogonía
+
 ### Significado del nombre
-En la tradición árabe, un ghadir es un remanso donde el agua permanece y da vida a su entorno. Este lugar honra esa idea: un oasis para ranas, aves, libélulas, peces y todas las criaturas que encuentran aquí agua, refugio y descanso.### Referencias
+En la tradición árabe, un ghadir es un remanso donde el agua permanece y da vida a su entorno. Este lugar honra esa idea: un oasis para ranas, aves, libélulas, peces y todas las criaturas que encuentran aquí agua, alimento, refugio y descanso.
 ### Musical
 **Obra:** Entre dos Aguas
 **Autor:** Paco de Lucía
