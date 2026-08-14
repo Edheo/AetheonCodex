@@ -19,19 +19,24 @@ Esto y que debe ser también un pino de gran edad, me hace pensar que este pino 
 En cierto modo, al igual que el dragón de la mitología de Dragon Ball, este pino podría ser visto como un guardián que protege y observa, y que tiene un papel importante en la vida de quienes lo rodean.
 Es a su vez vigia, sabio, y silencioso, una presencia notable, pero a la vez casi silenciosa, oculto en una esquina donde pretende no ser visto pese a su gran tamaño.
 En cierto modo parece conjugar tanto la robustez de Titán, sin llegar a ser tan colosal, y a su vez, cierta sabiduría como la de Vetusta, pese no ser tan longevo. A su vez, la proximidad de los bijus, y la presencia de Rincón del Rikudo Sennin, le confiere un aura de misterio y poder que lo hace aún más especial.
+### Musical
+**Obra:** Forzisimo
+**Autor:** Adrián Berenguer
+**Intérprete:** Adrián Berenguer Pastor
+**youtube:** c8NXqvl0HWA
 ## Presencia
 Es peculiar, que pese tener un tamaño bastante notable, de algún modo consigue ocultar su presencia, de un modo que me recuerda a cómo Son Goku conseguía ocultar su presencia pese a ser un guerrero de gran poder, y pese a que su mera presencia era suficiente para intimidar a sus enemigos.
 Quien sabe si de algún modo, también puede otorgar quizás algún tipo de deseos, o de algún modo, proporcionar el camino y la energía necesarios, para poder llegar a alcanzarlos.
 Ese modo inspirador, y no tanto mágico, es lo que hace que su presencia sea tan especial, y que pese a no ser un ser mágico, pueda tener un efecto similar al de la mitología de Dragon Ball, donde el dragón Shenlong concede deseos a quienes lo invocan.
 ## Esencia
-Elemento: Tierra
+Elemento: Tierra, Aire
 Tiempo: Vigilancia y sabiduría.
 Virtud: Discreción.
 Estación: Perenne
 Color: Verde claro
 Palabra: Proveedor
 ## Media
-## Croquis
+
 ## Referencias
 TITÁN
 VETUSTA
