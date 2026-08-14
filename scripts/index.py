@@ -24,6 +24,19 @@ GENERATED_ENTRIES = {
             ) / "MAPA.md",
         },
     ],
+    "05_Libro": [
+        {
+            "title": "Libro de Aetheon",
+            "relative": Path(
+                "05_Libro"
+            ) / "BOOK.md",
+        },
+    ],
+}
+
+
+INTERNAL_FILES = {
+    "BOOK.DEBUG.md",
 }
 
 
@@ -43,7 +56,11 @@ def build():
         lines.append(f"## {section.name}")
         lines.append("")
 
-        entries = codex.section_entries(section.name)
+        entries = [
+            entry
+            for entry in codex.section_entries(section.name)
+            if entry["path"].name not in INTERNAL_FILES
+        ]
 
         entries.extend(
             GENERATED_ENTRIES.get(
