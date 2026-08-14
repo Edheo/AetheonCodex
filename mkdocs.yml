@@ -5,3 +5,14 @@ theme:
 
 nav:
   - Umbral: index.md
+  - Cartografía:
+      - Introducción: 03_Cartografia/README.md
+      - Mapa de Aetheon: 03_Cartografia/MAPA.md
+
+extra_css:
+  - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
+  - assets/stylesheets/cartography.css
+
+extra_javascript:
+  - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
+  - assets/javascripts/cartography.js

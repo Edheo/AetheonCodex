@@ -15,6 +15,18 @@ DOCS = ROOT / "docs"
 INDEX = DOCS / "index.md"
 
 
+GENERATED_ENTRIES = {
+    "03_Cartografia": [
+        {
+            "title": "Mapa de Aetheon",
+            "relative": Path(
+                "03_Cartografia"
+            ) / "MAPA.md",
+        },
+    ],
+}
+
+
 def build():
 
     lines = []
@@ -32,6 +44,13 @@ def build():
         lines.append("")
 
         entries = codex.section_entries(section.name)
+
+        entries.extend(
+            GENERATED_ENTRIES.get(
+                section.name,
+                [],
+            )
+        )
 
         if not entries:
 

@@ -1,0 +1,10 @@
+#aetheon-map {
+    width: 100%;
+    height: min(70vh, 720px);
+    min-height: 420px;
+    background: var(--md-default-bg-color);
+}
+
+#aetheon-map-status {
+    margin-top: 0.75rem;
+}

@@ -20,6 +20,7 @@
 ## 03_Cartografia
 
 - [README](03_Cartografia/README.md)
+- [Mapa de Aetheon](03_Cartografia/MAPA.md)
 
 ## 04_Bitacora
 
@@ -36,6 +37,7 @@
 
 ## 05_Libro
 
+- [BOOK.DEBUG](05_Libro/BOOK.DEBUG.md)
 - [README](05_Libro/README.md)
 
 ---
