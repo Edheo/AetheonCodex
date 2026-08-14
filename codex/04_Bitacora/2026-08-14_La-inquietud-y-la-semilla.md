@@ -21,10 +21,8 @@
 **YouTube:**  InyT9Gyoz_o
 
 ## Literaria
-
 **Capítulo:**  
 **Secuencia:**  
-
 ### Contenido
 
 Hoy Aetheon no ha cambiado porque haya nacido algo en sus aguas, porque haya
