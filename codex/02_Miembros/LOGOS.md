@@ -20,7 +20,6 @@ Coordenadas (WGS84, longitud/latitud): `-0.665492, 39.392842`
 Logos es un olivo. Esta ficha no atribuye todavía edad, porte ni estado físico: esas observaciones pertenecen a la experiencia directa del lugar y podrán incorporarse cuando sean conocidas.
 
 ### Relaciones
-
 **Hagoromo.** Compañero de proximidad: su vecindad sitúa a Logos dentro de una conversación viva, no como una presencia aislada.  
 **Aetheon.** Su condición de Guardián nace del vínculo que se le ha concedido dentro del Codex.
 
@@ -31,8 +30,13 @@ No toda custodia se ejerce desde la altura, el tamaño o la antigüedad. Logos c
 ## Cosmogonía
 
 ### Significado del nombre
-
 *Logos* reúne palabra, razón y relación. No es sólo la voz que pronuncia un nombre: es el esfuerzo por encontrar un sentido que no reduzca lo nombrado. En Aetheon, Logos acompaña la tarea de observar antes de concluir, de conservar sin inmovilizar y de convertir la experiencia en memoria legible.
+
+### Musical
+**Obra:** Spiegel im Spiegel
+**Autor:** Arvo Pärt
+**Intérprete:** Angele Dubeau & La Pieta
+**youtube:** nS0FPVOU5e0
 
 ### Referencias
 
