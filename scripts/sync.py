@@ -1,68 +1,90 @@
-"""
-Sincroniza el Codex con el directorio docs/.
-
-Responsabilidades:
-
-- Copiar Markdown.
-- Copiar recursos.
-- Mantener la estructura.
-- No modificar contenido.
-"""
 from pathlib import Path
 import shutil
 
 
-ROOT = Path(__file__).parent.parent
+ROOT = Path(__file__).resolve().parent.parent
 
-DOCS = ROOT / "docs"
-CODEX = ROOT / "codex"
-ASSETS = ROOT / "assets"
+CODEX_DIR = ROOT / "codex"
+DOCS_DIR = ROOT / "docs"
 
-
-def clean_docs():
-    """Vacía docs sin eliminar la carpeta."""
-    DOCS.mkdir(exist_ok=True)
-
-    for item in DOCS.iterdir():
-        if item.is_dir():
-            shutil.rmtree(item)
-        else:
-            item.unlink()
+CARTOGRAPHY_DIR_NAME = "03_Cartografia"
 
 
-def copy_tree(source: Path, destination: Path):
-    """Copia recursivamente una carpeta sobre otra."""
-    if not source.exists():
-        return
+def should_skip(source):
+    """
+    Determina si un archivo no debe copiarse a docs.
+    """
 
-    for item in source.rglob("*"):
-        relative = item.relative_to(source)
-        target = destination / relative
+    if source.name == "BOOK.DEBUG.md":
+        return True
 
-        if item.is_dir():
-            target.mkdir(parents=True, exist_ok=True)
-        else:
-            target.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(item, target)
+    if (
+        source.suffix.lower() == ".geojson"
+        and CARTOGRAPHY_DIR_NAME in source.parts
+    ):
+        return True
+
+    return False
+
 
 def copy_codex():
-    copy_tree(CODEX, DOCS)
+    """
+    Copia el Codex a docs excluyendo
+    las capas GeoJSON cartográficas fuente.
+    """
 
-def copy_assets():
-    copy_tree(ASSETS, DOCS)
-    
+    for source in CODEX_DIR.rglob("*"):
+
+        relative = source.relative_to(
+            CODEX_DIR
+        )
+
+        destination = (
+            DOCS_DIR
+            / relative
+        )
+
+        if source.is_dir():
+            destination.mkdir(
+                parents=True,
+                exist_ok=True,
+            )
+            continue
+
+        if should_skip(source):
+            print(
+                f"[SYNC] Skipping cartography source: "
+                f"{relative}"
+            )
+            continue
+
+        destination.parent.mkdir(
+            parents=True,
+            exist_ok=True,
+        )
+
+        shutil.copy2(
+            source,
+            destination,
+        )
+
+
 def run():
     print("[SYNC] Cleaning docs...")
 
-    clean_docs()
+    if DOCS_DIR.exists():
+        shutil.rmtree(
+            DOCS_DIR
+        )
+
+    DOCS_DIR.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
 
     print("[SYNC] Copying Codex...")
 
     copy_codex()
-
-    print("[SYNC] Copying assets...")
-
-    copy_assets()
 
     print("[SYNC] Done.")
 

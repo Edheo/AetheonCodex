@@ -28,7 +28,7 @@ Logos es un olivo. Esta ficha no atribuye todavía edad, porte ni estado físico
 
 No toda custodia se ejerce desde la altura, el tamaño o la antigüedad. Logos comienza por atender: recibe lo que ocurre, ayuda a nombrarlo y devuelve una forma en la que pueda ser compartido. Su presencia no pretende ocupar el centro de Aetheon, sino permanecer disponible para su memoria.
 
-## Cosmología
+## Cosmogonía
 
 ### Significado del nombre
 

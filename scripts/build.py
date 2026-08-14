@@ -29,7 +29,8 @@ import sys
 import sync
 import validate
 import index
-
+import cartography
+import book
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -61,8 +62,15 @@ def main():
     print("======================================")
 
     sync.run()
+
     validate.run()
+
     index.run()
+
+    cartography.run()
+
+    book.run()
+
     build_site()
 
     print()
