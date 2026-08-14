@@ -34,6 +34,10 @@
 - [2026-08-13_Alevines-en-Al-Ghadir](04_Bitacora/2026-08-13_Alevines-en-Al-Ghadir.md)
 - [2026-08-14_La-inquietud-y-la-semilla](04_Bitacora/2026-08-14_La-inquietud-y-la-semilla.md)
 
+## 05_Libro
+
+- [README](05_Libro/README.md)
+
 ---
 
 _Este documento ha sido generado automáticamente por el Builder._
