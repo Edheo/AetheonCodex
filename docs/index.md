@@ -31,6 +31,8 @@
 - [2024-10-29_Dana-de-Valencia](04_Bitacora/2024-10-29_Dana-de-Valencia.md)
 - [2026-08-06_Proteccion-de-los-arboles](04_Bitacora/2026-08-06_Proteccion-de-los-arboles.md)
 - [2026-08-08_Rhoa-y-Side](04_Bitacora/2026-08-08_Rhoa-y-Side.md)
+- [2026-08-13_Alevines-en-Al-Ghadir](04_Bitacora/2026-08-13_Alevines-en-Al-Ghadir.md)
+- [2026-08-14_La-inquietud-y-la-semilla](04_Bitacora/2026-08-14_La-inquietud-y-la-semilla.md)
 
 ---
 
