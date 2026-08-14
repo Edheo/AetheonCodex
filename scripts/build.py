@@ -29,6 +29,7 @@ import sys
 import sync
 import validate
 import index
+import cartography
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -61,8 +62,13 @@ def main():
     print("======================================")
 
     sync.run()
+
     validate.run()
+
     index.run()
+
+    cartography.run()
+
     build_site()
 
     print()
