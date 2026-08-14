@@ -23,7 +23,7 @@ La finalidad de esta colección es documentar cada Guardián desde diferentes pe
 Cada documento distingue claramente entre:
 
 - Canon.
-- Cosmología.
+- Cosmogonía.
 - Resonancias.
 - Bitácora.
 
