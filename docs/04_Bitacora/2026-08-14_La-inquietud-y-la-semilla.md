@@ -14,12 +14,28 @@
 
 ## Evocación
 
+## Cosmogonía
 ### Musical
 **Obra:**  On The Nature Of Daylight
 **Autor:**  Max Richter
 **Intérprete:**  Max Richter, piano, strings, electronics
-**YouTube:**  InyT9Gyoz_o
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/InyT9Gyoz_o"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=InyT9Gyoz_o"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
 **Capítulo:**  
 **Secuencia:**  

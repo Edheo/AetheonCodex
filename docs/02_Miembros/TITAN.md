@@ -25,7 +25,23 @@ Titán nos demuestra que la guerra no es neceariamente el camino. A veces, sólo
 **Obra:** Like Lovers (Holding On)
 **Autor:** Texas
 **Intérprete:** Texas
-**youtube:** OzMvLN8HuEg
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/OzMvLN8HuEg"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=OzMvLN8HuEg"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Presencia
 Casi parte unificada de la verja de entrada a Aetheon, su presencia se vislumbra ya desde la lejanía, 
 ### Referencias
