@@ -22,7 +22,13 @@ Edheo:	Edheo ha expresado su voluntad de que, cuando concluya su tiempo en Aethe
 Titán:	Un dia, a unos 20 metros de ella, casi imperceptible, emergió un brote, con sus ajados ojos, apenas podía ver a Titán, pero algo verde crecía allá, poco a poco, con los años, incluso siglos, esa brizna verde, insignificante, fué ganando tamaño, parecía no tener límite, era lento, pero inexorable, las proporciones de esa brizna verde, fueron pasando a ser casi descomunales, podrían ser incluso amenazantes, pero a ella al contrario, le reconfortaba tener un vecino, tan tranquilo, tan pacífico, y a su vez, tan descomunal, que borró toda sombra de lo que un dia fué, sentirse completamente sola en el lugar. Ya nunca más lo estuvo.
 ## Presencia
 Vetusta domina visualmente la parte norte de Aetheon. Su porte hace difícil recorrer la parcela sin advertir su presencia.
-## Cosmología
+## Cosmogonía
+### Musical
+**Obra:** What Was I Made For?
+**Autor:** Billie Eilish
+**Intérprete:** Billie Eilish & FINNEAS
+**youtube:** cW8VLC9nnTo
+
 ### Significado del nombre
 El nombre le viene dado, por su antigüedad y por la importancia que tuvo en el pasado, siendo un lugar de gran relevancia para la comunidad de Aetheon. Pero de algún modo, ese nombre, no fue escogido para darle una significancia, sino que ha sido el transcurso del tiempo, el que ha esculpido el nombre en ella. El mero hecho de nacer en ese lugar, crecer pequeña e indefensa en un terreno que ni siquiera estaba delimitado, vulnerable a los elementos, al pastoreo, a lo largo de los siglos, y aún así, ha permanecido allí muda, silenciosa, sin pronunciarse, ha sido testigo de todos los cambios, sin protestar ni interferir, salvo por su cada vez más masiva y contundente presencia. 
 Ha visto crecer muros que delimitaban a Aetheon.
