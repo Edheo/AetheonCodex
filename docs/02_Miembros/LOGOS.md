@@ -36,8 +36,23 @@ No toda custodia se ejerce desde la altura, el tamaño o la antigüedad. Logos c
 **Obra:** Spiegel im Spiegel
 **Autor:** Arvo Pärt
 **Intérprete:** Angele Dubeau & La Pieta
-**youtube:** nS0FPVOU5e0
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/nS0FPVOU5e0"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=nS0FPVOU5e0"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ### Referencias
 
 El nombre remite a la tradición griega del *logos*: aquello que permite pensar, decir y vincular. Aquí no se adopta como una autoridad exterior, sino como una práctica humilde: escuchar el lugar y responder con cuidado.
