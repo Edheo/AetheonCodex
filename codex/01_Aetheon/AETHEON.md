@@ -112,8 +112,8 @@ Miguel
 ### Animales
 Taka (gata)
 Shasa (gata, hija de Taka en realidad)
-Luna
-Nala
+Luna (perra)
+Nala (perra)
 Yara (gata)
 Caro (gato)
 Alma (gata)

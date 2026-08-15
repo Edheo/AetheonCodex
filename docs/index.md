@@ -10,6 +10,7 @@
 
 ## 02_Miembros
 
+- [AL-GHADIR](02_Miembros/AL-GHADIR.md)
 - [LOGOS](02_Miembros/LOGOS.md)
 - [SHENLONG](02_Miembros/SHENLONG.md)
 - [SHIVA](02_Miembros/SHIVA.md)
@@ -19,6 +20,7 @@
 ## 03_Cartografia
 
 - [README](03_Cartografia/README.md)
+- [Mapa de Aetheon](03_Cartografia/MAPA.md)
 
 ## 04_Bitacora
 
@@ -30,6 +32,13 @@
 - [2024-10-29_Dana-de-Valencia](04_Bitacora/2024-10-29_Dana-de-Valencia.md)
 - [2026-08-06_Proteccion-de-los-arboles](04_Bitacora/2026-08-06_Proteccion-de-los-arboles.md)
 - [2026-08-08_Rhoa-y-Side](04_Bitacora/2026-08-08_Rhoa-y-Side.md)
+- [2026-08-13_Alevines-en-Al-Ghadir](04_Bitacora/2026-08-13_Alevines-en-Al-Ghadir.md)
+- [2026-08-14_La-inquietud-y-la-semilla](04_Bitacora/2026-08-14_La-inquietud-y-la-semilla.md)
+
+## 05_Libro
+
+- [README](05_Libro/README.md)
+- [Libro de Aetheon](05_Libro/BOOK.md)
 
 ---
 

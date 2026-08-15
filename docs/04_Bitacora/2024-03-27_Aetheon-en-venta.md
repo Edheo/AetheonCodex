@@ -10,6 +10,11 @@ Anuncio AETHEON en venta
 En un portal inmobiliario, pudimos ver las primeras fotos y descripciones de la casa y la parcela.
 
 ## Literaria
+### Capítulo
+02 Orígenes
+### Secuencia
+005
+### Contenido
 Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo recientemente vendí mi piso en Catarroja, con la idea de poder comprar algo como esto. Una casa, en una zona no exactamente urbana. Poder tener tierra, un lugar donde mis mascotas pudiesen tener espacio. Frank y yo nos ilusionamos mucho sólo con verla, todo se alineaba, la casa era adecuada, la parcela increible, el precio dentro de nuestras posibilidades... todo parecía alinearse.
 
 ## Referencias

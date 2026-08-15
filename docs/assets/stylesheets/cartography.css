@@ -1,0 +1,20 @@
+.md-main__inner:has(#aetheon-map) {
+    max-width: 90rem;
+}
+
+#aetheon-map {
+    width: 100%;
+    height: clamp(520px, 78vh, 900px);
+    background: var(--md-default-bg-color);
+}
+
+#aetheon-map-status {
+    margin-top: 0.75rem;
+}
+
+@media screen and (max-width: 44.984375em) {
+    #aetheon-map {
+        height: 65vh;
+        min-height: 420px;
+    }
+}
