@@ -27,8 +27,23 @@ Vetusta domina visualmente la parte norte de Aetheon. Su porte hace difícil rec
 **Obra:** What Was I Made For?
 **Autor:** Billie Eilish
 **Intérprete:** Billie Eilish & FINNEAS
-**youtube:** cW8VLC9nnTo
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/cW8VLC9nnTo"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=cW8VLC9nnTo"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ### Significado del nombre
 El nombre le viene dado, por su antigüedad y por la importancia que tuvo en el pasado, siendo un lugar de gran relevancia para la comunidad de Aetheon. Pero de algún modo, ese nombre, no fue escogido para darle una significancia, sino que ha sido el transcurso del tiempo, el que ha esculpido el nombre en ella. El mero hecho de nacer en ese lugar, crecer pequeña e indefensa en un terreno que ni siquiera estaba delimitado, vulnerable a los elementos, al pastoreo, a lo largo de los siglos, y aún así, ha permanecido allí muda, silenciosa, sin pronunciarse, ha sido testigo de todos los cambios, sin protestar ni interferir, salvo por su cada vez más masiva y contundente presencia. 
 Ha visto crecer muros que delimitaban a Aetheon.

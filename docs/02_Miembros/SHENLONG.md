@@ -23,7 +23,23 @@ En cierto modo parece conjugar tanto la robustez de Titán, sin llegar a ser tan
 **Obra:** Forzisimo
 **Autor:** Adrián Berenguer
 **Intérprete:** Adrián Berenguer Pastor
-**youtube:** c8NXqvl0HWA
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/c8NXqvl0HWA"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=c8NXqvl0HWA"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Presencia
 Es peculiar, que pese tener un tamaño bastante notable, de algún modo consigue ocultar su presencia, de un modo que me recuerda a cómo Son Goku conseguía ocultar su presencia pese a ser un guerrero de gran poder, y pese a que su mera presencia era suficiente para intimidar a sus enemigos.
 Quien sabe si de algún modo, también puede otorgar quizás algún tipo de deseos, o de algún modo, proporcionar el camino y la energía necesarios, para poder llegar a alcanzarlos.
