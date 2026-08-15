@@ -1,21 +1,23 @@
 # YYYY-MM-DD
-
-## Estado
-
-Borrador
+**Estado:** Borrador
 
 ## Evento
-
-...
-
-## Literaria
-
-...
-
-## Observaciones
-
-...
+**Título:** 
+**Descripción:** 
 
 ## Referencias
+**Miembros:**
 
-...
+## Cosmogonía
+### Musical
+**Obra:**		
+**Autor:** 		
+**Intérprete:**	
+**youtube:**  
+## Literaria
+### Capítulo
+
+### Secuencia
+
+### Contenido
+

@@ -26,23 +26,7 @@ En la tradición árabe, un ghadir es un remanso donde el agua permanece y da vi
 **Obra:** Entre dos Aguas
 **Autor:** Paco de Lucía
 **Intérprete:** Paco de Lucía
-<div class="aetheon-youtube">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/2oyhlad64-s"
-    title="YouTube video"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
-
-<div class="aetheon-youtube-link">
-  <a href="https://www.youtube.com/watch?v=2oyhlad64-s"
-     target="_blank"
-     rel="noopener noreferrer">
-    Ver en YouTube
-  </a>
-</div>
+**youtube:** 2oyhlad64-s
 ### Simbología
 
 ### Papel dentro de Aetheon
