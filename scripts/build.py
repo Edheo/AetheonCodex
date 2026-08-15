@@ -31,6 +31,7 @@ import validate
 import index
 import cartography
 import book
+import media
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -71,6 +72,8 @@ def main():
 
     book.run()
 
+    media.run()
+    
     build_site()
 
     print()
