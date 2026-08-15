@@ -21,6 +21,11 @@ Como los titanes, padres de los dioses, este descomunal árbol, reclamó este no
 A la vez que cualquier otro guardián de Aetheon, tampoco es éste un guardián guerrero, pero, la mera presencia, es como ir acompañado del más pacífico pero descomunal compañero de guerra. Quizás es incapaz de luchar, pero, sólo estando presente, hace que cualquier amenaza, decida ni acercarse.
 Titán constituye la primera presencia visible de Aetheon desde el exterior, sin desmerecer los masqueperros, sus compañeros. Su posición junto al acceso convierte su existencia en la primera impresión del lugar, siendo una frontera viva entre el mundo exterior y el interior de Aetheon.
 Titán nos demuestra que la guerra no es neceariamente el camino. A veces, sólo conquistar la dimensión del tamaño, y nada más, es lo único que se necesita para sentir que un lugar es seguro y apacible, y que nada podrá amenazarlo nunca, sólo por ser él mismo y estar presente.
+### Musical
+**Obra:** Like Lovers (Holding On)
+**Autor:** Texas
+**Intérprete:** Texas
+**youtube:** OzMvLN8HuEg
 ## Presencia
 Casi parte unificada de la verja de entrada a Aetheon, su presencia se vislumbra ya desde la lejanía, 
 ### Referencias
