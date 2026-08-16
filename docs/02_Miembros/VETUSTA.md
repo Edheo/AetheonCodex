@@ -87,7 +87,14 @@ Fecha desconocida	-	En algún momento de algún siglo más o menos reciente, má
 ## Recursos
 
 ## Media
-001-VETUSTA.jpeg
+
+<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
+  <button class="aetheon-gallery__item" type="button"
+          data-full="../media/001-VETUSTA.jpeg" data-alt="001 VETUSTA"
+          aria-label="Ampliar 001 VETUSTA">
+    <img src="../media/001-VETUSTA.jpeg" alt="001 VETUSTA" loading="lazy">
+  </button>
+</div>
 
 ## Croquis
 
