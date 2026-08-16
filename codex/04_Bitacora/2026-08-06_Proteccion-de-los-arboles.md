@@ -16,7 +16,7 @@ Así que tras consensuarlo, Frank y yo, hemos decidido instalar en sus troncos l
 ### Capítulo
 04 Protectores en la rosa de los vientos y el granado griegos
 ### Secuencia
-001
+010
 ### Contenido
 Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
 Los guardianes más consolidados, son prácticamente inmunes a esos malos tratos por su parte, Vetusta, Titán, Los olivos bijus, o ni siquiera ninguno de los masqueperros, pueden sufrir considerablemente la incontenible energía de nuestra niñas más pequeñas e intrépidas.

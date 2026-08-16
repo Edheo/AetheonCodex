@@ -22,7 +22,7 @@ Así que por lo pronto, no me veré expuesto a ningún tratamiento más, por lo 
 ### Capítulo
 01 - Mi Contexto
 ### Secuencia
-002
+020
 ### Contenido
 Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
 No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.

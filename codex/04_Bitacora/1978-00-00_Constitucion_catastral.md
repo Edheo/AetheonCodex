@@ -13,7 +13,7 @@ Así queda constituida a nivel catastral como fecha de construcción de la casa.
 ### Capítulo
 02 Orígenes
 ### Secuencia
-003
+020
 ### Contenido
 Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
 ## Referencias
