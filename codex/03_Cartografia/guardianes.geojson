@@ -1,609 +1,609 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665925,
-					39.39279
-				]
-			},
-			"properties": {},
-			"id": "aetheon-vetusta",
-			"name": "Vetusta",
-			"kind": "Guardián"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.66552,
-					39.392989
-				]
-			},
-			"properties": {},
-			"name": "Shenlong",
-			"kind": "Guardián"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "LineString",
-				"coordinates": [
-					[
-						-0.6657286,
-						39.3927763
-					],
-					[
-						-0.665724,
-						39.3927554
-					],
-					[
-						-0.6657191,
-						39.3927352
-					],
-					[
-						-0.6657135,
-						39.392713
-					]
-				]
-			},
-			"id": "aetheon-ishtar",
-			"name": "Ishtar",
-			"kind": "Guardián"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665745,
-					39.39291
-				]
-			},
-			"id": "aetheon-titan",
-			"name": "Titán",
-			"kind": "Guardián"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.666004,
-					39.392821
-				]
-			},
-			"id": "aetheon-pisa",
-			"kind": "Guardián",
-			"name": "Pisa"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							-0.665717,
-							39.3928279
-						],
-						[
-							-0.6657432,
-							39.3928258
-						],
-						[
-							-0.665736,
-							39.3928
-						],
-						[
-							-0.665711,
-							39.392802
-						],
-						[
-							-0.665717,
-							39.3928279
-						]
-					]
-				]
-			},
-			"id": "aetheon-bressol.la",
-			"kind": "Guardián",
-			"name": "Bressol.la"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665833,
-					39.39288
-				]
-			},
-			"id": "aetheon-dartacan",
-			"kind": "Guardián",
-			"name": "D'Artacan"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.66587,
-					39.392872
-				]
-			},
-			"id": "aetheon-dogos",
-			"kind": "Guardián",
-			"name": "Dogos"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665901,
-					39.392866
-				]
-			},
-			"id": "aetheon-pontos",
-			"kind": "Guardián",
-			"name": "Pontos"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665931,
-					39.392858
-				]
-			},
-			"id": "aetheon-amis",
-			"kind": "Guardián",
-			"name": "Amis"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.666017,
-					39.392726
-				]
-			},
-			"id": "aetheon-luperca",
-			"kind": "Guardián",
-			"name": "Luperca"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665994,
-					39.392704
-				]
-			},
-			"id": "aetheon-lactea",
-			"kind": "Guardián",
-			"name": "Láctea"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665964,
-					39.392679
-				]
-			},
-			"id": "aetheon-remo",
-			"kind": "Guardián",
-			"name": "Remo"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665907,
-					39.392631
-				]
-			},
-			"id": "aetheon-romulo",
-			"kind": "Guardián",
-			"name": "Rómulo"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665686,
-					39.392641
-				]
-			},
-			"id": "aetheon-shiva",
-			"kind": "Guardián",
-			"name": "Shiva"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665689,
-					39.39269
-				]
-			},
-			"id": "aetheon-umbra",
-			"kind": "Guardián",
-			"name": "Umbra"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665706,
-					39.392799
-				]
-			},
-			"id": "aetheon-anel.la",
-			"kind": "Guardián",
-			"name": "Anel.la"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665692,
-					39.392786
-				]
-			},
-			"id": "aetheon-gilgamesh",
-			"kind": "Guardián",
-			"name": "Gilgamesh"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665689,
-					39.392771
-				]
-			},
-			"id": "aetheon-enkidu",
-			"kind": "Guardián",
-			"name": "Enkidu"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665532,
-					39.392823
-				]
-			},
-			"id": "aetheon-rhoa",
-			"kind": "Guardián",
-			"name": "Rhoa"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.66554,
-					39.392798
-				]
-			},
-			"id": "aetheon-side",
-			"kind": "Guardián",
-			"name": "Side"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665492,
-					39.392842
-				]
-			},
-			"id": "aetheon-logos",
-			"kind": "Guardián",
-			"name": "Logos"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.66551,
-					39.392882
-				]
-			},
-			"id": "aetheon-hagoromo",
-			"kind": "Guardián",
-			"name": "Hagoromo"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665523,
-					39.39291
-				]
-			},
-			"id": "aetheon-shukaku",
-			"kind": "Guardián",
-			"name": "Shukaku"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.66556,
-					39.392905
-				]
-			},
-			"id": "aetheon-matatabi",
-			"kind": "Guardián",
-			"name": "Matatabi"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665548,
-					39.392874
-				]
-			},
-			"id": "aetheon-isobu",
-			"kind": "Guardián",
-			"name": "Isobu"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665589,
-					39.392862
-				]
-			},
-			"id": "aetheon-songoku",
-			"kind": "Guardián",
-			"name": "Son Goku"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665605,
-					39.392898
-				]
-			},
-			"id": "aetheon-kokuo",
-			"kind": "Guardián",
-			"name": "Kokuo"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665644,
-					39.392849
-				]
-			},
-			"id": "aetheon-Saiken",
-			"kind": "Guardián",
-			"name": "Saiken"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665652,
-					39.39289
-				]
-			},
-			"id": "aetheon-chomei",
-			"kind": "Guardián",
-			"name": "Chomei"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665691,
-					39.392872
-				]
-			},
-			"id": "aetheon-gyuki",
-			"kind": "Guardián",
-			"name": "Gyuki"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665685,
-					39.392838
-				]
-			},
-			"id": "aetheon-kurama",
-			"kind": "Guardián",
-			"name": "Kurama"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665443,
-					39.392635
-				]
-			},
-			"id": "aetheon-sapor",
-			"kind": "Guardián",
-			"name": "Sapor"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665582,
-					39.392692
-				]
-			},
-			"id": "aetheon-sasuke",
-			"kind": "Guardián",
-			"name": "Sasuke"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665522,
-					39.392698
-				]
-			},
-			"id": "aetheon-naruto",
-			"kind": "Guardián",
-			"name": "Naruto"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665588,
-					39.392818
-				]
-			},
-			"id": "aetheon-tramuntana",
-			"kind": "Guardián",
-			"name": "Tramuntana"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665601,
-					39.392798
-				]
-			},
-			"id": "aetheon-llevant",
-			"kind": "Guardián",
-			"name": "Llevant"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665629,
-					39.392812
-				]
-			},
-			"id": "aetheon-ponent",
-			"kind": "Guardián",
-			"name": "Ponent"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.665636,
-					39.39279
-				]
-			},
-			"id": "aetheon-xaloc",
-			"kind": "Guardián",
-			"name": "Xaloc"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.666041,
-					39.39276
-				]
-			},
-			"id": "aetheon-madara",
-			"kind": "Guardián",
-			"name": "Madara"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-0.666048,
-					39.392774
-				]
-			},
-			"id": "aetheon-hashirama",
-			"kind": "Guardián",
-			"name": "Hashirama"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							-0.665859,
-							39.392666
-						],
-						[
-							-0.665849,
-							39.392625
-						],
-						[
-							-0.665777,
-							39.392636
-						],
-						[
-							-0.665785,
-							39.392676
-						],
-						[
-							-0.665859,
-							39.392666
-						]
-					]
-				]
-			},
-			"properties": {
-				"reference": "1431901YJ0613S0001XK"
-			},
-			"id": "Aetheon-al-ghadir",
-			"kind": "Guardián",
-			"name": "Al-Ghadir"
-		}
-	]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665925,
+                    39.39279
+                ]
+            },
+            "properties": {},
+            "id": "aetheon-vetusta",
+            "name": "Vetusta",
+            "kind": "Guardián"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6655234,
+                    39.3929724
+                ]
+            },
+            "properties": {},
+            "name": "Shenlong",
+            "kind": "Guardián"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -0.665729,
+                        39.392776
+                    ],
+                    [
+                        -0.665725,
+                        39.3927597
+                    ],
+                    [
+                        -0.6657224,
+                        39.3927448
+                    ],
+                    [
+                        -0.6657204,
+                        39.3927265
+                    ]
+                ]
+            },
+            "id": "aetheon-ishtar",
+            "name": "Ishtar",
+            "kind": "Guardián"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665745,
+                    39.39291
+                ]
+            },
+            "id": "aetheon-titan",
+            "name": "Titán",
+            "kind": "Guardián"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.666004,
+                    39.392821
+                ]
+            },
+            "id": "aetheon-pisa",
+            "kind": "Guardián",
+            "name": "Pisa"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.665717,
+                            39.392828
+                        ],
+                        [
+                            -0.665743,
+                            39.392826
+                        ],
+                        [
+                            -0.665736,
+                            39.3928
+                        ],
+                        [
+                            -0.665711,
+                            39.392802
+                        ],
+                        [
+                            -0.665717,
+                            39.392828
+                        ]
+                    ]
+                ]
+            },
+            "id": "aetheon-bressol.la",
+            "kind": "Guardián",
+            "name": "Bressol.la"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6658343,
+                    39.3928779
+                ]
+            },
+            "id": "aetheon-dartacan",
+            "kind": "Guardián",
+            "name": "D'Artacan"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6658609,
+                    39.3928712
+                ]
+            },
+            "id": "aetheon-dogos",
+            "kind": "Guardián",
+            "name": "Dogos"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6658856,
+                    39.3928642
+                ]
+            },
+            "id": "aetheon-pontos",
+            "kind": "Guardián",
+            "name": "Pontos"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6659102,
+                    39.3928572
+                ]
+            },
+            "id": "aetheon-amis",
+            "kind": "Guardián",
+            "name": "Amis"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.666017,
+                    39.392726
+                ]
+            },
+            "id": "aetheon-luperca",
+            "kind": "Guardián",
+            "name": "Luperca"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665994,
+                    39.392704
+                ]
+            },
+            "id": "aetheon-lactea",
+            "kind": "Guardián",
+            "name": "Láctea"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665964,
+                    39.392679
+                ]
+            },
+            "id": "aetheon-remo",
+            "kind": "Guardián",
+            "name": "Remo"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665907,
+                    39.392631
+                ]
+            },
+            "id": "aetheon-romulo",
+            "kind": "Guardián",
+            "name": "Rómulo"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665686,
+                    39.392641
+                ]
+            },
+            "id": "aetheon-shiva",
+            "kind": "Guardián",
+            "name": "Shiva"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665689,
+                    39.39269
+                ]
+            },
+            "id": "aetheon-umbra",
+            "kind": "Guardián",
+            "name": "Umbra"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6657016,
+                    39.3927881
+                ]
+            },
+            "id": "aetheon-anel.la",
+            "kind": "Guardián",
+            "name": "Anel.la"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.66569,
+                    39.3927684
+                ]
+            },
+            "id": "aetheon-gilgamesh",
+            "kind": "Guardián",
+            "name": "Gilgamesh"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6656863,
+                    39.3927466
+                ]
+            },
+            "id": "aetheon-enkidu",
+            "kind": "Guardián",
+            "name": "Enkidu"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665532,
+                    39.392823
+                ]
+            },
+            "id": "aetheon-rhoa",
+            "kind": "Guardián",
+            "name": "Rhoa"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.66554,
+                    39.392798
+                ]
+            },
+            "id": "aetheon-side",
+            "kind": "Guardián",
+            "name": "Side"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665492,
+                    39.392842
+                ]
+            },
+            "id": "aetheon-logos",
+            "kind": "Guardián",
+            "name": "Logos"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.66551,
+                    39.392882
+                ]
+            },
+            "id": "aetheon-hagoromo",
+            "kind": "Guardián",
+            "name": "Hagoromo"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665523,
+                    39.3929131
+                ]
+            },
+            "id": "aetheon-shukaku",
+            "kind": "Guardián",
+            "name": "Shukaku"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.66556,
+                    39.392905
+                ]
+            },
+            "id": "aetheon-matatabi",
+            "kind": "Guardián",
+            "name": "Matatabi"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665548,
+                    39.392874
+                ]
+            },
+            "id": "aetheon-isobu",
+            "kind": "Guardián",
+            "name": "Isobu"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665589,
+                    39.392862
+                ]
+            },
+            "id": "aetheon-songoku",
+            "kind": "Guardián",
+            "name": "Son Goku"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6656043,
+                    39.3928959
+                ]
+            },
+            "id": "aetheon-kokuo",
+            "kind": "Guardián",
+            "name": "Kokuo"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665644,
+                    39.392849
+                ]
+            },
+            "id": "aetheon-Saiken",
+            "kind": "Guardián",
+            "name": "Saiken"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.66565,
+                    39.3928859
+                ]
+            },
+            "id": "aetheon-chomei",
+            "kind": "Guardián",
+            "name": "Chomei"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665691,
+                    39.392872
+                ]
+            },
+            "id": "aetheon-gyuki",
+            "kind": "Guardián",
+            "name": "Gyuki"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665685,
+                    39.392838
+                ]
+            },
+            "id": "aetheon-kurama",
+            "kind": "Guardián",
+            "name": "Kurama"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665441,
+                    39.3926143
+                ]
+            },
+            "id": "aetheon-sapor",
+            "kind": "Guardián",
+            "name": "Sapor"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665582,
+                    39.392692
+                ]
+            },
+            "id": "aetheon-sasuke",
+            "kind": "Guardián",
+            "name": "Sasuke"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665522,
+                    39.392698
+                ]
+            },
+            "id": "aetheon-naruto",
+            "kind": "Guardián",
+            "name": "Naruto"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665588,
+                    39.392818
+                ]
+            },
+            "id": "aetheon-tramuntana",
+            "kind": "Guardián",
+            "name": "Tramuntana"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665601,
+                    39.392798
+                ]
+            },
+            "id": "aetheon-llevant",
+            "kind": "Guardián",
+            "name": "Llevant"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665629,
+                    39.392812
+                ]
+            },
+            "id": "aetheon-ponent",
+            "kind": "Guardián",
+            "name": "Ponent"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.665636,
+                    39.39279
+                ]
+            },
+            "id": "aetheon-xaloc",
+            "kind": "Guardián",
+            "name": "Xaloc"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.666041,
+                    39.39276
+                ]
+            },
+            "id": "aetheon-madara",
+            "kind": "Guardián",
+            "name": "Madara"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.666048,
+                    39.392774
+                ]
+            },
+            "id": "aetheon-hashirama",
+            "kind": "Guardián",
+            "name": "Hashirama"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.665861,
+                            39.3926779
+                        ],
+                        [
+                            -0.6658544,
+                            39.3926405
+                        ],
+                        [
+                            -0.6657837,
+                            39.3926526
+                        ],
+                        [
+                            -0.665793,
+                            39.3926884
+                        ],
+                        [
+                            -0.665861,
+                            39.3926779
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "reference": "1431901YJ0613S0001XK"
+            },
+            "id": "Aetheon-al-ghadir",
+            "kind": "Guardián",
+            "name": "Al-Ghadir"
+        }
+    ]
 }

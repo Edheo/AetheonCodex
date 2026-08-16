@@ -1,113 +1,113 @@
 {
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							-0.665874,
-							39.392757
-						],
-						[
-							-0.665858,
-							39.392691
-						],
-						[
-							-0.665754,
-							39.392705
-						],
-						[
-							-0.665769,
-							39.392772
-						],
-						[
-							-0.665874,
-							39.392757
-						]
-					]
-				]
-			},
-			"properties": {
-				"reference": "1431901YJ0613S0001XK",
-				"surface_m2": 63
-			},
-			"id": "aetheon-vivienda",
-			"kind": "Construcción",
-			"name": "Casa"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							-0.66577,
-							39.392771
-						],
-						[
-							-0.665755,
-							39.392706
-						],
-						[
-							-0.665714,
-							39.392711
-						],
-						[
-							-0.665729,
-							39.392777
-						],
-						[
-							-0.66577,
-							39.392771
-						]
-					]
-				]
-			},
-			"properties": {},
-			"id": "aetheon-terraza-vivienda",
-			"kind": "Construcción",
-			"name": "Terraza"
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							-0.665849,
-							39.392625
-						],
-						[
-							-0.665841,
-							39.392599
-						],
-						[
-							-0.665772,
-							39.392611
-						],
-						[
-							-0.665776,
-							39.392636
-						],
-						[
-							-0.665849,
-							39.392625
-						]
-					]
-				]
-			},
-			"properties": {
-				"reference": "1431901YJ0613S0001XK",
-				"surface_m2": 17
-			},
-			"id": "aetheon-trastero",
-			"kind": "Construcción",
-			"name": "Trastero"
-		}
-	]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.6658807,
+                            39.3927788
+                        ],
+                        [
+                            -0.6658661,
+                            39.3927107
+                        ],
+                        [
+                            -0.6657641,
+                            39.3927236
+                        ],
+                        [
+                            -0.665778,
+                            39.3927922
+                        ],
+                        [
+                            -0.6658807,
+                            39.3927788
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "reference": "1431901YJ0613S0001XK",
+                "surface_m2": 63
+            },
+            "id": "aetheon-vivienda",
+            "kind": "Construcción",
+            "name": "Casa"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.665778,
+                            39.3927922
+                        ],
+                        [
+                            -0.6657641,
+                            39.3927236
+                        ],
+                        [
+                            -0.6657217,
+                            39.3927297
+                        ],
+                        [
+                            -0.665736,
+                            39.3928
+                        ],
+                        [
+                            -0.665778,
+                            39.3927922
+                        ]
+                    ]
+                ]
+            },
+            "properties": {},
+            "id": "aetheon-terraza-vivienda",
+            "kind": "Construcción",
+            "name": "Terraza"
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -0.6658544,
+                            39.3926405
+                        ],
+                        [
+                            -0.6658484,
+                            39.3926166
+                        ],
+                        [
+                            -0.665776,
+                            39.3926271
+                        ],
+                        [
+                            -0.6657837,
+                            39.3926526
+                        ],
+                        [
+                            -0.6658544,
+                            39.3926405
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "reference": "1431901YJ0613S0001XK",
+                "surface_m2": 17
+            },
+            "id": "aetheon-trastero",
+            "kind": "Construcción",
+            "name": "Trastero"
+        }
+    ]
 }
