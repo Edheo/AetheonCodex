@@ -11,20 +11,20 @@
   - 010 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
   - 020 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
 - **Capítulo 11 · - Orígenes**
-  - 010 · 1800-00-00_Titan-Germina — `1800-00-00_Titan-Germina.md`
-  - 020 · 1978-00-00_Constitucion_catastral — `1978-00-00_Constitucion_catastral.md`
-  - 030 · 2015-06-23_Compra-anteriores-propietarios — `2015-06-23_Compra-anteriores-propietarios.md`
-  - 040 · 2024-03-27_Aetheon-en-venta — `2024-03-27_Aetheon-en-venta.md`
+  - 010 · Titán Germina — `1800-00-00_Titan-Germina.md`
+  - 020 · Constitución catastral — `1978-00-00_Constitucion_catastral.md`
+  - 030 · Compra anteriores propietarios — `2015-06-23_Compra-anteriores-propietarios.md`
+  - 040 · Anuncio AETHEON en venta — `2024-03-27_Aetheon-en-venta.md`
 - **Capítulo 21 · - Evolución**
-  - 010 · 2024-04-28_Primera-visita — `2024-04-28_Primera-visita.md`
-  - 020 · 2026-08-13_Alevines-en-Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
+  - 010 · Primera visita a Aetheon — `2024-04-28_Primera-visita.md`
+  - 020 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
 - **Capítulo 31 · - Protectores en la rosa de los vientos y el granado griegos**
-  - 010 · 2026-08-06_Proteccion-de-los-arboles — `2026-08-06_Proteccion-de-los-arboles.md`
-  - 020 · 2026-08-08_Rhoa-y-Side — `2026-08-08_Rhoa-y-Side.md`
+  - 010 · Protectores en la rosa de los vientos y el granado griegos — `2026-08-06_Proteccion-de-los-arboles.md`
+  - 020 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
 
 ### Pendientes de clasificación
 
-- 2024-10-29_Dana-de-Valencia — `2024-10-29_Dana-de-Valencia.md`
+- Dana de Valencia — `2024-10-29_Dana-de-Valencia.md`
 - La inquietud y la semilla — `2026-08-14_La-inquietud-y-la-semilla.md`
 
 ---
@@ -32,6 +32,10 @@
 ## Capítulo 01 · - Mi Contexto
 
 ### Escaneando los miedos
+
+*Viernes, 7 de agosto de 2026*
+
+*Can't Get You Out Of My Head — Kylie Minogue*
 
 - **Origen:** `2026-08-07_Escaneando-los-miedos.md`
 - **Estado:** Borrador
@@ -64,6 +68,10 @@ Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ve
 
 ### El resultado de la espera
 
+*Viernes, 14 de agosto de 2026*
+
+*Old Katarakt — Wim Mertens*
+
 - **Origen:** `2026-08-14_El-resultado-de-la-espera.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
@@ -85,7 +93,9 @@ El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro mo
 
 ## Capítulo 11 · - Orígenes
 
-### 1800-00-00_Titan-Germina
+### Titán Germina
+
+*En algún momento posiblemente posterior al año 1800ad*
 
 - **Origen:** `1800-00-00_Titan-Germina.md`
 - **Estado:** Borrador
@@ -96,7 +106,9 @@ Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fe
 
 ---
 
-### 1978-00-00_Constitucion_catastral
+### Constitución catastral
+
+*En algún momento indeterminado de 1978*
 
 - **Origen:** `1978-00-00_Constitucion_catastral.md`
 - **Estado:** Borrador
@@ -107,7 +119,9 @@ Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fe
 
 ---
 
-### 2015-06-23_Compra-anteriores-propietarios
+### Compra anteriores propietarios
+
+*Martes, 23 de junio de 2015*
 
 - **Origen:** `2015-06-23_Compra-anteriores-propietarios.md`
 - **Estado:** Borrador
@@ -118,7 +132,9 @@ En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que
 
 ---
 
-### 2024-03-27_Aetheon-en-venta
+### Anuncio AETHEON en venta
+
+*2024-03-27 (Fecha aproximada)*
 
 - **Origen:** `2024-03-27_Aetheon-en-venta.md`
 - **Estado:** Borrador
@@ -131,7 +147,9 @@ Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo rec
 
 ## Capítulo 21 · - Evolución
 
-### 2024-04-28_Primera-visita
+### Primera visita a Aetheon
+
+*Domingo, 28 de abril de 2024*
 
 - **Origen:** `2024-04-28_Primera-visita.md`
 - **Estado:** Borrador
@@ -145,7 +163,11 @@ Podemos ver la diferencianción de los 3 bancales escalonados que conforman la p
 
 ---
 
-### 2026-08-13_Alevines-en-Al-Ghadir
+### Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir
+
+*Jueves, 13 de agosto de 2026*
+
+*Viva La Vida — Coldplay*
 
 - **Origen:** `2026-08-13_Alevines-en-Al-Ghadir.md`
 - **Estado:** Borrador
@@ -170,7 +192,9 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 
 ## Capítulo 31 · - Protectores en la rosa de los vientos y el granado griegos
 
-### 2026-08-06_Proteccion-de-los-arboles
+### Protectores en la rosa de los vientos y el granado griegos
+
+*Jueves, 6 de agosto de 2026*
 
 - **Origen:** `2026-08-06_Proteccion-de-los-arboles.md`
 - **Estado:** Borrador
@@ -184,7 +208,9 @@ Frank y yo decidimos instalar los típicos protectores de patas de mesa, para qu
 
 ---
 
-### 2026-08-08_Rhoa-y-Side
+### Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side
+
+*Sábado, 8 de agosto de 2026*
 
 - **Origen:** `2026-08-08_Rhoa-y-Side.md`
 - **Estado:** Borrador
@@ -208,7 +234,9 @@ Side forma parte también de la mitología griega, y según cuenta un mito, Side
 
 Las siguientes entradas contienen contenido literario pero todavía no tienen Capítulo y/o Secuencia.
 
-## 2024-10-29_Dana-de-Valencia
+## Dana de Valencia
+
+*Martes, 29 de octubre de 2024*
 
 - **Origen:** `2024-10-29_Dana-de-Valencia.md`
 - **Estado:** Borrador
@@ -220,6 +248,10 @@ Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuert
 ---
 
 ## La inquietud y la semilla
+
+*Viernes, 14 de agosto de 2026*
+
+*On The Nature Of Daylight — Max Richter, piano, strings, electronics*
 
 - **Origen:** `2026-08-14_La-inquietud-y-la-semilla.md`
 - **Estado:** Borrador

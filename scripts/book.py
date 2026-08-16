@@ -358,6 +358,37 @@ def parse_event_date(path):
         return None
 
 
+def extract_event_time(text):
+    """
+    Obtiene el valor temporal canonico del encabezado principal.
+
+    Las fechas ISO validas se convierten a ``date`` para humanizarlas.
+    Cualquier otro valor no vacio se conserva literalmente.
+    """
+
+    match = re.search(
+        r"^#[ \t]+(.*?)[ \t]*$",
+        text,
+        re.MULTILINE,
+    )
+
+    if not match:
+        return None
+
+    value = match.group(1).strip()
+
+    if not value:
+        return None
+
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
+        try:
+            return date.fromisoformat(value)
+        except ValueError:
+            pass
+
+    return value
+
+
 def humanize_date_es(value):
     """
     Presenta una fecha en castellano sin depender del locale del sistema.
@@ -382,6 +413,15 @@ def humanize_date_es(value):
     )
 
 
+def present_event_time(value):
+    """Humaniza fechas formales y preserva los literales temporales."""
+
+    if isinstance(value, date):
+        return humanize_date_es(value)
+
+    return value
+
+
 def entry_literary_header(entry):
     """Genera la cabecera literaria comun a BOOK y BOOK.DEBUG."""
 
@@ -389,7 +429,7 @@ def entry_literary_header(entry):
 
     if entry["date"] is not None:
         lines.append(
-            f"*{humanize_date_es(entry['date'])}*"
+            f"*{present_event_time(entry['date'])}*"
         )
 
         if entry["music_work"] and entry["music_performer"]:
@@ -487,7 +527,7 @@ def load_entries():
         entry = {
             "path": path,
             "title": title,
-            "date": parse_event_date(path),
+            "date": extract_event_time(text),
             "status": status,
             "music_work": music_work,
             "music_performer": music_performer,
@@ -956,7 +996,7 @@ def build_debug_book(entries, pending):
 
             if entry["date"] is not None:
                 lines.append(
-                    f"*{humanize_date_es(entry['date'])}*"
+                    f"*{present_event_time(entry['date'])}*"
                 )
 
                 if entry["music_work"] and entry["music_performer"]:
@@ -1185,4 +1225,3 @@ def run():
 
 if __name__ == "__main__":
     run()
-

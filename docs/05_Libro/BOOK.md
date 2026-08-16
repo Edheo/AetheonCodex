@@ -11,6 +11,12 @@
 
 ## Capítulo 01 · - Mi Contexto
 
+### Escaneando los miedos
+
+*Viernes, 7 de agosto de 2026*
+
+*Can't Get You Out Of My Head — Kylie Minogue*
+
 Tras esperar por mucho e insistir alguna vez, por fin conseguí cita para la resonancia magnética. Nada reseñable, al parecer, mientras me ponían la vía, hoy he descubierto que el elástico que usan para presionar el brazo y hacer visibles las venas para poder escoger la más óptima para pinchar la vía se le puede llamar o bien garrote, o bien smart.
 Lo de smart, sinceramente no veo que tiene de inteligente un elástico, pero en fin, es casi preferible al garrote. 
 La enfermera no ha podido evitar reirse, cuando le he recordado lo poco afortunado del nombre, precisamente garrote bill, me recuerda tiempos de Franco, que yo no viví, cuando ese era uno de los métodos para aplicar la pena de muerte a los condenados.
@@ -34,6 +40,12 @@ Por eso, escanear los miedos, es tan necesario y decisivo, porque nos permite si
 Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ventajosos y que en general te ubicarán en aquellos lugares, donde jamás deseaste estar, o ser quien jamás deseaste ser.
 
 
+### El resultado de la espera
+
+*Viernes, 14 de agosto de 2026*
+
+*Old Katarakt — Wim Mertens*
+
 Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
 No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.
 También me permite enfocarme un poco más en Aetheon, mi prioridad hoy por hoy, pese el tiempo que me roban también mis padres dependientes.
@@ -49,25 +61,51 @@ El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro mo
 
 ## Capítulo 11 · - Orígenes
 
+### Titán Germina
+
+*En algún momento posiblemente posterior al año 1800ad*
+
 Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
 
 
+### Constitución catastral
+
+*En algún momento indeterminado de 1978*
+
 Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
 
+
+### Compra anteriores propietarios
+
+*Martes, 23 de junio de 2015*
 
 En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que aquí quedó, fué también gracias a su contribución.
 
+
+### Anuncio AETHEON en venta
+
+*2024-03-27 (Fecha aproximada)*
 
 Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo recientemente vendí mi piso en Catarroja, con la idea de poder comprar algo como esto. Una casa, en una zona no exactamente urbana. Poder tener tierra, un lugar donde mis mascotas pudiesen tener espacio. Frank y yo nos ilusionamos mucho sólo con verla, todo se alineaba, la casa era adecuada, la parcela increible, el precio dentro de nuestras posibilidades... todo parecía alinearse.
 
 
 ## Capítulo 21 · - Evolución
 
+### Primera visita a Aetheon
+
+*Domingo, 28 de abril de 2024*
+
 Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante. En aquel entonces, vivíamos aún en Calderer, un trayecto ansioso por conocer este lugar.
 TITÁN Ya se veia majestuoso al llegar a la parcela, incluso antes que él, podíamos ver a Luperca, Pisa, Amis, Pontos, Dogos y d'Artacán, pero ver su tronco, ya robaba todas las atenciones, fué inevitable quedarnos maravillados viéndolo.
 Una vez entramos, a unas pocas decenas de metros a la derecha, se puede ver también a Vetusta, junto a la parte trasera de la casa.
 Podemos ver la diferencianción de los 3 bancales escalonados que conforman la parcela, el bancal oeeste, el más elevado, donde hay unos cuantos árboles, y donde está en su límite la propia Vetusta, el bancal central en cuyo centro se encuentra la casa, y después el bancal este, el de mayor desnivel, donde se pueden ver los olivos y los almendros, y a su sur, se hay la explanada, donde se encuentran frutales como naranjos, un granado, un peral, y caqui y algún que otro olivo más.
 
+
+### Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir
+
+*Jueves, 13 de agosto de 2026*
+
+*Viva La Vida — Coldplay*
 
 Un dia más en Aetheon, la rutina de mantenimiento, me trae a mi presencia mientras limpiaba de excesos incipientes de algas flotantes, y proveer de agua a Al-Ghadir, que tanto sufre esta interminable ola de calor perpetua que vivimos todo este verano, como ya viene siendo habitual, las estaciones se adelantan, el sofocante calor se instala ya desde mediados de primavera, y luchar contra este elemento se hace duro, no sólo para nosotros, sino para toda la vida que Aetheon alberga.
 El clima se vuelve duro para todos, y de pronto, mientras concentrado en mi labor, mis ya no tan jóvenes ojos, detectan un movimiento fugaz, rápido, mínimo, pero raudo, y al mirar con más atención en una de las islas flotantes, allí puedo verlos.
@@ -86,11 +124,19 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 
 ## Capítulo 31 · - Protectores en la rosa de los vientos y el granado griegos
 
+### Protectores en la rosa de los vientos y el granado griegos
+
+*Jueves, 6 de agosto de 2026*
+
 Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
 Los guardianes más consolidados, son prácticamente inmunes a esos malos tratos por su parte, Vetusta, Titán, Los olivos bijus, o ni siquiera ninguno de los masqueperros, pueden sufrir considerablemente la incontenible energía de nuestra niñas más pequeñas e intrépidas.
 Por rascadores y entretenimientos que tengan en casa, son precisamente eso, mininas interactuando en el mundo, su atrevimiento y curiosidad son infinitas, así que hemos tenido que tomar papeles en el asunto.
 Frank y yo decidimos instalar los típicos protectores de patas de mesa, para que los felinos no se ceben con ellos, en los troncos de aquellos árboles más jóvenes, con tal de que ningún mal peor, pueda agravar la situación de salud e integridad de estas promesas de morera, que están destinadas a añadir un espacio de sombraje en la tórrida parcela durante los peores meses de verano.
 
+
+### Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side
+
+*Sábado, 8 de agosto de 2026*
 
 Frank ha aportado nuevos nombres a la mitología de Aetheon.
 Tras las moreras, al este, se hayan situado dos granados jóvenes.
