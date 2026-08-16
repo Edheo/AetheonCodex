@@ -35,7 +35,26 @@ FRANK
 EDHEO
 
 ##Media
-001-Llevant.jpeg
-002-Llevant.jpeg
-001-Side.jpeg
-002-Side.jpeg
+
+<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
+  <button class="aetheon-gallery__item" type="button"
+          data-full="../../assets/media/0001-Llevant.jpeg" data-alt="0001 Llevant"
+          aria-label="Ampliar 0001 Llevant">
+    <img src="../../assets/media/0001-Llevant.jpeg" alt="0001 Llevant" loading="lazy">
+  </button>
+  <button class="aetheon-gallery__item" type="button"
+          data-full="../../assets/media/0002-Llevant.jpeg" data-alt="0002 Llevant"
+          aria-label="Ampliar 0002 Llevant">
+    <img src="../../assets/media/0002-Llevant.jpeg" alt="0002 Llevant" loading="lazy">
+  </button>
+  <button class="aetheon-gallery__item" type="button"
+          data-full="../../assets/media/0001-Side.jpeg" data-alt="0001 Side"
+          aria-label="Ampliar 0001 Side">
+    <img src="../../assets/media/0001-Side.jpeg" alt="0001 Side" loading="lazy">
+  </button>
+  <button class="aetheon-gallery__item" type="button"
+          data-full="../../assets/media/0002-Side.jpeg" data-alt="0002 Side"
+          aria-label="Ampliar 0002 Side">
+    <img src="../../assets/media/0002-Side.jpeg" alt="0002 Side" loading="lazy">
+  </button>
+</div>

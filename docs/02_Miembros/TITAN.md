@@ -62,7 +62,15 @@ Espacio reservado para relatos, poemas y literatura.
 ## Recursos
 
 ## Media
-001-TITAN.jpeg
+
+<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
+  <button class="aetheon-gallery__item" type="button"
+          data-full="../../assets/media/001-TITAN.jpeg" data-alt="001 TITAN"
+          aria-label="Ampliar 001 TITAN">
+    <img src="../../assets/media/001-TITAN.jpeg" alt="001 TITAN" loading="lazy">
+  </button>
+</div>
+
 ## Croquis
 
 ## Referencias

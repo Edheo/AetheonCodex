@@ -17,3 +17,4 @@ extra_css:
 extra_javascript:
   - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
   - assets/javascripts/cartography.js
+  - assets/javascripts/media.js
