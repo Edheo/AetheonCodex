@@ -1,0 +1,771 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>AETHEON</name>
+        <Placemark>
+            <name>aetheon-parcela</name>
+            <ExtendedData>
+                <Data name="canonical">
+                    <value>True</value>
+                </Data>
+                <Data name="version">
+                    <value>1</value>
+                </Data>
+                <Data name="reference">
+                    <value>1431901YJ0613S</value>
+                </Data>
+                <Data name="surface_m2">
+                    <value>1664</value>
+                </Data>
+                <Data name="id">
+                    <value>aetheon-parcela</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.665497,39.392639 -0.665444,39.392616 -0.665357,39.392613 -0.665516,39.392982 -0.665896,39.392868 -0.665935,39.392856 -0.66602,39.392814 -0.666062,39.392783 -0.66607,39.392758 -0.666041,39.39269 -0.665977,39.392626 -0.665887,39.39258 -0.665768,39.392607 -0.665506,39.392639 -0.665497,39.392639</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-bancal-este</name>
+            <ExtendedData>
+                <Data name="sector">
+                    <value>este</value>
+                </Data>
+                <Data name="id">
+                    <value>aetheon-bancal-este</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.6656813,39.3926165 -0.6655091,39.3926403 -0.665357,39.392613 -0.665516,39.392982 -0.6657308,39.3929152 -0.6656813,39.3926165</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-bancal-central</name>
+            <ExtendedData>
+                <Data name="sector">
+                    <value>central</value>
+                </Data>
+                <Data name="id">
+                    <value>aetheon-bancal-central</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.6658528,39.3925878 -0.6656813,39.392616 -0.6657316,39.3929158 -0.6659196,39.392861 -0.6658528,39.3925878</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-bancal-oeste</name>
+            <ExtendedData>
+                <Data name="sector">
+                    <value>oeste</value>
+                </Data>
+                <Data name="id">
+                    <value>aetheon-bancal-oeste</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.66607,39.392758 -0.666041,39.39269 -0.665977,39.392626 -0.665887,39.39258 -0.6658524,39.392588 -0.6659195,39.3928612 -0.665896,39.392868 -0.6659351,39.3928555 -0.66602,39.392814 -0.666062,39.392783 -0.66607,39.392758</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-entrada</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-entrada</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.6657295,39.3927775 -0.665785,39.3929187 -0.6658314,39.3929116 -0.6657702,39.3927719 -0.6657295,39.3927775</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-apeadero</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-apeadero</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.6658169,39.3928761 -0.6659364,39.3928457 -0.6659036,39.3927653 -0.6657761,39.3927853 -0.6658169,39.3928761</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-alizar</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-alizar</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.6657702,39.3927717 -0.6657761,39.3927853 -0.6659037,39.3927652 -0.6658551,39.3925868 -0.6656624,39.3926177 -0.6656645,39.3926277 -0.6657721,39.3926111 -0.665841,39.392599 -0.6658591,39.3926653 -0.6657849,39.3926759 -0.6657717,39.3926113 -0.6657593,39.3926137 -0.6657725,39.3926775 -0.6657478,39.3926819 -0.6657136,39.3926951 -0.6657146,39.3927102 -0.6657545,39.392705 -0.665858,39.3926908 -0.6658741,39.3927569 -0.6657702,39.3927717</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-pedestal-titan</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-pedestal-titan</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.6657806,39.3929025 -0.6657371,39.3929157 -0.6657307,39.3929007 -0.6657748,39.3928887 -0.6657806,39.3929025</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-jardinera-persefone</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-jardinera-persefone</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.6655471,39.3929728 -0.6655439,39.3929657 -0.6657349,39.3929113 -0.6657366,39.3929157 -0.6655471,39.3929728</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-arriate-talasa</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-arriate-talasa</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.6657347,39.3929267 -0.6657249,39.3929016 -0.6655373,39.3929511 -0.6655499,39.3929797 -0.6657347,39.3929267</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-rikudo-sennin</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-rikudo-sennin</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.6657695,39.3928759 -0.6655462,39.3929357 -0.665526,39.3928877 -0.6657113,39.39284 -0.6657173,39.3928531 -0.665548,39.3928963 -0.6655591,39.3929232 -0.6657655,39.3928669 -0.6657695,39.3928759</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-vivienda</name>
+            <ExtendedData>
+                <Data name="reference">
+                    <value>1431901YJ0613S0001XK</value>
+                </Data>
+                <Data name="surface_m2">
+                    <value>63</value>
+                </Data>
+                <Data name="id">
+                    <value>aetheon-vivienda</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.665874,39.392757 -0.665858,39.392691 -0.665754,39.392705 -0.665769,39.392772 -0.665874,39.392757</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-terraza-vivienda</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-terraza-vivienda</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.66577,39.392771 -0.665755,39.392706 -0.665714,39.392711 -0.665729,39.392777 -0.66577,39.392771</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-trastero</name>
+            <ExtendedData>
+                <Data name="reference">
+                    <value>1431901YJ0613S0001XK</value>
+                </Data>
+                <Data name="surface_m2">
+                    <value>17</value>
+                </Data>
+                <Data name="id">
+                    <value>aetheon-trastero</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.665849,39.392625 -0.665841,39.392599 -0.665772,39.392611 -0.665776,39.392636 -0.665849,39.392625</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-pergola</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-pergola</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.665767,39.392665 -0.665761,39.392635 -0.665705,39.392642 -0.665709,39.392672 -0.665767,39.392665</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-entrada-casa</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-entrada-casa</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665765,39.39272</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-verja-entrada</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-verja-entrada</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.6658745,39.3928757</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-vetusta</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-vetusta</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665925,39.39279</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <Point>
+                <coordinates>-0.66552,39.392989</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-ishtar</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-ishtar</value>
+                </Data>
+            </ExtendedData>
+            <LineString>
+                <tessellate>1</tessellate>
+                <coordinates>-0.6657286,39.3927763 -0.665724,39.3927554 -0.6657191,39.3927352 -0.6657135,39.392713</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-titan</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-titan</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665745,39.39291</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-pisa</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-pisa</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.666004,39.392821</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-bressol.la</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-bressol.la</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.665717,39.3928279 -0.6657432,39.3928258 -0.665736,39.3928 -0.665711,39.392802 -0.665717,39.3928279</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-dartacan</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-dartacan</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665833,39.39288</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-dogos</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-dogos</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.66587,39.392872</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-pontos</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-pontos</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665901,39.392866</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-amis</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-amis</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665931,39.392858</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-luperca</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-luperca</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.666017,39.392726</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-lactea</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-lactea</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665994,39.392704</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-remo</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-remo</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665964,39.392679</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-romulo</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-romulo</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665907,39.392631</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-shiva</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-shiva</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665686,39.392641</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-umbra</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-umbra</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665689,39.39269</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-anel.la</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-anel.la</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665706,39.392799</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-gilgamesh</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-gilgamesh</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665692,39.392786</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-enkidu</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-enkidu</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665689,39.392771</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-rhoa</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-rhoa</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665532,39.392823</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-side</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-side</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.66554,39.392798</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-logos</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-logos</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665492,39.392842</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-hagoromo</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-hagoromo</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.66551,39.392882</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-shukaku</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-shukaku</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665523,39.39291</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-matatabi</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-matatabi</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.66556,39.392905</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-isobu</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-isobu</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665548,39.392874</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-songoku</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-songoku</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665589,39.392862</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-kokuo</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-kokuo</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665605,39.392898</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-Saiken</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-Saiken</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665644,39.392849</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-chomei</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-chomei</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665652,39.39289</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-gyuki</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-gyuki</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665691,39.392872</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-kurama</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-kurama</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665685,39.392838</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-sapor</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-sapor</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665443,39.392635</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-sasuke</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-sasuke</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665582,39.392692</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-naruto</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-naruto</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665522,39.392698</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-tramuntana</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-tramuntana</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665588,39.392818</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-llevant</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-llevant</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665601,39.392798</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-ponent</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-ponent</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665629,39.392812</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-xaloc</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-xaloc</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.665636,39.39279</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-madara</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-madara</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.666041,39.39276</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>aetheon-hashirama</name>
+            <ExtendedData>
+                <Data name="id">
+                    <value>aetheon-hashirama</value>
+                </Data>
+            </ExtendedData>
+            <Point>
+                <coordinates>-0.666048,39.392774</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Aetheon-al-ghadir</name>
+            <ExtendedData>
+                <Data name="reference">
+                    <value>1431901YJ0613S0001XK</value>
+                </Data>
+                <Data name="id">
+                    <value>Aetheon-al-ghadir</value>
+                </Data>
+            </ExtendedData>
+            <Polygon>
+                <tessellate>1</tessellate>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>-0.665859,39.392666 -0.665849,39.392625 -0.665777,39.392636 -0.665785,39.392676 -0.665859,39.392666</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>

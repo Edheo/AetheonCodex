@@ -12,9 +12,9 @@ Tras las moreras, al este, se hayan situado dos granados jóvenes, para uno de e
 El otro, que ya acompaña a Frank durante años, ha recibido el nombre de Side.
 ## Literaria
 ### Capítulo
-04 Protectores en la rosa de los vientos y el granado griegos
+31 - Protectores en la rosa de los vientos y el granado griegos
 ### Secuencia
-002
+020
 ### Contenido
 Frank ha aportado nuevos nombres a la mitología de Aetheon.
 Tras las moreras, al este, se hayan situado dos granados jóvenes.

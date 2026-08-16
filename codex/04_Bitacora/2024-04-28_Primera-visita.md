@@ -13,9 +13,9 @@ Entretanto, esperábamos afuera, y curioseabamos a lo lejos, tratando de no demo
 
 ## Literaria
 ### Capítulo
-01 Primera Visita
+21 - Evolución
 ### Secuencia
-001
+010
 ### Contenido
 Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante. En aquel entonces, vivíamos aún en Calderer, un trayecto ansioso por conocer este lugar.
 TITÁN Ya se veia majestuoso al llegar a la parcela, incluso antes que él, podíamos ver a Luperca, Pisa, Amis, Pontos, Dogos y d'Artacán, pero ver su tronco, ya robaba todas las atenciones, fué inevitable quedarnos maravillados viéndolo.

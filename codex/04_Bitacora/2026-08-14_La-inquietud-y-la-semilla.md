@@ -1,18 +1,12 @@
 # 2026-08-14
-
 **Estado:** Borrador
 
 ## Evento
-
 **Título:** La inquietud y la semilla
-
 **Descripción:** Conversación entre Miguel y Logos acerca de la naturaleza de Aetheon, el propósito del Codex y la necesidad de preservar no sólo los acontecimientos, sino el proceso mediante el cual éstos adquieren significado.
 
 ## Referencias
-
-**Miembros:** Aetheon, Miguel, Logos
-
-## Evocación
+**Miembros:** Aetheon, Edheo, Logos
 
 ## Cosmogonía
 ### Musical
