@@ -14,7 +14,7 @@ Así que tras consensuarlo, Frank y yo, hemos decidido instalar en sus troncos l
 
 ## Literaria
 ### Capítulo
-31 - Protectores en la rosa de los vientos y el granado griegos
+04 - Protectores en la rosa de los vientos y el granado griegos
 ### Secuencia
 010
 ### Contenido
