@@ -1189,4 +1189,237 @@ def build_chapter_plan(
         plan.append(
             {
                 "old":
-                    old_number
+                    old_number,
+                "new":
+                    new_number,
+                "title":
+                    chapter["title"],
+                "entries":
+                    chapter["entries"],
+            }
+        )
+
+    return plan
+
+
+def print_chapter_plan(plan):
+    """Presenta la renumeracion de capitulos prevista."""
+
+    if not plan:
+        print()
+        print("[BOOK TOOLS] No chapters found.")
+        return
+
+    print()
+    print("Chapter renumbering plan")
+    print("-" * 60)
+    changed_chapters = 0
+    changed_files = 0
+
+    for item in plan:
+        old = item["old"]
+        new = item["new"]
+        title = normalize_chapter_title(item["title"])
+        marker = " " if old == new else "*"
+        label = f" - {title}" if title else ""
+        print(f"{marker} {old:02d} -> {new:02d}{label}")
+
+        entry_count = len(item["entries"])
+        print(f"    {entry_count} entr{'y' if entry_count == 1 else 'ies'}")
+
+        if old != new:
+            changed_chapters += 1
+            changed_files += entry_count
+
+    print()
+    print(f"[BOOK TOOLS] {changed_chapters} chapter(s) will change.")
+    print(f"[BOOK TOOLS] {changed_files} file(s) will be updated.")
+
+
+def prepare_chapter_changes(plan):
+    """Prepara y valida todos los cambios antes de escribir."""
+
+    prepared = []
+
+    for item in plan:
+        if item["old"] == item["new"]:
+            continue
+
+        for entry in item["entries"]:
+            new_value = format_chapter_value(
+                item["new"],
+                entry["chapter_title"],
+            )
+            new_text = replace_field_value(
+                entry["text"],
+                "Capítulo",
+                entry["chapter_raw"],
+                new_value,
+            )
+            prepared.append((entry["path"], new_text))
+
+    return prepared
+
+
+def apply_chapter_plan(plan):
+    """Escribe una renumeracion de capitulos ya validada."""
+
+    prepared = prepare_chapter_changes(plan)
+
+    for path, content in prepared:
+        write_text(path, content)
+
+    return len(prepared)
+
+
+def renumber_chapters(args):
+    """Renumera capitulos conservando su orden actual."""
+
+    if args.step < 1:
+        fail("Chapter step must be greater than zero.")
+
+    entries = load_entries()
+    check_duplicate_positions(entries)
+    plan = build_chapter_plan(entries, step=args.step)
+
+    print()
+    print(f"[BOOK TOOLS] Chapter step: {args.step}")
+    print_chapter_plan(plan)
+
+    changes = [item for item in plan if item["old"] != item["new"]]
+
+    if not changes:
+        print()
+        print("Chapters are already normalized for this step.")
+        print()
+        return
+
+    prepare_chapter_changes(plan)
+
+    if args.dry_run:
+        print()
+        print("[DRY RUN] No files were modified.")
+        print()
+        return
+
+    print()
+    confirmation = input("Apply these changes? [y/N] ").strip().lower()
+
+    if confirmation != "y":
+        print()
+        print("[BOOK TOOLS] Operation cancelled.")
+        print()
+        return
+
+    ensure_clean_git()
+    changed = apply_chapter_plan(plan)
+
+    print()
+    print(f"[OK] {changed} file(s) updated.")
+    print()
+    print("Review the changes with:")
+    print()
+    print("    git diff")
+    print()
+
+
+def replace_chapter(args):
+    """Sustituye una definicion completa de capitulo por otra."""
+
+    old_value = validate_chapter_value(args.old_chapter)
+    new_value = validate_chapter_value(args.new_chapter)
+    entries = load_entries()
+    matches = [
+        entry for entry in entries
+        if validate_chapter_value(entry["chapter_raw"]) == old_value
+    ]
+
+    if not matches:
+        fail(f"Chapter not found:\n        {old_value}")
+
+    prepared = []
+    for entry in matches:
+        new_text = replace_field_value(
+            entry["text"],
+            "Capítulo",
+            entry["chapter_raw"],
+            new_value,
+        )
+        prepared.append((entry["path"], new_text))
+
+    print()
+    print(f"Chapter replacement: {old_value} -> {new_value}")
+    print(f"[BOOK TOOLS] {len(prepared)} file(s) will be updated.")
+
+    if args.dry_run:
+        print()
+        print("[DRY RUN] No files were modified.")
+        print()
+        return
+
+    print()
+    confirmation = input("Apply these changes? [y/N] ").strip().lower()
+    if confirmation != "y":
+        print()
+        print("[BOOK TOOLS] Operation cancelled.")
+        print()
+        return
+
+    ensure_clean_git()
+    for path, content in prepared:
+        write_text(path, content)
+
+    print()
+    print(f"[OK] {len(prepared)} file(s) updated.")
+    print()
+
+
+def build_parser():
+    """Construye la interfaz de linea de comandos."""
+
+    parser = argparse.ArgumentParser(
+        description="Editorial tools for the Aetheon book."
+    )
+    subparsers = parser.add_subparsers(dest="command", required=True)
+
+    sequences_parser = subparsers.add_parser(
+        "renumber-sequences",
+        help="Renumber literary sequences using steps of 10.",
+    )
+    sequences_parser.add_argument("--chapter", type=int)
+    sequences_parser.add_argument("--dry-run", action="store_true")
+    sequences_parser.set_defaults(handler=renumber_sequences)
+
+    chapters_parser = subparsers.add_parser(
+        "renumber-chapters",
+        help="Renumber chapters preserving their current order.",
+    )
+    chapters_parser.add_argument("--step", type=int, default=1)
+    chapters_parser.add_argument("--dry-run", action="store_true")
+    chapters_parser.set_defaults(handler=renumber_chapters)
+
+    replace_parser = subparsers.add_parser(
+        "replace-chapter",
+        help="Replace one complete chapter definition with another.",
+    )
+    replace_parser.add_argument("old_chapter")
+    replace_parser.add_argument("new_chapter")
+    replace_parser.add_argument("--dry-run", action="store_true")
+    replace_parser.set_defaults(handler=replace_chapter)
+
+    return parser
+
+
+def main():
+    print()
+    print("======================================")
+    print(" AETHEON BOOK TOOLS")
+    print("======================================")
+
+    parser = build_parser()
+    args = parser.parse_args()
+    args.handler(args)
+
+
+if __name__ == "__main__":
+    main()
