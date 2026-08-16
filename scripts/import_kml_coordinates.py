@@ -9,7 +9,8 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCE_DIR = ROOT / "codex" / "03_Cartografia"
-DEFAULT_KML = SOURCE_DIR / "Aetheon_revisado.kml"
+RESOURCE_DIR = ROOT / "recursos"
+DEFAULT_KML = RESOURCE_DIR / "Aetheon_revisado.kml"
 SOURCE_FILES = (
     "parcela.geojson",
     "bancales.geojson",
