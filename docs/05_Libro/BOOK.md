@@ -3,9 +3,9 @@
 ## Índice
 
 - [Capítulo 01 · - Mi Contexto](#capítulo-01-mi-contexto)
-- [Capítulo 02 · Orígenes](#capítulo-02-orígenes)
-- [Capítulo 03 · Evolución](#capítulo-03-evolución)
-- [Capítulo 04 · Protectores en la rosa de los vientos y el granado griegos](#capítulo-04-protectores-en-la-rosa-de-los-vientos-y-el-granado-griegos)
+- [Capítulo 11 · - Orígenes](#capítulo-11-orígenes)
+- [Capítulo 21 · - Evolución](#capítulo-21-evolución)
+- [Capítulo 31 · - Protectores en la rosa de los vientos y el granado griegos](#capítulo-31-protectores-en-la-rosa-de-los-vientos-y-el-granado-griegos)
 
 ---
 
@@ -17,7 +17,21 @@ La enfermera no ha podido evitar reirse, cuando le he recordado lo poco afortuna
 Pero en fin, esta vez, no he tosido, no he tenido ese ataque incontenible de convulsión pulmonar, no he tenido que temer haber entorpecido la realización de la prueba, esta vez, no tendré dudas, sea lo que sea que salga, van a fotografiar lo que sea que haya ahora mismo ahí, tal vez siga siendo nada, tal vez dentro de una semana, nuevos temores asomen en el horizonte.
 Estoy preparado, me digo a mí mismo no tener miedo, pero lo tengo.
 Y aún así, recuerdo de nuevo la gran frase de aquel compañero mío de antaño, Tomás... "Si tiene solución, de qué te preocupas? Si no la tiene, para qué preocuparse?"
-Así que respiro profundo, dejo que la dichosa máquina, ejecute su sesión de hardcore, rave, o after, como queráis verlo (así lo vivo yo y se me hace más llevadero), y para cuando acabe, estaré listo para una sola semana, para ver los resultados.
+Así que respiro profundo, dejo que la dichosa máquina, ejecute su sesión de hardcore, rave, o after, como queráis verlo (así lo vivo yo y se me hace más llevadero), y para cuando acabe, estaré listo dentro de una sola semana, para ver los resultados.
+Entretanto, recapacito, pienso y recuerdo. El impacto que tienen en nosotros los miedos, siempre me ha hecho gracia.. hablamos de ellos en plural tan a menudo.
+Es como si para nosotros, tener miedo a una araña, fuese muy distinto a tenerle miedo a morir, o a sufrir una enfermedad, o a perder a un ser querido por el motivo que sea.
+Los miedos, son un mecanismo, algo que nos pone en alerta, con la pretensión de hacernos creer, que depende de nosotros que de nuestra actitud, intención, voluntad o acción, depende que, algo suceda o deje de suceder, y el miedo en cierto modo, es nuestra sensación de impotencia, nuestra incapacidad profesional para impedir que determinadas cosas sucedan, y de alguna manera presionarnos para encontrar solución al problema.
+A lo largo de mi vida, he ido aprendiendo que, puede que esté equivocado, pero no hay distintos tipos de miedo. De hecho, casi todos se pueden llegar a un sólo miedo, y es el miedo al miedo.
+El miedo, nos bloquea, nos incapacita, nos enfrenta a ecuaciones insalvables, donde hagamos lo que hagamos, lo que tememos son las consecuencias.
+Esas consecuencias, muchas veces son imprevisibles, otras muchas veces inevitables, y aún así, podemos llegar a traicionar nuestros propios principios, sólo en pos de lo que superar ese miedo significa.
+El miedo es de esas cosas, que puede hacer que cualquier ser vivo, saque su versión más desagradable, irracional y temible de cada uno.
+Para mí, el miedo, se resume realmente en ese "miedo al miedo", y como tal, es una fórmula recursiva, recurrente e irresoluble, que si no le encuentras debidamente la via de escape, puede acabar convirtiendo tus acciones en continuos errores, en lugar de tanteos a soluciones.
+El miedo no te ha de bloquear, no te puede irracionalizar, tienes que saber ver más allá de ese propio miedo, y tratar de serenarte ante él, ser consciente de cuantísimo retroalimentas ese miedo, y que lo que instintivamente es un sentido de supervivencia, extrapolado al mundo racional, ayuda pésimamente a desenvolverte en este mundo adecuadamente.
+El miedo debería ser la señal, de intentar racionalizar, desdramatizar, y penar que no es necesario que todo tenga una solución satisfactoria.
+A veces, superar "los miedos", pasa mucho por aceptar precisamente esa realidad... no todo va a ser como deseamos que sea, por mucho que nos empeñemos en que "necesitamos que no sea así".
+El miedo debería ser la antesala del raciocinio, de amansar las emociones, de respirar profundo y tomar decisiones lógicas, tácticas y provechosas.
+Por eso, escanear los miedos, es tan necesario y decisivo, porque nos permite singularizarlos. No hay muchos miedos, siempre es el mismo en realidad, y en general, es la capacidad del miedo para bloquear tu raciocinio, para conducirte a la desesperación, la angustia y el autobloqueo.
+Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ventajosos y que en general te ubicarán en aquellos lugares, donde jamás deseaste estar, o ser quien jamás deseaste ser.
 
 
 Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
@@ -33,7 +47,7 @@ Aún así, para ellos, es duro, muy duro, aunque en especial mi padre, no sepa y
 El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro motivo, más que por desalinearse de la implacable realidad.
 
 
-## Capítulo 02 · Orígenes
+## Capítulo 11 · - Orígenes
 
 Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
 
@@ -47,7 +61,7 @@ En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que
 Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo recientemente vendí mi piso en Catarroja, con la idea de poder comprar algo como esto. Una casa, en una zona no exactamente urbana. Poder tener tierra, un lugar donde mis mascotas pudiesen tener espacio. Frank y yo nos ilusionamos mucho sólo con verla, todo se alineaba, la casa era adecuada, la parcela increible, el precio dentro de nuestras posibilidades... todo parecía alinearse.
 
 
-## Capítulo 03 · Evolución
+## Capítulo 21 · - Evolución
 
 Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante. En aquel entonces, vivíamos aún en Calderer, un trayecto ansioso por conocer este lugar.
 TITÁN Ya se veia majestuoso al llegar a la parcela, incluso antes que él, podíamos ver a Luperca, Pisa, Amis, Pontos, Dogos y d'Artacán, pero ver su tronco, ya robaba todas las atenciones, fué inevitable quedarnos maravillados viéndolo.
@@ -70,7 +84,7 @@ Un sistema que se autoregula, que se equilibra, y a medida que más miembros for
 Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte de ti.
 
 
-## Capítulo 04 · Protectores en la rosa de los vientos y el granado griegos
+## Capítulo 31 · - Protectores en la rosa de los vientos y el granado griegos
 
 Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
 Los guardianes más consolidados, son prácticamente inmunes a esos malos tratos por su parte, Vetusta, Titán, Los olivos bijus, o ni siquiera ninguno de los masqueperros, pueden sufrir considerablemente la incontenible energía de nuestra niñas más pequeñas e intrépidas.

@@ -8,19 +8,19 @@
 ## Índice editorial
 
 - **Capítulo 01 · - Mi Contexto**
-  - 001 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
-  - 002 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
-- **Capítulo 02 · Orígenes**
-  - 002 · 1800-00-00_Titan-Germina — `1800-00-00_Titan-Germina.md`
-  - 003 · 1978-00-00_Constitucion_catastral — `1978-00-00_Constitucion_catastral.md`
-  - 004 · 2015-06-23_Compra-anteriores-propietarios — `2015-06-23_Compra-anteriores-propietarios.md`
-  - 005 · 2024-03-27_Aetheon-en-venta — `2024-03-27_Aetheon-en-venta.md`
-- **Capítulo 03 · Evolución**
-  - 001 · 2024-04-28_Primera-visita — `2024-04-28_Primera-visita.md`
-  - 002 · 2026-08-13_Alevines-en-Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
-- **Capítulo 04 · Protectores en la rosa de los vientos y el granado griegos**
-  - 001 · 2026-08-06_Proteccion-de-los-arboles — `2026-08-06_Proteccion-de-los-arboles.md`
-  - 002 · 2026-08-08_Rhoa-y-Side — `2026-08-08_Rhoa-y-Side.md`
+  - 010 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
+  - 020 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
+- **Capítulo 11 · - Orígenes**
+  - 010 · 1800-00-00_Titan-Germina — `1800-00-00_Titan-Germina.md`
+  - 020 · 1978-00-00_Constitucion_catastral — `1978-00-00_Constitucion_catastral.md`
+  - 030 · 2015-06-23_Compra-anteriores-propietarios — `2015-06-23_Compra-anteriores-propietarios.md`
+  - 040 · 2024-03-27_Aetheon-en-venta — `2024-03-27_Aetheon-en-venta.md`
+- **Capítulo 21 · - Evolución**
+  - 010 · 2024-04-28_Primera-visita — `2024-04-28_Primera-visita.md`
+  - 020 · 2026-08-13_Alevines-en-Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
+- **Capítulo 31 · - Protectores en la rosa de los vientos y el granado griegos**
+  - 010 · 2026-08-06_Proteccion-de-los-arboles — `2026-08-06_Proteccion-de-los-arboles.md`
+  - 020 · 2026-08-08_Rhoa-y-Side — `2026-08-08_Rhoa-y-Side.md`
 
 ### Pendientes de clasificación
 
@@ -36,7 +36,7 @@
 - **Origen:** `2026-08-07_Escaneando-los-miedos.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 001
+- **Secuencia:** 010
 
 Tras esperar por mucho e insistir alguna vez, por fin conseguí cita para la resonancia magnética. Nada reseñable, al parecer, mientras me ponían la vía, hoy he descubierto que el elástico que usan para presionar el brazo y hacer visibles las venas para poder escoger la más óptima para pinchar la vía se le puede llamar o bien garrote, o bien smart.
 Lo de smart, sinceramente no veo que tiene de inteligente un elástico, pero en fin, es casi preferible al garrote. 
@@ -44,7 +44,21 @@ La enfermera no ha podido evitar reirse, cuando le he recordado lo poco afortuna
 Pero en fin, esta vez, no he tosido, no he tenido ese ataque incontenible de convulsión pulmonar, no he tenido que temer haber entorpecido la realización de la prueba, esta vez, no tendré dudas, sea lo que sea que salga, van a fotografiar lo que sea que haya ahora mismo ahí, tal vez siga siendo nada, tal vez dentro de una semana, nuevos temores asomen en el horizonte.
 Estoy preparado, me digo a mí mismo no tener miedo, pero lo tengo.
 Y aún así, recuerdo de nuevo la gran frase de aquel compañero mío de antaño, Tomás... "Si tiene solución, de qué te preocupas? Si no la tiene, para qué preocuparse?"
-Así que respiro profundo, dejo que la dichosa máquina, ejecute su sesión de hardcore, rave, o after, como queráis verlo (así lo vivo yo y se me hace más llevadero), y para cuando acabe, estaré listo para una sola semana, para ver los resultados.
+Así que respiro profundo, dejo que la dichosa máquina, ejecute su sesión de hardcore, rave, o after, como queráis verlo (así lo vivo yo y se me hace más llevadero), y para cuando acabe, estaré listo dentro de una sola semana, para ver los resultados.
+Entretanto, recapacito, pienso y recuerdo. El impacto que tienen en nosotros los miedos, siempre me ha hecho gracia.. hablamos de ellos en plural tan a menudo.
+Es como si para nosotros, tener miedo a una araña, fuese muy distinto a tenerle miedo a morir, o a sufrir una enfermedad, o a perder a un ser querido por el motivo que sea.
+Los miedos, son un mecanismo, algo que nos pone en alerta, con la pretensión de hacernos creer, que depende de nosotros que de nuestra actitud, intención, voluntad o acción, depende que, algo suceda o deje de suceder, y el miedo en cierto modo, es nuestra sensación de impotencia, nuestra incapacidad profesional para impedir que determinadas cosas sucedan, y de alguna manera presionarnos para encontrar solución al problema.
+A lo largo de mi vida, he ido aprendiendo que, puede que esté equivocado, pero no hay distintos tipos de miedo. De hecho, casi todos se pueden llegar a un sólo miedo, y es el miedo al miedo.
+El miedo, nos bloquea, nos incapacita, nos enfrenta a ecuaciones insalvables, donde hagamos lo que hagamos, lo que tememos son las consecuencias.
+Esas consecuencias, muchas veces son imprevisibles, otras muchas veces inevitables, y aún así, podemos llegar a traicionar nuestros propios principios, sólo en pos de lo que superar ese miedo significa.
+El miedo es de esas cosas, que puede hacer que cualquier ser vivo, saque su versión más desagradable, irracional y temible de cada uno.
+Para mí, el miedo, se resume realmente en ese "miedo al miedo", y como tal, es una fórmula recursiva, recurrente e irresoluble, que si no le encuentras debidamente la via de escape, puede acabar convirtiendo tus acciones en continuos errores, en lugar de tanteos a soluciones.
+El miedo no te ha de bloquear, no te puede irracionalizar, tienes que saber ver más allá de ese propio miedo, y tratar de serenarte ante él, ser consciente de cuantísimo retroalimentas ese miedo, y que lo que instintivamente es un sentido de supervivencia, extrapolado al mundo racional, ayuda pésimamente a desenvolverte en este mundo adecuadamente.
+El miedo debería ser la señal, de intentar racionalizar, desdramatizar, y penar que no es necesario que todo tenga una solución satisfactoria.
+A veces, superar "los miedos", pasa mucho por aceptar precisamente esa realidad... no todo va a ser como deseamos que sea, por mucho que nos empeñemos en que "necesitamos que no sea así".
+El miedo debería ser la antesala del raciocinio, de amansar las emociones, de respirar profundo y tomar decisiones lógicas, tácticas y provechosas.
+Por eso, escanear los miedos, es tan necesario y decisivo, porque nos permite singularizarlos. No hay muchos miedos, siempre es el mismo en realidad, y en general, es la capacidad del miedo para bloquear tu raciocinio, para conducirte a la desesperación, la angustia y el autobloqueo.
+Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ventajosos y que en general te ubicarán en aquellos lugares, donde jamás deseaste estar, o ser quien jamás deseaste ser.
 
 ---
 
@@ -53,7 +67,7 @@ Así que respiro profundo, dejo que la dichosa máquina, ejecute su sesión de h
 - **Origen:** `2026-08-14_El-resultado-de-la-espera.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 002
+- **Secuencia:** 020
 
 Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
 No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.
@@ -69,14 +83,14 @@ El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro mo
 
 ---
 
-## Capítulo 02 · Orígenes
+## Capítulo 11 · - Orígenes
 
 ### 1800-00-00_Titan-Germina
 
 - **Origen:** `1800-00-00_Titan-Germina.md`
 - **Estado:** Borrador
-- **Capítulo:** 02
-- **Secuencia:** 002
+- **Capítulo:** 11
+- **Secuencia:** 010
 
 Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
 
@@ -86,8 +100,8 @@ Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fe
 
 - **Origen:** `1978-00-00_Constitucion_catastral.md`
 - **Estado:** Borrador
-- **Capítulo:** 02
-- **Secuencia:** 003
+- **Capítulo:** 11
+- **Secuencia:** 020
 
 Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
 
@@ -97,8 +111,8 @@ Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fe
 
 - **Origen:** `2015-06-23_Compra-anteriores-propietarios.md`
 - **Estado:** Borrador
-- **Capítulo:** 02
-- **Secuencia:** 004
+- **Capítulo:** 11
+- **Secuencia:** 030
 
 En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que aquí quedó, fué también gracias a su contribución.
 
@@ -108,21 +122,21 @@ En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que
 
 - **Origen:** `2024-03-27_Aetheon-en-venta.md`
 - **Estado:** Borrador
-- **Capítulo:** 02
-- **Secuencia:** 005
+- **Capítulo:** 11
+- **Secuencia:** 040
 
 Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo recientemente vendí mi piso en Catarroja, con la idea de poder comprar algo como esto. Una casa, en una zona no exactamente urbana. Poder tener tierra, un lugar donde mis mascotas pudiesen tener espacio. Frank y yo nos ilusionamos mucho sólo con verla, todo se alineaba, la casa era adecuada, la parcela increible, el precio dentro de nuestras posibilidades... todo parecía alinearse.
 
 ---
 
-## Capítulo 03 · Evolución
+## Capítulo 21 · - Evolución
 
 ### 2024-04-28_Primera-visita
 
 - **Origen:** `2024-04-28_Primera-visita.md`
 - **Estado:** Borrador
-- **Capítulo:** 03
-- **Secuencia:** 001
+- **Capítulo:** 21
+- **Secuencia:** 010
 
 Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante. En aquel entonces, vivíamos aún en Calderer, un trayecto ansioso por conocer este lugar.
 TITÁN Ya se veia majestuoso al llegar a la parcela, incluso antes que él, podíamos ver a Luperca, Pisa, Amis, Pontos, Dogos y d'Artacán, pero ver su tronco, ya robaba todas las atenciones, fué inevitable quedarnos maravillados viéndolo.
@@ -135,8 +149,8 @@ Podemos ver la diferencianción de los 3 bancales escalonados que conforman la p
 
 - **Origen:** `2026-08-13_Alevines-en-Al-Ghadir.md`
 - **Estado:** Borrador
-- **Capítulo:** 03
-- **Secuencia:** 002
+- **Capítulo:** 21
+- **Secuencia:** 020
 
 Un dia más en Aetheon, la rutina de mantenimiento, me trae a mi presencia mientras limpiaba de excesos incipientes de algas flotantes, y proveer de agua a Al-Ghadir, que tanto sufre esta interminable ola de calor perpetua que vivimos todo este verano, como ya viene siendo habitual, las estaciones se adelantan, el sofocante calor se instala ya desde mediados de primavera, y luchar contra este elemento se hace duro, no sólo para nosotros, sino para toda la vida que Aetheon alberga.
 El clima se vuelve duro para todos, y de pronto, mientras concentrado en mi labor, mis ya no tan jóvenes ojos, detectan un movimiento fugaz, rápido, mínimo, pero raudo, y al mirar con más atención en una de las islas flotantes, allí puedo verlos.
@@ -154,14 +168,14 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 
 ---
 
-## Capítulo 04 · Protectores en la rosa de los vientos y el granado griegos
+## Capítulo 31 · - Protectores en la rosa de los vientos y el granado griegos
 
 ### 2026-08-06_Proteccion-de-los-arboles
 
 - **Origen:** `2026-08-06_Proteccion-de-los-arboles.md`
 - **Estado:** Borrador
-- **Capítulo:** 04
-- **Secuencia:** 001
+- **Capítulo:** 31
+- **Secuencia:** 010
 
 Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
 Los guardianes más consolidados, son prácticamente inmunes a esos malos tratos por su parte, Vetusta, Titán, Los olivos bijus, o ni siquiera ninguno de los masqueperros, pueden sufrir considerablemente la incontenible energía de nuestra niñas más pequeñas e intrépidas.
@@ -174,8 +188,8 @@ Frank y yo decidimos instalar los típicos protectores de patas de mesa, para qu
 
 - **Origen:** `2026-08-08_Rhoa-y-Side.md`
 - **Estado:** Borrador
-- **Capítulo:** 04
-- **Secuencia:** 002
+- **Capítulo:** 31
+- **Secuencia:** 020
 
 Frank ha aportado nuevos nombres a la mitología de Aetheon.
 Tras las moreras, al este, se hayan situado dos granados jóvenes.

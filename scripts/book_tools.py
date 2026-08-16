@@ -29,9 +29,9 @@ Operaciones:
         Renumera los capítulos conservando su orden actual.
         El incremento puede configurarse mediante --step.
 
-Operación prevista:
-
     replace-chapter
+        Sustituye una definición completa de capítulo
+        por otra en todas las entradas afectadas.
 """
 
 from pathlib import Path
@@ -297,6 +297,105 @@ def parse_sequence(value):
         return None
 
     return int(value)
+
+
+def normalize_chapter_title(title):
+    """
+    Normaliza únicamente el separador inicial
+    del título de capítulo.
+
+    parse_chapter():
+
+        03 - Evolución
+
+    produce:
+
+        title = "- Evolución"
+
+    Para reconstruir el valor evitamos
+    duplicar ese guion.
+    """
+
+    if not title:
+        return ""
+
+    title = title.strip()
+
+    if title.startswith("-"):
+        title = (
+            title[1:]
+            .strip()
+        )
+
+    return title
+
+
+def format_chapter_value(
+    number,
+    title,
+):
+    """
+    Construye la representación canónica
+    de un capítulo.
+
+    Ejemplos:
+
+        00 - Prólogo
+        01 - Mi Contexto
+        10 - Evolución
+
+    Si no existe título:
+
+        03
+    """
+
+    clean_title = (
+        normalize_chapter_title(
+            title
+        )
+    )
+
+    if not clean_title:
+        return (
+            f"{number:02d}"
+        )
+
+    return (
+        f"{number:02d} - "
+        f"{clean_title}"
+    )
+
+
+def validate_chapter_value(value):
+    """
+    Valida y normaliza una definición
+    completa de capítulo.
+
+    Devuelve la representación canónica.
+
+    Ejemplo:
+
+        "3 - Evolución"
+            ->
+        "03 - Evolución"
+    """
+
+    parsed = parse_chapter(
+        value
+    )
+
+    if parsed is None:
+        fail(
+            f"Invalid chapter value:\n"
+            f"        {value}"
+        )
+
+    number, title = parsed
+
+    return format_chapter_value(
+        number,
+        title,
+    )
 
 
 # ============================================================
@@ -877,7 +976,6 @@ def renumber_sequences(args):
 
         return
 
-    # Validación completa en memoria.
     prepare_sequence_changes(
         plan
     )
@@ -936,37 +1034,6 @@ def renumber_sequences(args):
 # ============================================================
 # Renumeración de capítulos
 # ============================================================
-
-
-def normalize_chapter_title(title):
-    """
-    Normaliza únicamente el separador inicial
-    del título de capítulo.
-
-    parse_chapter():
-
-        03 - Evolución
-
-    produce:
-
-        title = "- Evolución"
-
-    Para reconstruir el valor evitamos
-    duplicar ese guion.
-    """
-
-    if not title:
-        return ""
-
-    title = title.strip()
-
-    if title.startswith("-"):
-        title = (
-            title[1:]
-            .strip()
-        )
-
-    return title
 
 
 def collect_chapters(entries):
@@ -1069,37 +1136,6 @@ def build_chapter_plan(
     - Si no existe capítulo 0, se empieza por 1.
     - El incremento lo determina step.
     - No se modifican las secuencias.
-
-    Ejemplos:
-
-        step = 1
-
-        00, 03, 07, 12
-            ->
-        00, 01, 02, 03
-
-
-        step = 10
-
-        00, 03, 07, 12
-            ->
-        00, 10, 20, 30
-
-
-    Sin capítulo 0:
-
-        step = 1
-
-        03, 07, 12
-            ->
-        01, 02, 03
-
-
-        step = 10
-
-        03, 07, 12
-            ->
-        01, 11, 21
     """
 
     if step < 1:
@@ -1143,499 +1179,14 @@ def build_chapter_plan(
         ):
 
             new_number = 0
-
             current = step
 
         else:
 
             new_number = current
-
             current += step
 
         plan.append(
             {
                 "old":
-                    old_number,
-
-                "new":
-                    new_number,
-
-                "title":
-                    chapter["title"],
-
-                "entries":
-                    chapter["entries"],
-            }
-        )
-
-    return plan
-
-
-def format_chapter_value(
-    number,
-    title,
-):
-    """
-    Construye la representación canónica
-    de un capítulo.
-
-    Ejemplos:
-
-        00 - Prólogo
-        01 - Mi Contexto
-        10 - Evolución
-
-    Si no existe título:
-
-        03
-    """
-
-    clean_title = (
-        normalize_chapter_title(
-            title
-        )
-    )
-
-    if not clean_title:
-
-        return (
-            f"{number:02d}"
-        )
-
-    return (
-        f"{number:02d} - "
-        f"{clean_title}"
-    )
-
-
-def print_chapter_plan(plan):
-    """
-    Presenta visualmente la renumeración
-    prevista de capítulos.
-    """
-
-    if not plan:
-
-        print()
-        print(
-            "[BOOK TOOLS] "
-            "No chapters found."
-        )
-
-        return
-
-    print()
-    print(
-        "Chapter renumbering plan"
-    )
-
-    print(
-        "-" * 60
-    )
-
-    changed_chapters = 0
-    changed_files = 0
-
-    for item in plan:
-
-        old = item[
-            "old"
-        ]
-
-        new = item[
-            "new"
-        ]
-
-        title = item[
-            "title"
-        ]
-
-        if title:
-
-            label = (
-                f" - {title}"
-            )
-
-        else:
-
-            label = ""
-
-        marker = (
-            " "
-            if old == new
-            else "*"
-        )
-
-        print(
-            f"{marker} "
-            f"{old:02d} -> "
-            f"{new:02d}"
-            f"{label}"
-        )
-
-        entry_count = len(
-            item[
-                "entries"
-            ]
-        )
-
-        print(
-            f"    "
-            f"{entry_count} "
-            f"entr"
-            f"{'y' if entry_count == 1 else 'ies'}"
-        )
-
-        if old != new:
-
-            changed_chapters += 1
-
-            changed_files += (
-                entry_count
-            )
-
-    print()
-
-    print(
-        f"[BOOK TOOLS] "
-        f"{changed_chapters} "
-        f"chapter(s) will change."
-    )
-
-    print(
-        f"[BOOK TOOLS] "
-        f"{changed_files} "
-        f"file(s) will be updated."
-    )
-
-
-def prepare_chapter_changes(plan):
-    """
-    Calcula primero TODOS los documentos
-    resultantes en memoria.
-
-    No se escribe ningún archivo hasta
-    haber validado completamente la
-    operación.
-    """
-
-    prepared = []
-
-    for item in plan:
-
-        if (
-            item["old"]
-            == item["new"]
-        ):
-            continue
-
-        new_number = item[
-            "new"
-        ]
-
-        for entry in item[
-            "entries"
-        ]:
-
-            old_value = entry[
-                "chapter_raw"
-            ]
-
-            new_value = (
-                format_chapter_value(
-                    new_number,
-                    entry[
-                        "chapter_title"
-                    ],
-                )
-            )
-
-            new_text = (
-                replace_field_value(
-                    entry["text"],
-                    "Capítulo",
-                    old_value,
-                    new_value,
-                )
-            )
-
-            prepared.append(
-                (
-                    entry["path"],
-                    new_text,
-                )
-            )
-
-    return prepared
-
-
-def apply_chapter_plan(plan):
-    """
-    Aplica una renumeración de capítulos
-    previamente validada.
-    """
-
-    prepared = (
-        prepare_chapter_changes(
-            plan
-        )
-    )
-
-    for path, content in prepared:
-
-        write_text(
-            path,
-            content,
-        )
-
-    return len(prepared)
-
-
-def renumber_chapters(args):
-    """
-    Normaliza los ordinales de capítulos.
-
-    El incremento se determina mediante:
-
-        --step
-
-    Por defecto:
-
-        --step 1
-    """
-
-    if args.step < 1:
-        fail(
-            "Chapter step must be "
-            "greater than zero."
-        )
-
-    entries = load_entries()
-
-    check_duplicate_positions(
-        entries
-    )
-
-    plan = build_chapter_plan(
-        entries,
-        step=args.step,
-    )
-
-    print()
-    print(
-        f"[BOOK TOOLS] "
-        f"Chapter step: {args.step}"
-    )
-
-    print_chapter_plan(
-        plan
-    )
-
-    changes = [
-        item
-        for item in plan
-        if (
-            item["old"]
-            != item["new"]
-        )
-    ]
-
-    if not changes:
-
-        print()
-        print(
-            "Chapters are already "
-            "normalized for this step."
-        )
-        print()
-
-        return
-
-    # --------------------------------------------------------
-    # Validación completa antes de escribir
-    # --------------------------------------------------------
-
-    prepare_chapter_changes(
-        plan
-    )
-
-    if args.dry_run:
-
-        print()
-        print(
-            "[DRY RUN] "
-            "No files were modified."
-        )
-        print()
-
-        return
-
-    print()
-
-    confirmation = input(
-        "Apply these changes? [y/N] "
-    ).strip().lower()
-
-    if confirmation != "y":
-
-        print()
-        print(
-            "[BOOK TOOLS] "
-            "Operation cancelled."
-        )
-        print()
-
-        return
-
-    ensure_clean_git()
-
-    changed = apply_chapter_plan(
-        plan
-    )
-
-    print()
-    print(
-        f"[OK] {changed} "
-        f"file(s) updated."
-    )
-    print()
-
-    print(
-        "Review the changes with:"
-    )
-    print()
-
-    print(
-        "    git diff"
-    )
-    print()
-
-
-# ============================================================
-# CLI
-# ============================================================
-
-
-def build_parser():
-    """
-    Construye la interfaz de línea de comandos.
-    """
-
-    parser = argparse.ArgumentParser(
-        description=(
-            "Editorial tools for "
-            "the Aetheon book."
-        )
-    )
-
-    subparsers = (
-        parser.add_subparsers(
-            dest="command",
-            required=True,
-        )
-    )
-
-    # --------------------------------------------------------
-    # renumber-sequences
-    # --------------------------------------------------------
-
-    sequences_parser = (
-        subparsers.add_parser(
-            "renumber-sequences",
-            help=(
-                "Renumber literary "
-                "sequences using "
-                "steps of 10."
-            ),
-        )
-    )
-
-    sequences_parser.add_argument(
-        "--chapter",
-        type=int,
-        help=(
-            "Only renumber the "
-            "specified chapter."
-        ),
-    )
-
-    sequences_parser.add_argument(
-        "--dry-run",
-        action="store_true",
-        help=(
-            "Show the resulting "
-            "operation without "
-            "modifying files."
-        ),
-    )
-
-    sequences_parser.set_defaults(
-        handler=renumber_sequences
-    )
-
-    # --------------------------------------------------------
-    # renumber-chapters
-    # --------------------------------------------------------
-
-    chapters_parser = (
-        subparsers.add_parser(
-            "renumber-chapters",
-            help=(
-                "Renumber chapters "
-                "preserving their "
-                "current order."
-            ),
-        )
-    )
-
-    chapters_parser.add_argument(
-        "--step",
-        type=int,
-        default=1,
-        help=(
-            "Chapter numbering increment. "
-            "Default: 1. "
-            "Use 10 to create insertion gaps."
-        ),
-    )
-
-    chapters_parser.add_argument(
-        "--dry-run",
-        action="store_true",
-        help=(
-            "Show the resulting "
-            "operation without "
-            "modifying files."
-        ),
-    )
-
-    chapters_parser.set_defaults(
-        handler=renumber_chapters
-    )
-
-    return parser
-
-
-def main():
-    print()
-    print(
-        "======================================"
-    )
-    print(
-        " AETHEON BOOK TOOLS"
-    )
-    print(
-        "======================================"
-    )
-
-    parser = build_parser()
-
-    args = parser.parse_args()
-
-    args.handler(
-        args
-    )
-
-
-if __name__ == "__main__":
-    main()
+                    old_number

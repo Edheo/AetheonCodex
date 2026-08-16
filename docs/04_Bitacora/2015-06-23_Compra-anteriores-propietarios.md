@@ -12,9 +12,9 @@ Fecha de adquisición de los propietarios anteriores. El matrimonio Jose Luis Go
 ## Literaria
 
 ### Capítulo
-02 Orígenes
+11 - Orígenes
 ### Secuencia
-004
+030
 ### Contenido
 En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que aquí quedó, fué también gracias a su contribución.
 
