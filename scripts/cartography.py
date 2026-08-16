@@ -26,7 +26,6 @@ import json
 import sys
 import xml.etree.ElementTree as ET
 
-
 ROOT = Path(__file__).resolve().parent.parent
 
 SOURCE_DIR = (
