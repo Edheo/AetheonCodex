@@ -24,6 +24,7 @@ Principios:
 from pathlib import Path
 import json
 import sys
+import xml.etree.ElementTree as ET
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -45,6 +46,10 @@ OUTPUT_FILE = (
     / "AETHEON.geojson"
 )
 
+KML_FILE = (
+    OUTPUT_DIR
+    / "AETHEON.kml"
+)
 MAP_FILE = OUTPUT_DIR / "MAPA.md"
 
 STYLESHEET_FILE = (
@@ -436,7 +441,461 @@ def write_geojson(data):
         f"[OK] Generated: {OUTPUT_FILE}"
     )
 
+def kml_coordinates(coordinates):
+    """
+    Convierte coordenadas GeoJSON al formato KML.
 
+    GeoJSON:
+        [longitude, latitude]
+        [longitude, latitude, altitude]
+
+    KML:
+        longitude,latitude
+        longitude,latitude,altitude
+    """
+
+    values = []
+
+    for coordinate in coordinates:
+        if len(coordinate) >= 3:
+            values.append(
+                f"{coordinate[0]},"
+                f"{coordinate[1]},"
+                f"{coordinate[2]}"
+            )
+        else:
+            values.append(
+                f"{coordinate[0]},"
+                f"{coordinate[1]}"
+            )
+
+    return " ".join(values)
+
+
+def add_kml_point(parent, coordinates):
+    """
+    Añade una geometría Point.
+    """
+
+    point = ET.SubElement(
+        parent,
+        "Point",
+    )
+
+    coords = ET.SubElement(
+        point,
+        "coordinates",
+    )
+
+    if len(coordinates) >= 3:
+        coords.text = (
+            f"{coordinates[0]},"
+            f"{coordinates[1]},"
+            f"{coordinates[2]}"
+        )
+    else:
+        coords.text = (
+            f"{coordinates[0]},"
+            f"{coordinates[1]}"
+        )
+
+
+def add_kml_linestring(parent, coordinates):
+    """
+    Añade una geometría LineString.
+    """
+
+    line = ET.SubElement(
+        parent,
+        "LineString",
+    )
+
+    tessellate = ET.SubElement(
+        line,
+        "tessellate",
+    )
+    tessellate.text = "1"
+
+    coords = ET.SubElement(
+        line,
+        "coordinates",
+    )
+
+    coords.text = kml_coordinates(
+        coordinates
+    )
+
+
+def add_kml_polygon(parent, coordinates):
+    """
+    Añade una geometría Polygon.
+
+    El primer anillo se interpreta como exterior.
+    Los siguientes, si existen, como huecos interiores.
+    """
+
+    if not coordinates:
+        return
+
+    polygon = ET.SubElement(
+        parent,
+        "Polygon",
+    )
+
+    tessellate = ET.SubElement(
+        polygon,
+        "tessellate",
+    )
+    tessellate.text = "1"
+
+    outer_boundary = ET.SubElement(
+        polygon,
+        "outerBoundaryIs",
+    )
+
+    outer_ring = ET.SubElement(
+        outer_boundary,
+        "LinearRing",
+    )
+
+    outer_coords = ET.SubElement(
+        outer_ring,
+        "coordinates",
+    )
+
+    outer_coords.text = kml_coordinates(
+        coordinates[0]
+    )
+
+    for inner in coordinates[1:]:
+
+        inner_boundary = ET.SubElement(
+            polygon,
+            "innerBoundaryIs",
+        )
+
+        inner_ring = ET.SubElement(
+            inner_boundary,
+            "LinearRing",
+        )
+
+        inner_coords = ET.SubElement(
+            inner_ring,
+            "coordinates",
+        )
+
+        inner_coords.text = kml_coordinates(
+            inner
+        )
+
+
+def add_kml_geometry(parent, geometry):
+    """
+    Convierte una geometría GeoJSON a KML.
+
+    Soporta:
+        Point
+        MultiPoint
+        LineString
+        MultiLineString
+        Polygon
+        MultiPolygon
+        GeometryCollection
+    """
+
+    if not geometry:
+        return
+
+    geometry_type = geometry.get("type")
+    coordinates = geometry.get("coordinates")
+
+    if geometry_type == "Point":
+        add_kml_point(
+            parent,
+            coordinates,
+        )
+
+    elif geometry_type == "LineString":
+        add_kml_linestring(
+            parent,
+            coordinates,
+        )
+
+    elif geometry_type == "Polygon":
+        add_kml_polygon(
+            parent,
+            coordinates,
+        )
+
+    elif geometry_type == "MultiPoint":
+
+        multi = ET.SubElement(
+            parent,
+            "MultiGeometry",
+        )
+
+        for point in coordinates:
+            add_kml_point(
+                multi,
+                point,
+            )
+
+    elif geometry_type == "MultiLineString":
+
+        multi = ET.SubElement(
+            parent,
+            "MultiGeometry",
+        )
+
+        for line in coordinates:
+            add_kml_linestring(
+                multi,
+                line,
+            )
+
+    elif geometry_type == "MultiPolygon":
+
+        multi = ET.SubElement(
+            parent,
+            "MultiGeometry",
+        )
+
+        for polygon in coordinates:
+            add_kml_polygon(
+                multi,
+                polygon,
+            )
+
+    elif geometry_type == "GeometryCollection":
+
+        multi = ET.SubElement(
+            parent,
+            "MultiGeometry",
+        )
+
+        for child_geometry in geometry.get(
+            "geometries",
+            []
+        ):
+            add_kml_geometry(
+                multi,
+                child_geometry,
+            )
+
+    else:
+        raise ValueError(
+            f"Unsupported GeoJSON geometry: "
+            f"{geometry_type}"
+        )
+
+
+def add_kml_extended_data(placemark, feature):
+    """
+    Conserva las propiedades GeoJSON como ExtendedData.
+
+    También conserva el ID de nivel Feature,
+    si existe y no está ya en properties.
+    """
+
+    properties = feature.get(
+        "properties",
+        {}
+    )
+
+    if not isinstance(properties, dict):
+        properties = {}
+
+    data = dict(properties)
+
+    feature_id = feature.get("id")
+
+    if (
+        feature_id is not None
+        and "id" not in data
+    ):
+        data["id"] = feature_id
+
+    if not data:
+        return
+
+    extended_data = ET.SubElement(
+        placemark,
+        "ExtendedData",
+    )
+
+    for key, value in data.items():
+
+        if value is None:
+            continue
+
+        item = ET.SubElement(
+            extended_data,
+            "Data",
+            name=str(key),
+        )
+
+        value_element = ET.SubElement(
+            item,
+            "value",
+        )
+
+        if isinstance(
+            value,
+            (dict, list),
+        ):
+            value_element.text = json.dumps(
+                value,
+                ensure_ascii=False,
+            )
+        else:
+            value_element.text = str(value)
+
+
+def write_kml(data):
+    """
+    Genera AETHEON.kml a partir del mismo
+    FeatureCollection utilizado para AETHEON.geojson.
+    """
+
+    print()
+    print(
+        f"[CARTOGRAPHY] Writing "
+        f"{KML_FILE.name}..."
+    )
+
+    namespace = (
+        "http://www.opengis.net/kml/2.2"
+    )
+
+    ET.register_namespace(
+        "",
+        namespace,
+    )
+
+    kml = ET.Element(
+        f"{{{namespace}}}kml"
+    )
+
+    document = ET.SubElement(
+        kml,
+        "Document",
+    )
+
+    document_name = ET.SubElement(
+        document,
+        "name",
+    )
+    document_name.text = "AETHEON"
+
+    for feature in data.get(
+        "features",
+        []
+    ):
+
+        placemark = ET.SubElement(
+            document,
+            "Placemark",
+        )
+
+        properties = feature.get(
+            "properties",
+            {},
+        )
+
+        if not isinstance(
+            properties,
+            dict,
+        ):
+            properties = {}
+
+        name = (
+            properties.get("name")
+            or properties.get("nombre")
+            or get_feature_id(feature)
+        )
+
+        if name:
+
+            name_element = ET.SubElement(
+                placemark,
+                "name",
+            )
+
+            name_element.text = str(name)
+
+        description = (
+            properties.get("description")
+            or properties.get("descripcion")
+        )
+
+        if description:
+
+            description_element = ET.SubElement(
+                placemark,
+                "description",
+            )
+
+            description_element.text = str(
+                description
+            )
+
+        add_kml_extended_data(
+            placemark,
+            feature,
+        )
+
+        try:
+            add_kml_geometry(
+                placemark,
+                feature.get("geometry"),
+            )
+
+        except ValueError as exc:
+            print()
+            print(
+                f"[ERROR] Unable to convert "
+                f"feature "
+                f"{get_feature_id(feature)} "
+                f"to KML."
+            )
+            print(f"        {exc}")
+            sys.exit(1)
+
+    tree = ET.ElementTree(
+        kml
+    )
+
+    ET.indent(
+        tree,
+        space="    ",
+    )
+
+    try:
+
+        OUTPUT_DIR.mkdir(
+            parents=True,
+            exist_ok=True,
+        )
+
+        tree.write(
+            KML_FILE,
+            encoding="utf-8",
+            xml_declaration=True,
+        )
+
+    except OSError as exc:
+        print()
+        print(
+            f"[ERROR] Unable to write "
+            f"{KML_FILE}"
+        )
+        print(f"        {exc}")
+        sys.exit(1)
+
+    print(
+        f"[OK] Generated: {KML_FILE}"
+    )
+    
 def write_text_file(path, content):
     """
     Escribe un artefacto textual generado en UTF-8.
@@ -497,8 +956,12 @@ def run():
         merged
     )
 
-    generate_map()
+    write_kml(
+        merged
+    )
 
+    generate_map()
+    
     print()
     print(
         f"[CARTOGRAPHY] "
@@ -507,10 +970,14 @@ def run():
     )
 
     print(
-        f"[CARTOGRAPHY] Output: "
+        f"[CARTOGRAPHY] GeoJSON: "
         f"{OUTPUT_FILE}"
     )
 
+    print(
+        f"[CARTOGRAPHY] KML: "
+        f"{KML_FILE}"
+    )
     print()
     print(
         "Cartography build completed "
