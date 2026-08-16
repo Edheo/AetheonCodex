@@ -830,8 +830,482 @@ def build_parser():
         handler=renumber_sequences
     )
 
+    # --------------------------------------------------------
+    # renumber-chapters
+    # --------------------------------------------------------
+
+    chapters_parser = (
+        subparsers.add_parser(
+            "renumber-chapters",
+            help=(
+                "Normalize chapter numbers "
+                "using consecutive integers."
+            ),
+        )
+    )
+
+    chapters_parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help=(
+            "Show the resulting operation "
+            "without modifying files."
+        ),
+    )
+
+    chapters_parser.set_defaults(
+        handler=renumber_chapters
+    )
+
     return parser
 
+# ============================================================
+# Renumeración de capítulos
+# ============================================================
+
+
+def collect_chapters(entries):
+    """
+    Obtiene los capítulos definidos en el libro.
+
+    Valida que un mismo número de capítulo
+    no tenga títulos diferentes.
+
+    Ejemplo inválido:
+
+        03 - Evolución
+        03 - Guardianes
+
+    porque no existe una interpretación
+    editorial inequívoca.
+    """
+
+    chapters = {}
+
+    for entry in entries:
+
+        number = entry[
+            "chapter_number"
+        ]
+
+        title = entry[
+            "chapter_title"
+        ]
+
+        if number not in chapters:
+            chapters[number] = {
+                "number": number,
+                "title": title,
+                "entries": [],
+            }
+
+        else:
+
+            existing_title = (
+                chapters[number]["title"]
+            )
+
+            if existing_title != title:
+
+                print()
+                print(
+                    "[ERROR] Inconsistent "
+                    "chapter definition:"
+                )
+                print()
+                print(
+                    f"Chapter: {number:02d}"
+                )
+                print()
+                print(
+                    f"  '{existing_title}'"
+                )
+                print(
+                    f"  '{title}'"
+                )
+                print()
+                print(
+                    "Renumbering aborted."
+                )
+                print()
+
+                sys.exit(1)
+
+        chapters[number][
+            "entries"
+        ].append(entry)
+
+    return chapters
+
+
+def build_chapter_plan(entries):
+    """
+    Calcula la nueva numeración de capítulos.
+
+    Reglas:
+
+    - Se conserva el orden ordinal actual.
+    - Si existe capítulo 0, continúa siendo 0.
+    - Si no existe capítulo 0, se empieza por 1.
+    - Después se incrementa siempre de uno en uno.
+    - No se modifican las secuencias.
+    """
+
+    chapters = collect_chapters(
+        entries
+    )
+
+    if not chapters:
+        return []
+
+    ordered_numbers = sorted(
+        chapters
+    )
+
+    has_zero = (
+        0 in chapters
+    )
+
+    next_number = (
+        0
+        if has_zero
+        else 1
+    )
+
+    plan = []
+
+    for old_number in ordered_numbers:
+
+        chapter = chapters[
+            old_number
+        ]
+
+        if (
+            has_zero
+            and old_number == 0
+        ):
+            new_number = 0
+            next_number = 1
+
+        else:
+            new_number = next_number
+            next_number += 1
+
+        plan.append(
+            {
+                "old": old_number,
+                "new": new_number,
+                "title": (
+                    chapter["title"]
+                ),
+                "entries": (
+                    chapter["entries"]
+                ),
+            }
+        )
+
+    return plan
+
+
+def format_chapter_value(
+    number,
+    title,
+):
+    """
+    Construye la representación canónica
+    de un capítulo.
+
+    Ejemplos:
+
+        00 - Prólogo
+        01 - Mi Contexto
+
+    Si no existe título:
+
+        03
+    """
+
+    if not title:
+        return f"{number:02d}"
+
+    clean_title = title.strip()
+
+    # parse_chapter() conserva actualmente
+    # cualquier separador como parte del título.
+    #
+    # Por ejemplo:
+    #
+    #   "01 - Mi Contexto"
+    #
+    # produce:
+    #
+    #   title = "- Mi Contexto"
+    #
+    # Aquí evitamos duplicar el guion.
+
+    if clean_title.startswith("-"):
+        clean_title = (
+            clean_title[1:]
+            .strip()
+        )
+
+    return (
+        f"{number:02d} - "
+        f"{clean_title}"
+    )
+
+
+def print_chapter_plan(plan):
+    """
+    Muestra la renumeración prevista.
+    """
+
+    if not plan:
+        print()
+        print(
+            "[BOOK TOOLS] "
+            "No chapters found."
+        )
+        return
+
+    print()
+    print(
+        "Chapter renumbering plan"
+    )
+    print(
+        "-" * 60
+    )
+
+    changed_chapters = 0
+    changed_files = 0
+
+    for item in plan:
+
+        old = item["old"]
+        new = item["new"]
+        title = item["title"]
+
+        if title:
+            clean_title = (
+                title
+                .lstrip("-")
+                .strip()
+            )
+
+            label = (
+                f" - {clean_title}"
+            )
+        else:
+            label = ""
+
+        marker = (
+            " "
+            if old == new
+            else "*"
+        )
+
+        print(
+            f"{marker} "
+            f"{old:02d} -> "
+            f"{new:02d}"
+            f"{label}"
+        )
+
+        print(
+            f"    "
+            f"{len(item['entries'])} "
+            f"entr"
+            f"{'y' if len(item['entries']) == 1 else 'ies'}"
+        )
+
+        if old != new:
+            changed_chapters += 1
+            changed_files += len(
+                item["entries"]
+            )
+
+    print()
+    print(
+        f"[BOOK TOOLS] "
+        f"{changed_chapters} chapter(s) "
+        f"will change."
+    )
+
+    print(
+        f"[BOOK TOOLS] "
+        f"{changed_files} file(s) "
+        f"will be updated."
+    )
+
+
+def prepare_chapter_changes(plan):
+    """
+    Calcula primero TODOS los documentos
+    resultantes en memoria.
+
+    No se escribe ningún archivo hasta
+    haber validado completamente la operación.
+    """
+
+    prepared = []
+
+    for item in plan:
+
+        if item["old"] == item["new"]:
+            continue
+
+        new_number = item["new"]
+
+        for entry in item[
+            "entries"
+        ]:
+
+            old_value = entry[
+                "chapter_raw"
+            ]
+
+            new_value = (
+                format_chapter_value(
+                    new_number,
+                    entry[
+                        "chapter_title"
+                    ],
+                )
+            )
+
+            new_text = (
+                replace_field_value(
+                    entry["text"],
+                    "Capítulo",
+                    old_value,
+                    new_value,
+                )
+            )
+
+            prepared.append(
+                (
+                    entry["path"],
+                    new_text,
+                )
+            )
+
+    return prepared
+
+
+def apply_chapter_plan(plan):
+    """
+    Aplica una renumeración de capítulos
+    ya completamente validada.
+    """
+
+    prepared = (
+        prepare_chapter_changes(
+            plan
+        )
+    )
+
+    for path, content in prepared:
+        write_text(
+            path,
+            content,
+        )
+
+    return len(prepared)
+
+
+def renumber_chapters(args):
+    """
+    Normaliza los ordinales de capítulos.
+
+    Ejemplo:
+
+        00, 03, 07, 12
+
+    pasa a:
+
+        00, 01, 02, 03
+    """
+
+    entries = load_entries()
+
+    check_duplicate_positions(
+        entries
+    )
+
+    plan = build_chapter_plan(
+        entries
+    )
+
+    print_chapter_plan(
+        plan
+    )
+
+    changes = [
+        item
+        for item in plan
+        if item["old"] != item["new"]
+    ]
+
+    if not changes:
+        print()
+        print(
+            "Chapters are already "
+            "normalized."
+        )
+        print()
+        return
+
+    # --------------------------------------------------------
+    # Validación completa antes de preguntar
+    # --------------------------------------------------------
+
+    prepare_chapter_changes(
+        plan
+    )
+
+    if args.dry_run:
+        print()
+        print(
+            "[DRY RUN] "
+            "No files were modified."
+        )
+        print()
+        return
+
+    print()
+
+    confirmation = input(
+        "Apply these changes? [y/N] "
+    ).strip().lower()
+
+    if confirmation != "y":
+        print()
+        print(
+            "[BOOK TOOLS] "
+            "Operation cancelled."
+        )
+        print()
+        return
+
+    ensure_clean_git()
+
+    changed = apply_chapter_plan(
+        plan
+    )
+
+    print()
+    print(
+        f"[OK] {changed} file(s) updated."
+    )
+    print()
+    print(
+        "Review the changes with:"
+    )
+    print()
+    print(
+        "    git diff"
+    )
+    print()
 
 def main():
     print()
