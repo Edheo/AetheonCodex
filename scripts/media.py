@@ -12,13 +12,17 @@ dentro de docs.
 from pathlib import Path
 from html import escape
 import re
+import shutil
 from urllib.parse import quote
 
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCS_DIR = ROOT / "docs"
+RESOURCE_MEDIA_DIR = ROOT / "recursos" / "media"
+PUBLIC_MEDIA_DIR = DOCS_DIR / "assets" / "media"
 STYLESHEET_FILE = DOCS_DIR / "assets" / "stylesheets" / "media.css"
 JAVASCRIPT_FILE = DOCS_DIR / "assets" / "javascripts" / "media.js"
+PUBLISHED_IMAGES = set()
 
 
 YOUTUBE_PATTERN = re.compile(
@@ -189,14 +193,22 @@ def image_gallery(path, section):
         if not IMAGE_PATTERN.fullmatch(reference):
             continue
 
-        image_path = path.parent / "media" / reference
+        image_path = RESOURCE_MEDIA_DIR / reference
         if not image_path.is_file():
-            print(f"[MEDIA] WARNING missing image: {image_path.relative_to(DOCS_DIR)}")
+            print(f"[MEDIA] WARNING missing image: {image_path.relative_to(ROOT)}")
             continue
 
-        # MkDocs publica cada Markdown como ``documento/index.html``;
-        # el recurso compartido de la seccion queda un nivel por encima.
-        source = "../media/" + quote(reference)
+        destination = PUBLIC_MEDIA_DIR / reference
+        if reference not in PUBLISHED_IMAGES:
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(image_path, destination)
+            PUBLISHED_IMAGES.add(reference)
+
+        # MkDocs publica cada Markdown como ``documento/index.html``.
+        # Calculamos el ascenso necesario hasta ``docs/assets`` para no
+        # depender de un dominio o subruta de despliegue concretos.
+        document_parts = path.relative_to(DOCS_DIR).with_suffix("").parts
+        source = "../" * len(document_parts) + "assets/media/" + quote(reference)
         alt = Path(reference).stem.replace("-", " ")
         images.append((source, alt))
 
@@ -266,6 +278,9 @@ def process_markdown(path):
 
 
 def write_assets():
+    PUBLISHED_IMAGES.clear()
+    if PUBLIC_MEDIA_DIR.exists():
+        shutil.rmtree(PUBLIC_MEDIA_DIR)
     STYLESHEET_FILE.parent.mkdir(parents=True, exist_ok=True)
     JAVASCRIPT_FILE.parent.mkdir(parents=True, exist_ok=True)
     STYLESHEET_FILE.write_text(MEDIA_STYLESHEET, encoding="utf-8")
