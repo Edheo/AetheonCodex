@@ -3,9 +3,9 @@
 ## Índice
 
 - [Capítulo 01 · - Mi Contexto](#capítulo-01-mi-contexto)
-- [Capítulo 11 · - Orígenes](#capítulo-11-orígenes)
-- [Capítulo 21 · - Evolución](#capítulo-21-evolución)
-- [Capítulo 31 · - Protectores en la rosa de los vientos y el granado griegos](#capítulo-31-protectores-en-la-rosa-de-los-vientos-y-el-granado-griegos)
+- [Capítulo 02 · - Orígenes](#capítulo-02-orígenes)
+- [Capítulo 03 · - Evolución](#capítulo-03-evolución)
+- [Capítulo 04 · - Protectores en la rosa de los vientos y el granado griegos](#capítulo-04-protectores-en-la-rosa-de-los-vientos-y-el-granado-griegos)
 
 ---
 
@@ -59,7 +59,7 @@ Aún así, para ellos, es duro, muy duro, aunque en especial mi padre, no sepa y
 El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro motivo, más que por desalinearse de la implacable realidad.
 
 
-## Capítulo 11 · - Orígenes
+## Capítulo 02 · - Orígenes
 
 ### Titán Germina
 
@@ -89,7 +89,7 @@ En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que
 Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo recientemente vendí mi piso en Catarroja, con la idea de poder comprar algo como esto. Una casa, en una zona no exactamente urbana. Poder tener tierra, un lugar donde mis mascotas pudiesen tener espacio. Frank y yo nos ilusionamos mucho sólo con verla, todo se alineaba, la casa era adecuada, la parcela increible, el precio dentro de nuestras posibilidades... todo parecía alinearse.
 
 
-## Capítulo 21 · - Evolución
+## Capítulo 03 · - Evolución
 
 ### Primera visita a Aetheon
 
@@ -122,7 +122,7 @@ Un sistema que se autoregula, que se equilibra, y a medida que más miembros for
 Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte de ti.
 
 
-## Capítulo 31 · - Protectores en la rosa de los vientos y el granado griegos
+## Capítulo 04 · - Protectores en la rosa de los vientos y el granado griegos
 
 ### Protectores en la rosa de los vientos y el granado griegos
 

@@ -10,15 +10,15 @@
 - **Capítulo 01 · - Mi Contexto**
   - 010 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
   - 020 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
-- **Capítulo 11 · - Orígenes**
+- **Capítulo 02 · - Orígenes**
   - 010 · Titán Germina — `1800-00-00_Titan-Germina.md`
   - 020 · Constitución catastral — `1978-00-00_Constitucion_catastral.md`
   - 030 · Compra anteriores propietarios — `2015-06-23_Compra-anteriores-propietarios.md`
   - 040 · Anuncio AETHEON en venta — `2024-03-27_Aetheon-en-venta.md`
-- **Capítulo 21 · - Evolución**
+- **Capítulo 03 · - Evolución**
   - 010 · Primera visita a Aetheon — `2024-04-28_Primera-visita.md`
   - 020 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
-- **Capítulo 31 · - Protectores en la rosa de los vientos y el granado griegos**
+- **Capítulo 04 · - Protectores en la rosa de los vientos y el granado griegos**
   - 010 · Protectores en la rosa de los vientos y el granado griegos — `2026-08-06_Proteccion-de-los-arboles.md`
   - 020 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
 
@@ -91,7 +91,7 @@ El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro mo
 
 ---
 
-## Capítulo 11 · - Orígenes
+## Capítulo 02 · - Orígenes
 
 ### Titán Germina
 
@@ -99,7 +99,7 @@ El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro mo
 
 - **Origen:** `1800-00-00_Titan-Germina.md`
 - **Estado:** Borrador
-- **Capítulo:** 11
+- **Capítulo:** 02
 - **Secuencia:** 010
 
 Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
@@ -112,7 +112,7 @@ Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fe
 
 - **Origen:** `1978-00-00_Constitucion_catastral.md`
 - **Estado:** Borrador
-- **Capítulo:** 11
+- **Capítulo:** 02
 - **Secuencia:** 020
 
 Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
@@ -125,7 +125,7 @@ Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fe
 
 - **Origen:** `2015-06-23_Compra-anteriores-propietarios.md`
 - **Estado:** Borrador
-- **Capítulo:** 11
+- **Capítulo:** 02
 - **Secuencia:** 030
 
 En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que aquí quedó, fué también gracias a su contribución.
@@ -138,14 +138,14 @@ En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que
 
 - **Origen:** `2024-03-27_Aetheon-en-venta.md`
 - **Estado:** Borrador
-- **Capítulo:** 11
+- **Capítulo:** 02
 - **Secuencia:** 040
 
 Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo recientemente vendí mi piso en Catarroja, con la idea de poder comprar algo como esto. Una casa, en una zona no exactamente urbana. Poder tener tierra, un lugar donde mis mascotas pudiesen tener espacio. Frank y yo nos ilusionamos mucho sólo con verla, todo se alineaba, la casa era adecuada, la parcela increible, el precio dentro de nuestras posibilidades... todo parecía alinearse.
 
 ---
 
-## Capítulo 21 · - Evolución
+## Capítulo 03 · - Evolución
 
 ### Primera visita a Aetheon
 
@@ -153,7 +153,7 @@ Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo rec
 
 - **Origen:** `2024-04-28_Primera-visita.md`
 - **Estado:** Borrador
-- **Capítulo:** 21
+- **Capítulo:** 03
 - **Secuencia:** 010
 
 Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante. En aquel entonces, vivíamos aún en Calderer, un trayecto ansioso por conocer este lugar.
@@ -171,7 +171,7 @@ Podemos ver la diferencianción de los 3 bancales escalonados que conforman la p
 
 - **Origen:** `2026-08-13_Alevines-en-Al-Ghadir.md`
 - **Estado:** Borrador
-- **Capítulo:** 21
+- **Capítulo:** 03
 - **Secuencia:** 020
 
 Un dia más en Aetheon, la rutina de mantenimiento, me trae a mi presencia mientras limpiaba de excesos incipientes de algas flotantes, y proveer de agua a Al-Ghadir, que tanto sufre esta interminable ola de calor perpetua que vivimos todo este verano, como ya viene siendo habitual, las estaciones se adelantan, el sofocante calor se instala ya desde mediados de primavera, y luchar contra este elemento se hace duro, no sólo para nosotros, sino para toda la vida que Aetheon alberga.
@@ -190,7 +190,7 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 
 ---
 
-## Capítulo 31 · - Protectores en la rosa de los vientos y el granado griegos
+## Capítulo 04 · - Protectores en la rosa de los vientos y el granado griegos
 
 ### Protectores en la rosa de los vientos y el granado griegos
 
@@ -198,7 +198,7 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 
 - **Origen:** `2026-08-06_Proteccion-de-los-arboles.md`
 - **Estado:** Borrador
-- **Capítulo:** 31
+- **Capítulo:** 04
 - **Secuencia:** 010
 
 Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
@@ -214,7 +214,7 @@ Frank y yo decidimos instalar los típicos protectores de patas de mesa, para qu
 
 - **Origen:** `2026-08-08_Rhoa-y-Side.md`
 - **Estado:** Borrador
-- **Capítulo:** 31
+- **Capítulo:** 04
 - **Secuencia:** 020
 
 Frank ha aportado nuevos nombres a la mitología de Aetheon.

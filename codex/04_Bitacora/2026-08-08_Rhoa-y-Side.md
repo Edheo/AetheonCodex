@@ -12,7 +12,7 @@ Tras las moreras, al este, se hayan situado dos granados jóvenes, para uno de e
 El otro, que ya acompaña a Frank durante años, ha recibido el nombre de Side.
 ## Literaria
 ### Capítulo
-31 - Protectores en la rosa de los vientos y el granado griegos
+04 - Protectores en la rosa de los vientos y el granado griegos
 ### Secuencia
 020
 ### Contenido
