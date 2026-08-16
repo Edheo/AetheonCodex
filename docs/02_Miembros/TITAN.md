@@ -59,6 +59,15 @@ Espacio reservado para relatos, poemas y literatura.
 ## Bitácora
 2024-04-28 - Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante, ya era magestuoso al llegar a la parcela, pero ver su tronco, ya robaba todas las atenciones, fué inevitable quedar maravillado viéndolo.
 2024-10-29 - Dana de Valencia... ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuertes rachas de viento, Titán demostró ser, mucho más que un nombre que hace honor a su naturaleza. 800 litros por metro aquí, la madrugada fué sólo un aperitivo de lo que iba a acontecer. El desastre de la región de Valencia, ha sido mundialmente conocido. Y aquí vivimos la mayor crudeza de la lluvia, esa ingente masa de agua que laderas y barrancos abajo, causaría la devastación que nadie podíamos imaginar. Titán resistió sin palidecer todas esas inclemencias, de agua torrencial, vientos huracanados por momentos, ni la más mínima grieta, ni en el propio árbol ni en el sustrato sobre el que se ancla. Simplemente, inenarrable.
+
+<!-- BEGIN GENERATED MEMBER JOURNAL -->
+### Entradas relacionadas
+
+- *En algún momento posiblemente posterior al año 1800ad* — [Titán Germina](../04_Bitacora/1800-00-00_Titan-Germina.md)
+- *Domingo, 28 de abril de 2024* — [Primera visita a Aetheon](../04_Bitacora/2024-04-28_Primera-visita.md)
+- *Martes, 29 de octubre de 2024* — [Dana de Valencia](../04_Bitacora/2024-10-29_Dana-de-Valencia.md)
+<!-- END GENERATED MEMBER JOURNAL -->
+
 ## Recursos
 
 ## Media

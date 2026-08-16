@@ -32,6 +32,7 @@ import index
 import cartography
 import book
 import media
+import member_journal
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -71,6 +72,8 @@ def main():
     cartography.run()
 
     book.run()
+
+    member_journal.run()
 
     media.run()
     
