@@ -22,6 +22,7 @@ Principios:
 """
 
 from pathlib import Path
+from datetime import date
 import re
 import sys
 
@@ -97,6 +98,21 @@ def extract_title(text, fallback):
         if value:
             return value
 
+    match = re.search(
+        r"^## Evento[ \t]*$"
+        r"(.*?)"
+        r"(?=^##\s|\Z)",
+        text,
+        re.MULTILINE | re.DOTALL,
+    )
+
+    if match:
+        for line in match.group(1).splitlines():
+            value = line.strip()
+
+            if value:
+                return value
+
     return fallback
 
 
@@ -155,6 +171,28 @@ def extract_literary_section(text):
         r"^## Literaria[ \t]*$"
         r"(.*?)"
         r"(?=^##\s|\Z)",
+        text,
+        re.MULTILINE | re.DOTALL,
+    )
+
+    if not match:
+        return None
+
+    return match.group(1).strip()
+
+
+def extract_musical_section(text):
+    """
+    Extrae el bloque ### Musical, si existe.
+
+    La seccion termina al encontrar el siguiente
+    encabezado de nivel 2 o 3.
+    """
+
+    match = re.search(
+        r"^### Musical[ \t]*$"
+        r"(.*?)"
+        r"(?=^#{2,3}\s|\Z)",
         text,
         re.MULTILINE | re.DOTALL,
     )
@@ -294,6 +332,120 @@ def parse_sequence(value):
     return int(value)
 
 
+def parse_event_date(path):
+    """
+    Obtiene la fecha canonica del prefijo del archivo de Bitacora.
+
+    Formato esperado:
+        YYYY-MM-DD_Titulo-del-evento.md
+    """
+
+    match = re.match(
+        r"^(\d{4})-(\d{2})-(\d{2})(?:_|$)",
+        path.stem,
+    )
+
+    if not match:
+        return None
+
+    try:
+        return date(
+            int(match.group(1)),
+            int(match.group(2)),
+            int(match.group(3)),
+        )
+    except ValueError:
+        return None
+
+
+def extract_event_time(text):
+    """
+    Obtiene el valor temporal canonico del encabezado principal.
+
+    Las fechas ISO validas se convierten a ``date`` para humanizarlas.
+    Cualquier otro valor no vacio se conserva literalmente.
+    """
+
+    match = re.search(
+        r"^#[ \t]+(.*?)[ \t]*$",
+        text,
+        re.MULTILINE,
+    )
+
+    if not match:
+        return None
+
+    value = match.group(1).strip()
+
+    if not value:
+        return None
+
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
+        try:
+            return date.fromisoformat(value)
+        except ValueError:
+            pass
+
+    return value
+
+
+def humanize_date_es(value):
+    """
+    Presenta una fecha en castellano sin depender del locale del sistema.
+
+    Ejemplo:
+        Viernes, 7 de agosto de 2026
+    """
+
+    weekdays = (
+        "Lunes", "Martes", "Miércoles", "Jueves",
+        "Viernes", "Sábado", "Domingo",
+    )
+    months = (
+        "enero", "febrero", "marzo", "abril", "mayo", "junio",
+        "julio", "agosto", "septiembre", "octubre", "noviembre",
+        "diciembre",
+    )
+
+    return (
+        f"{weekdays[value.weekday()]}, {value.day} de "
+        f"{months[value.month - 1]} de {value.year}"
+    )
+
+
+def present_event_time(value):
+    """Humaniza fechas formales y preserva los literales temporales."""
+
+    if isinstance(value, date):
+        return humanize_date_es(value)
+
+    return value
+
+
+def entry_literary_header(entry):
+    """Genera la cabecera literaria comun a BOOK y BOOK.DEBUG."""
+
+    lines = [f"### {entry['title']}", ""]
+
+    if entry["date"] is not None:
+        lines.append(
+            f"*{present_event_time(entry['date'])}*"
+        )
+
+        if entry["music_work"] and entry["music_performer"]:
+            lines.append("")
+
+    if entry["music_work"] and entry["music_performer"]:
+        lines.append(
+            f"*{entry['music_work']} — {entry['music_performer']}*"
+        )
+
+    if lines[-1] != "":
+        lines.append("")
+
+    return lines
+
+
 def load_entries():
     """
     Lee y clasifica todas las entradas de Bitácora.
@@ -345,6 +497,23 @@ def load_entries():
             text
         )
 
+        musical = extract_musical_section(
+            text
+        )
+
+        music_work = None
+        music_performer = None
+
+        if musical is not None:
+            music_work = extract_field(
+                musical,
+                "Obra",
+            )
+            music_performer = extract_field(
+                musical,
+                "Intérprete",
+            )
+
         chapter_value = extract_field(
             literary,
             "Capítulo",
@@ -358,7 +527,10 @@ def load_entries():
         entry = {
             "path": path,
             "title": title,
+            "date": extract_event_time(text),
             "status": status,
+            "music_work": music_work,
+            "music_performer": music_performer,
             "chapter_raw": chapter_value,
             "sequence_raw": sequence_value,
             "content": content,
@@ -588,8 +760,10 @@ def build_clean_book(entries):
             lines.append("")
 
         lines.append(
-            entry["content"]
+            "\n".join(entry_literary_header(entry))
         )
+
+        lines.append(entry["content"])
 
         lines.append("")
         lines.append("")
@@ -741,11 +915,7 @@ def build_debug_book(entries, pending):
 
             lines.append("")
 
-        lines.append(
-            f"### {entry['title']}"
-        )
-
-        lines.append("")
+        lines.extend(entry_literary_header(entry))
 
         lines.append(
             f"- **Origen:** "
@@ -823,6 +993,23 @@ def build_debug_book(entries, pending):
             )
 
             lines.append("")
+
+            if entry["date"] is not None:
+                lines.append(
+                    f"*{present_event_time(entry['date'])}*"
+                )
+
+                if entry["music_work"] and entry["music_performer"]:
+                    lines.append("")
+
+            if entry["music_work"] and entry["music_performer"]:
+                lines.append(
+                    f"*{entry['music_work']} — "
+                    f"{entry['music_performer']}*"
+                )
+
+            if lines[-1] != "":
+                lines.append("")
 
             lines.append(
                 f"- **Origen:** "
