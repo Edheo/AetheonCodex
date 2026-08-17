@@ -78,7 +78,13 @@ Palabra: Renovación
 
 ## Media
 
-
+<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
+  <button class="aetheon-gallery__item" type="button"
+          data-full="../../assets/media/2026-08-17-AL-GHADIR.png" data-alt="2026 08 17 AL GHADIR"
+          aria-label="Ampliar 2026 08 17 AL GHADIR">
+    <img src="../../assets/media/2026-08-17-AL-GHADIR.png" alt="2026 08 17 AL GHADIR" loading="lazy">
+  </button>
+</div>
 
 ## Croquis
 

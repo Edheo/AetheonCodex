@@ -53,7 +53,7 @@ Palabra: Renovación
 ## Recursos
 
 ## Media
-001-AL-GHADIR.jpeg
+2026-08-17-AL-GHADIR.png
 
 ## Croquis
 
