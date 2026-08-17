@@ -30,7 +30,7 @@ kouO0iV_AOo
 ### Capítulo
 01 - Mi Contexto
 ### Secuencia
-020
+040
 ### Contenido
 Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
 No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.

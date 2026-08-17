@@ -1,6 +1,7 @@
 # YYYY-MM-DD
-**Estado:**
-Borrador
+
+**Estado:**Borrador
+
 ## Evento
 
 ### Descripción

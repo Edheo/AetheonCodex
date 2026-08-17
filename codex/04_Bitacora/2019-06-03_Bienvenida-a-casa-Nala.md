@@ -1,6 +1,5 @@
 # 2019-06-03
-**Estado:**
-Borrador
+**Estado:** Borrador
 ## Evento
 Bienvenida a casa, Nala
 ## Descripción
@@ -28,7 +27,7 @@ KmAnXxrVC94
 ### Capítulo
 01 Mi Contexto 
 ### Secuencia
-002
+020
 ### Contenido
 Sigo obsesionado, casi 2 semanas más tarde tras verme impedido de alcanzar a Nala, visitando la página de la protectora, veo animalitos buscando dueños, empiezo a admitir que Nala no es una opción, y empiezo a convencerme de que ya no está en mi camino.
 Sigo mirando, fotos de animalitos, pero, no surge ese Click, el Click, fué Nala, y ya no está disponible, hasta que de pronto.

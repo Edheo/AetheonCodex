@@ -50,7 +50,7 @@ The National
 ### Capítulo
 01 Mi Contexto 
 ### Secuencia
-001
+010
 ### Contenido
 Mara, la perrita de mis padres, falleció poco más de un mes antes.
 Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.

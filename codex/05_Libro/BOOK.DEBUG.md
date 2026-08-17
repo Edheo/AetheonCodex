@@ -8,10 +8,10 @@
 ## Índice editorial
 
 - **Capítulo 01 · Mi Contexto**
-  - 001 · Una ilusión se desvanece — `2019-05-19_Una-ilusión-se-desvanece.md`
-  - 002 · Bienvenida a casa, Nala — `2019-06-03_Bienvenida-a-casa-Nala.md`
-  - 010 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
-  - 020 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
+  - 010 · Una ilusión se desvanece — `2019-05-19_Una-ilusión-se-desvanece.md`
+  - 020 · Bienvenida a casa, Nala — `2019-06-03_Bienvenida-a-casa-Nala.md`
+  - 030 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
+  - 040 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
 - **Capítulo 02 · Orígenes**
   - 010 · Titán Germina — `1800-00-00_Titan-Germina.md`
   - 020 · Constitución catastral — `1978-00-00_Constitucion_catastral.md`
@@ -19,9 +19,9 @@
   - 040 · Anuncio AETHEON en venta — `2024-03-27_Aetheon-en-venta.md`
 - **Capítulo 03 · Evolución**
   - 010 · Primera visita a Aetheon — `2024-04-28_Primera-visita.md`
-  - 011 · Protectores en la rosa de los vientos y el granado griegos — `2026-08-06_Proteccion-de-los-arboles.md`
-  - 015 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
-  - 020 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
+  - 020 · Protectores en la rosa de los vientos y el granado griegos — `2026-08-06_Proteccion-de-los-arboles.md`
+  - 030 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
+  - 040 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
 
 ### Pendientes de clasificación
 
@@ -39,7 +39,7 @@
 - **Origen:** `2019-05-19_Una-ilusión-se-desvanece.md`
 - **Estado:** Desconocido
 - **Capítulo:** 01
-- **Secuencia:** 001
+- **Secuencia:** 010
 
 Mara, la perrita de mis padres, falleció poco más de un mes antes.
 Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.
@@ -87,7 +87,7 @@ Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no po
 - **Origen:** `2019-06-03_Bienvenida-a-casa-Nala.md`
 - **Estado:** Desconocido
 - **Capítulo:** 01
-- **Secuencia:** 002
+- **Secuencia:** 020
 
 Sigo obsesionado, casi 2 semanas más tarde tras verme impedido de alcanzar a Nala, visitando la página de la protectora, veo animalitos buscando dueños, empiezo a admitir que Nala no es una opción, y empiezo a convencerme de que ya no está en mi camino.
 Sigo mirando, fotos de animalitos, pero, no surge ese Click, el Click, fué Nala, y ya no está disponible, hasta que de pronto.
@@ -116,7 +116,7 @@ Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, alg
 - **Origen:** `2026-08-07_Escaneando-los-miedos.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 010
+- **Secuencia:** 030
 
 Tras esperar por mucho e insistir alguna vez, por fin conseguí cita para la resonancia magnética. Nada reseñable, al parecer, mientras me ponían la vía, hoy he descubierto que el elástico que usan para presionar el brazo y hacer visibles las venas para poder escoger la más óptima para pinchar la vía se le puede llamar o bien garrote, o bien smart.
 Lo de smart, sinceramente no veo que tiene de inteligente un elástico, pero en fin, es casi preferible al garrote. 
@@ -149,7 +149,7 @@ Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ve
 - **Origen:** `2026-08-14_El-resultado-de-la-espera.md`
 - **Estado:** Desconocido
 - **Capítulo:** 01
-- **Secuencia:** 020
+- **Secuencia:** 040
 
 Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
 No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.
@@ -244,7 +244,7 @@ Podemos ver la diferencianción de los 3 bancales escalonados que conforman la p
 - **Origen:** `2026-08-06_Proteccion-de-los-arboles.md`
 - **Estado:** Borrador
 - **Capítulo:** 03
-- **Secuencia:** 011
+- **Secuencia:** 020
 
 Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
 Los guardianes más consolidados, son prácticamente inmunes a esos malos tratos por su parte, Vetusta, Titán, Los olivos bijus, o ni siquiera ninguno de los masqueperros, pueden sufrir considerablemente la incontenible energía de nuestra niñas más pequeñas e intrépidas.
@@ -260,7 +260,7 @@ Frank y yo decidimos instalar los típicos protectores de patas de mesa, para qu
 - **Origen:** `2026-08-08_Rhoa-y-Side.md`
 - **Estado:** Borrador
 - **Capítulo:** 03
-- **Secuencia:** 015
+- **Secuencia:** 030
 
 Frank ha aportado nuevos nombres a la mitología de Aetheon.
 Tras las moreras, al este, se hayan situado dos granados jóvenes.
@@ -284,7 +284,7 @@ Side forma parte también de la mitología griega, y según cuenta un mito, Side
 - **Origen:** `2026-08-13_Alevines-en-Al-Ghadir.md`
 - **Estado:** Borrador
 - **Capítulo:** 03
-- **Secuencia:** 020
+- **Secuencia:** 040
 
 Un dia más en Aetheon, la rutina de mantenimiento, me trae a mi presencia mientras limpiaba de excesos incipientes de algas flotantes, y proveer de agua a Al-Ghadir, que tanto sufre esta interminable ola de calor perpetua que vivimos todo este verano, como ya viene siendo habitual, las estaciones se adelantan, el sofocante calor se instala ya desde mediados de primavera, y luchar contra este elemento se hace duro, no sólo para nosotros, sino para toda la vida que Aetheon alberga.
 El clima se vuelve duro para todos, y de pronto, mientras concentrado en mi labor, mis ya no tan jóvenes ojos, detectan un movimiento fugaz, rápido, mínimo, pero raudo, y al mirar con más atención en una de las islas flotantes, allí puedo verlos.
