@@ -1,22 +1,30 @@
 # 2026-08-14
-**Estado:** Borrador
+**Estado:**
+Borrador
 
 ## Evento
-**Título:** El resultado de la espera
-**Descripción:** Visita al oncólogo, el doctor Cunquero de nuevo, ese gran interlocutor que no transmite más que lo indispensable.
+**Título:**
+El resultado de la espera
+**Descripción:**
+Visita al oncólogo, el doctor Cunquero de nuevo, ese gran interlocutor que no transmite más que lo indispensable.
 Y aún así, la visita ha sido productiva, la resonancia que hice justo una semana anterior del estado actual de mi cerebro, ha sido favorable, sigue saliendo totalmente limpia, sin vestigio alguno de tumor visible.
 Sin evidencia de tumor macroscópico (según reza en el informe médico)
 Así que por lo pronto, no me veré expuesto a ningún tratamiento más, por lo pronto la próxima revisión será de resonancia en Diciembre, y posteriormente visitas médicas tanto al oncólogo (Cunquero), como al neurocirujano (Doctor Sánchez).
 
 ## Referencias
-**Miembros:**Edheo
+**Miembros:**
+Edheo
 
 ## Cosmogonía
 ### Musical
-**Obra:**		Old Katarakt
-**Autor:** 		Wim Mertens
-**Intérprete:**	Wim Mertens
-**youtube:**  kouO0iV_AOo
+**Obra:**
+Old Katarakt
+**Autor:**
+Wim Mertens
+**Intérprete:**
+Wim Mertens
+**youtube:**
+kouO0iV_AOo
 
 ## Literaria
 ### Capítulo
