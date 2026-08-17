@@ -2,10 +2,11 @@
 **Estado:**
 Borrador
 ## Evento
-**Título:**
-**Descripción:**
+
+### Descripción
+
 ## Referencias
-**Miembros:**
+
 ## Cosmogonía
 ### Musical
 **Obra:**	
@@ -16,3 +17,4 @@ Borrador
 ### Capítulo
 ### Secuencia
 ### Contenido
+## Media

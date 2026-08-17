@@ -3,14 +3,14 @@
 ## Índice
 
 - [Capítulo 01 · Mi Contexto](#capítulo-01-mi-contexto)
-- [Capítulo 02 · - Orígenes](#capítulo-02-orígenes)
-- [Capítulo 03 · - Evolución](#capítulo-03-evolución)
+- [Capítulo 02 · Orígenes](#capítulo-02-orígenes)
+- [Capítulo 03 · Evolución](#capítulo-03-evolución)
 
 ---
 
 ## Capítulo 01 · Mi Contexto
 
-### **Título:**
+### Una ilusión se desvanece
 
 *Domingo, 19 de mayo de 2019*
 
@@ -52,7 +52,7 @@ Me tocaba aceptar la negación, pero, quería pensar que debía haber un error, 
 Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no podía ser, no contemplaba la posiblidad de que no fuese ella.
 
 
-### **Título:**
+### Bienvenida a casa, Nala
 
 *Lunes, 3 de junio de 2019*
 
@@ -79,7 +79,7 @@ Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, alg
   </button>
 </div>
 
-## Capítulo 02 · - Orígenes
+## Capítulo 02 · Orígenes
 
 ### Titán Germina
 
@@ -109,7 +109,7 @@ En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que
 Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo recientemente vendí mi piso en Catarroja, con la idea de poder comprar algo como esto. Una casa, en una zona no exactamente urbana. Poder tener tierra, un lugar donde mis mascotas pudiesen tener espacio. Frank y yo nos ilusionamos mucho sólo con verla, todo se alineaba, la casa era adecuada, la parcela increible, el precio dentro de nuestras posibilidades... todo parecía alinearse.
 
 
-## Capítulo 03 · - Evolución
+## Capítulo 03 · Evolución
 
 ### Primera visita a Aetheon
 

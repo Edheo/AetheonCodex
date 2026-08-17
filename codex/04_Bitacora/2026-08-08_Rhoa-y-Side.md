@@ -28,6 +28,7 @@ Rhoa en realidad, en antiguo griego, significa precisamente, granado, y como tal
 Side forma parte también de la mitología griega, y según cuenta un mito, Side fué una joven pura perseguida por su propio padre, Ictino, quien pretendía violarla. Para escapar de él, Side se suicidó cortándose las venas sobre la tumba de su madre. Los dioses, conmovidos por su tragedia, hicieron que de su sangre brotara el primer granado. A su padre lo transformaron en un milano (un ave rapaz), y la leyenda decía que este pájaro jamás se posaba sobre las ramas de un granado debido al trauma del pasado.
 
 ## Referencias
+**Miembros:**
 AETHEON
 SIDE
 RHOA

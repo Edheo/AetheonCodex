@@ -3,9 +3,9 @@
 Borrador
 
 ## Evento
-**Título:**
 El resultado de la espera
-**Descripción:**
+
+###Descripción
 Visita al oncólogo, el doctor Cunquero de nuevo, ese gran interlocutor que no transmite más que lo indispensable.
 Y aún así, la visita ha sido productiva, la resonancia que hice justo una semana anterior del estado actual de mi cerebro, ha sido favorable, sigue saliendo totalmente limpia, sin vestigio alguno de tumor visible.
 Sin evidencia de tumor macroscópico (según reza en el informe médico)

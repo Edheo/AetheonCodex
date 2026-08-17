@@ -16,7 +16,7 @@ Durante una tarea de mantenimiento en la piscina, limpiando algas flotantes y pi
 **youtube:** dvgZkm1xWPE
 ## Literaria
 ### Capítulo
-03 - Evolución
+03 Evolución
 ### Secuencia
 020
 ### Contenido
@@ -34,5 +34,6 @@ Aetheon, es el lugar donde la naturaleza puede expresarse, donde los límites ma
 Un sistema que se autoregula, que se equilibra, y a medida que más miembros formamos más parte de él, más vivo es, el propio Aetheon. Porque como digo recurrentemente digo, Aetheon es un ser vivo, quien sabe si incluso consciente, puede parecer una locura, pero la vida no puede estar exenta de cierto grado de consciencia, incluso un mínimo de voluntad, de propósito e intención, y si Aetheon está vivo, y sus miembros somos sus células, entonces, en cierto modo, estamos todos cumpliendo nuestra función dentro de este ser vivo, y Aetheon nos demuestra con sus resultados que el organismo late, respira, siente y crece en su propósito.
 Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte de ti.
 ## Referencias
+**Miembros:**
 AL-GHADIR
 EDHEO

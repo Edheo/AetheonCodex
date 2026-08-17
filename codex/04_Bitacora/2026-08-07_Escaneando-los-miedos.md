@@ -7,7 +7,8 @@
 Un buen rato de espera eso si, unos 20 minutos de sesión, y a casa. Pero como siempre, este tipo de salidas, últimamente, me dejan agotado.
 
 ## Referencias
-**Miembros:** Edheo
+**Miembros:**
+Edheo
 ## Cosmogonía
 ### Musical
 **Obra:** Can't Get You Out Of My Head

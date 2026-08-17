@@ -24,6 +24,7 @@ Por rascadores y entretenimientos que tengan en casa, son precisamente eso, mini
 Frank y yo decidimos instalar los típicos protectores de patas de mesa, para que los felinos no se ceben con ellos, en los troncos de aquellos árboles más jóvenes, con tal de que ningún mal peor, pueda agravar la situación de salud e integridad de estas promesas de morera, que están destinadas a añadir un espacio de sombraje en la tórrida parcela durante los peores meses de verano.
 
 ## Referencias
+**Miembros:**
 TRAMUNTANA
 LLEVANT
 PONENT

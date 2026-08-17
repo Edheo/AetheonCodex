@@ -11,10 +11,11 @@ Dado el tamaño de este pino, posiblemente germinó aquí, hará unos 200 años,
 
 ## Literaria
 ### Capítulo
-02 - Orígenes
+02 Orígenes
 ### Secuencia
 010
 ### Contenido
 Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
 ## Referencias
+**Miembros:**
 TITAN

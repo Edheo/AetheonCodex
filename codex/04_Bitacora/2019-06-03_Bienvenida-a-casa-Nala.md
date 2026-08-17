@@ -2,9 +2,8 @@
 **Estado:**
 Borrador
 ## Evento
-**Título:** 
 Bienvenida a casa, Nala
-**Descripción:** 
+## Descripción
 En mi obcecación, sigo consultando la web de proansu, buscando algún consuelo, y veo, súbitamente, que Nala, vuelve a estar disponible.
 Me pongo rápidamente en contacto, con la protectora, y efectivamente, al parecer, las personas que pretendian adoptarla, no daban señales de vida.
 Y sin dudar, ipso facto, el dia 2, contacté con ellos, me confirmaron su disponibilidad, me enviaron el formulario de adopción.

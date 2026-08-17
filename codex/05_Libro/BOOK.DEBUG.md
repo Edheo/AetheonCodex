@@ -8,16 +8,16 @@
 ## Índice editorial
 
 - **Capítulo 01 · Mi Contexto**
-  - 001 · **Título:** — `2019-05-19_Una-ilusión-se-desvanece.md`
-  - 002 · **Título:** — `2019-06-03_Bienvenida-a-casa-Nala.md`
+  - 001 · Una ilusión se desvanece — `2019-05-19_Una-ilusión-se-desvanece.md`
+  - 002 · Bienvenida a casa, Nala — `2019-06-03_Bienvenida-a-casa-Nala.md`
   - 010 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
-  - 020 · **Título:** — `2026-08-14_El-resultado-de-la-espera.md`
-- **Capítulo 02 · - Orígenes**
+  - 020 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
+- **Capítulo 02 · Orígenes**
   - 010 · Titán Germina — `1800-00-00_Titan-Germina.md`
   - 020 · Constitución catastral — `1978-00-00_Constitucion_catastral.md`
   - 030 · Compra anteriores propietarios — `2015-06-23_Compra-anteriores-propietarios.md`
   - 040 · Anuncio AETHEON en venta — `2024-03-27_Aetheon-en-venta.md`
-- **Capítulo 03 · - Evolución**
+- **Capítulo 03 · Evolución**
   - 010 · Primera visita a Aetheon — `2024-04-28_Primera-visita.md`
   - 011 · Protectores en la rosa de los vientos y el granado griegos — `2026-08-06_Proteccion-de-los-arboles.md`
   - 015 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
@@ -26,13 +26,13 @@
 ### Pendientes de clasificación
 
 - Dana de Valencia — `2024-10-29_Dana-de-Valencia.md`
-- **Título:** — `2026-08-14_La-inquietud-y-la-semilla.md`
+- La inquietud y la semilla — `2026-08-14_La-inquietud-y-la-semilla.md`
 
 ---
 
 ## Capítulo 01 · Mi Contexto
 
-### **Título:**
+### Una ilusión se desvanece
 
 *Domingo, 19 de mayo de 2019*
 
@@ -80,7 +80,7 @@ Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no po
 
 ---
 
-### **Título:**
+### Bienvenida a casa, Nala
 
 *Lunes, 3 de junio de 2019*
 
@@ -142,7 +142,7 @@ Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ve
 
 ---
 
-### **Título:**
+### El resultado de la espera
 
 *Viernes, 14 de agosto de 2026*
 
@@ -165,7 +165,7 @@ El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro mo
 
 ---
 
-## Capítulo 02 · - Orígenes
+## Capítulo 02 · Orígenes
 
 ### Titán Germina
 
@@ -219,7 +219,7 @@ Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo rec
 
 ---
 
-## Capítulo 03 · - Evolución
+## Capítulo 03 · Evolución
 
 ### Primera visita a Aetheon
 
@@ -319,7 +319,7 @@ Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuert
 
 ---
 
-## **Título:**
+## La inquietud y la semilla
 
 *Viernes, 14 de agosto de 2026*
 
