@@ -64,6 +64,14 @@ Virtud: Refugio
 Estación: Perenne
 Color: Agua enverdecida, y colores, colores de los cometas, rojos, amarillos, moteados.
 Palabra: Renovación
+## Bitácora
+
+<!-- BEGIN GENERATED MEMBER JOURNAL -->
+### Entradas relacionadas
+
+- *Jueves, 13 de agosto de 2026* — [Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir](../04_Bitacora/2026-08-13_Alevines-en-Al-Ghadir.md)
+<!-- END GENERATED MEMBER JOURNAL -->
+
 ## Recursos
 
 ## Media
