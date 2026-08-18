@@ -1,0 +1,12 @@
+{
+  "name": "onedrive-public-manifest",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "manifest": "node ./Generate-OneDriveManifest.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  }
+}

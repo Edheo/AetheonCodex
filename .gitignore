@@ -6,3 +6,4 @@ __pycache__/
 *.pyc
 /zipaetheon.txt
 /recursos/~$ListadoGuardianes.xlsx
+/node_modules
