@@ -36,7 +36,7 @@ FRANK
 EDHEO
 
 ##Media
-0001-Llevant.jpeg
-0002-Llevant.jpeg
-0001-Side.jpeg
-0002-Side.jpeg
+Images/2026-08-17-Llevant-01.jpeg
+Images/2026-08-17-Llevant-02.jpeg
+Images/2026-08-17-Side-01.jpeg
+Images/2026-08-17-Side-02.jpeg

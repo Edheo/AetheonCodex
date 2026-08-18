@@ -61,7 +61,7 @@ Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, alg
 
 <div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
   <button class="aetheon-gallery__item" type="button"
-          data-full="../../assets/media/2019-06-03-Nala-Adoptada.jpg" data-alt="2019 06 03 Nala Adoptada"
+          data-full="../../assets/media/2019-06-03-Nala-Adoptada.jpg" data-alt="2019 06 03 Nala Adoptada" data-public="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy82ODg1NjViZDBjZjkzMDBjL0lnQTlVcm0tWi1hb1FMSmFCRW5MZkpDcUFkbEpiTXN4WXBUd1BKYXp4ZDhtUXprP2U9emhvRGJu&amp;id=688565BD0CF9300C%21sf063735d867d4e8fbb50928500ed5251&amp;cid=688565BD0CF9300C"
           aria-label="Ampliar 2019 06 03 Nala Adoptada">
     <img src="../../assets/media/2019-06-03-Nala-Adoptada.jpg" alt="2019 06 03 Nala Adoptada" loading="lazy">
   </button>

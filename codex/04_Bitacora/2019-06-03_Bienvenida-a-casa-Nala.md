@@ -43,4 +43,4 @@ No se si a más personas les pasará, pero... a mi me sucede, cuando siento el c
 Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, algo hay que me dice que no intente algo a marchas forzadas, y puedo sentir dentro de mi como todo chirria de un modo, que si fuerzo a conseguirlo, el resultado, va a perjudicarme.
 
 ##Media
-2019-06-03-Nala-Adoptada.jpg
+images/2019-06-03-Nala-Adoptada.jpg

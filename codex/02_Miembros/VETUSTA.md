@@ -72,7 +72,7 @@ Fecha desconocida	-	En algún momento de algún siglo más o menos reciente, má
 ## Recursos
 
 ## Media
-001-VETUSTA.jpeg
+Images/2026-08-17-Vetusta.jpeg
 
 ## Croquis
 

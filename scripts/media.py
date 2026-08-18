@@ -11,6 +11,7 @@ dentro de docs.
 
 from pathlib import Path
 from html import escape
+import json
 import re
 import shutil
 from urllib.parse import quote
@@ -22,7 +23,9 @@ RESOURCE_MEDIA_DIR = ROOT / "recursos" / "media"
 PUBLIC_MEDIA_DIR = DOCS_DIR / "assets" / "media"
 STYLESHEET_FILE = DOCS_DIR / "assets" / "stylesheets" / "media.css"
 JAVASCRIPT_FILE = DOCS_DIR / "assets" / "javascripts" / "media.js"
+ONEDRIVE_MANIFEST_FILE = ROOT / "onedrive-manifest.json"
 PUBLISHED_IMAGES = set()
+ONEDRIVE_URLS = {}
 
 
 YOUTUBE_PATTERN = re.compile(
@@ -92,6 +95,20 @@ MEDIA_STYLESHEET = """.aetheon-gallery {
 }
 
 .aetheon-gallery-viewer__caption { padding: 0.6rem 3.5rem; text-align: center; }
+.aetheon-gallery-viewer__original {
+  display: block;
+  width: fit-content;
+  margin: 0 auto 0.8rem;
+  padding: 0.45rem 0.8rem;
+  border: 1px solid rgb(255 255 255 / 45%);
+  border-radius: 0.3rem;
+  color: #fff;
+  text-decoration: none;
+}
+.aetheon-gallery-viewer__original:hover,
+.aetheon-gallery-viewer__original:focus-visible {
+  background: rgb(255 255 255 / 12%);
+}
 .aetheon-gallery-viewer__close,
 .aetheon-gallery-viewer__previous,
 .aetheon-gallery-viewer__next {
@@ -120,6 +137,10 @@ MEDIA_JAVASCRIPT = r"""(() => {
   dialog.innerHTML = `<figure class="aetheon-gallery-viewer__figure">
     <img class="aetheon-gallery-viewer__image" alt="">
     <figcaption class="aetheon-gallery-viewer__caption"></figcaption>
+    <a class="aetheon-gallery-viewer__original"
+       target="_blank" rel="noopener noreferrer" hidden>
+      Abrir original en OneDrive
+    </a>
   </figure>
   <button class="aetheon-gallery-viewer__close" aria-label="Cerrar">&times;</button>
   <button class="aetheon-gallery-viewer__previous" aria-label="Imagen anterior">&#8249;</button>
@@ -128,6 +149,7 @@ MEDIA_JAVASCRIPT = r"""(() => {
 
   const image = dialog.querySelector(".aetheon-gallery-viewer__image");
   const caption = dialog.querySelector(".aetheon-gallery-viewer__caption");
+  const original = dialog.querySelector(".aetheon-gallery-viewer__original");
   let group = [];
   let index = 0;
 
@@ -137,6 +159,13 @@ MEDIA_JAVASCRIPT = r"""(() => {
     image.src = item.dataset.full;
     image.alt = item.dataset.alt;
     caption.textContent = item.dataset.alt;
+    if (item.dataset.public) {
+      original.href = item.dataset.public;
+      original.hidden = false;
+    } else {
+      original.removeAttribute("href");
+      original.hidden = true;
+    }
   };
 
   items.forEach((item) => item.addEventListener("click", () => {
@@ -183,6 +212,35 @@ def youtube_embed(video_id):
 </div>"""
 
 
+def load_onedrive_urls():
+    """Carga las URL publicas de los archivos del manifiesto de OneDrive."""
+
+    if not ONEDRIVE_MANIFEST_FILE.is_file():
+        print(
+            "[MEDIA] WARNING missing OneDrive manifest: "
+            f"{ONEDRIVE_MANIFEST_FILE.relative_to(ROOT)}"
+        )
+        return {}
+
+    try:
+        manifest = json.loads(
+            ONEDRIVE_MANIFEST_FILE.read_text(encoding="utf-8")
+        )
+    except (OSError, json.JSONDecodeError) as error:
+        print(f"[MEDIA] WARNING invalid OneDrive manifest: {error}")
+        return {}
+
+    urls = {
+        item["path"]: item["publicUrl"]
+        for item in manifest.get("items", [])
+        if item.get("type") == "file"
+        and item.get("path")
+        and item.get("publicUrl")
+    }
+    print(f"[MEDIA] Loaded {len(urls)} OneDrive URL(s).")
+    return urls
+
+
 def image_gallery(path, section):
     """Materializa las referencias de una seccion Media como galeria."""
 
@@ -210,18 +268,26 @@ def image_gallery(path, section):
         document_parts = path.relative_to(DOCS_DIR).with_suffix("").parts
         source = "../" * len(document_parts) + "assets/media/" + quote(reference)
         alt = Path(reference).stem.replace("-", " ")
-        images.append((source, alt))
+        public_url = ONEDRIVE_URLS.get(f"images/{reference}")
+        if not public_url:
+            print(f"[MEDIA] WARNING missing OneDrive URL: images/{reference}")
+        images.append((source, alt, public_url))
 
     if not images:
         return ""
 
     lines = ['<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">']
-    for source, alt in images:
+    for source, alt, public_url in images:
         safe_source = escape(source, quote=True)
         safe_alt = escape(alt, quote=True)
+        public_attribute = (
+            f' data-public="{escape(public_url, quote=True)}"'
+            if public_url
+            else ""
+        )
         lines.extend([
             '  <button class="aetheon-gallery__item" type="button"',
-            f'          data-full="{safe_source}" data-alt="{safe_alt}"',
+            f'          data-full="{safe_source}" data-alt="{safe_alt}"{public_attribute}',
             f'          aria-label="Ampliar {safe_alt}">',
             f'    <img src="{safe_source}" alt="{safe_alt}" loading="lazy">',
             "  </button>",
@@ -288,8 +354,11 @@ def write_assets():
 
 
 def run():
+    global ONEDRIVE_URLS
+
     print("[MEDIA] Processing media references...")
 
+    ONEDRIVE_URLS = load_onedrive_urls()
     write_assets()
 
     total = 0

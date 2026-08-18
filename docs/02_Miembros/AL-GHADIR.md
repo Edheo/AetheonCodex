@@ -75,7 +75,7 @@ Palabra: Renovación
 
 <div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
   <button class="aetheon-gallery__item" type="button"
-          data-full="../../assets/media/2026-08-17-AL-GHADIR.png" data-alt="2026 08 17 AL GHADIR"
+          data-full="../../assets/media/2026-08-17-AL-GHADIR.png" data-alt="2026 08 17 AL GHADIR" data-public="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy82ODg1NjViZDBjZjkzMDBjL0lnQTlVcm0tWi1hb1FMSmFCRW5MZkpDcUFkbEpiTXN4WXBUd1BKYXp4ZDhtUXprP2U9emhvRGJu&amp;id=688565BD0CF9300C%21sb110e42ffef44953bc75d86ae107e28d&amp;cid=688565BD0CF9300C"
           aria-label="Ampliar 2026 08 17 AL GHADIR">
     <img src="../../assets/media/2026-08-17-AL-GHADIR.png" alt="2026 08 17 AL GHADIR" loading="lazy">
   </button>
