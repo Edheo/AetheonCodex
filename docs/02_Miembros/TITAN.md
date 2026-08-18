@@ -72,13 +72,7 @@ Espacio reservado para relatos, poemas y literatura.
 
 ## Media
 
-<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
-  <button class="aetheon-gallery__item" type="button"
-          data-full="../../assets/media/001-TITAN.jpeg" data-alt="001 TITAN" data-public="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy82ODg1NjViZDBjZjkzMDBjL0lnQTlVcm0tWi1hb1FMSmFCRW5MZkpDcUFkbEpiTXN4WXBUd1BKYXp4ZDhtUXprP2U9emhvRGJu&amp;id=688565BD0CF9300C%21s9d0812bada994e73a01f899689d60548&amp;cid=688565BD0CF9300C"
-          aria-label="Ampliar 001 TITAN">
-    <img src="../../assets/media/001-TITAN.jpeg" alt="001 TITAN" loading="lazy">
-  </button>
-</div>
+
 
 ## Croquis
 

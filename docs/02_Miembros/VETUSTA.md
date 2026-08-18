@@ -95,13 +95,7 @@ Fecha desconocida	-	En algún momento de algún siglo más o menos reciente, má
 
 ## Media
 
-<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
-  <button class="aetheon-gallery__item" type="button"
-          data-full="../../assets/media/001-VETUSTA.jpeg" data-alt="001 VETUSTA" data-public="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy82ODg1NjViZDBjZjkzMDBjL0lnQTlVcm0tWi1hb1FMSmFCRW5MZkpDcUFkbEpiTXN4WXBUd1BKYXp4ZDhtUXprP2U9emhvRGJu&amp;id=688565BD0CF9300C%21sf6993fc6e1d24dd1b1ad1b80137e2275&amp;cid=688565BD0CF9300C"
-          aria-label="Ampliar 001 VETUSTA">
-    <img src="../../assets/media/001-VETUSTA.jpeg" alt="001 VETUSTA" loading="lazy">
-  </button>
-</div>
+
 
 ## Croquis
 
