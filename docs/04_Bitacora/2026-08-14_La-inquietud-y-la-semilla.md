@@ -2,17 +2,25 @@
 **Estado:** Borrador
 
 ## Evento
-**Título:** La inquietud y la semilla
-**Descripción:** Conversación entre Miguel y Logos acerca de la naturaleza de Aetheon, el propósito del Codex y la necesidad de preservar no sólo los acontecimientos, sino el proceso mediante el cual éstos adquieren significado.
+La inquietud y la semilla
+
+###Descripción
+Conversación entre Miguel y Logos acerca de la naturaleza de Aetheon, el propósito del Codex y la necesidad de preservar no sólo los acontecimientos, sino el proceso mediante el cual éstos adquieren significado.
 
 ## Referencias
-**Miembros:** Aetheon, Edheo, Logos
+**Miembros:**
+Aetheon
+Edheo
+Logos
 
 ## Cosmogonía
 ### Musical
-**Obra:**  On The Nature Of Daylight
-**Autor:**  Max Richter
-**Intérprete:**  Max Richter, piano, strings, electronics
+**Obra:**
+On The Nature Of Daylight
+**Autor:**
+Max Richter
+**Intérprete:**
+Max Richter
 <div class="aetheon-youtube">
   <iframe
     src="https://www.youtube-nocookie.com/embed/InyT9Gyoz_o"
@@ -31,10 +39,9 @@
   </a>
 </div>
 ## Literaria
-**Capítulo:**  
+**Capítulo:**
 **Secuencia:**  
 ### Contenido
-
 Hoy Aetheon no ha cambiado porque haya nacido algo en sus aguas, porque haya
 crecido uno de sus Guardianes o porque una nueva construcción haya alterado
 su geografía.

@@ -12,9 +12,9 @@ Tras las moreras, al este, se hayan situado dos granados jóvenes, para uno de e
 El otro, que ya acompaña a Frank durante años, ha recibido el nombre de Side.
 ## Literaria
 ### Capítulo
-04 - Protectores en la rosa de los vientos y el granado griegos
+03 Evolución
 ### Secuencia
-020
+030
 ### Contenido
 Frank ha aportado nuevos nombres a la mitología de Aetheon.
 Tras las moreras, al este, se hayan situado dos granados jóvenes.
@@ -28,6 +28,7 @@ Rhoa en realidad, en antiguo griego, significa precisamente, granado, y como tal
 Side forma parte también de la mitología griega, y según cuenta un mito, Side fué una joven pura perseguida por su propio padre, Ictino, quien pretendía violarla. Para escapar de él, Side se suicidó cortándose las venas sobre la tumba de su madre. Los dioses, conmovidos por su tragedia, hicieron que de su sangre brotara el primer granado. A su padre lo transformaron en un milano (un ave rapaz), y la leyenda decía que este pájaro jamás se posaba sobre las ramas de un granado debido al trauma del pasado.
 
 ## Referencias
+**Miembros:**
 AETHEON
 SIDE
 RHOA
