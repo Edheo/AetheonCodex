@@ -39,23 +39,23 @@ EDHEO
 
 <div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
   <button class="aetheon-gallery__item" type="button"
-          data-full="../../assets/media/0001-Llevant.jpeg" data-alt="0001 Llevant"
-          aria-label="Ampliar 0001 Llevant">
-    <img src="../../assets/media/0001-Llevant.jpeg" alt="0001 Llevant" loading="lazy">
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-01.jpeg" data-alt="2026 08 17 Llevant 01"
+          aria-label="Ampliar 2026 08 17 Llevant 01">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-01.jpeg" alt="2026 08 17 Llevant 01" loading="lazy">
   </button>
   <button class="aetheon-gallery__item" type="button"
-          data-full="../../assets/media/0002-Llevant.jpeg" data-alt="0002 Llevant"
-          aria-label="Ampliar 0002 Llevant">
-    <img src="../../assets/media/0002-Llevant.jpeg" alt="0002 Llevant" loading="lazy">
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-02.jpeg" data-alt="2026 08 17 Llevant 02"
+          aria-label="Ampliar 2026 08 17 Llevant 02">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-02.jpeg" alt="2026 08 17 Llevant 02" loading="lazy">
   </button>
   <button class="aetheon-gallery__item" type="button"
-          data-full="../../assets/media/0001-Side.jpeg" data-alt="0001 Side"
-          aria-label="Ampliar 0001 Side">
-    <img src="../../assets/media/0001-Side.jpeg" alt="0001 Side" loading="lazy">
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-01.jpeg" data-alt="2026 08 17 Side 01"
+          aria-label="Ampliar 2026 08 17 Side 01">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-01.jpeg" alt="2026 08 17 Side 01" loading="lazy">
   </button>
   <button class="aetheon-gallery__item" type="button"
-          data-full="../../assets/media/0002-Side.jpeg" data-alt="0002 Side"
-          aria-label="Ampliar 0002 Side">
-    <img src="../../assets/media/0002-Side.jpeg" alt="0002 Side" loading="lazy">
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-02.jpeg" data-alt="2026 08 17 Side 02"
+          aria-label="Ampliar 2026 08 17 Side 02">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-02.jpeg" alt="2026 08 17 Side 02" loading="lazy">
   </button>
 </div>

@@ -74,9 +74,9 @@ Espacio reservado para relatos, poemas y literatura.
 
 <div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
   <button class="aetheon-gallery__item" type="button"
-          data-full="../../assets/media/001-TITAN.jpeg" data-alt="001 TITAN"
-          aria-label="Ampliar 001 TITAN">
-    <img src="../../assets/media/001-TITAN.jpeg" alt="001 TITAN" loading="lazy">
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-TITAN.jpeg" data-alt="2026 08 17 TITAN"
+          aria-label="Ampliar 2026 08 17 TITAN">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-TITAN.jpeg" alt="2026 08 17 TITAN" loading="lazy">
   </button>
 </div>
 

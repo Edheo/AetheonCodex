@@ -46,7 +46,7 @@ Espacio reservado para relatos, poemas y literatura.
 ## Recursos
 
 ## Media
-001-TITAN.jpeg
+images/2026-08-17-TITAN.jpeg
 ## Croquis
 
 ## Referencias

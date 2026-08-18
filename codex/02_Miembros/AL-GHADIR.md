@@ -20,6 +20,7 @@ Este humedal artificial nació de forma inesperada y fue adoptado por la fauna l
 Un refugio vivo donde plantas, peces, ranas, aves e insectos conviven siguiendo el ritmo de la naturaleza.
 
 ## Cosmogonía
+En la tradición árabe, un ghadir es un remanso donde el agua permanece y da vida a su entorno. Este lugar honra esa idea: un oasis para ranas, aves, libélulas, peces y todas las criaturas que encuentran aquí agua, alimento, refugio y descanso.
 ### Musical
 **Obra:** Entre dos Aguas
 **Autor:** Paco de Lucía
@@ -47,6 +48,8 @@ Virtud: Refugio
 Estación: Perenne
 Color: Agua enverdecida, y colores, colores de los cometas, rojos, amarillos, moteados.
 Palabra: Renovación
+## Recursos
+
 ## Media
-2026-08-17-AL-GHADIR.png
+images/2026-08-17-Al-ghadir.jpg
 ## Referencias

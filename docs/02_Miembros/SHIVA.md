@@ -54,9 +54,6 @@ Estación: Perenne
 Color: Verde claro
 Palabra: Destructor
 ## Media
-
-
-
 ## Croquis
 ## Referencias
 TITÁN
