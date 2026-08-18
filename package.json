@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "manifest": "node ./Generate-OneDriveManifest.mjs"
+    "manifest": "node ./scripts/Generate-OneDriveManifest.mjs"
   },
   "dependencies": {
     "playwright": "^1.55.0"
