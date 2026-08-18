@@ -1,6 +1,5 @@
 # 2019-06-03
-**Estado:**
-Borrador
+**Estado:** Borrador
 ## Evento
 Bienvenida a casa, Nala
 ## Descripción

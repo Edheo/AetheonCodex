@@ -32,7 +32,23 @@ Karo
 **Obra:**The Reason
 **Autor:**Douglas Robb, Daniel Estrin, Marku Lappalainen, Deborah Lurie
 **Intérprete:**Hoobastank
-**youtube:**fV4DiAyExN0
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/fV4DiAyExN0"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=fV4DiAyExN0"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
 ### Capítulo
 01 Mi Contexto 
@@ -59,3 +75,5 @@ Yo sólo pensé en salvar de la muerte a una criatura, jamás imaginé, que el p
 Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y junto la misma carretera que le encontré, nos dejó para siempre.
 
 ## Media
+
+

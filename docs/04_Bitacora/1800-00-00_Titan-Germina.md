@@ -1,7 +1,6 @@
 # En algún momento posiblemente posterior al año 1800ad
 
-## Estado
-Borrador
+**Estado:** Borrador
 
 ## Evento
 Titán Germina

@@ -1,6 +1,5 @@
 # 2019-05-19
-**Estado:**
-Borrador
+**Estado:**Borrador
 ## Evento
 Una ilusión se desvanece
 ###Descripción

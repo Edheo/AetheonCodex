@@ -10,6 +10,9 @@
 - **Capítulo 01 · Mi Contexto**
   - 010 · Una ilusión se desvanece — `2019-05-19_Una-ilusión-se-desvanece.md`
   - 020 · Bienvenida a casa, Nala — `2019-06-03_Bienvenida-a-casa-Nala.md`
+  - 022 · Ender me llama — `2021-08-08_Ender-me-llama.md`
+  - 025 · Yara nos impide el paso — `2021-10-24_Yara-nos-impide-el-paso.md`
+  - 026 · Ender el intrépido — `2023-05-05_Ender-el-intrepido.md`
   - 030 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
   - 040 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
 - **Capítulo 02 · Orígenes**
@@ -37,7 +40,7 @@
 *Domingo, 19 de mayo de 2019*
 
 - **Origen:** `2019-05-19_Una-ilusión-se-desvanece.md`
-- **Estado:** Desconocido
+- **Estado:** Borrador
 - **Capítulo:** 01
 - **Secuencia:** 010
 
@@ -85,7 +88,7 @@ Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no po
 *Lunes, 3 de junio de 2019*
 
 - **Origen:** `2019-06-03_Bienvenida-a-casa-Nala.md`
-- **Estado:** Desconocido
+- **Estado:** Borrador
 - **Capítulo:** 01
 - **Secuencia:** 020
 
@@ -104,6 +107,92 @@ Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, alg
 
 ##Media
 2019-06-03-Nala-Adoptada.jpg
+
+---
+
+### Ender me llama
+
+*Domingo, 8 de agosto de 2021*
+
+*Fix You — Coldplay*
+
+- **Origen:** `2021-08-08_Ender-me-llama.md`
+- **Estado:** Borrador
+- **Capítulo:** 01
+- **Secuencia:** 022
+
+Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
+Un quejido, un lamento, casi junto a la carretera, un minino lloraba desconsolado, casi a la puerta de mi casa, no habrían más de 20 metros hasta la procedencia del lastimoso maullido.
+Mi mente inmediatamente supo que era un minino, y tuve que acudir, de algún modo, el click sonó en mi. No podía ignorar esa llamada.
+Estaba en mi puerta como quien dice, yo no podía oir ese lamento toda la noche e ignorarlo, ya pasó a ser mi responsabilidad, sólo por oirle llamarme.
+Acudí a su encuentro, un gatito de muy pocos meses, malherido, malhumorado, no podía huir, estaba claramente herido y en muy malas condiciones.
+Volví a casa a por una caja de cartón, como pude le metí dentro, pese su mal carácter, me lo llevé a casa.
+El animal estaba asustado, malherido, y aún así no cejaba su empeño, era un animal fuerte, saltaba a la vista, intenté darle algo de comer, y no dudó, pese el pánico, podía más su hambre a todas sus otras contrariedades... ese animal, quería vivir, no había abandonado en absoluto.
+El dia siguiente lo llevé a mi veterinaria, el pronóstico no era muy bueno, pese estar aún fuerte... tenía una seria herida, posiblemente un perro u otro animal similar, le mordió en la pata trasera izquierda.
+Además, la analítica reveló estar contagiado parvovirus, que precisamente en bebés de meses, suele ser letal. El pronóstico era seriamente grave.
+Y aún así, dediqué mis esfuerzos, cariño y cuidados, y el animal, con la medicación, pese pasarlo muy mal los primeros dias (era crítico que los superase), poco a poco, fué remontando.
+Primero, del parvovirus, a las pocas semanas, ya empezó a dar negativo, mientras a mi me aliviaba. Pese haberlo tenido aislado del resto de mis mascotas, Taka, Shasa, Nala, el peligro de contagio era una posibilidad.
+Y ya sólo quedaba ir curándole recurrentemente la grave herida de la pata... el pobre Ender, que ya se merecía ese nombre en honor a las novelas del prodigioso niño que popularizó Orson Scott Card, se sometía pacientemente a las curas, y su pata, pronto recuperó también, completamente funcional.
+Finalmente, curado de su pata, el parvovirus ya no daba señales de vida ni en sus síntomas ni en su ánimo, ni en su analítica.
+Ender poco apoco, se fué convirtiendo en un compañero, fuerte como pocos han habido, cariñoso hasta decir basta, una gratitud retornada en cada gesto, en cada maullido pidiendo atención, en sus bruscos modos de jugar.
+Ender fué, ha sido, sigue siendo y será, un compañero del que jamás podré olvidar la memoria de todo lo que muchos humanos carecen, amor, cariño, fortaleza, carácter, nobleza.
+Todo lo que podría hacerme admirar a alguien, él lo tenía... sin desmerecer en absoluto ninguna de mis otras mascotas... pero en especial él, fué uno de tantos prodigios, con los que me he podido encontrar.
+Curiosamente, es raro que esos prodigios, los encuentre entre los humanos. Curiosamente suelen ser estas bestias peludas, las que me dejan pensando, qué es en realidad, ser una buena persona.
+Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. De las mejores que recuerdo.
+
+---
+
+### Yara nos impide el paso
+
+*Domingo, 24 de octubre de 2021*
+
+*Stop! In The Name Of Love — The Supremes*
+
+- **Origen:** `2021-10-24_Yara-nos-impide-el-paso.md`
+- **Estado:** Borrador
+- **Capítulo:** 01
+- **Secuencia:** 025
+
+Frank y yo, por fin, nos decidimos a vivir juntos, después de estar un par de años de relación y atravesar una pandemia separados con el aislamiento, decidimos no esperar más, y nos fuimos a vivir juntos a Calderer.
+Durante la mudanza, ibamos con la furgoneta alquilada llena de bártulos del piso de Frank, dispuestos a descargarlos en Calderer, pero nos detuvimos en la gasolinera en la carretera camino allí.
+Llenamos combustible, y al salir, el portón trasero mal cerrado se movió, nos detuvimos para asegurar esa puerta, y de pronto. 
+Ojos como de lechuza, nos miraban desde el suelo, un ser diminuto, empapado con la llovizna de la noche, pero con ojos enormes, que nos miraba asustado e inmóvil.
+Intentaba cobijarse del clima, justo encima de un desague, no lo dudé un segundo... Click... bajé y recogí ese animal asustado e inmóvil. Ni intentó huir, al contrario, parecia que llevara horas allí esperando que la recogiese en mis brazos.
+Estaba asustaada si, y aún así, incapaz de renunciar a la calidez de mi regazo, una vez subimos a la furgoneta.
+No tenia buen aspecto, su tamaño era grotescamente pequeño, su garganta palpitaba como si fuese un fuelle o una bomba.
+Nos la llevamos, intenté darle de comer y beber, pero.. estaba visiblemente muy débil, y aún así, algo muy vivo brillaba en sus ojos, obviamente, tuvimos que llevarla al veterinario, pero no ese dia, sino al dia siguiente.
+
+---
+
+### Ender el intrépido
+
+*Jueves, 4 de mayo de 2023*
+
+*The Reason — Hoobastank*
+
+- **Origen:** `2023-05-05_Ender-el-intrepido.md`
+- **Estado:** Borrador
+- **Capítulo:** 01
+- **Secuencia:** 026
+
+Frank ayer, se encontró un cangrejo de rio, tirado en mitad de la calle privada de Calderer.
+Me mencionó que lo vió, y supuse que alguna gaviota lo soltó o perdió del pico, y fué a parar allí.
+La acequia, está junto a la carretera, así que se me ocurrió, hacer una buena obra, y mira por dónde, no sonó mi crack. 
+Si acaso levemente, pensé que siendo una especie invasora, no debía salvarlo, y aún así, pensé que yo no debía juzgar a un cangrejo aún vivo y saludable. Así que lo tomé, y me fuí.
+Allí me dirigí, y liberé, sobre un pequeño puente de la acequia, al cruzar la carretera, al pobre cangrejo de rio que nuevamente, como otros animales han hecho llegan cerca de mi casa, y pensé que mejor salvarlo.
+Crucé la carretera, tiene mucho tráfico, llegué hasta el pequeño pontón, y deje caer el rio en el agua. Me di media vuelta, y me dirigí a casa, nada raro vi ni oí en todo este transcurso, totalmente ignorante de lo que estaba sucediendo.
+Ni media hora más tarde, ya era la hora de cenar para todas nuestras mascotas, Luna, Nala, Karo, llamamos a todos los gatos y los perros, para darles de cenar, curiosamente Ender no vino, pensamos que, como alguna vez ha hecho, estaba demasiado entretenido subiéndose a los naranjos o los campos de cultivo alrededor de la casa. Nos preocupó, pero no quisimos darle importancia.
+Hoy, me dirigía, a casa de mis padres, para como es habitual, prepararles pastilleros de medicamentos, hacerles la compra de la semana, vigilar cómo se encuentran, mi padre delicado, pero aún saludable, y en fin, mis obligaciones con ellos que son habituales y rutinarias.
+Al salir a la carretera, un gato, blanco y negro, aplastado en la carretera, junto al mismo puente donde liberé el cangrejo de rio, con evidencia de que varios vehículos habían pasado ya sobre él.
+Y entonces... sí... entonces sí sentí el crack, un inmenso crac y me quebró por completo. Lo entendí todo. Y hay que entender esto con matices, no hay una clarividencia, no hay una visión especial. 
+Pero lo que si hay, y es lo que he ido entendiendo a lo largo de mi vida, un maquiavélico mecanismo, que se empeña en juntar piezas de un puzzle inexistente en mi mente.
+Ender, con su innataa curiosidad, vió que algo cogí del suelo, algo vivo, y sintió curiosidad, de algún modo, me siguió en sigilo, hasta la carretera.
+Vió que yo tiraba ese algo vivo, a la acequia, justo donde el pequeño pontón.
+Casi podía ver las imágenes en mi mente, me siguió, y quiso ver qué habia tirado yo a la acequia, así que pese su temor a los coches, creyó que tenía ocasión de cruzar. Tuvo que dudar bastante, pero se atrevió, y finalmente cruzó la carretera, el primer carril fué sencillo, sólo no tenía que venir ningún coche cerca, pero... el segundo carril, el que lindaba con la acequia, ya no hubo tanta suerte... justo la rueda derecha de alguno de los presurosos coches... dió con él, posiblemente sólo fué el morro del coche, lo tumbó, lo dejó ya moribundo o muerto, el resto de coches que vinieran después, hicieron su labor.
+Jamás podré borrar mi sentimiento de culpa, y de nuevo entendí, nuevamente. La intención no siempre implica resultado.
+Y esta narrativa, es la que explica, cómo en mi cabeza se elaboran constructos, que... puede.. tal vez... estén alineados con la realidad, pero puede que no. Pero los atajos se refuerzan en mi mente, con estas reconstrucciones imaginarias, pero que tan bien explican mi modo de entender los sucesos acaecidos.
+Yo sólo pensé en salvar de la muerte a una criatura, jamás imaginé, que el pago de esa obra, iba a ser, perder por ello a un ser tan inmensamente querido por mí, por Frank, por toda la manada, pese lo bruto que era. Karo lo veia como a un padre de hecho, siempre iba tras él. Le maravillaba lo majestuoso, fuerte y seguro de sí mismo que era.
+Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y junto la misma carretera que le encontré, nos dejó para siempre.
 
 ---
 
