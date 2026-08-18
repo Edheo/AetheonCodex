@@ -20,6 +20,7 @@ Este humedal artificial nació de forma inesperada y fue adoptado por la fauna l
 Un refugio vivo donde plantas, peces, ranas, aves e insectos conviven siguiendo el ritmo de la naturaleza.
 
 ## Cosmogonía
+En la tradición árabe, un ghadir es un remanso donde el agua permanece y da vida a su entorno. Este lugar honra esa idea: un oasis para ranas, aves, libélulas, peces y todas las criaturas que encuentran aquí agua, alimento, refugio y descanso.
 ### Musical
 **Obra:** Entre dos Aguas
 **Autor:** Paco de Lucía
@@ -63,21 +64,15 @@ Virtud: Refugio
 Estación: Perenne
 Color: Agua enverdecida, y colores, colores de los cometas, rojos, amarillos, moteados.
 Palabra: Renovación
-## Bitácora
-
-<!-- BEGIN GENERATED MEMBER JOURNAL -->
-### Entradas relacionadas
-
-- *Jueves, 13 de agosto de 2026* — [Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir](../04_Bitacora/2026-08-13_Alevines-en-Al-Ghadir.md)
-<!-- END GENERATED MEMBER JOURNAL -->
+## Recursos
 
 ## Media
 
 <div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
   <button class="aetheon-gallery__item" type="button"
-          data-full="../../assets/media/2026-08-17-AL-GHADIR.png" data-alt="2026 08 17 AL GHADIR" data-public="https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy82ODg1NjViZDBjZjkzMDBjL0lnQTlVcm0tWi1hb1FMSmFCRW5MZkpDcUFkbEpiTXN4WXBUd1BKYXp4ZDhtUXprP2U9emhvRGJu&amp;id=688565BD0CF9300C%21sb110e42ffef44953bc75d86ae107e28d&amp;cid=688565BD0CF9300C"
-          aria-label="Ampliar 2026 08 17 AL GHADIR">
-    <img src="../../assets/media/2026-08-17-AL-GHADIR.png" alt="2026 08 17 AL GHADIR" loading="lazy">
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Al-ghadir.jpg" data-alt="2026 08 17 Al ghadir"
+          aria-label="Ampliar 2026 08 17 Al ghadir">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Al-ghadir.jpg" alt="2026 08 17 Al ghadir" loading="lazy">
   </button>
 </div>
 

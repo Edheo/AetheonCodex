@@ -37,4 +37,25 @@ EDHEO
 
 ##Media
 
-
+<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
+  <button class="aetheon-gallery__item" type="button"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-01.jpeg" data-alt="2026 08 17 Llevant 01"
+          aria-label="Ampliar 2026 08 17 Llevant 01">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-01.jpeg" alt="2026 08 17 Llevant 01" loading="lazy">
+  </button>
+  <button class="aetheon-gallery__item" type="button"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-02.jpeg" data-alt="2026 08 17 Llevant 02"
+          aria-label="Ampliar 2026 08 17 Llevant 02">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-02.jpeg" alt="2026 08 17 Llevant 02" loading="lazy">
+  </button>
+  <button class="aetheon-gallery__item" type="button"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-01.jpeg" data-alt="2026 08 17 Side 01"
+          aria-label="Ampliar 2026 08 17 Side 01">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-01.jpeg" alt="2026 08 17 Side 01" loading="lazy">
+  </button>
+  <button class="aetheon-gallery__item" type="button"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-02.jpeg" data-alt="2026 08 17 Side 02"
+          aria-label="Ampliar 2026 08 17 Side 02">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-02.jpeg" alt="2026 08 17 Side 02" loading="lazy">
+  </button>
+</div>

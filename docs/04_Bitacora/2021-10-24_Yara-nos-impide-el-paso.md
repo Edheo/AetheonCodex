@@ -49,5 +49,3 @@ Estaba asustaada si, y aún así, incapaz de renunciar a la calidez de mi regazo
 No tenia buen aspecto, su tamaño era grotescamente pequeño, su garganta palpitaba como si fuese un fuelle o una bomba.
 Nos la llevamos, intenté darle de comer y beber, pero.. estaba visiblemente muy débil, y aún así, algo muy vivo brillaba en sus ojos, obviamente, tuvimos que llevarla al veterinario, pero no ese dia, sino al dia siguiente.
 ## Media
-
-

@@ -10,12 +10,18 @@ dentro de docs.
 """
 
 from pathlib import Path
+from html import escape
 import re
+import shutil
 from urllib.parse import quote
 
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCS_DIR = ROOT / "docs"
+SOURCE_STYLESHEET_FILE = ROOT / "assets" / "stylesheets" / "media.css"
+SOURCE_JAVASCRIPT_FILE = ROOT / "assets" / "javascripts" / "media.js"
+STYLESHEET_FILE = DOCS_DIR / "assets" / "stylesheets" / "media.css"
+JAVASCRIPT_FILE = DOCS_DIR / "assets" / "javascripts" / "media.js"
 
 MEDIA_BASE_URL = (
     "https://raw.githubusercontent.com/"
@@ -70,7 +76,7 @@ def youtube_embed(video_id):
 
 
 def remote_image(reference):
-    """Materializa una referencia lógica como imagen remota."""
+    """Resuelve una referencia lógica como imagen remota."""
 
     logical_path = reference.strip().replace("\\", "/")
 
@@ -83,8 +89,42 @@ def remote_image(reference):
         return None
 
     url = MEDIA_BASE_URL + quote(logical_path, safe="/")
-    alt = Path(logical_path).stem
-    return f"![{alt}]({url})"
+    alt = Path(logical_path).stem.replace("-", " ")
+    return url, alt
+
+
+def image_gallery(section):
+    """Materializa las referencias de una sección Media como galería."""
+
+    images = []
+
+    for line in section.splitlines():
+        image = remote_image(line)
+
+        if image:
+            images.append(image)
+
+    if not images:
+        return None, 0
+
+    lines = [
+        '<div class="aetheon-gallery" role="group" '
+        'aria-label="Galería de imágenes">'
+    ]
+
+    for source, alt in images:
+        safe_source = escape(source, quote=True)
+        safe_alt = escape(alt, quote=True)
+        lines.extend([
+            '  <button class="aetheon-gallery__item" type="button"',
+            f'          data-full="{safe_source}" data-alt="{safe_alt}"',
+            f'          aria-label="Ampliar {safe_alt}">',
+            f'    <img src="{safe_source}" alt="{safe_alt}" loading="lazy">',
+            "  </button>",
+        ])
+
+    lines.append("</div>")
+    return "\n".join(lines), len(images)
 
 
 def materialize_media_sections(content):
@@ -94,25 +134,25 @@ def materialize_media_sections(content):
 
     def replace_section(match):
         nonlocal image_count
-        transformed = []
-        section_image_count = 0
+        gallery, section_image_count = image_gallery(match.group("body"))
 
-        for line in match.group("body").splitlines():
-            image = remote_image(line)
-
-            if image:
-                image_count += 1
-                section_image_count += 1
-
-            transformed.append(image if image else line)
-
-        if section_image_count == 0:
+        if gallery is None:
             return match.group(0)
 
-        body = "\n".join(transformed)
-        return f"{match.group('header')}\n{body}\n"
+        image_count += section_image_count
+        suffix = "\n" if match.end() == len(content) else "\n\n"
+        return f"{match.group('header')}\n\n{gallery}{suffix}"
 
     return MEDIA_SECTION_PATTERN.sub(replace_section, content), image_count
+
+
+def write_assets():
+    """Publica los recursos del carrusel después de limpiar docs."""
+
+    STYLESHEET_FILE.parent.mkdir(parents=True, exist_ok=True)
+    JAVASCRIPT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(SOURCE_STYLESHEET_FILE, STYLESHEET_FILE)
+    shutil.copy2(SOURCE_JAVASCRIPT_FILE, JAVASCRIPT_FILE)
 
 
 def process_markdown(path):
@@ -155,6 +195,8 @@ def process_markdown(path):
 
 def run():
     print("[MEDIA] Processing media references...")
+
+    write_assets()
 
     total = 0
 

@@ -71,7 +71,13 @@ Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, alg
 
 ##Media
 
-
+<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
+  <button class="aetheon-gallery__item" type="button"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2019-06-03-Nala-Adoptada.jpg" data-alt="2019 06 03 Nala Adoptada"
+          aria-label="Ampliar 2019 06 03 Nala Adoptada">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2019-06-03-Nala-Adoptada.jpg" alt="2019 06 03 Nala Adoptada" loading="lazy">
+  </button>
+</div>
 
 ## Capítulo 02 · Orígenes
 

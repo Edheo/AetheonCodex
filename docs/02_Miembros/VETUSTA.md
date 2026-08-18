@@ -84,18 +84,17 @@ Espacio reservado para relatos, poemas y literatura.
 Fecha desconocida	-	En algún momento de algún siglo más o menos reciente, más bien antiguo, un algarrobo germnó en este terreno, seguramente una semilla accidental, quizás hubo muchos más algarrobos entonces, o quizás sólo fue un gorrino o jabalí que la trajo aquí en su aparato digestivo, la cuestión es que, Vetusta, germinó entonces aquí.
 2024-04-28	-	Primera vez que visitamos la parcela, sobre las 7 de la tarde, justo al entrar, y girar la cabeza a nuestra derecha, se la ve visible, vieja, monumental, y aún así algo ajada, incluso abandonada, pero sana y vital, plagada de chupones muy crecidos ya, que impedian poder ver siquiera su magna sueca.
 2024-07-16	-	Se ha realizado una primera inspección visual, y se ha determinado que el árbol está en buen estado, aunque con algunas ramas dañadas, posiblemente por roedores. Se ha decidido realizar un seguimiento periódico para evaluar su evolución y tomar medidas si es necesario.
-
-<!-- BEGIN GENERATED MEMBER JOURNAL -->
-### Entradas relacionadas
-
-- *Domingo, 28 de abril de 2024* — [Primera visita a Aetheon](../04_Bitacora/2024-04-28_Primera-visita.md)
-<!-- END GENERATED MEMBER JOURNAL -->
-
 ## Recursos
 
 ## Media
 
-
+<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
+  <button class="aetheon-gallery__item" type="button"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Vetusta.jpeg" data-alt="2026 08 17 Vetusta"
+          aria-label="Ampliar 2026 08 17 Vetusta">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Vetusta.jpeg" alt="2026 08 17 Vetusta" loading="lazy">
+  </button>
+</div>
 
 ## Croquis
 

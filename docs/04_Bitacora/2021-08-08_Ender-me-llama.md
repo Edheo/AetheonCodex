@@ -65,5 +65,3 @@ Curiosamente, es raro que esos prodigios, los encuentre entre los humanos. Curio
 Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. De las mejores que recuerdo.
 
 ## Media
-
-
