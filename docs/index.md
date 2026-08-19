@@ -11,6 +11,8 @@
 ## 02_Miembros
 
 - [AL-GHADIR](02_Miembros/AL-GHADIR.md)
+- [EDHEO](02_Miembros/EDHEO.md)
+- [EVAN](02_Miembros/EVAN.md)
 - [LOGOS](02_Miembros/LOGOS.md)
 - [SHENLONG](02_Miembros/SHENLONG.md)
 - [SHIVA](02_Miembros/SHIVA.md)
