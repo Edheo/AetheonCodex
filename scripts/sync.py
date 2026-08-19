@@ -6,6 +6,7 @@ ROOT = Path(__file__).resolve().parent.parent
 
 CODEX_DIR = ROOT / "codex"
 DOCS_DIR = ROOT / "docs"
+ASSETS_DIR = ROOT / "assets"
 
 CARTOGRAPHY_DIR_NAME = "03_Cartografia"
 
@@ -69,6 +70,24 @@ def copy_codex():
         )
 
 
+def copy_assets():
+    """
+    Copia los recursos estáticos canónicos al árbol publicable.
+
+    Cartografía puede añadir o regenerar después sus propios recursos
+    dentro de docs/assets.
+    """
+
+    if not ASSETS_DIR.exists():
+        return
+
+    shutil.copytree(
+        ASSETS_DIR,
+        DOCS_DIR / "assets",
+        dirs_exist_ok=True,
+    )
+
+
 def run():
     print("[SYNC] Cleaning docs...")
 
@@ -85,6 +104,10 @@ def run():
     print("[SYNC] Copying Codex...")
 
     copy_codex()
+
+    print("[SYNC] Copying static assets...")
+
+    copy_assets()
 
     print("[SYNC] Done.")
 

@@ -8,9 +8,11 @@
 ## Índice editorial
 
 - **Capítulo 01 · Mi Contexto**
-  - 010 · Una ilusión se desvanece — `2019-05-19_Una-ilusión-se-desvanece.md`
+  - 009 · Mara nos deja — `2019-04-29_Mara-nos-deja.md`
+  - 010 · Una ilusión se desvanece — `2019-05-19_Una-ilusion-se-desvanece.md`
   - 020 · Bienvenida a casa, Nala — `2019-06-03_Bienvenida-a-casa-Nala.md`
-  - 022 · Ender me llama — `2021-08-08_Ender-me-llama.md`
+  - 022 · Ender me llama — `2021-07-15_Ender-me-llama.md`
+  - 023 · Ender el imparable — `2021-08-08_Ender-el-imparable.md`
   - 025 · Yara nos impide el paso — `2021-10-24_Yara-nos-impide-el-paso.md`
   - 026 · Ender el intrépido — `2023-05-05_Ender-el-intrepido.md`
   - 030 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
@@ -35,11 +37,32 @@
 
 ## Capítulo 01 · Mi Contexto
 
+### Mara nos deja
+
+*Lunes, 29 de abril de 2019*
+
+*Tears In Heaven — Eric Clapton*
+
+- **Origen:** `2019-04-29_Mara-nos-deja.md`
+- **Estado:** Borrador
+- **Capítulo:** 01
+- **Secuencia:** 009
+
+Mara, la perrita de mis padres, falleció hoy, casi plácidamente, durmiendo en el sofá, junto a mis padres, sólo un quejido, un temblor y se fué.
+Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.
+Para mí, también es demoledor... pero, desde un principio, le daban una esperanza de vida de un año, y aún así, con medicación, cuidados, y mucha alegria y cariño, tanto nos dió ella, como nosotros a ella... han sido ocho años los que ha estado con nosotros.
+La casa se va a sentir muy vacía, aunque débil, ahí esta siempre, con dolencias, una ascitis severa provocada por su dolencia cardíaca, y cada vez más recurrentemenete, había que drenarla.
+Fué esta última etapa muy dolorosa, para mí en particular, pero de algún modo, ella descansó así ya de sus dolencias, ya poco bueno iba a disfrutar en la vida.
+Aún así Mara, te sigo recordando, tanto tiempo después, aún añoro tus ansias de cariño.
+Ojalá seas ahora, la mitad de feliz que pudiste ser con nosotros.
+
+---
+
 ### Una ilusión se desvanece
 
 *Domingo, 19 de mayo de 2019*
 
-- **Origen:** `2019-05-19_Una-ilusión-se-desvanece.md`
+- **Origen:** `2019-05-19_Una-ilusion-se-desvanece.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
 - **Secuencia:** 010
@@ -87,6 +110,8 @@ Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no po
 
 *Lunes, 3 de junio de 2019*
 
+*Titanium — Collin McLoughlin's*
+
 - **Origen:** `2019-06-03_Bienvenida-a-casa-Nala.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
@@ -105,21 +130,50 @@ Como tantas veces me ha pasado, igual que otras veces, sientes que... no, que no
 No se si a más personas les pasará, pero... a mi me sucede, cuando siento el click, quedo expectante a la oportunidad, porque siento que va a ser importante para mí.
 Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, algo hay que me dice que no intente algo a marchas forzadas, y puedo sentir dentro de mi como todo chirria de un modo, que si fuerzo a conseguirlo, el resultado, va a perjudicarme.
 
-##Media
-images/2019-06-03-Nala-Adoptada.jpg
-
 ---
 
 ### Ender me llama
+
+*Jueves, 15 de julio de 2021*
+
+*Fix You — Coldplay*
+
+- **Origen:** `2021-07-15_Ender-me-llama.md`
+- **Estado:** Borrador
+- **Capítulo:** 01
+- **Secuencia:** 022
+
+Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
+Un quejido, un lamento, casi junto a la carretera, un minino lloraba desconsolado, casi a la puerta de mi casa, no habrían más de 20 metros hasta la procedencia del lastimoso maullido.
+Mi mente inmediatamente supo que era un minino, y tuve que acudir, de algún modo, el click sonó en mi. No podía ignorar esa llamada.
+Estaba en mi puerta como quien dice, yo no podía oir ese lamento toda la noche e ignorarlo, ya pasó a ser mi responsabilidad, sólo por oirle llamarme.
+Acudí a su encuentro, un gatito de muy pocos meses, malherido, malhumorado, no podía huir, estaba claramente herido y en muy malas condiciones.
+Volví a casa a por una caja de cartón, como pude le metí dentro, pese su mal carácter, me lo llevé a casa.
+El animal estaba asustado, malherido, y aún así no cejaba su empeño, era un animal fuerte, saltaba a la vista, intenté darle algo de comer, y no dudó, pese el pánico, podía más su hambre a todas sus otras contrariedades... ese animal, quería vivir, no había abandonado en absoluto.
+El dia siguiente lo llevé a mi veterinaria, el pronóstico no era muy bueno, pese estar aún fuerte... tenía una seria herida, posiblemente un perro u otro animal similar, le mordió en la pata trasera izquierda.
+Además, la analítica reveló estar contagiado parvovirus, que precisamente en bebés de meses, suele ser letal. El pronóstico era seriamente grave.
+Y aún así, dediqué mis esfuerzos, cariño y cuidados, y el animal, con la medicación, pese pasarlo muy mal los primeros dias (era crítico que los superase), poco a poco, fué remontando.
+Primero, del parvovirus, a las pocas semanas, ya empezó a dar negativo, mientras a mi me aliviaba. Pese haberlo tenido aislado del resto de mis mascotas, Taka, Shasa, Nala, el peligro de contagio era una posibilidad.
+Y ya sólo quedaba ir curándole recurrentemente la grave herida de la pata... el pobre Ender, que ya se merecía ese nombre en honor a las novelas del prodigioso niño que popularizó Orson Scott Card, se sometía pacientemente a las curas, y su pata, pronto recuperó también, completamente funcional.
+Finalmente, curado de su pata, el parvovirus ya no daba señales de vida ni en sus síntomas ni en su ánimo, ni en su analítica.
+Ender poco apoco, se fué convirtiendo en un compañero, fuerte como pocos han habido, cariñoso hasta decir basta, una gratitud retornada en cada gesto, en cada maullido pidiendo atención, en sus bruscos modos de jugar.
+Ender fué, ha sido, sigue siendo y será, un compañero del que jamás podré olvidar la memoria de todo lo que muchos humanos carecen, amor, cariño, fortaleza, carácter, nobleza.
+Todo lo que podría hacerme admirar a alguien, él lo tenía... sin desmerecer en absoluto ninguna de mis otras mascotas... pero en especial él, fué uno de tantos prodigios, con los que me he podido encontrar.
+Curiosamente, es raro que esos prodigios, los encuentre entre los humanos. Curiosamente suelen ser estas bestias peludas, las que me dejan pensando, qué es en realidad, ser una buena persona.
+Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. De las mejores que recuerdo.
+
+---
+
+### Ender el imparable
 
 *Domingo, 8 de agosto de 2021*
 
 *Fix You — Coldplay*
 
-- **Origen:** `2021-08-08_Ender-me-llama.md`
+- **Origen:** `2021-08-08_Ender-el-imparable.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 022
+- **Secuencia:** 023
 
 Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
 Un quejido, un lamento, casi junto a la carretera, un minino lloraba desconsolado, casi a la puerta de mi casa, no habrían más de 20 metros hasta la procedencia del lastimoso maullido.
