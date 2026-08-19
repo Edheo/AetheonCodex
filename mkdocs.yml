@@ -13,6 +13,7 @@ extra_css:
   - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
   - assets/stylesheets/cartography.css
   - assets/stylesheets/media.css
+  - assets/stylesheets/aetheon.css
   
 extra_javascript:
   - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js

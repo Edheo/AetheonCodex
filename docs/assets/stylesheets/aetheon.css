@@ -1,0 +1,183 @@
+/*
+ * Aetheon visual identity
+ *
+ * Keep palette and surface decisions here. Component stylesheets should only
+ * define the layout and behaviour required by cartography and media.
+ */
+
+:root,
+[data-md-color-scheme="default"] {
+  --aetheon-paper: #f5f1e7;
+  --aetheon-surface: #faf8f2;
+  --aetheon-ink: #24231f;
+  --aetheon-ink-muted: #625f55;
+  --aetheon-earth: #756348;
+  --aetheon-olive: #62664b;
+  --aetheon-sepia-line: #d8cfbd;
+  --aetheon-sepia-line-soft: #e7e0d3;
+  --aetheon-shadow: 0 1px 3px rgb(56 47 34 / 8%);
+
+  --md-default-bg-color: var(--aetheon-paper);
+  --md-default-fg-color: var(--aetheon-ink);
+  --md-default-fg-color--light: var(--aetheon-ink-muted);
+  --md-default-fg-color--lighter: #8a8579;
+  --md-default-fg-color--lightest: var(--aetheon-sepia-line-soft);
+  --md-primary-fg-color: #565a43;
+  --md-primary-fg-color--light: #6e7258;
+  --md-primary-fg-color--dark: #444735;
+  --md-accent-fg-color: var(--aetheon-earth);
+  --md-typeset-a-color: #666744;
+  --md-code-bg-color: #eee9dd;
+  --md-code-fg-color: #302f2a;
+}
+
+body {
+  background: var(--aetheon-paper);
+}
+
+.md-header {
+  box-shadow: 0 1px 0 var(--aetheon-sepia-line);
+}
+
+.md-tabs {
+  border-bottom: 1px solid rgb(216 207 189 / 70%);
+}
+
+.md-main__inner {
+  background: var(--aetheon-surface);
+  border: 1px solid var(--aetheon-sepia-line-soft);
+  border-radius: 0.2rem;
+  box-shadow: var(--aetheon-shadow);
+}
+
+.md-content {
+  min-width: 0;
+}
+
+.md-typeset {
+  color: var(--aetheon-ink);
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  color: var(--aetheon-ink);
+  font-weight: 500;
+  letter-spacing: -0.012em;
+}
+
+.md-typeset h1 {
+  border-bottom: 1px solid var(--aetheon-sepia-line-soft);
+  padding-bottom: 0.32em;
+}
+
+.md-typeset a:hover,
+.md-typeset a:focus-visible {
+  color: var(--aetheon-earth);
+}
+
+.md-typeset blockquote {
+  border-left-color: var(--aetheon-olive);
+  color: var(--aetheon-ink-muted);
+}
+
+.md-typeset hr {
+  border-bottom-color: var(--aetheon-sepia-line);
+}
+
+.md-typeset table:not([class]) {
+  border-color: var(--aetheon-sepia-line);
+  box-shadow: none;
+}
+
+.md-typeset table:not([class]) th {
+  background: #ece7da;
+}
+
+.md-typeset code {
+  border: 1px solid var(--aetheon-sepia-line-soft);
+  box-shadow: none;
+}
+
+.md-typeset > p > img,
+.md-typeset > p > a > img,
+.aetheon-youtube,
+#aetheon-map {
+  border: 1px solid var(--aetheon-sepia-line);
+  border-radius: 0.2rem;
+  box-shadow: var(--aetheon-shadow);
+}
+
+.aetheon-gallery__item {
+  border: 1px solid var(--aetheon-sepia-line);
+  border-radius: 0.2rem;
+  background: var(--aetheon-surface);
+  box-shadow: var(--aetheon-shadow);
+}
+
+.aetheon-gallery-viewer {
+  border: 1px solid #4f4b43;
+  border-radius: 0.25rem;
+  background: #171714;
+}
+
+.leaflet-bar a,
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: var(--aetheon-surface);
+  color: var(--aetheon-ink);
+}
+
+.leaflet-bar {
+  border-color: rgb(80 72 58 / 28%);
+  box-shadow: var(--aetheon-shadow);
+}
+
+.leaflet-bar a {
+  border-bottom-color: var(--aetheon-sepia-line);
+}
+
+/* A quiet counterpart if a Material slate palette is enabled later. */
+[data-md-color-scheme="slate"] {
+  --aetheon-paper: #24251f;
+  --aetheon-surface: #2b2c26;
+  --aetheon-ink: #ece8de;
+  --aetheon-ink-muted: #c4beb1;
+  --aetheon-earth: #c0a77d;
+  --aetheon-olive: #a8aa80;
+  --aetheon-sepia-line: #514d42;
+  --aetheon-sepia-line-soft: #3c3a33;
+  --aetheon-shadow: 0 1px 3px rgb(0 0 0 / 18%);
+
+  --md-default-bg-color: var(--aetheon-paper);
+  --md-default-fg-color: var(--aetheon-ink);
+  --md-default-fg-color--light: var(--aetheon-ink-muted);
+  --md-default-fg-color--lighter: #999487;
+  --md-default-fg-color--lightest: var(--aetheon-sepia-line-soft);
+  --md-primary-fg-color: #454937;
+  --md-primary-fg-color--light: #5b6048;
+  --md-primary-fg-color--dark: #383b2d;
+  --md-accent-fg-color: var(--aetheon-earth);
+  --md-typeset-a-color: #b4b083;
+  --md-code-bg-color: #20211d;
+  --md-code-fg-color: var(--aetheon-ink);
+}
+
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
+  background: #34352e;
+}
+
+@media screen and (max-width: 76.234375em) {
+  .md-main__inner {
+    border-right: 0;
+    border-left: 0;
+    border-radius: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .aetheon-gallery__item img {
+    transition: none;
+  }
+}
