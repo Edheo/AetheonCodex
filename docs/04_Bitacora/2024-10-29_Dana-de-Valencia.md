@@ -21,6 +21,6 @@ Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuert
 ## Referencias
 **Miembros:**
 AETHEON
-TITAN
-EDHEO
+[TITAN](../02_Miembros/TITAN.md)
+[EDHEO](../02_Miembros/EDHEO.md)
 FRANK

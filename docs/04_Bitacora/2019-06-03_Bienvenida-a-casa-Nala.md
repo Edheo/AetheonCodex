@@ -10,7 +10,7 @@ A primera hora de la mañana, les envié el formulario cumplimentado, y sin dila
 ## Referencias
 **Miembros:**
 NALA
-EDHEO
+[EDHEO](../02_Miembros/EDHEO.md)
 ## Cosmogonía
 ### Musical
 **Obra:**Titanium

@@ -8,7 +8,7 @@ Un buen rato de espera eso si, unos 20 minutos de sesión, y a casa. Pero como s
 
 ## Referencias
 **Miembros:**
-Edheo
+[Edheo](../02_Miembros/EDHEO.md)
 ## Cosmogonía
 ### Musical
 **Obra:** Can't Get You Out Of My Head

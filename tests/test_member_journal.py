@@ -1,6 +1,10 @@
 import unittest
 
-from scripts.member_journal import extract_references, materialize
+from scripts.member_journal import (
+    extract_references,
+    materialize,
+    materialize_member_references,
+)
 
 
 class MemberJournalTests(unittest.TestCase):
@@ -33,6 +37,31 @@ class MemberJournalTests(unittest.TestCase):
             "time": None,
         }])
         self.assertLess(result.index("## Bitácora"), result.index("## Recursos"))
+
+    def test_links_only_references_with_member_pages(self):
+        member = {"path": type("PathStub", (), {"name": "EDHEO.md"})()}
+        aliases = {"edheo": member}
+        source = "## Referencias\n**Miembros:**\nMARA\nEDHEO\n\n## Cosmogonía\n"
+
+        result = materialize_member_references(source, aliases)
+
+        self.assertIn("\nMARA\n", result)
+        self.assertIn("[EDHEO](../02_Miembros/EDHEO.md)", result)
+        self.assertIn("\n\n## Cosmogonía\n", result)
+
+    def test_links_inline_member_references(self):
+        member = {"path": type("PathStub", (), {"name": "TITAN.md"})()}
+        aliases = {"titan": member}
+
+        result = materialize_member_references(
+            "## Referencias\n**Miembros:** TITAN, DESCONOCIDO\n",
+            aliases,
+        )
+
+        self.assertIn(
+            "**Miembros:** [TITAN](../02_Miembros/TITAN.md), DESCONOCIDO",
+            result,
+        )
 
 
 if __name__ == "__main__":

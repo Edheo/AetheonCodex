@@ -7,7 +7,7 @@ Hoy, mientras descansaba en el sofá, convaleciente tantos años ya (toda su vid
 ## Referencias
 **Miembros:**
 MARA
-EDHEO
+[EDHEO](../02_Miembros/EDHEO.md)
 ## Cosmogonía
 ### Musical
 **Obra:**Tears In Heaven

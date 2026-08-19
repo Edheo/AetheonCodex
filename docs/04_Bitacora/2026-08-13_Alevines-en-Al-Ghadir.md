@@ -51,5 +51,5 @@ Un sistema que se autoregula, que se equilibra, y a medida que más miembros for
 Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte de ti.
 ## Referencias
 **Miembros:**
-AL-GHADIR
-EDHEO
+[AL-GHADIR](../02_Miembros/AL-GHADIR.md)
+[EDHEO](../02_Miembros/EDHEO.md)

@@ -18,7 +18,7 @@ MARA
 NALA
 TAKA
 SHASA
-EDHEO
+[EDHEO](../02_Miembros/EDHEO.md)
 ## Cosmogonía
 ### Musical
 **Obra:**

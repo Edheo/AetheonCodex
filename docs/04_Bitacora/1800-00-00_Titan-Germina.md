@@ -17,4 +17,4 @@ Dado el tamaño de este pino, posiblemente germinó aquí, hará unos 200 años,
 Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
 ## Referencias
 **Miembros:**
-TITAN
+[TITAN](../02_Miembros/TITAN.md)

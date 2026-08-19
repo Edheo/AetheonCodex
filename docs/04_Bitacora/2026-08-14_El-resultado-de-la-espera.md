@@ -13,7 +13,7 @@ Así que por lo pronto, no me veré expuesto a ningún tratamiento más, por lo 
 
 ## Referencias
 **Miembros:**
-Edheo
+[Edheo](../02_Miembros/EDHEO.md)
 
 ## Cosmogonía
 ### Musical
