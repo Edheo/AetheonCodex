@@ -14,6 +14,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CODEX_MEMBERS_DIR = ROOT / "codex" / "02_Miembros"
 CODEX_JOURNAL_DIR = ROOT / "codex" / "04_Bitacora"
 DOCS_MEMBERS_DIR = ROOT / "docs" / "02_Miembros"
+DOCS_JOURNAL_DIR = ROOT / "docs" / "04_Bitacora"
 
 GENERATED_START = "<!-- BEGIN GENERATED MEMBER JOURNAL -->"
 GENERATED_END = "<!-- END GENERATED MEMBER JOURNAL -->"
@@ -115,6 +116,84 @@ def load_journal_entries(aliases):
     return unresolved
 
 
+def member_link(reference, aliases):
+    """Enlaza una referencia si existe una ficha de Miembro."""
+
+    member = aliases.get(normalize(reference))
+    if member is None:
+        return reference
+    target = f"../02_Miembros/{member['path'].name}"
+    return f"[{reference}]({target})"
+
+
+def materialize_member_references(text, aliases):
+    """Materializa en una Bitácora los enlaces declarados bajo **Miembros:**."""
+
+    section_pattern = re.compile(
+        r"(^##[ \t]+Referencias[ \t]*$)(.*?)(?=^##(?:[ \t]|$)|\Z)",
+        re.MULTILINE | re.DOTALL | re.IGNORECASE,
+    )
+    match = section_pattern.search(text)
+    if match is None:
+        return text
+
+    lines = match.group(2).splitlines()
+    in_members = False
+    rendered = []
+
+    for line in lines:
+        field = re.match(
+            r"^(?P<indent>[ \t]*)\*\*Miembros:\*\*[ \t]*(?P<values>.*)$",
+            line,
+            re.IGNORECASE,
+        )
+        if field:
+            in_members = True
+            values = field.group("values")
+            if values:
+                linked = ", ".join(
+                    member_link(item.strip(), aliases)
+                    for item in values.split(",")
+                    if item.strip()
+                )
+                rendered.append(f"{field.group('indent')}**Miembros:** {linked}")
+            else:
+                rendered.append(line)
+            continue
+
+        if in_members and line.strip():
+            prefix = re.match(r"^(?P<indent>[ \t]*)(?P<bullet>[-*][ \t]+)?", line)
+            value = line[prefix.end():]
+            linked = ", ".join(
+                member_link(item.strip(), aliases)
+                for item in value.split(",")
+                if item.strip()
+            )
+            bullet = prefix.group("bullet") or ""
+            rendered.append(f"{prefix.group('indent')}{bullet}{linked}")
+        else:
+            rendered.append(line)
+
+    body = "\n".join(rendered)
+    if match.group(2).endswith("\n"):
+        body += "\n"
+    replacement = match.group(1) + body
+    return text[:match.start()] + replacement + text[match.end():]
+
+
+def materialize_journal_member_links(aliases):
+    linked_entries = 0
+
+    for destination in sorted(DOCS_JOURNAL_DIR.glob("*.md")):
+        text = destination.read_text(encoding="utf-8-sig")
+        rendered = materialize_member_references(text, aliases)
+        if rendered != text:
+            destination.write_text(rendered, encoding="utf-8")
+            linked_entries += 1
+
+    return linked_entries
+
+
 def generated_block(entries):
     lines = [GENERATED_START, "### Entradas relacionadas", ""]
 
@@ -160,6 +239,7 @@ def run():
     print("[MEMBER JOURNAL] Building reverse journal index...")
     members, aliases = load_members()
     unresolved = load_journal_entries(aliases)
+    journal_entries = materialize_journal_member_links(aliases)
     linked_members = 0
     linked_entries = 0
 
@@ -177,6 +257,7 @@ def run():
         print(f"[MEMBER JOURNAL] {member['name']}: {count} {label}.")
 
     print(f"[MEMBER JOURNAL] Done. {linked_entries} link(s) across {linked_members} member(s).")
+    print(f"[MEMBER JOURNAL] Linked member references in {journal_entries} journal entry/entries.")
     if unresolved:
         print(
             f"[MEMBER JOURNAL] {len(unresolved)} reference name(s) "

@@ -10,8 +10,8 @@ Conversación entre Miguel y Logos acerca de la naturaleza de Aetheon, el propó
 ## Referencias
 **Miembros:**
 Aetheon
-Edheo
-Logos
+[Edheo](../02_Miembros/EDHEO.md)
+[Logos](../02_Miembros/LOGOS.md)
 
 ## Cosmogonía
 ### Musical

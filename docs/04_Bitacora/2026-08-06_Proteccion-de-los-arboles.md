@@ -33,7 +33,7 @@ SIDE
 HADA
 ALMA
 FRANK
-EDHEO
+[EDHEO](../02_Miembros/EDHEO.md)
 
 ##Media
 

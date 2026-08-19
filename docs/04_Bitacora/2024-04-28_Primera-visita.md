@@ -25,16 +25,16 @@ Podemos ver la diferencianción de los 3 bancales escalonados que conforman la p
 ## Referencias
 **Miembros:**
 AETHEON
-TITAN
+[TITAN](../02_Miembros/TITAN.md)
 LUPERCA
 PISA
 AMIS
 PONTOS
 DOGOS
 D'ARTACAN
-VETUSTA
+[VETUSTA](../02_Miembros/VETUSTA.md)
 CASA
 PISCINA
 TRASTERO
-EDHEO
+[EDHEO](../02_Miembros/EDHEO.md)
 FRANK
