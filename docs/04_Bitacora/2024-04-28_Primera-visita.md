@@ -13,7 +13,7 @@ Entretanto, esperábamos afuera, y curioseabamos a lo lejos, tratando de no demo
 
 ## Literaria
 ### Capítulo
-03 - Evolución
+03 Evolución
 ### Secuencia
 010
 ### Contenido
@@ -23,17 +23,18 @@ Una vez entramos, a unas pocas decenas de metros a la derecha, se puede ver tamb
 Podemos ver la diferencianción de los 3 bancales escalonados que conforman la parcela, el bancal oeeste, el más elevado, donde hay unos cuantos árboles, y donde está en su límite la propia Vetusta, el bancal central en cuyo centro se encuentra la casa, y después el bancal este, el de mayor desnivel, donde se pueden ver los olivos y los almendros, y a su sur, se hay la explanada, donde se encuentran frutales como naranjos, un granado, un peral, y caqui y algún que otro olivo más.
 
 ## Referencias
+**Miembros:**
 AETHEON
-TITAN
+[TITAN](../02_Miembros/TITAN.md)
 LUPERCA
 PISA
 AMIS
 PONTOS
 DOGOS
 D'ARTACAN
-VETUSTA
+[VETUSTA](../02_Miembros/VETUSTA.md)
 CASA
 PISCINA
 TRASTERO
-EDHEO
+[EDHEO](../02_Miembros/EDHEO.md)
 FRANK

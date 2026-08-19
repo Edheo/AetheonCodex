@@ -18,19 +18,17 @@ Accidentalmente, primero una rana, luego otra, la invadieron durante el invierno
 Este humedal artificial nació de forma inesperada y fue adoptado por la fauna local. Las islas flotantes sirven de refugio a renacuajos, alevines, insectos y aves visitantes. Aquí la naturaleza sigue escribiendo su propia historia.
 ## Presencia
 Un refugio vivo donde plantas, peces, ranas, aves e insectos conviven siguiendo el ritmo de la naturaleza.
-## Cosmogonía
 
-### Significado del nombre
+## Cosmogonía
 En la tradición árabe, un ghadir es un remanso donde el agua permanece y da vida a su entorno. Este lugar honra esa idea: un oasis para ranas, aves, libélulas, peces y todas las criaturas que encuentran aquí agua, alimento, refugio y descanso.
 ### Musical
 **Obra:** Entre dos Aguas
 **Autor:** Paco de Lucía
 **Intérprete:** Paco de Lucía
 **youtube:** 2oyhlad64-s
-### Simbología
-
+### Significado del nombre
+En la tradición árabe, un ghadir es un remanso donde el agua permanece y da vida a su entorno. Este lugar honra esa idea: un oasis para ranas, aves, libélulas, peces y todas las criaturas que encuentran aquí agua, alimento, refugio y descanso.
 ### Papel dentro de Aetheon
-### Lo que enseña
 Al-Ghadir nos enseña que no siempre entendemos el propósito de algo, a veces, el propósito se construye sólo... la naturaleza encuentra sus propios recursos y les da un propósito, sin esperarlo, la vida no sólo se instaló, sino que poco a poco, se estabilizó.
 Las ranas acudieron solas, les pareció un lugar sano y saludable para residir, y fueron las primeras en reclamarlo.
 Instalé unas islas flotantes, para poder poner vegetación, en especial Papirus, Paragüitas.
@@ -43,7 +41,7 @@ Sorpresivamente, ahora son los cometas, los que también han convertido una de l
 Abejas y avispas (estas últimas no tan deseadas), también acuden aquí para beber y refrescarse.
 Otros inquilinos como barqueros de agua, también han pasado a ser miembros permanentes del lugar.
 Y poco a poco, toda la naturaleza, así como lo que Aetheon en sí representa, de nuevo, se retrata en este espacio, que ya queda oficialmente reconocido como guardían.
-## Esencia
+### Esencia
 Elemento: Agua
 Tiempo: Vida
 Virtud: Refugio
@@ -53,8 +51,5 @@ Palabra: Renovación
 ## Recursos
 
 ## Media
-001-AL-GHADIR.jpeg
-
-## Croquis
-
+images/2026-08-17-Al-ghadir.jpg
 ## Referencias

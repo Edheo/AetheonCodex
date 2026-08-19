@@ -1,21 +1,28 @@
 # 2026-08-14
-**Estado:** Borrador
+**Estado:**
+Borrador
 
 ## Evento
-**Título:** El resultado de la espera
-**Descripción:** Visita al oncólogo, el doctor Cunquero de nuevo, ese gran interlocutor que no transmite más que lo indispensable.
+El resultado de la espera
+
+###Descripción
+Visita al oncólogo, el doctor Cunquero de nuevo, ese gran interlocutor que no transmite más que lo indispensable.
 Y aún así, la visita ha sido productiva, la resonancia que hice justo una semana anterior del estado actual de mi cerebro, ha sido favorable, sigue saliendo totalmente limpia, sin vestigio alguno de tumor visible.
 Sin evidencia de tumor macroscópico (según reza en el informe médico)
 Así que por lo pronto, no me veré expuesto a ningún tratamiento más, por lo pronto la próxima revisión será de resonancia en Diciembre, y posteriormente visitas médicas tanto al oncólogo (Cunquero), como al neurocirujano (Doctor Sánchez).
 
 ## Referencias
-**Miembros:**Edheo
+**Miembros:**
+[Edheo](../02_Miembros/EDHEO.md)
 
 ## Cosmogonía
 ### Musical
-**Obra:**		Old Katarakt
-**Autor:** 		Wim Mertens
-**Intérprete:**	Wim Mertens
+**Obra:**
+Old Katarakt
+**Autor:**
+Wim Mertens
+**Intérprete:**
+Wim Mertens
 <div class="aetheon-youtube">
   <iframe
     src="https://www.youtube-nocookie.com/embed/kouO0iV_AOo"
@@ -37,7 +44,7 @@ Así que por lo pronto, no me veré expuesto a ningún tratamiento más, por lo 
 ### Capítulo
 01 - Mi Contexto
 ### Secuencia
-020
+040
 ### Contenido
 Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
 No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.

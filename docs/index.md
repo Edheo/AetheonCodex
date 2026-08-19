@@ -11,6 +11,8 @@
 ## 02_Miembros
 
 - [AL-GHADIR](02_Miembros/AL-GHADIR.md)
+- [EDHEO](02_Miembros/EDHEO.md)
+- [EVAN](02_Miembros/EVAN.md)
 - [LOGOS](02_Miembros/LOGOS.md)
 - [SHENLONG](02_Miembros/SHENLONG.md)
 - [SHIVA](02_Miembros/SHIVA.md)
@@ -27,6 +29,13 @@
 - [1800-00-00_Titan-Germina](04_Bitacora/1800-00-00_Titan-Germina.md)
 - [1978-00-00_Constitucion_catastral](04_Bitacora/1978-00-00_Constitucion_catastral.md)
 - [2015-06-23_Compra-anteriores-propietarios](04_Bitacora/2015-06-23_Compra-anteriores-propietarios.md)
+- [2019-04-29_Mara-nos-deja](04_Bitacora/2019-04-29_Mara-nos-deja.md)
+- [2019-05-19_Una-ilusion-se-desvanece](04_Bitacora/2019-05-19_Una-ilusion-se-desvanece.md)
+- [2019-06-03_Bienvenida-a-casa-Nala](04_Bitacora/2019-06-03_Bienvenida-a-casa-Nala.md)
+- [2021-07-15_Ender-me-llama](04_Bitacora/2021-07-15_Ender-me-llama.md)
+- [2021-08-08_Ender-el-imparable](04_Bitacora/2021-08-08_Ender-el-imparable.md)
+- [2021-10-24_Yara-nos-impide-el-paso](04_Bitacora/2021-10-24_Yara-nos-impide-el-paso.md)
+- [2023-05-05_Ender-el-intrepido](04_Bitacora/2023-05-05_Ender-el-intrepido.md)
 - [2024-03-27_Aetheon-en-venta](04_Bitacora/2024-03-27_Aetheon-en-venta.md)
 - [2024-04-28_Primera-visita](04_Bitacora/2024-04-28_Primera-visita.md)
 - [2024-10-29_Dana-de-Valencia](04_Bitacora/2024-10-29_Dana-de-Valencia.md)

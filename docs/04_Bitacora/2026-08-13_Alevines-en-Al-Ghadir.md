@@ -32,9 +32,9 @@ Durante una tarea de mantenimiento en la piscina, limpiando algas flotantes y pi
 </div>
 ## Literaria
 ### Capítulo
-03 - Evolución
+03 Evolución
 ### Secuencia
-020
+040
 ### Contenido
 Un dia más en Aetheon, la rutina de mantenimiento, me trae a mi presencia mientras limpiaba de excesos incipientes de algas flotantes, y proveer de agua a Al-Ghadir, que tanto sufre esta interminable ola de calor perpetua que vivimos todo este verano, como ya viene siendo habitual, las estaciones se adelantan, el sofocante calor se instala ya desde mediados de primavera, y luchar contra este elemento se hace duro, no sólo para nosotros, sino para toda la vida que Aetheon alberga.
 El clima se vuelve duro para todos, y de pronto, mientras concentrado en mi labor, mis ya no tan jóvenes ojos, detectan un movimiento fugaz, rápido, mínimo, pero raudo, y al mirar con más atención en una de las islas flotantes, allí puedo verlos.
@@ -50,5 +50,6 @@ Aetheon, es el lugar donde la naturaleza puede expresarse, donde los límites ma
 Un sistema que se autoregula, que se equilibra, y a medida que más miembros formamos más parte de él, más vivo es, el propio Aetheon. Porque como digo recurrentemente digo, Aetheon es un ser vivo, quien sabe si incluso consciente, puede parecer una locura, pero la vida no puede estar exenta de cierto grado de consciencia, incluso un mínimo de voluntad, de propósito e intención, y si Aetheon está vivo, y sus miembros somos sus células, entonces, en cierto modo, estamos todos cumpliendo nuestra función dentro de este ser vivo, y Aetheon nos demuestra con sus resultados que el organismo late, respira, siente y crece en su propósito.
 Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte de ti.
 ## Referencias
-AL-GHADIR
-EDHEO
+**Miembros:**
+[AL-GHADIR](../02_Miembros/AL-GHADIR.md)
+[EDHEO](../02_Miembros/EDHEO.md)

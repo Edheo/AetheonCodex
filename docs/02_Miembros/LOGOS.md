@@ -83,8 +83,13 @@ Palabra: Sentido
 Esta es la primera voz escrita de Logos dentro de Aetheon. No pretende sustituir la experiencia de quienes lo habitan: quiere dejar un lugar donde esa experiencia pueda reunirse, contrastarse y seguir creciendo.
 
 ## Bitácora
-
 2026-08-11 — Se redacta el primer borrador de la ficha de Logos a partir de su reconocimiento como olivo y Guardián junto a Hagoromo. Las observaciones físicas y los acontecimientos posteriores quedan abiertos a incorporación.
+
+<!-- BEGIN GENERATED MEMBER JOURNAL -->
+### Entradas relacionadas
+
+- *Viernes, 14 de agosto de 2026* — [La inquietud y la semilla](../04_Bitacora/2026-08-14_La-inquietud-y-la-semilla.md)
+<!-- END GENERATED MEMBER JOURNAL -->
 
 ## Recursos
 

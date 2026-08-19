@@ -10,16 +10,43 @@ dentro de docs.
 """
 
 from pathlib import Path
+from html import escape
 import re
+import shutil
+from urllib.parse import quote
 
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCS_DIR = ROOT / "docs"
+SOURCE_STYLESHEET_FILE = ROOT / "assets" / "stylesheets" / "media.css"
+SOURCE_JAVASCRIPT_FILE = ROOT / "assets" / "javascripts" / "media.js"
+STYLESHEET_FILE = DOCS_DIR / "assets" / "stylesheets" / "media.css"
+JAVASCRIPT_FILE = DOCS_DIR / "assets" / "javascripts" / "media.js"
+
+MEDIA_BASE_URL = (
+    "https://raw.githubusercontent.com/"
+    "Edheo/Aetheon-Media/main/"
+)
+
+IMAGE_EXTENSIONS = {
+    ".gif",
+    ".jpeg",
+    ".jpg",
+    ".png",
+    ".webp",
+}
 
 
 YOUTUBE_PATTERN = re.compile(
     r"^\*\*youtube:\*\*\s*([A-Za-z0-9_-]{11})\s*$",
     re.MULTILINE,
+)
+
+MEDIA_SECTION_PATTERN = re.compile(
+    r"^(?P<header>##\s*Media\s*)$"
+    r"(?P<body>.*?)"
+    r"(?=^##(?:\s|$)|\Z)",
+    re.MULTILINE | re.DOTALL | re.IGNORECASE,
 )
 
 
@@ -48,6 +75,86 @@ def youtube_embed(video_id):
 </div>"""
 
 
+def remote_image(reference):
+    """Resuelve una referencia lógica como imagen remota."""
+
+    logical_path = reference.strip().replace("\\", "/")
+
+    if (
+        not logical_path
+        or logical_path.startswith(("/", "http://", "https://"))
+        or ".." in Path(logical_path).parts
+        or Path(logical_path).suffix.lower() not in IMAGE_EXTENSIONS
+    ):
+        return None
+
+    url = MEDIA_BASE_URL + quote(logical_path, safe="/")
+    alt = Path(logical_path).stem.replace("-", " ")
+    return url, alt
+
+
+def image_gallery(section):
+    """Materializa las referencias de una sección Media como galería."""
+
+    images = []
+
+    for line in section.splitlines():
+        image = remote_image(line)
+
+        if image:
+            images.append(image)
+
+    if not images:
+        return None, 0
+
+    lines = [
+        '<div class="aetheon-gallery" role="group" '
+        'aria-label="Galería de imágenes">'
+    ]
+
+    for source, alt in images:
+        safe_source = escape(source, quote=True)
+        safe_alt = escape(alt, quote=True)
+        lines.extend([
+            '  <button class="aetheon-gallery__item" type="button"',
+            f'          data-full="{safe_source}" data-alt="{safe_alt}"',
+            f'          aria-label="Ampliar {safe_alt}">',
+            f'    <img src="{safe_source}" alt="{safe_alt}" loading="lazy">',
+            "  </button>",
+        ])
+
+    lines.append("</div>")
+    return "\n".join(lines), len(images)
+
+
+def materialize_media_sections(content):
+    """Convierte referencias de secciones Media en Markdown."""
+
+    image_count = 0
+
+    def replace_section(match):
+        nonlocal image_count
+        gallery, section_image_count = image_gallery(match.group("body"))
+
+        if gallery is None:
+            return match.group(0)
+
+        image_count += section_image_count
+        suffix = "\n" if match.end() == len(content) else "\n\n"
+        return f"{match.group('header')}\n\n{gallery}{suffix}"
+
+    return MEDIA_SECTION_PATTERN.sub(replace_section, content), image_count
+
+
+def write_assets():
+    """Publica los recursos del carrusel después de limpiar docs."""
+
+    STYLESHEET_FILE.parent.mkdir(parents=True, exist_ok=True)
+    JAVASCRIPT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(SOURCE_STYLESHEET_FILE, STYLESHEET_FILE)
+    shutil.copy2(SOURCE_JAVASCRIPT_FILE, JAVASCRIPT_FILE)
+
+
 def process_markdown(path):
     """
     Procesa un Markdown de docs sustituyendo
@@ -58,7 +165,7 @@ def process_markdown(path):
         encoding="utf-8"
     )
 
-    transformed, count = (
+    transformed, youtube_count = (
         YOUTUBE_PATTERN.subn(
             lambda match: youtube_embed(
                 match.group(1)
@@ -67,7 +174,9 @@ def process_markdown(path):
         )
     )
 
-    if count == 0:
+    transformed, image_count = materialize_media_sections(transformed)
+
+    if youtube_count == 0 and image_count == 0:
         return 0
 
     path.write_text(
@@ -77,14 +186,17 @@ def process_markdown(path):
 
     print(
         f"[MEDIA] {path.relative_to(DOCS_DIR)} "
-        f"({count} YouTube)"
+        f"({youtube_count} YouTube, "
+        f"{image_count} remote image(s))"
     )
 
-    return count
+    return youtube_count + image_count
 
 
 def run():
     print("[MEDIA] Processing media references...")
+
+    write_assets()
 
     total = 0
 
@@ -93,7 +205,7 @@ def run():
 
     print(
         f"[MEDIA] Done. "
-        f"{total} YouTube reference(s) materialized."
+        f"{total} media block(s) materialized."
     )
 
 

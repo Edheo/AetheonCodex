@@ -14,9 +14,9 @@ Así que tras consensuarlo, Frank y yo, hemos decidido instalar en sus troncos l
 
 ## Literaria
 ### Capítulo
-04 - Protectores en la rosa de los vientos y el granado griegos
+03 Evolución
 ### Secuencia
-010
+020
 ### Contenido
 Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
 Los guardianes más consolidados, son prácticamente inmunes a esos malos tratos por su parte, Vetusta, Titán, Los olivos bijus, o ni siquiera ninguno de los masqueperros, pueden sufrir considerablemente la incontenible energía de nuestra niñas más pequeñas e intrépidas.
@@ -24,6 +24,7 @@ Por rascadores y entretenimientos que tengan en casa, son precisamente eso, mini
 Frank y yo decidimos instalar los típicos protectores de patas de mesa, para que los felinos no se ceben con ellos, en los troncos de aquellos árboles más jóvenes, con tal de que ningún mal peor, pueda agravar la situación de salud e integridad de estas promesas de morera, que están destinadas a añadir un espacio de sombraje en la tórrida parcela durante los peores meses de verano.
 
 ## Referencias
+**Miembros:**
 TRAMUNTANA
 LLEVANT
 PONENT
@@ -32,10 +33,29 @@ SIDE
 HADA
 ALMA
 FRANK
-EDHEO
+[EDHEO](../02_Miembros/EDHEO.md)
 
 ##Media
-001-Llevant.jpeg
-002-Llevant.jpeg
-001-Side.jpeg
-002-Side.jpeg
+
+<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
+  <button class="aetheon-gallery__item" type="button"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-01.jpeg" data-alt="2026 08 17 Llevant 01"
+          aria-label="Ampliar 2026 08 17 Llevant 01">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-01.jpeg" alt="2026 08 17 Llevant 01" loading="lazy">
+  </button>
+  <button class="aetheon-gallery__item" type="button"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-02.jpeg" data-alt="2026 08 17 Llevant 02"
+          aria-label="Ampliar 2026 08 17 Llevant 02">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-02.jpeg" alt="2026 08 17 Llevant 02" loading="lazy">
+  </button>
+  <button class="aetheon-gallery__item" type="button"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-01.jpeg" data-alt="2026 08 17 Side 01"
+          aria-label="Ampliar 2026 08 17 Side 01">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-01.jpeg" alt="2026 08 17 Side 01" loading="lazy">
+  </button>
+  <button class="aetheon-gallery__item" type="button"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-02.jpeg" data-alt="2026 08 17 Side 02"
+          aria-label="Ampliar 2026 08 17 Side 02">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-02.jpeg" alt="2026 08 17 Side 02" loading="lazy">
+  </button>
+</div>
