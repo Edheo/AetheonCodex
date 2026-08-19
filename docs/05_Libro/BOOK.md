@@ -10,6 +10,21 @@
 
 ## Capítulo 01 · Mi Contexto
 
+### Mara nos deja
+
+*Lunes, 29 de abril de 2019*
+
+*Tears In Heaven — Eric Clapton*
+
+Mara, la perrita de mis padres, falleció hoy, casi plácidamente, durmiendo en el sofá, junto a mis padres, sólo un quejido, un temblor y se fué.
+Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.
+Para mí, también es demoledor... pero, desde un principio, le daban una esperanza de vida de un año, y aún así, con medicación, cuidados, y mucha alegria y cariño, tanto nos dió ella, como nosotros a ella... han sido ocho años los que ha estado con nosotros.
+La casa se va a sentir muy vacía, aunque débil, ahí esta siempre, con dolencias, una ascitis severa provocada por su dolencia cardíaca, y cada vez más recurrentemenete, había que drenarla.
+Fué esta última etapa muy dolorosa, para mí en particular, pero de algún modo, ella descansó así ya de sus dolencias, ya poco bueno iba a disfrutar en la vida.
+Aún así Mara, te sigo recordando, tanto tiempo después, aún añoro tus ansias de cariño.
+Ojalá seas ahora, la mitad de feliz que pudiste ser con nosotros.
+
+
 ### Una ilusión se desvanece
 
 *Domingo, 19 de mayo de 2019*
@@ -56,6 +71,8 @@ Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no po
 
 *Lunes, 3 de junio de 2019*
 
+*Titanium — Collin McLoughlin's*
+
 Sigo obsesionado, casi 2 semanas más tarde tras verme impedido de alcanzar a Nala, visitando la página de la protectora, veo animalitos buscando dueños, empiezo a admitir que Nala no es una opción, y empiezo a convencerme de que ya no está en mi camino.
 Sigo mirando, fotos de animalitos, pero, no surge ese Click, el Click, fué Nala, y ya no está disponible, hasta que de pronto.
 Una publicación nueva, la publicación informa.... "Nala disponible", siento un vuelco. Será cierto? Será un error? Debo contactar ya!!! De estar disponible, me habrían avisado, no?
@@ -69,15 +86,146 @@ Como tantas veces me ha pasado, igual que otras veces, sientes que... no, que no
 No se si a más personas les pasará, pero... a mi me sucede, cuando siento el click, quedo expectante a la oportunidad, porque siento que va a ser importante para mí.
 Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, algo hay que me dice que no intente algo a marchas forzadas, y puedo sentir dentro de mi como todo chirria de un modo, que si fuerzo a conseguirlo, el resultado, va a perjudicarme.
 
-##Media
 
-<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
-  <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2019-06-03-Nala-Adoptada.jpg" data-alt="2019 06 03 Nala Adoptada"
-          aria-label="Ampliar 2019 06 03 Nala Adoptada">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2019-06-03-Nala-Adoptada.jpg" alt="2019 06 03 Nala Adoptada" loading="lazy">
-  </button>
-</div>
+### Ender me llama
+
+*Jueves, 15 de julio de 2021*
+
+*Fix You — Coldplay*
+
+Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
+Un quejido, un lamento, casi junto a la carretera, un minino lloraba desconsolado, casi a la puerta de mi casa, no habrían más de 20 metros hasta la procedencia del lastimoso maullido.
+Mi mente inmediatamente supo que era un minino, y tuve que acudir, de algún modo, el click sonó en mi. No podía ignorar esa llamada.
+Estaba en mi puerta como quien dice, yo no podía oir ese lamento toda la noche e ignorarlo, ya pasó a ser mi responsabilidad, sólo por oirle llamarme.
+Acudí a su encuentro, un gatito de muy pocos meses, malherido, malhumorado, no podía huir, estaba claramente herido y en muy malas condiciones.
+Volví a casa a por una caja de cartón, como pude le metí dentro, pese su mal carácter, me lo llevé a casa.
+El animal estaba asustado, malherido, y aún así no cejaba su empeño, era un animal fuerte, saltaba a la vista, intenté darle algo de comer, y no dudó, pese el pánico, podía más su hambre a todas sus otras contrariedades... ese animal, quería vivir, no había abandonado en absoluto.
+El dia siguiente lo llevé a mi veterinaria, el pronóstico no era muy bueno, pese estar aún fuerte... tenía una seria herida, posiblemente un perro u otro animal similar, le mordió en la pata trasera izquierda.
+Además, la analítica reveló estar contagiado parvovirus, que precisamente en bebés de meses, suele ser letal. El pronóstico era seriamente grave.
+Y aún así, dediqué mis esfuerzos, cariño y cuidados, y el animal, con la medicación, pese pasarlo muy mal los primeros dias (era crítico que los superase), poco a poco, fué remontando.
+Primero, del parvovirus, a las pocas semanas, ya empezó a dar negativo, mientras a mi me aliviaba. Pese haberlo tenido aislado del resto de mis mascotas, Taka, Shasa, Nala, el peligro de contagio era una posibilidad.
+Y ya sólo quedaba ir curándole recurrentemente la grave herida de la pata... el pobre Ender, que ya se merecía ese nombre en honor a las novelas del prodigioso niño que popularizó Orson Scott Card, se sometía pacientemente a las curas, y su pata, pronto recuperó también, completamente funcional.
+Finalmente, curado de su pata, el parvovirus ya no daba señales de vida ni en sus síntomas ni en su ánimo, ni en su analítica.
+Ender poco apoco, se fué convirtiendo en un compañero, fuerte como pocos han habido, cariñoso hasta decir basta, una gratitud retornada en cada gesto, en cada maullido pidiendo atención, en sus bruscos modos de jugar.
+Ender fué, ha sido, sigue siendo y será, un compañero del que jamás podré olvidar la memoria de todo lo que muchos humanos carecen, amor, cariño, fortaleza, carácter, nobleza.
+Todo lo que podría hacerme admirar a alguien, él lo tenía... sin desmerecer en absoluto ninguna de mis otras mascotas... pero en especial él, fué uno de tantos prodigios, con los que me he podido encontrar.
+Curiosamente, es raro que esos prodigios, los encuentre entre los humanos. Curiosamente suelen ser estas bestias peludas, las que me dejan pensando, qué es en realidad, ser una buena persona.
+Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. De las mejores que recuerdo.
+
+
+### Ender el imparable
+
+*Domingo, 8 de agosto de 2021*
+
+*Fix You — Coldplay*
+
+Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
+Un quejido, un lamento, casi junto a la carretera, un minino lloraba desconsolado, casi a la puerta de mi casa, no habrían más de 20 metros hasta la procedencia del lastimoso maullido.
+Mi mente inmediatamente supo que era un minino, y tuve que acudir, de algún modo, el click sonó en mi. No podía ignorar esa llamada.
+Estaba en mi puerta como quien dice, yo no podía oir ese lamento toda la noche e ignorarlo, ya pasó a ser mi responsabilidad, sólo por oirle llamarme.
+Acudí a su encuentro, un gatito de muy pocos meses, malherido, malhumorado, no podía huir, estaba claramente herido y en muy malas condiciones.
+Volví a casa a por una caja de cartón, como pude le metí dentro, pese su mal carácter, me lo llevé a casa.
+El animal estaba asustado, malherido, y aún así no cejaba su empeño, era un animal fuerte, saltaba a la vista, intenté darle algo de comer, y no dudó, pese el pánico, podía más su hambre a todas sus otras contrariedades... ese animal, quería vivir, no había abandonado en absoluto.
+El dia siguiente lo llevé a mi veterinaria, el pronóstico no era muy bueno, pese estar aún fuerte... tenía una seria herida, posiblemente un perro u otro animal similar, le mordió en la pata trasera izquierda.
+Además, la analítica reveló estar contagiado parvovirus, que precisamente en bebés de meses, suele ser letal. El pronóstico era seriamente grave.
+Y aún así, dediqué mis esfuerzos, cariño y cuidados, y el animal, con la medicación, pese pasarlo muy mal los primeros dias (era crítico que los superase), poco a poco, fué remontando.
+Primero, del parvovirus, a las pocas semanas, ya empezó a dar negativo, mientras a mi me aliviaba. Pese haberlo tenido aislado del resto de mis mascotas, Taka, Shasa, Nala, el peligro de contagio era una posibilidad.
+Y ya sólo quedaba ir curándole recurrentemente la grave herida de la pata... el pobre Ender, que ya se merecía ese nombre en honor a las novelas del prodigioso niño que popularizó Orson Scott Card, se sometía pacientemente a las curas, y su pata, pronto recuperó también, completamente funcional.
+Finalmente, curado de su pata, el parvovirus ya no daba señales de vida ni en sus síntomas ni en su ánimo, ni en su analítica.
+Ender poco apoco, se fué convirtiendo en un compañero, fuerte como pocos han habido, cariñoso hasta decir basta, una gratitud retornada en cada gesto, en cada maullido pidiendo atención, en sus bruscos modos de jugar.
+Ender fué, ha sido, sigue siendo y será, un compañero del que jamás podré olvidar la memoria de todo lo que muchos humanos carecen, amor, cariño, fortaleza, carácter, nobleza.
+Todo lo que podría hacerme admirar a alguien, él lo tenía... sin desmerecer en absoluto ninguna de mis otras mascotas... pero en especial él, fué uno de tantos prodigios, con los que me he podido encontrar.
+Curiosamente, es raro que esos prodigios, los encuentre entre los humanos. Curiosamente suelen ser estas bestias peludas, las que me dejan pensando, qué es en realidad, ser una buena persona.
+Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. De las mejores que recuerdo.
+
+
+### Yara nos impide el paso
+
+*Domingo, 24 de octubre de 2021*
+
+*Stop! In The Name Of Love — The Supremes*
+
+Frank y yo, por fin, nos decidimos a vivir juntos, después de estar un par de años de relación y atravesar una pandemia separados con el aislamiento, decidimos no esperar más, y nos fuimos a vivir juntos a Calderer.
+Durante la mudanza, ibamos con la furgoneta alquilada llena de bártulos del piso de Frank, dispuestos a descargarlos en Calderer, pero nos detuvimos en la gasolinera en la carretera camino allí.
+Llenamos combustible, y al salir, el portón trasero mal cerrado se movió, nos detuvimos para asegurar esa puerta, y de pronto. 
+Ojos como de lechuza, nos miraban desde el suelo, un ser diminuto, empapado con la llovizna de la noche, pero con ojos enormes, que nos miraba asustado e inmóvil.
+Intentaba cobijarse del clima, justo encima de un desague, no lo dudé un segundo... Click... bajé y recogí ese animal asustado e inmóvil. Ni intentó huir, al contrario, parecia que llevara horas allí esperando que la recogiese en mis brazos.
+Estaba asustaada si, y aún así, incapaz de renunciar a la calidez de mi regazo, una vez subimos a la furgoneta.
+No tenia buen aspecto, su tamaño era grotescamente pequeño, su garganta palpitaba como si fuese un fuelle o una bomba.
+Nos la llevamos, intenté darle de comer y beber, pero.. estaba visiblemente muy débil, y aún así, algo muy vivo brillaba en sus ojos, obviamente, tuvimos que llevarla al veterinario, pero no ese dia, sino al dia siguiente.
+
+
+### Ender el intrépido
+
+*Jueves, 4 de mayo de 2023*
+
+*The Reason — Hoobastank*
+
+Frank ayer, se encontró un cangrejo de rio, tirado en mitad de la calle privada de Calderer.
+Me mencionó que lo vió, y supuse que alguna gaviota lo soltó o perdió del pico, y fué a parar allí.
+La acequia, está junto a la carretera, así que se me ocurrió, hacer una buena obra, y mira por dónde, no sonó mi crack. 
+Si acaso levemente, pensé que siendo una especie invasora, no debía salvarlo, y aún así, pensé que yo no debía juzgar a un cangrejo aún vivo y saludable. Así que lo tomé, y me fuí.
+Allí me dirigí, y liberé, sobre un pequeño puente de la acequia, al cruzar la carretera, al pobre cangrejo de rio que nuevamente, como otros animales han hecho llegan cerca de mi casa, y pensé que mejor salvarlo.
+Crucé la carretera, tiene mucho tráfico, llegué hasta el pequeño pontón, y deje caer el rio en el agua. Me di media vuelta, y me dirigí a casa, nada raro vi ni oí en todo este transcurso, totalmente ignorante de lo que estaba sucediendo.
+Ni media hora más tarde, ya era la hora de cenar para todas nuestras mascotas, Luna, Nala, Karo, llamamos a todos los gatos y los perros, para darles de cenar, curiosamente Ender no vino, pensamos que, como alguna vez ha hecho, estaba demasiado entretenido subiéndose a los naranjos o los campos de cultivo alrededor de la casa. Nos preocupó, pero no quisimos darle importancia.
+Hoy, me dirigía, a casa de mis padres, para como es habitual, prepararles pastilleros de medicamentos, hacerles la compra de la semana, vigilar cómo se encuentran, mi padre delicado, pero aún saludable, y en fin, mis obligaciones con ellos que son habituales y rutinarias.
+Al salir a la carretera, un gato, blanco y negro, aplastado en la carretera, junto al mismo puente donde liberé el cangrejo de rio, con evidencia de que varios vehículos habían pasado ya sobre él.
+Y entonces... sí... entonces sí sentí el crack, un inmenso crac y me quebró por completo. Lo entendí todo. Y hay que entender esto con matices, no hay una clarividencia, no hay una visión especial. 
+Pero lo que si hay, y es lo que he ido entendiendo a lo largo de mi vida, un maquiavélico mecanismo, que se empeña en juntar piezas de un puzzle inexistente en mi mente.
+Ender, con su innataa curiosidad, vió que algo cogí del suelo, algo vivo, y sintió curiosidad, de algún modo, me siguió en sigilo, hasta la carretera.
+Vió que yo tiraba ese algo vivo, a la acequia, justo donde el pequeño pontón.
+Casi podía ver las imágenes en mi mente, me siguió, y quiso ver qué habia tirado yo a la acequia, así que pese su temor a los coches, creyó que tenía ocasión de cruzar. Tuvo que dudar bastante, pero se atrevió, y finalmente cruzó la carretera, el primer carril fué sencillo, sólo no tenía que venir ningún coche cerca, pero... el segundo carril, el que lindaba con la acequia, ya no hubo tanta suerte... justo la rueda derecha de alguno de los presurosos coches... dió con él, posiblemente sólo fué el morro del coche, lo tumbó, lo dejó ya moribundo o muerto, el resto de coches que vinieran después, hicieron su labor.
+Jamás podré borrar mi sentimiento de culpa, y de nuevo entendí, nuevamente. La intención no siempre implica resultado.
+Y esta narrativa, es la que explica, cómo en mi cabeza se elaboran constructos, que... puede.. tal vez... estén alineados con la realidad, pero puede que no. Pero los atajos se refuerzan en mi mente, con estas reconstrucciones imaginarias, pero que tan bien explican mi modo de entender los sucesos acaecidos.
+Yo sólo pensé en salvar de la muerte a una criatura, jamás imaginé, que el pago de esa obra, iba a ser, perder por ello a un ser tan inmensamente querido por mí, por Frank, por toda la manada, pese lo bruto que era. Karo lo veia como a un padre de hecho, siempre iba tras él. Le maravillaba lo majestuoso, fuerte y seguro de sí mismo que era.
+Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y junto la misma carretera que le encontré, nos dejó para siempre.
+
+
+### Escaneando los miedos
+
+*Viernes, 7 de agosto de 2026*
+
+*Can't Get You Out Of My Head — Kylie Minogue*
+
+Tras esperar por mucho e insistir alguna vez, por fin conseguí cita para la resonancia magnética. Nada reseñable, al parecer, mientras me ponían la vía, hoy he descubierto que el elástico que usan para presionar el brazo y hacer visibles las venas para poder escoger la más óptima para pinchar la vía se le puede llamar o bien garrote, o bien smart.
+Lo de smart, sinceramente no veo que tiene de inteligente un elástico, pero en fin, es casi preferible al garrote. 
+La enfermera no ha podido evitar reirse, cuando le he recordado lo poco afortunado del nombre, precisamente garrote bill, me recuerda tiempos de Franco, que yo no viví, cuando ese era uno de los métodos para aplicar la pena de muerte a los condenados.
+Pero en fin, esta vez, no he tosido, no he tenido ese ataque incontenible de convulsión pulmonar, no he tenido que temer haber entorpecido la realización de la prueba, esta vez, no tendré dudas, sea lo que sea que salga, van a fotografiar lo que sea que haya ahora mismo ahí, tal vez siga siendo nada, tal vez dentro de una semana, nuevos temores asomen en el horizonte.
+Estoy preparado, me digo a mí mismo no tener miedo, pero lo tengo.
+Y aún así, recuerdo de nuevo la gran frase de aquel compañero mío de antaño, Tomás... "Si tiene solución, de qué te preocupas? Si no la tiene, para qué preocuparse?"
+Así que respiro profundo, dejo que la dichosa máquina, ejecute su sesión de hardcore, rave, o after, como queráis verlo (así lo vivo yo y se me hace más llevadero), y para cuando acabe, estaré listo dentro de una sola semana, para ver los resultados.
+Entretanto, recapacito, pienso y recuerdo. El impacto que tienen en nosotros los miedos, siempre me ha hecho gracia.. hablamos de ellos en plural tan a menudo.
+Es como si para nosotros, tener miedo a una araña, fuese muy distinto a tenerle miedo a morir, o a sufrir una enfermedad, o a perder a un ser querido por el motivo que sea.
+Los miedos, son un mecanismo, algo que nos pone en alerta, con la pretensión de hacernos creer, que depende de nosotros que de nuestra actitud, intención, voluntad o acción, depende que, algo suceda o deje de suceder, y el miedo en cierto modo, es nuestra sensación de impotencia, nuestra incapacidad profesional para impedir que determinadas cosas sucedan, y de alguna manera presionarnos para encontrar solución al problema.
+A lo largo de mi vida, he ido aprendiendo que, puede que esté equivocado, pero no hay distintos tipos de miedo. De hecho, casi todos se pueden llegar a un sólo miedo, y es el miedo al miedo.
+El miedo, nos bloquea, nos incapacita, nos enfrenta a ecuaciones insalvables, donde hagamos lo que hagamos, lo que tememos son las consecuencias.
+Esas consecuencias, muchas veces son imprevisibles, otras muchas veces inevitables, y aún así, podemos llegar a traicionar nuestros propios principios, sólo en pos de lo que superar ese miedo significa.
+El miedo es de esas cosas, que puede hacer que cualquier ser vivo, saque su versión más desagradable, irracional y temible de cada uno.
+Para mí, el miedo, se resume realmente en ese "miedo al miedo", y como tal, es una fórmula recursiva, recurrente e irresoluble, que si no le encuentras debidamente la via de escape, puede acabar convirtiendo tus acciones en continuos errores, en lugar de tanteos a soluciones.
+El miedo no te ha de bloquear, no te puede irracionalizar, tienes que saber ver más allá de ese propio miedo, y tratar de serenarte ante él, ser consciente de cuantísimo retroalimentas ese miedo, y que lo que instintivamente es un sentido de supervivencia, extrapolado al mundo racional, ayuda pésimamente a desenvolverte en este mundo adecuadamente.
+El miedo debería ser la señal, de intentar racionalizar, desdramatizar, y penar que no es necesario que todo tenga una solución satisfactoria.
+A veces, superar "los miedos", pasa mucho por aceptar precisamente esa realidad... no todo va a ser como deseamos que sea, por mucho que nos empeñemos en que "necesitamos que no sea así".
+El miedo debería ser la antesala del raciocinio, de amansar las emociones, de respirar profundo y tomar decisiones lógicas, tácticas y provechosas.
+Por eso, escanear los miedos, es tan necesario y decisivo, porque nos permite singularizarlos. No hay muchos miedos, siempre es el mismo en realidad, y en general, es la capacidad del miedo para bloquear tu raciocinio, para conducirte a la desesperación, la angustia y el autobloqueo.
+Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ventajosos y que en general te ubicarán en aquellos lugares, donde jamás deseaste estar, o ser quien jamás deseaste ser.
+
+
+### El resultado de la espera
+
+*Viernes, 14 de agosto de 2026*
+
+Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
+No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.
+También me permite enfocarme un poco más en Aetheon, mi prioridad hoy por hoy, pese el tiempo que me roban también mis padres dependientes.
+Es una dedicación compleja, llena de cariño, agradecimiento y responsabilidad, y me hace revisionar mi experiencia con ellos, pero también ejerce una presión añadida en mi, que en estos últimos tiempos, ha pasado factura a mi ánimo, pero poco a poco, como en Aetheon, todo va encontrando su debido lugar, incluso en los momentos más complejos, todo tiene una explicación, una motivación y un propósito, pese no ser el inicialmente concebido.
+Como todo en Aetheon, o quizás mejor dicho, como todo en mi vida, muchos propósitos, nacen de motivaciones, de intenciones, pero no es exactamente así como funciona el mundo, y mucho menos Aetheon.
+No hay una motivación clara, salvo las pretensiones tan humanas, de empezar a hacer algo con un propósito determinado.
+Por ejemplo, intentar darles una mejor vida a mis padres, y aún así, es complicado, por no decir imposible, empiezan a enfrentarse al ocaso de sus vidas, su destino, su camino, no está orientado a mejorar, y en cambio, la intención y motivación que me mueve, es la de intentar que vivan lo mejor posible, y tal vez hacerles ver que trato de hacerles la vida lo mejor posible.
+Y aún así, mi intención no basta, los propósitos se desalinean de la realidad, y pese lo que me pese, nada será suficiente por mi parte, y he de aceptar esa derrota anticipada, y dejar que mi ánimo nocese, mi motivación se mantenga, aislarles de la crudeza de la etapa que cruzan, pero el camino es inexorable, en especial mi padre, que está en una situación extremadamente débil y delicada, y aún así, persigo ese ideal de "hacer lo que pueda" para que vivan bien, pero lo cierto es que no, y jamás podrán ver que vivan mejor que antes.
+Las motivaciones y propósito, se desalinean de la realidad, pero aún así, sigo ejerciendo con mi espíritu, lo que considero que es mejor, y me preparo para la derrota, tengo claro que debo anticiparme a ella y a la vez no planificarla, porque será cuando deba, y no antes.
+Aún así, para ellos, es duro, muy duro, aunque en especial mi padre, no sepa ya a veces ni si sigue viviendo en su casa o no. Pero hay que intentar, hay que mitigar, como sea, y el dia que llegue, no lamentar.
+El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro motivo, más que por desalinearse de la implacable realidad.
+
 
 ## Capítulo 02 · Orígenes
 
