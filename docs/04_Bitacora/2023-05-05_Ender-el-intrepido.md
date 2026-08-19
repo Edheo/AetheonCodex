@@ -75,5 +75,3 @@ Yo sólo pensé en salvar de la muerte a una criatura, jamás imaginé, que el p
 Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y junto la misma carretera que le encontré, nos dejó para siempre.
 
 ## Media
-
-

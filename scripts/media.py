@@ -18,11 +18,23 @@ from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCS_DIR = ROOT / "docs"
-RESOURCE_MEDIA_DIR = ROOT / "recursos" / "media"
-PUBLIC_MEDIA_DIR = DOCS_DIR / "assets" / "media"
+SOURCE_STYLESHEET_FILE = ROOT / "assets" / "stylesheets" / "media.css"
+SOURCE_JAVASCRIPT_FILE = ROOT / "assets" / "javascripts" / "media.js"
 STYLESHEET_FILE = DOCS_DIR / "assets" / "stylesheets" / "media.css"
 JAVASCRIPT_FILE = DOCS_DIR / "assets" / "javascripts" / "media.js"
-PUBLISHED_IMAGES = set()
+
+MEDIA_BASE_URL = (
+    "https://raw.githubusercontent.com/"
+    "Edheo/Aetheon-Media/main/"
+)
+
+IMAGE_EXTENSIONS = {
+    ".gif",
+    ".jpeg",
+    ".jpg",
+    ".png",
+    ".webp",
+}
 
 
 YOUTUBE_PATTERN = re.compile(
@@ -31,131 +43,11 @@ YOUTUBE_PATTERN = re.compile(
 )
 
 MEDIA_SECTION_PATTERN = re.compile(
-    r"^(##[ \t]*Media[ \t]*$)(.*?)"
-    r"(?=^##(?:[ \t]|$)|\Z)",
+    r"^(?P<header>##\s*Media\s*)$"
+    r"(?P<body>.*?)"
+    r"(?=^##(?:\s|$)|\Z)",
     re.MULTILINE | re.DOTALL | re.IGNORECASE,
 )
-
-IMAGE_PATTERN = re.compile(
-    r"^[^\r\n]+\.(?:avif|gif|jpe?g|png|webp)$",
-    re.IGNORECASE,
-)
-
-MEDIA_STYLESHEET = """.aetheon-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(12rem, 100%), 1fr));
-  gap: 0.75rem;
-  margin: 1rem 0;
-}
-
-.aetheon-gallery__item {
-  display: block;
-  padding: 0;
-  overflow: hidden;
-  border: 0;
-  border-radius: 0.4rem;
-  background: transparent;
-  cursor: zoom-in;
-  aspect-ratio: 4 / 3;
-}
-
-.aetheon-gallery__item img {
-  width: 100%;
-  height: 100%;
-  display: block;
-  object-fit: cover;
-  transition: transform 180ms ease;
-}
-
-.aetheon-gallery__item:hover img,
-.aetheon-gallery__item:focus-visible img {
-  transform: scale(1.035);
-}
-
-.aetheon-gallery-viewer {
-  width: min(96vw, 78rem);
-  max-width: none;
-  padding: 0;
-  border: 0;
-  border-radius: 0.5rem;
-  background: #111;
-  color: #fff;
-}
-
-.aetheon-gallery-viewer::backdrop { background: rgb(0 0 0 / 82%); }
-.aetheon-gallery-viewer__figure { margin: 0; }
-.aetheon-gallery-viewer__image {
-  display: block;
-  width: 100%;
-  max-height: 86vh;
-  object-fit: contain;
-}
-
-.aetheon-gallery-viewer__caption { padding: 0.6rem 3.5rem; text-align: center; }
-.aetheon-gallery-viewer__close,
-.aetheon-gallery-viewer__previous,
-.aetheon-gallery-viewer__next {
-  position: absolute;
-  border: 0;
-  border-radius: 50%;
-  background: rgb(0 0 0 / 58%);
-  color: #fff;
-  cursor: pointer;
-  font-size: 1.5rem;
-  width: 2.5rem;
-  height: 2.5rem;
-}
-.aetheon-gallery-viewer__close { top: 0.6rem; right: 0.6rem; }
-.aetheon-gallery-viewer__previous { left: 0.6rem; top: 50%; }
-.aetheon-gallery-viewer__next { right: 0.6rem; top: 50%; }
-"""
-
-MEDIA_JAVASCRIPT = r"""(() => {
-  "use strict";
-  const items = Array.from(document.querySelectorAll(".aetheon-gallery__item"));
-  if (!items.length || typeof HTMLDialogElement === "undefined") return;
-
-  const dialog = document.createElement("dialog");
-  dialog.className = "aetheon-gallery-viewer";
-  dialog.innerHTML = `<figure class="aetheon-gallery-viewer__figure">
-    <img class="aetheon-gallery-viewer__image" alt="">
-    <figcaption class="aetheon-gallery-viewer__caption"></figcaption>
-  </figure>
-  <button class="aetheon-gallery-viewer__close" aria-label="Cerrar">&times;</button>
-  <button class="aetheon-gallery-viewer__previous" aria-label="Imagen anterior">&#8249;</button>
-  <button class="aetheon-gallery-viewer__next" aria-label="Imagen siguiente">&#8250;</button>`;
-  document.body.append(dialog);
-
-  const image = dialog.querySelector(".aetheon-gallery-viewer__image");
-  const caption = dialog.querySelector(".aetheon-gallery-viewer__caption");
-  let group = [];
-  let index = 0;
-
-  const show = (nextIndex) => {
-    index = (nextIndex + group.length) % group.length;
-    const item = group[index];
-    image.src = item.dataset.full;
-    image.alt = item.dataset.alt;
-    caption.textContent = item.dataset.alt;
-  };
-
-  items.forEach((item) => item.addEventListener("click", () => {
-    const gallery = item.closest(".aetheon-gallery");
-    group = Array.from(gallery.querySelectorAll(".aetheon-gallery__item"));
-    show(group.indexOf(item));
-    dialog.showModal();
-  }));
-
-  dialog.querySelector(".aetheon-gallery-viewer__close").addEventListener("click", () => dialog.close());
-  dialog.querySelector(".aetheon-gallery-viewer__previous").addEventListener("click", () => show(index - 1));
-  dialog.querySelector(".aetheon-gallery-viewer__next").addEventListener("click", () => show(index + 1));
-  dialog.addEventListener("click", (event) => { if (event.target === dialog) dialog.close(); });
-  dialog.addEventListener("keydown", (event) => {
-    if (event.key === "ArrowLeft") show(index - 1);
-    if (event.key === "ArrowRight") show(index + 1);
-  });
-})();
-"""
 
 
 def youtube_embed(video_id):
@@ -183,39 +75,43 @@ def youtube_embed(video_id):
 </div>"""
 
 
-def image_gallery(path, section):
-    """Materializa las referencias de una seccion Media como galeria."""
+def remote_image(reference):
+    """Resuelve una referencia lógica como imagen remota."""
 
-    references = [line.strip() for line in section.splitlines() if line.strip()]
+    logical_path = reference.strip().replace("\\", "/")
+
+    if (
+        not logical_path
+        or logical_path.startswith(("/", "http://", "https://"))
+        or ".." in Path(logical_path).parts
+        or Path(logical_path).suffix.lower() not in IMAGE_EXTENSIONS
+    ):
+        return None
+
+    url = MEDIA_BASE_URL + quote(logical_path, safe="/")
+    alt = Path(logical_path).stem.replace("-", " ")
+    return url, alt
+
+
+def image_gallery(section):
+    """Materializa las referencias de una sección Media como galería."""
+
     images = []
 
-    for reference in references:
-        if not IMAGE_PATTERN.fullmatch(reference):
-            continue
+    for line in section.splitlines():
+        image = remote_image(line)
 
-        image_path = RESOURCE_MEDIA_DIR / reference
-        if not image_path.is_file():
-            print(f"[MEDIA] WARNING missing image: {image_path.relative_to(ROOT)}")
-            continue
-
-        destination = PUBLIC_MEDIA_DIR / reference
-        if reference not in PUBLISHED_IMAGES:
-            destination.parent.mkdir(parents=True, exist_ok=True)
-            shutil.copy2(image_path, destination)
-            PUBLISHED_IMAGES.add(reference)
-
-        # MkDocs publica cada Markdown como ``documento/index.html``.
-        # Calculamos el ascenso necesario hasta ``docs/assets`` para no
-        # depender de un dominio o subruta de despliegue concretos.
-        document_parts = path.relative_to(DOCS_DIR).with_suffix("").parts
-        source = "../" * len(document_parts) + "assets/media/" + quote(reference)
-        alt = Path(reference).stem.replace("-", " ")
-        images.append((source, alt))
+        if image:
+            images.append(image)
 
     if not images:
-        return ""
+        return None, 0
 
-    lines = ['<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">']
+    lines = [
+        '<div class="aetheon-gallery" role="group" '
+        'aria-label="Galería de imágenes">'
+    ]
+
     for source, alt in images:
         safe_source = escape(source, quote=True)
         safe_alt = escape(alt, quote=True)
@@ -226,8 +122,37 @@ def image_gallery(path, section):
             f'    <img src="{safe_source}" alt="{safe_alt}" loading="lazy">',
             "  </button>",
         ])
+
     lines.append("</div>")
-    return "\n".join(lines)
+    return "\n".join(lines), len(images)
+
+
+def materialize_media_sections(content):
+    """Convierte referencias de secciones Media en Markdown."""
+
+    image_count = 0
+
+    def replace_section(match):
+        nonlocal image_count
+        gallery, section_image_count = image_gallery(match.group("body"))
+
+        if gallery is None:
+            return match.group(0)
+
+        image_count += section_image_count
+        suffix = "\n" if match.end() == len(content) else "\n\n"
+        return f"{match.group('header')}\n\n{gallery}{suffix}"
+
+    return MEDIA_SECTION_PATTERN.sub(replace_section, content), image_count
+
+
+def write_assets():
+    """Publica los recursos del carrusel después de limpiar docs."""
+
+    STYLESHEET_FILE.parent.mkdir(parents=True, exist_ok=True)
+    JAVASCRIPT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(SOURCE_STYLESHEET_FILE, STYLESHEET_FILE)
+    shutil.copy2(SOURCE_JAVASCRIPT_FILE, JAVASCRIPT_FILE)
 
 
 def process_markdown(path):
@@ -249,19 +174,9 @@ def process_markdown(path):
         )
     )
 
-    gallery_count = 0
+    transformed, image_count = materialize_media_sections(transformed)
 
-    def replace_media(match):
-        nonlocal gallery_count
-        gallery = image_gallery(path, match.group(2))
-        if gallery:
-            gallery_count += 1
-        suffix = "\n" if match.end() == len(transformed) else "\n\n"
-        return f"{match.group(1)}\n\n{gallery}{suffix}"
-
-    transformed = MEDIA_SECTION_PATTERN.sub(replace_media, transformed)
-
-    if youtube_count == 0 and gallery_count == 0 and transformed == content:
+    if youtube_count == 0 and image_count == 0:
         return 0
 
     path.write_text(
@@ -271,20 +186,11 @@ def process_markdown(path):
 
     print(
         f"[MEDIA] {path.relative_to(DOCS_DIR)} "
-        f"({youtube_count} YouTube, {gallery_count} galleries)"
+        f"({youtube_count} YouTube, "
+        f"{image_count} remote image(s))"
     )
 
-    return youtube_count + gallery_count
-
-
-def write_assets():
-    PUBLISHED_IMAGES.clear()
-    if PUBLIC_MEDIA_DIR.exists():
-        shutil.rmtree(PUBLIC_MEDIA_DIR)
-    STYLESHEET_FILE.parent.mkdir(parents=True, exist_ok=True)
-    JAVASCRIPT_FILE.parent.mkdir(parents=True, exist_ok=True)
-    STYLESHEET_FILE.write_text(MEDIA_STYLESHEET, encoding="utf-8")
-    JAVASCRIPT_FILE.write_text(MEDIA_JAVASCRIPT, encoding="utf-8")
+    return youtube_count + image_count
 
 
 def run():

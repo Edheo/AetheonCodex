@@ -72,3 +72,6 @@ Ni un minuto tardaron en contestar... "Nala está reservada", me contestó.
 Sentí como si... mi click ha fallado? No puede ser, es ella, tiene que ser ella, yo se que es ella, pero... no, ya está reservada, eso significa que no tengo nada que hacer.
 Me tocaba aceptar la negación, pero, quería pensar que debía haber un error, porque yo sentía que sí, que era ella, pero... se me negaba la opción.
 Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no podía ser, no contemplaba la posiblidad de que no fuese ella.
+## Media
+images/2019-06-03-Nala-WA0000.jpg
+images/2019-06-03-Nala-WA0002.jpg

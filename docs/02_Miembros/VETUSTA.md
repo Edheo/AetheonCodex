@@ -97,9 +97,9 @@ Fecha desconocida	-	En algún momento de algún siglo más o menos reciente, má
 
 <div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
   <button class="aetheon-gallery__item" type="button"
-          data-full="../../assets/media/001-VETUSTA.jpeg" data-alt="001 VETUSTA"
-          aria-label="Ampliar 001 VETUSTA">
-    <img src="../../assets/media/001-VETUSTA.jpeg" alt="001 VETUSTA" loading="lazy">
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Vetusta.jpeg" data-alt="2026 08 17 Vetusta"
+          aria-label="Ampliar 2026 08 17 Vetusta">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Vetusta.jpeg" alt="2026 08 17 Vetusta" loading="lazy">
   </button>
 </div>
 

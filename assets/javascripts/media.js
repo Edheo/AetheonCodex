@@ -9,8 +9,8 @@
     <img class="aetheon-gallery-viewer__image" alt="">
     <figcaption class="aetheon-gallery-viewer__caption"></figcaption>
     <a class="aetheon-gallery-viewer__original"
-       target="_blank" rel="noopener noreferrer" hidden>
-      Abrir original en OneDrive
+       target="_blank" rel="noopener noreferrer">
+      Abrir imagen original
     </a>
   </figure>
   <button class="aetheon-gallery-viewer__close" aria-label="Cerrar">&times;</button>
@@ -30,13 +30,7 @@
     image.src = item.dataset.full;
     image.alt = item.dataset.alt;
     caption.textContent = item.dataset.alt;
-    if (item.dataset.public) {
-      original.href = item.dataset.public;
-      original.hidden = false;
-    } else {
-      original.removeAttribute("href");
-      original.hidden = true;
-    }
+    original.href = item.dataset.full;
   };
 
   items.forEach((item) => item.addEventListener("click", () => {

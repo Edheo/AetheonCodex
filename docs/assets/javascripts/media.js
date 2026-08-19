@@ -8,6 +8,10 @@
   dialog.innerHTML = `<figure class="aetheon-gallery-viewer__figure">
     <img class="aetheon-gallery-viewer__image" alt="">
     <figcaption class="aetheon-gallery-viewer__caption"></figcaption>
+    <a class="aetheon-gallery-viewer__original"
+       target="_blank" rel="noopener noreferrer">
+      Abrir imagen original
+    </a>
   </figure>
   <button class="aetheon-gallery-viewer__close" aria-label="Cerrar">&times;</button>
   <button class="aetheon-gallery-viewer__previous" aria-label="Imagen anterior">&#8249;</button>
@@ -16,6 +20,7 @@
 
   const image = dialog.querySelector(".aetheon-gallery-viewer__image");
   const caption = dialog.querySelector(".aetheon-gallery-viewer__caption");
+  const original = dialog.querySelector(".aetheon-gallery-viewer__original");
   let group = [];
   let index = 0;
 
@@ -25,6 +30,7 @@
     image.src = item.dataset.full;
     image.alt = item.dataset.alt;
     caption.textContent = item.dataset.alt;
+    original.href = item.dataset.full;
   };
 
   items.forEach((item) => item.addEventListener("click", () => {

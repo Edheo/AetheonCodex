@@ -13,16 +13,10 @@ NALA
 EDHEO
 ## Cosmogonía
 ### Musical
-**Obra:**
-Titanium
-**Autor:**
-David Guetta
-Afrojack
-Giorgio Tuinfort
-**Intérprete:**
-Collin McLoughlin's
-**youtube:**
-KmAnXxrVC94
+**Obra:**Titanium
+**Autor:**David Guetta, Afrojack, Giorgio Tuinfort
+**Intérprete:**Collin McLoughlin's
+**youtube:**KmAnXxrVC94
 ## Literaria
 ### Capítulo
 01 Mi Contexto 
@@ -41,6 +35,5 @@ No siempre será la solución, no siempre saldrá bien, pero cuando sientes esa 
 Como tantas veces me ha pasado, igual que otras veces, sientes que... no, que no es lo que has de hacer, igual que existe un click, existe un crack... y sientes casi el ruido en si mismo, indicándote que pares, que no sigas, que no te conviene.
 No se si a más personas les pasará, pero... a mi me sucede, cuando siento el click, quedo expectante a la oportunidad, porque siento que va a ser importante para mí.
 Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, algo hay que me dice que no intente algo a marchas forzadas, y puedo sentir dentro de mi como todo chirria de un modo, que si fuerzo a conseguirlo, el resultado, va a perjudicarme.
-
-##Media
-2019-06-03-Nala-Adoptada.jpg
+## Media
+images/2019-06-03-Nala-Adoptada.jpg
