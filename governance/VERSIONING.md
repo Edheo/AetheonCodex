@@ -21,21 +21,19 @@ git pull --ff-only
 git switch -c feature/nombre
 ```
 
-Trabaja, revisa y commitea normalmente. Para compartir la rama puede usarse:
+Trabaja, revisa y commitea normalmente. Para compartir la rama:
 
 ```powershell
-.\publish-release.ps1
+git push -u origin feature/nombre
 ```
 
-Aunque conserva ese nombre, este script admite cualquier rama activa: construye el proyecto, comprueba el estado remoto y ejecuta `git push -u origin <rama>` tras pedir confirmación.
-
-Cuando la feature esté terminada, intégrala en `develop` y publica `develop`:
+Cuando la feature esté terminada, intégrala en `develop` y sincroniza `develop`:
 
 ```powershell
 git switch develop
 git pull --ff-only
 git merge --no-ff feature/nombre
-.\publish-release.ps1
+git push origin develop
 git branch -d feature/nombre
 ```
 
@@ -74,7 +72,7 @@ git status
 git diff
 git add <archivos revisados>
 git commit -m "Prepare release X.Y.Z"
-.\publish-release.ps1
+git push -u origin release/X.Y.Z
 ```
 
 Ese push de la rama de release es necesario: `finish-release.ps1` exige que `release/X.Y.Z` y `origin/release/X.Y.Z` apunten al mismo commit.
@@ -107,7 +105,7 @@ Tras la confirmación, realiza esta secuencia exacta:
 5. elimina la rama local de release;
 6. deja activa `develop`.
 
-Por tanto, el tag se crea durante `finish-release.ps1`, después del merge en `master` y antes del push. La publicación Git de la release ocurre con el push atómico del propio script: no hay que ejecutar después `tag-release.ps1` ni `publish-release.ps1`.
+Por tanto, el tag se crea durante `finish-release.ps1`, después del merge en `master` y antes del push. El push atómico envía la release a GitHub y el tag `X.Y.Z` activa el workflow de GitHub Pages. Ese workflow vuelve a ejecutar las pruebas, construye MkDocs y despliega `site/`. Un push sin tag a `master` o `develop` no publica la web.
 
 ## Qué hace cada script
 
@@ -116,8 +114,8 @@ Por tanto, el tag se crea durante `finish-release.ps1`, después del merge en `m
 | `start-release.ps1` | `develop` | Calcula la siguiente versión, crea `release/X.Y.Z`, actualiza `VERSION` y construye. No commitea ni publica. |
 | `finish-release.ps1` | `release/X.Y.Z` | Prueba, construye, fusiona en `master`, crea el tag, sincroniza `develop`, publica todo atómicamente y elimina la rama de release. |
 | `release-tools.ps1` | No se ejecuta directamente | Funciones compartidas de Git, versión, sincronización y selección de Python. |
-| `tag-release.ps1` | Ninguna | Retirado. Siempre termina con error y remite al flujo `start-release`/`finish-release`. |
-| `publish-release.ps1` | Cualquier rama activa | Activa `.venv` y ejecuta `scripts/publish.py`: exige limpieza, hace fetch, evita publicar si la rama local va por detrás, construye y hace push de la rama activa. No crea tags, merges ni despliegues. |
+
+La publicación de Pages no tiene un script independiente: solo la desencadena el tag creado por `finish-release.ps1`.
 
 ## Si algo falla
 
@@ -138,5 +136,6 @@ git branch -vv
 - **Fallo durante el cierre:** determina qué pasos llegaron a completarse antes de borrar ramas o tags. Si el push atómico falló, el remoto no debería contener una publicación parcial, pero pueden existir localmente el merge en `master`, el tag y el merge en `develop`.
 - **Conflicto de merge:** resuélvelo o aborta el merge con `git merge --abort`; no vuelvas a ejecutar hasta recuperar un estado limpio y coherente.
 - **Tag ya existente:** no lo reemplaces automáticamente. Comprueba a qué commit apunta y resuelve la discrepancia antes de continuar.
+- **Fallo del workflow de Pages:** la release y el tag ya pueden estar publicados aunque el sitio no se haya desplegado. Consulta la ejecución `Publicar release en GitHub Pages`, corrige la causa mediante una nueva release y no muevas ni recrees el tag publicado.
 
 No borres una rama de release ni recrees un tag como medida de recuperación hasta confirmar el estado local y remoto.
