@@ -1,0 +1,1 @@
+.\start-release.ps1 -Patch

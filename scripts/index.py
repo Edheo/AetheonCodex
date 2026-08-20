@@ -6,6 +6,7 @@ a partir de la estructura del Codex.
 """
 
 from pathlib import Path
+import re
 
 import codex
 
@@ -13,6 +14,7 @@ import codex
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
 INDEX = DOCS / "index.md"
+VERSION_FILE = ROOT / "VERSION"
 
 
 GENERATED_ENTRIES = {
@@ -40,6 +42,17 @@ INTERNAL_FILES = {
 }
 
 
+def read_version():
+    """Lee la versión canónica del artefacto publicable."""
+
+    version = VERSION_FILE.read_text(encoding="utf-8-sig").strip()
+    if not version:
+        raise ValueError("VERSION no puede estar vacío.")
+    if re.fullmatch(r"\d+\.\d+\.\d+", version) is None:
+        raise ValueError("VERSION debe utilizar el formato X.Y.Z.")
+    return version
+
+
 def build():
 
     lines = []
@@ -47,6 +60,7 @@ def build():
     lines.append("# Aetheon")
     lines.append("")
     lines.append("> Atlas generado automáticamente a partir del Codex.")
+    lines.append(f"> **Versión publicada:** {read_version()}")
     lines.append("")
     lines.append("---")
     lines.append("")
