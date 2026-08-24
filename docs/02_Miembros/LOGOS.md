@@ -9,7 +9,6 @@ Tipo: Olivo
 Especie: Olivo (*Olea europaea*)  
 Fecha de nacimiento: Indeterminada  
 Estado: Reconocido como Guardián de Aetheon.
-**Grupos:** El Rincón del Rikudo
 
 ### Ubicación
 

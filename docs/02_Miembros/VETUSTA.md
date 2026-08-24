@@ -6,7 +6,7 @@ Tipo: Algarrobo
 Especie: Algarrobo común (Ceratonia siliqua)
 Fecha Nacimiento: Hay quien sugiere que puede ser milenaria años, así que lo único que si se, es que es posterior al año 1000ad.
 Estado: Prosigue su vida, con daños en pocas ramas, posiblemente causados por roedores.
-**Grupos:** Los Ancestrales
+
 ### Naturaleza
 Guardián
 ### Mitología

@@ -28,7 +28,7 @@ Los poetas muertos
 Bajo el sol de la Toscana  
 La La Land
 
-## Literatura
+## Literaria
 ### Capítulo
 03 Evolución
 

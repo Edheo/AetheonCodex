@@ -8,7 +8,7 @@ Altura: Unos 17 metros usando el método del lápiz.
 Grosor Sueca: 222 cm
 Fecha Nacimiento: Usando estimaciones intuitivas, dado el grosor, altura, características del terreno y demás
 Calculo aproximadamente entre 140 y 180 años, por tanto, pudo haber nacido posiblemente alrededor del año 1850 ad o años posteriores.
-**Grupos:** Los Ancestrales
+
 ### Naturaleza
 Guardián
 ### Mitología

@@ -6,7 +6,6 @@ Nombre: Evan
 Tipo: Almendro
 Especie: Prunus dulcis (Prunus amygdalus)
 Fecha Nacimiento: Aún no está plantaado, se hará este invierno, pero no creo que tenga aún 5 años de edad
-**Grupos:** El club de los poetas muertos
 ### Naturaleza
 Guardián
 ### Mitología
