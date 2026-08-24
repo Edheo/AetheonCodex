@@ -20,11 +20,6 @@
 - [TITAN](02_Miembros/TITAN.md)
 - [VETUSTA](02_Miembros/VETUSTA.md)
 
-## 03_Cartografia
-
-- [README](03_Cartografia/README.md)
-- [Mapa de Aetheon](03_Cartografia/MAPA.md)
-
 ## 04_Bitacora
 
 - [1800-00-00_Titan-Germina](04_Bitacora/1800-00-00_Titan-Germina.md)
@@ -46,11 +41,26 @@
 - [2026-08-13_Alevines-en-Al-Ghadir](04_Bitacora/2026-08-13_Alevines-en-Al-Ghadir.md)
 - [2026-08-14_El-resultado-de-la-espera](04_Bitacora/2026-08-14_El-resultado-de-la-espera.md)
 - [2026-08-14_La-inquietud-y-la-semilla](04_Bitacora/2026-08-14_La-inquietud-y-la-semilla.md)
+- [2026-08-23_Verde-que-te-quiero-verde](04_Bitacora/2026-08-23_Verde-que-te-quiero-verde.md)
+- [2026-08-24_El-espacio-de-lo-posible](04_Bitacora/2026-08-24_El-espacio-de-lo-posible.md)
+
+## 05_Cartografia
+
+- [README](05_Cartografia/README.md)
+- [Mapa de Aetheon](05_Cartografia/MAPA.md)
 
 ## 05_Libro
 
-- [README](05_Libro/README.md)
-- [Libro de Aetheon](05_Libro/BOOK.md)
+_Sin contenido._
+
+## 05_Tribus
+
+- [Bramasole](05_Tribus/Bramasole.md)
+
+## 06_Libro
+
+- [README](06_Libro/README.md)
+- [Libro de Aetheon](06_Libro/BOOK.md)
 
 ---
 

@@ -18,19 +18,19 @@ VERSION_FILE = ROOT / "VERSION"
 
 
 GENERATED_ENTRIES = {
-    "03_Cartografia": [
+    "05_Cartografia": [
         {
             "title": "Mapa de Aetheon",
             "relative": Path(
-                "03_Cartografia"
+                "05_Cartografia"
             ) / "MAPA.md",
         },
     ],
-    "05_Libro": [
+    "06_Libro": [
         {
             "title": "Libro de Aetheon",
             "relative": Path(
-                "05_Libro"
+                "06_Libro"
             ) / "BOOK.md",
         },
     ],

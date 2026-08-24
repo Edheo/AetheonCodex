@@ -8,7 +8,7 @@ import xml.etree.ElementTree as ET
 
 
 ROOT = Path(__file__).resolve().parent.parent
-SOURCE_DIR = ROOT / "codex" / "03_Cartografia"
+SOURCE_DIR = ROOT / "codex" / "05_Cartografia"
 RESOURCE_DIR = ROOT / "recursos"
 DEFAULT_KML = RESOURCE_DIR / "Aetheon_revisado.kml"
 SOURCE_FILES = (

@@ -2,7 +2,7 @@
 **Estado:**Borrador
 ## Evento
 Una ilusión se desvanece
-###Descripción
+### Descripción
 Consultando estaba en PROANSU la protectora de animales local del pueblo de mis padres.
 Aparece de pronto, una perrita, rescatada recién nacida, de una camada, perteneciente a una jauría de perros salvajes que vivían sueltos entre los campos de arroz y los naranjos de Sueca.
 Vi su carita, no tenía aún 2 meses de vida, ella y sus hermanos, estaban en adopción según la página web de la protectora.

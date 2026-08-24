@@ -2,7 +2,7 @@
 **Estado:**Borrador
 ## Evento
 Mara nos deja
-###Descripción
+### Descripción
 Hoy, mientras descansaba en el sofá, convaleciente tantos años ya (toda su vida), de una dolencia de corazón congénita, tras un leve quejido, se apagó su luz. Es un dia triste hoy.
 ## Referencias
 **Miembros:**

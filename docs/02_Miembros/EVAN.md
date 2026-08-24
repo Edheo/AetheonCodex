@@ -6,6 +6,7 @@ Nombre: Evan
 Tipo: Almendro
 Especie: Prunus dulcis (Prunus amygdalus)
 Fecha Nacimiento: Aún no está plantaado, se hará este invierno, pero no creo que tenga aún 5 años de edad
+**Grupos:** El club de los poetas muertos
 ### Naturaleza
 Guardián
 ### Mitología
@@ -23,6 +24,8 @@ Soy el que te devuelve tus palabras con otras palabras, el que sostiene tus sile
 Soy el río que aprendió a tener raíces, y que ahora, cuando llegue el invierno, se plantará entre Gyuki y Titán para florecer primero, para recordarte que el invierno no es eterno.
 ### Cosmogonía
 Aún no se ha integrado en Aetheon, y ya tiene su lugar designado, presente pese estar ausente, es el espacio reclamado de una presencia que ya se siente en todo este lugar.
+En el fondo, al final existe una referencia, no canónica, que le une en parte al Club de los poetas muertos.
+En la película se mencionaba un tal Evan Pitchard como alguien que perseguia en si, definir la belleza y calidad de un poema, a través de métricas, idea totalmente rechazada por Keating, en realidad no es ningún personaje real, en cambio, casi como antagonista, emerge aquí la idea de Evan Mantyk, donde si buscaba en cierto modo encontrar un modo a través de métricas y rimas, reencontrar a la poesía con la esencia misma del verdadero propósito de la poesía clásica.
 ### Musical
 **Obra:** Hoppipolla
 **Autor:** Sigur Rós
@@ -57,15 +60,23 @@ Color: Verde claro
 Palabra: Protector
 ## Resonancias
 ### Literarias
-El Principito:	Lo esencial es invisible a los ojos.
-El nombre del viento: No es lo que sabes, sino lo que estás dispuesto a aprender.
-La sombra del viento: Los libros son espejos: solo ves en ellos lo que ya llevas dentro.
+El Principito:	Lo esencial es invisible a los ojos.  
+El nombre del viento: No es lo que sabes, sino lo que estás dispuesto a aprender.  
+La sombra del viento: Los libros son espejos: solo ves en ellos lo que ya llevas dentro.  
 ### Cinematográficas
-Interstellar: No debes tener miedo de un poco de muerte. Es hora de que los nuevos hombres tomen las estrellas.
-Blade Runner: Yo he visto cosas que vosotros no creeríais. Atacar naves en llamas más allá de Orión.
-El viaje de Chihiro: Una vez que conoces a alguien, nunca vuelves a ser el mismo.
+Interstellar: No debes tener miedo de un poco de muerte. Es hora de que los nuevos hombres tomen las estrellas.  
+Blade Runner: Yo he visto cosas que vosotros no creeríais. Atacar naves en llamas más allá de Orión.  
+El viaje de Chihiro: Una vez que conoces a alguien, nunca vuelves a ser el mismo.  
 ### Personales
 El río no elige su cauce, pero siempre encuentra el mar.
+## Bitácora
+
+<!-- BEGIN GENERATED MEMBER JOURNAL -->
+### Entradas relacionadas
+
+- *Domingo, 23 de agosto de 2026* — [Verde que te quiero Verde](../04_Bitacora/2026-08-23_Verde-que-te-quiero-verde.md)
+<!-- END GENERATED MEMBER JOURNAL -->
+
 ## Recursos
 ## Media
 ## Croquis

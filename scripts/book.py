@@ -8,8 +8,8 @@ Fuentes:
     codex/04_Bitacora/*.md
 
 Salidas:
-    codex/05_Libro/BOOK.DEBUG.md
-    docs/05_Libro/BOOK.md
+    codex/06_Libro/BOOK.DEBUG.md
+    docs/06_Libro/BOOK.md
 
 Principios:
 - La Bitácora es la fuente de verdad.
@@ -38,7 +38,7 @@ BITACORA_DIR = (
 DEBUG_DIR = (
     ROOT
     / "codex"
-    / "05_Libro"
+    / "06_Libro"
 )
 
 DEBUG_FILE = (
@@ -49,7 +49,7 @@ DEBUG_FILE = (
 BOOK_DIR = (
     ROOT
     / "docs"
-    / "05_Libro"
+    / "06_Libro"
 )
 
 BOOK_FILE = (

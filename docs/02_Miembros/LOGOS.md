@@ -9,6 +9,7 @@ Tipo: Olivo
 Especie: Olivo (*Olea europaea*)  
 Fecha de nacimiento: Indeterminada  
 Estado: Reconocido como Guardián de Aetheon.
+**Grupos:** El Rincón del Rikudo
 
 ### Ubicación
 
@@ -89,6 +90,7 @@ Esta es la primera voz escrita de Logos dentro de Aetheon. No pretende sustituir
 ### Entradas relacionadas
 
 - *Viernes, 14 de agosto de 2026* — [La inquietud y la semilla](../04_Bitacora/2026-08-14_La-inquietud-y-la-semilla.md)
+- *Lunes, 24 de agosto de 2026* — [El espacio de lo posible](../04_Bitacora/2026-08-24_El-espacio-de-lo-posible.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
 ## Recursos
