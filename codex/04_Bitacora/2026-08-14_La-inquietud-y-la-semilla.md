@@ -27,6 +27,9 @@ InyT9Gyoz_o
 ## Literaria
 **Capítulo:**
 **Secuencia:**  
+### Autoría
+Edheo
+
 ### Contenido
 Hoy Aetheon no ha cambiado porque haya nacido algo en sus aguas, porque haya
 crecido uno de sus Guardianes o porque una nueva construcción haya alterado

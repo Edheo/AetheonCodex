@@ -17,28 +17,15 @@ Tuvimos que recogerla, lloviznaba, ella justo encima de un desague, la cogí y c
 **Obra:**Stop! In The Name Of Love
 **Autor:**Lamont Dozier, Brian Holland, Eddie Holland
 **Intérprete:**The Supremes
-<div class="aetheon-youtube">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/le_P2AtA_EQ"
-    title="YouTube video"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
-
-<div class="aetheon-youtube-link">
-  <a href="https://www.youtube.com/watch?v=le_P2AtA_EQ"
-     target="_blank"
-     rel="noopener noreferrer">
-    Ver en YouTube
-  </a>
-</div>
+**youtube:**le_P2AtA_EQ
 ## Literaria
 ### Capítulo
 01 Mi Contexto
 ### Secuencia
 025
+### Autoría
+Edheo
+
 ### Contenido
 Frank y yo, por fin, nos decidimos a vivir juntos, después de estar un par de años de relación y atravesar una pandemia separados con el aislamiento, decidimos no esperar más, y nos fuimos a vivir juntos a Calderer.
 Durante la mudanza, ibamos con la furgoneta alquilada llena de bártulos del piso de Frank, dispuestos a descargarlos en Calderer, pero nos detuvimos en la gasolinera en la carretera camino allí.

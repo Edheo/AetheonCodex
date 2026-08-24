@@ -32,28 +32,15 @@ Karo
 **Obra:**The Reason
 **Autor:**Douglas Robb, Daniel Estrin, Marku Lappalainen, Deborah Lurie
 **Intérprete:**Hoobastank
-<div class="aetheon-youtube">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/fV4DiAyExN0"
-    title="YouTube video"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
-
-<div class="aetheon-youtube-link">
-  <a href="https://www.youtube.com/watch?v=fV4DiAyExN0"
-     target="_blank"
-     rel="noopener noreferrer">
-    Ver en YouTube
-  </a>
-</div>
+**youtube:**fV4DiAyExN0
 ## Literaria
 ### Capítulo
 01 Mi Contexto 
 ### Secuencia
 026
+### Autoría
+Edheo
+
 ### Contenido
 Frank ayer, se encontró un cangrejo de rio, tirado en mitad de la calle privada de Calderer.
 Me mencionó que lo vió, y supuse que alguna gaviota lo soltó o perdió del pico, y fué a parar allí.

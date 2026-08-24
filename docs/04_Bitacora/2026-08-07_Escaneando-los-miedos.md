@@ -8,34 +8,22 @@ Un buen rato de espera eso si, unos 20 minutos de sesión, y a casa. Pero como s
 
 ## Referencias
 **Miembros:**
-[Edheo](../02_Miembros/EDHEO.md)
+Edheo
 ## Cosmogonía
 ### Musical
 **Obra:** Can't Get You Out Of My Head
 **Autor:** Cathy Dennis
 **Intérprete:** Kylie Minogue
-<div class="aetheon-youtube">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/c18441Eh_WE"
-    title="YouTube video"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
+**youtube:** c18441Eh_WE
 
-<div class="aetheon-youtube-link">
-  <a href="https://www.youtube.com/watch?v=c18441Eh_WE"
-     target="_blank"
-     rel="noopener noreferrer">
-    Ver en YouTube
-  </a>
-</div>
 ## Literaria
 ### Capítulo
 01 - Mi Contexto
 ### Secuencia
 030
+### Autoría
+Edheo
+
 ### Contenido
 Tras esperar por mucho e insistir alguna vez, por fin conseguí cita para la resonancia magnética. Nada reseñable, al parecer, mientras me ponían la vía, hoy he descubierto que el elástico que usan para presionar el brazo y hacer visibles las venas para poder escoger la más óptima para pinchar la vía se le puede llamar o bien garrote, o bien smart.
 Lo de smart, sinceramente no veo que tiene de inteligente un elástico, pero en fin, es casi preferible al garrote. 

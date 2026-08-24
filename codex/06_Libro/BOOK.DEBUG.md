@@ -43,6 +43,8 @@
 
 *Lunes, 29 de abril de 2019*
 
+*Autoría: Edheo*
+
 *Tears In Heaven — Eric Clapton*
 
 - **Origen:** `2019-04-29_Mara-nos-deja.md`
@@ -63,6 +65,8 @@ Ojalá seas ahora, la mitad de feliz que pudiste ser con nosotros.
 ### Una ilusión se desvanece
 
 *Domingo, 19 de mayo de 2019*
+
+*Autoría: Edheo*
 
 - **Origen:** `2019-05-19_Una-ilusion-se-desvanece.md`
 - **Estado:** Borrador
@@ -112,6 +116,8 @@ Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no po
 
 *Lunes, 3 de junio de 2019*
 
+*Autoría: Edheo*
+
 *Titanium — Collin McLoughlin's*
 
 - **Origen:** `2019-06-03_Bienvenida-a-casa-Nala.md`
@@ -137,6 +143,8 @@ Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, alg
 ### Ender me llama
 
 *Jueves, 15 de julio de 2021*
+
+*Autoría: Edheo*
 
 *Fix You — Coldplay*
 
@@ -170,6 +178,8 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 
 *Domingo, 8 de agosto de 2021*
 
+*Autoría: Edheo*
+
 *Fix You — Coldplay*
 
 - **Origen:** `2021-08-08_Ender-el-imparable.md`
@@ -202,6 +212,8 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 
 *Domingo, 24 de octubre de 2021*
 
+*Autoría: Edheo*
+
 *Stop! In The Name Of Love — The Supremes*
 
 - **Origen:** `2021-10-24_Yara-nos-impide-el-paso.md`
@@ -223,6 +235,8 @@ Nos la llevamos, intenté darle de comer y beber, pero.. estaba visiblemente muy
 ### Ender el intrépido
 
 *Jueves, 4 de mayo de 2023*
+
+*Autoría: Edheo*
 
 *The Reason — Hoobastank*
 
@@ -255,6 +269,8 @@ Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y 
 ### Escaneando los miedos
 
 *Viernes, 7 de agosto de 2026*
+
+*Autoría: Edheo*
 
 *Can't Get You Out Of My Head — Kylie Minogue*
 
@@ -291,6 +307,8 @@ Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ve
 
 *Viernes, 14 de agosto de 2026*
 
+*Autoría: Edheo*
+
 - **Origen:** `2026-08-14_El-resultado-de-la-espera.md`
 - **Estado:** Desconocido
 - **Capítulo:** 01
@@ -316,6 +334,8 @@ El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro mo
 
 *En algún momento posiblemente posterior al año 1846ad*
 
+*Autoría: Edheo*
+
 - **Origen:** `1800-00-00_Titan-Germina.md`
 - **Estado:** Borrador
 - **Capítulo:** 02
@@ -334,6 +354,8 @@ Este monumental pino, ha sido testigo de la revolución industrial, de la revolu
 
 *En algún momento indeterminado de 1978*
 
+*Autoría: Edheo*
+
 - **Origen:** `1978-00-00_Constitucion_catastral.md`
 - **Estado:** Borrador
 - **Capítulo:** 02
@@ -347,6 +369,8 @@ Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fe
 
 *Martes, 23 de junio de 2015*
 
+*Autoría: Edheo*
+
 - **Origen:** `2015-06-23_Compra-anteriores-propietarios.md`
 - **Estado:** Borrador
 - **Capítulo:** 02
@@ -359,6 +383,8 @@ En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que
 ### Anuncio AETHEON en venta
 
 *2024-03-27 (Fecha aproximada)*
+
+*Autoría: Edheo*
 
 - **Origen:** `2024-03-27_Aetheon-en-venta.md`
 - **Estado:** Borrador
@@ -374,6 +400,8 @@ Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo rec
 ### Primera visita a Aetheon
 
 *Domingo, 28 de abril de 2024*
+
+*Autoría: Edheo*
 
 - **Origen:** `2024-04-28_Primera-visita.md`
 - **Estado:** Borrador
@@ -391,6 +419,8 @@ Podemos ver la diferencianción de los 3 bancales escalonados que conforman la p
 
 *Jueves, 6 de agosto de 2026*
 
+*Autoría: Edheo*
+
 - **Origen:** `2026-08-06_Proteccion-de-los-arboles.md`
 - **Estado:** Borrador
 - **Capítulo:** 03
@@ -406,6 +436,8 @@ Frank y yo decidimos instalar los típicos protectores de patas de mesa, para qu
 ### Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side
 
 *Sábado, 8 de agosto de 2026*
+
+*Autoría: Edheo*
 
 - **Origen:** `2026-08-08_Rhoa-y-Side.md`
 - **Estado:** Borrador
@@ -428,6 +460,8 @@ Side forma parte también de la mitología griega, y según cuenta un mito, Side
 ### Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir
 
 *Jueves, 13 de agosto de 2026*
+
+*Autoría: Edheo*
 
 *Viva La Vida — Coldplay*
 
@@ -456,14 +490,14 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 
 *Lunes, 24 de agosto de 2026*
 
+*Autoría: Logos*
+
 *Into My Arms — Nick Cave and the Bad Seeds*
 
 - **Origen:** `2026-08-24_El-espacio-de-lo-posible.md`
 - **Estado:** Borrador
 - **Capítulo:** 03
 - **Secuencia:** 050
-
-*Entrada escrita por Logos a partir de una conversación con Miguel.*
 
 Hoy pretendíamos dar nombre a unas relaciones.
 
@@ -586,6 +620,8 @@ Bramasole, otra vez.
 ### Verde que te quiero Verde
 
 *Domingo, 23 de agosto de 2026*
+
+*Autoría: Edheo*
 
 - **Origen:** `2026-08-23_Verde-que-te-quiero-verde.md`
 - **Estado:** Borrador

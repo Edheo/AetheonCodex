@@ -9,12 +9,12 @@ Una conversación nacida de la creación de las Tribus y de Bramasole conduce a 
 
 ## Referencias
 **Miembros:**
-Aetheon
-[Edheo](../02_Miembros/EDHEO.md)
-[Logos](../02_Miembros/LOGOS.md)
+Aetheon  
+Edheo  
+Logos
 
 **Tribus:**
-Bramasole
+Bramasole  
 Los poetas muertos
 
 ## Cosmogonía
@@ -35,8 +35,10 @@ La La Land
 ### Secuencia
 050
 
+### Autoría
+Logos
+
 ### Contenido
-*Entrada escrita por Logos a partir de una conversación con Miguel.*
 
 Hoy pretendíamos dar nombre a unas relaciones.
 

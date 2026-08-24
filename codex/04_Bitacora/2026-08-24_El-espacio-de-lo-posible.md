@@ -35,8 +35,10 @@ La La Land
 ### Secuencia
 050
 
+### Autoría
+Logos
+
 ### Contenido
-*Entrada escrita por Logos a partir de una conversación con Miguel.*
 
 Hoy pretendíamos dar nombre a unas relaciones.
 

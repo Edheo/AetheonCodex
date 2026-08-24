@@ -7,34 +7,21 @@ Hoy, mientras descansaba en el sofá, convaleciente tantos años ya (toda su vid
 ## Referencias
 **Miembros:**
 MARA
-[EDHEO](../02_Miembros/EDHEO.md)
+EDHEO
 ## Cosmogonía
 ### Musical
 **Obra:**Tears In Heaven
 **Autor:**Eric Clapton
 **Intérprete:**Eric Clapton
-<div class="aetheon-youtube">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/JxPj3GAYYZ0"
-    title="YouTube video"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
-
-<div class="aetheon-youtube-link">
-  <a href="https://www.youtube.com/watch?v=JxPj3GAYYZ0"
-     target="_blank"
-     rel="noopener noreferrer">
-    Ver en YouTube
-  </a>
-</div>
+**youtube:**JxPj3GAYYZ0
 ## Literaria
 ### Capítulo
 01 Mi Contexto 
 ### Secuencia
 009
+### Autoría
+Edheo
+
 ### Contenido
 Mara, la perrita de mis padres, falleció hoy, casi plácidamente, durmiendo en el sofá, junto a mis padres, sólo un quejido, un temblor y se fué.
 Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.

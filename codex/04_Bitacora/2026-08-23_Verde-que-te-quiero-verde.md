@@ -40,6 +40,9 @@ ovyfbirtPLs
 ## Literaria
 **Capítulo:**  03 Evolución
 **Secuencia:**  101
+### Autoría
+Edheo
+
 ### Contenido
 Entre las referencias literarias, que quiero que plasmen su esencia en Aetheon, creo que escogería estas.  
 Evan Mantyk: The classic forms are like the ancient trees / That weather every shifting, modern breeze.  

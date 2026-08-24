@@ -13,6 +13,9 @@ Dado el tamaño de este pino, posiblemente germinó aquí, hará unos 160 años,
 02 Orígenes
 ### Secuencia
 010
+### Autoría
+Edheo
+
 ### Contenido
 Según se puede estimar, este pino piñonero, dado que creció en esta colina rocosa, cuando esto sería mero monte.
 Su tronco, a la altura de unos 130 cm, tiene un perímetro de 222 cm en la actualidad, lo cual equivale a un diámetro de 70,6 cm.

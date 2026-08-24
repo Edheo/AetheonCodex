@@ -19,6 +19,9 @@ EDHEO
 01 Mi Contexto 
 ### Secuencia
 009
+### Autoría
+Edheo
+
 ### Contenido
 Mara, la perrita de mis padres, falleció hoy, casi plácidamente, durmiendo en el sofá, junto a mis padres, sólo un quejido, un temblor y se fué.
 Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.

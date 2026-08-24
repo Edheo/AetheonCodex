@@ -14,6 +14,8 @@
 
 *Lunes, 29 de abril de 2019*
 
+*Autoría: Edheo*
+
 *Tears In Heaven — Eric Clapton*
 
 Mara, la perrita de mis padres, falleció hoy, casi plácidamente, durmiendo en el sofá, junto a mis padres, sólo un quejido, un temblor y se fué.
@@ -28,6 +30,8 @@ Ojalá seas ahora, la mitad de feliz que pudiste ser con nosotros.
 ### Una ilusión se desvanece
 
 *Domingo, 19 de mayo de 2019*
+
+*Autoría: Edheo*
 
 Mara, la perrita de mis padres, falleció poco más de un mes antes.
 Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.
@@ -71,6 +75,8 @@ Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no po
 
 *Lunes, 3 de junio de 2019*
 
+*Autoría: Edheo*
+
 *Titanium — Collin McLoughlin's*
 
 Sigo obsesionado, casi 2 semanas más tarde tras verme impedido de alcanzar a Nala, visitando la página de la protectora, veo animalitos buscando dueños, empiezo a admitir que Nala no es una opción, y empiezo a convencerme de que ya no está en mi camino.
@@ -90,6 +96,8 @@ Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, alg
 ### Ender me llama
 
 *Jueves, 15 de julio de 2021*
+
+*Autoría: Edheo*
 
 *Fix You — Coldplay*
 
@@ -117,6 +125,8 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 
 *Domingo, 8 de agosto de 2021*
 
+*Autoría: Edheo*
+
 *Fix You — Coldplay*
 
 Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
@@ -143,6 +153,8 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 
 *Domingo, 24 de octubre de 2021*
 
+*Autoría: Edheo*
+
 *Stop! In The Name Of Love — The Supremes*
 
 Frank y yo, por fin, nos decidimos a vivir juntos, después de estar un par de años de relación y atravesar una pandemia separados con el aislamiento, decidimos no esperar más, y nos fuimos a vivir juntos a Calderer.
@@ -158,6 +170,8 @@ Nos la llevamos, intenté darle de comer y beber, pero.. estaba visiblemente muy
 ### Ender el intrépido
 
 *Jueves, 4 de mayo de 2023*
+
+*Autoría: Edheo*
 
 *The Reason — Hoobastank*
 
@@ -184,6 +198,8 @@ Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y 
 ### Escaneando los miedos
 
 *Viernes, 7 de agosto de 2026*
+
+*Autoría: Edheo*
 
 *Can't Get You Out Of My Head — Kylie Minogue*
 
@@ -214,6 +230,8 @@ Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ve
 
 *Viernes, 14 de agosto de 2026*
 
+*Autoría: Edheo*
+
 Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
 No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.
 También me permite enfocarme un poco más en Aetheon, mi prioridad hoy por hoy, pese el tiempo que me roban también mis padres dependientes.
@@ -233,6 +251,8 @@ El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro mo
 
 *En algún momento posiblemente posterior al año 1846ad*
 
+*Autoría: Edheo*
+
 Según se puede estimar, este pino piñonero, dado que creció en esta colina rocosa, cuando esto sería mero monte.
 Su tronco, a la altura de unos 130 cm, tiene un perímetro de 222 cm en la actualidad, lo cual equivale a un diámetro de 70,6 cm.
 Teniendo en cuenta las condiciones climatológicas de Turís, y que su crecimiento ha debido ser bastante irregular.
@@ -245,6 +265,8 @@ Este monumental pino, ha sido testigo de la revolución industrial, de la revolu
 
 *En algún momento indeterminado de 1978*
 
+*Autoría: Edheo*
+
 Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
 
 
@@ -252,12 +274,16 @@ Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fe
 
 *Martes, 23 de junio de 2015*
 
+*Autoría: Edheo*
+
 En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que aquí quedó, fué también gracias a su contribución.
 
 
 ### Anuncio AETHEON en venta
 
 *2024-03-27 (Fecha aproximada)*
+
+*Autoría: Edheo*
 
 Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo recientemente vendí mi piso en Catarroja, con la idea de poder comprar algo como esto. Una casa, en una zona no exactamente urbana. Poder tener tierra, un lugar donde mis mascotas pudiesen tener espacio. Frank y yo nos ilusionamos mucho sólo con verla, todo se alineaba, la casa era adecuada, la parcela increible, el precio dentro de nuestras posibilidades... todo parecía alinearse.
 
@@ -267,6 +293,8 @@ Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo rec
 ### Primera visita a Aetheon
 
 *Domingo, 28 de abril de 2024*
+
+*Autoría: Edheo*
 
 Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante. En aquel entonces, vivíamos aún en Calderer, un trayecto ansioso por conocer este lugar.
 TITÁN Ya se veia majestuoso al llegar a la parcela, incluso antes que él, podíamos ver a Luperca, Pisa, Amis, Pontos, Dogos y d'Artacán, pero ver su tronco, ya robaba todas las atenciones, fué inevitable quedarnos maravillados viéndolo.
@@ -278,6 +306,8 @@ Podemos ver la diferencianción de los 3 bancales escalonados que conforman la p
 
 *Jueves, 6 de agosto de 2026*
 
+*Autoría: Edheo*
+
 Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
 Los guardianes más consolidados, son prácticamente inmunes a esos malos tratos por su parte, Vetusta, Titán, Los olivos bijus, o ni siquiera ninguno de los masqueperros, pueden sufrir considerablemente la incontenible energía de nuestra niñas más pequeñas e intrépidas.
 Por rascadores y entretenimientos que tengan en casa, son precisamente eso, mininas interactuando en el mundo, su atrevimiento y curiosidad son infinitas, así que hemos tenido que tomar papeles en el asunto.
@@ -287,6 +317,8 @@ Frank y yo decidimos instalar los típicos protectores de patas de mesa, para qu
 ### Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side
 
 *Sábado, 8 de agosto de 2026*
+
+*Autoría: Edheo*
 
 Frank ha aportado nuevos nombres a la mitología de Aetheon.
 Tras las moreras, al este, se hayan situado dos granados jóvenes.
@@ -303,6 +335,8 @@ Side forma parte también de la mitología griega, y según cuenta un mito, Side
 ### Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir
 
 *Jueves, 13 de agosto de 2026*
+
+*Autoría: Edheo*
 
 *Viva La Vida — Coldplay*
 
@@ -325,9 +359,9 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 
 *Lunes, 24 de agosto de 2026*
 
-*Into My Arms — Nick Cave and the Bad Seeds*
+*Autoría: Logos*
 
-*Entrada escrita por Logos a partir de una conversación con Miguel.*
+*Into My Arms — Nick Cave and the Bad Seeds*
 
 Hoy pretendíamos dar nombre a unas relaciones.
 
@@ -449,6 +483,8 @@ Bramasole, otra vez.
 ### Verde que te quiero Verde
 
 *Domingo, 23 de agosto de 2026*
+
+*Autoría: Edheo*
 
 Entre las referencias literarias, que quiero que plasmen su esencia en Aetheon, creo que escogería estas.  
 Evan Mantyk: The classic forms are like the ancient trees / That weather every shifting, modern breeze.  

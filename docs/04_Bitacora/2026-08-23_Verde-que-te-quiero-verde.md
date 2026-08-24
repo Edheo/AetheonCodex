@@ -18,8 +18,8 @@ Finalmente, en la esquina Sureste de Aetheon, queda allí, solitario un último 
 ## Referencias
 **Miembros:**
 Aetheon
-[Edheo](../02_Miembros/EDHEO.md)
-[Evan](../02_Miembros/EVAN.md)
+Edheo
+Evan
 Lorca
 Machado
 Mistral
@@ -34,26 +34,15 @@ Carpe Diem
 Maurice Jarre
 **Intérprete:**
 Maurice Jarre
-<div class="aetheon-youtube">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/ovyfbirtPLs"
-    title="YouTube video"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
+**youtube:**
+ovyfbirtPLs
 
-<div class="aetheon-youtube-link">
-  <a href="https://www.youtube.com/watch?v=ovyfbirtPLs"
-     target="_blank"
-     rel="noopener noreferrer">
-    Ver en YouTube
-  </a>
-</div>
 ## Literaria
 **Capítulo:**  03 Evolución
 **Secuencia:**  101
+### Autoría
+Edheo
+
 ### Contenido
 Entre las referencias literarias, que quiero que plasmen su esencia en Aetheon, creo que escogería estas.  
 Evan Mantyk: The classic forms are like the ancient trees / That weather every shifting, modern breeze.  

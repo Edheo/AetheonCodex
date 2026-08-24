@@ -17,6 +17,9 @@ Así que tras consensuarlo, Frank y yo, hemos decidido instalar en sus troncos l
 03 Evolución
 ### Secuencia
 020
+### Autoría
+Edheo
+
 ### Contenido
 Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
 Los guardianes más consolidados, son prácticamente inmunes a esos malos tratos por su parte, Vetusta, Titán, Los olivos bijus, o ni siquiera ninguno de los masqueperros, pueden sufrir considerablemente la incontenible energía de nuestra niñas más pequeñas e intrépidas.
@@ -33,29 +36,10 @@ SIDE
 HADA
 ALMA
 FRANK
-[EDHEO](../02_Miembros/EDHEO.md)
+EDHEO
 
 ##Media
-
-<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
-  <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-01.jpeg" data-alt="2026 08 17 Llevant 01"
-          aria-label="Ampliar 2026 08 17 Llevant 01">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-01.jpeg" alt="2026 08 17 Llevant 01" loading="lazy">
-  </button>
-  <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-02.jpeg" data-alt="2026 08 17 Llevant 02"
-          aria-label="Ampliar 2026 08 17 Llevant 02">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Llevant-02.jpeg" alt="2026 08 17 Llevant 02" loading="lazy">
-  </button>
-  <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-01.jpeg" data-alt="2026 08 17 Side 01"
-          aria-label="Ampliar 2026 08 17 Side 01">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-01.jpeg" alt="2026 08 17 Side 01" loading="lazy">
-  </button>
-  <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-02.jpeg" data-alt="2026 08 17 Side 02"
-          aria-label="Ampliar 2026 08 17 Side 02">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Side-02.jpeg" alt="2026 08 17 Side 02" loading="lazy">
-  </button>
-</div>
+images/2026-08-17-Llevant-01.jpeg
+images/2026-08-17-Llevant-02.jpeg
+images/2026-08-17-Side-01.jpeg
+images/2026-08-17-Side-02.jpeg

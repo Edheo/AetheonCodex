@@ -432,6 +432,20 @@ def entry_literary_header(entry):
             f"*{present_event_time(entry['date'])}*"
         )
 
+        if (
+            entry["author"]
+            or (
+                entry["music_work"]
+                and entry["music_performer"]
+            )
+        ):
+            lines.append("")
+
+    if entry["author"]:
+        lines.append(
+            f"*Autoría: {entry['author']}*"
+        )
+
         if entry["music_work"] and entry["music_performer"]:
             lines.append("")
 
@@ -524,6 +538,11 @@ def load_entries():
             "Secuencia",
         )
 
+        author = extract_field(
+            literary,
+            "Autoría",
+        )
+
         entry = {
             "path": path,
             "title": title,
@@ -531,6 +550,7 @@ def load_entries():
             "status": status,
             "music_work": music_work,
             "music_performer": music_performer,
+            "author": author,
             "chapter_raw": chapter_value,
             "sequence_raw": sequence_value,
             "content": content,

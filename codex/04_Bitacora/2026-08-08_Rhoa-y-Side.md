@@ -15,6 +15,9 @@ El otro, que ya acompaña a Frank durante años, ha recibido el nombre de Side.
 03 Evolución
 ### Secuencia
 030
+### Autoría
+Edheo
+
 ### Contenido
 Frank ha aportado nuevos nombres a la mitología de Aetheon.
 Tras las moreras, al este, se hayan situado dos granados jóvenes.

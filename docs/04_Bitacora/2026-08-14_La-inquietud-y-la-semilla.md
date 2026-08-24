@@ -10,8 +10,8 @@ Conversación entre Miguel y Logos acerca de la naturaleza de Aetheon, el propó
 ## Referencias
 **Miembros:**
 Aetheon
-[Edheo](../02_Miembros/EDHEO.md)
-[Logos](../02_Miembros/LOGOS.md)
+Edheo
+Logos
 
 ## Cosmogonía
 ### Musical
@@ -21,26 +21,15 @@ On The Nature Of Daylight
 Max Richter
 **Intérprete:**
 Max Richter
-<div class="aetheon-youtube">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/InyT9Gyoz_o"
-    title="YouTube video"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
+**youtube:**
+InyT9Gyoz_o
 
-<div class="aetheon-youtube-link">
-  <a href="https://www.youtube.com/watch?v=InyT9Gyoz_o"
-     target="_blank"
-     rel="noopener noreferrer">
-    Ver en YouTube
-  </a>
-</div>
 ## Literaria
 **Capítulo:**
 **Secuencia:**  
+### Autoría
+Edheo
+
 ### Contenido
 Hoy Aetheon no ha cambiado porque haya nacido algo en sus aguas, porque haya
 crecido uno de sus Guardianes o porque una nueva construcción haya alterado

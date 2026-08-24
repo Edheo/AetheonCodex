@@ -15,6 +15,9 @@ A las 9 de la mañana, recuerdo que la lluvia empeoró por momentos, recuerdo ha
 03 Evolución
 ###Secuencia
 001
+### Autoría
+Edheo
+
 ### Contenido
 Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuertes rachas de viento, Titán demostró ser, mucho más que un nombre que hace honor a su naturaleza. 800 litros por metro aquí, la madrugada fué sólo un aperitivo de lo que iba a acontecer. El desastre de la región de Valencia, ha sido mundialmente conocido. Y aquí vivimos la mayor crudeza de la lluvia, esa ingente masa de agua que laderas y barrancos abajo, causaría la devastación que nadie podíamos imaginar. Titán resistió sin palidecer todas esas inclemencias, de agua torrencial, vientos huracanados por momentos, ni la más mínima grieta, ni en el propio árbol ni en el sustrato sobre el que se ancla. Simplemente, inenarrable.
 

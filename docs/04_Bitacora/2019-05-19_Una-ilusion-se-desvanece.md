@@ -18,7 +18,7 @@ MARA
 NALA
 TAKA
 SHASA
-[EDHEO](../02_Miembros/EDHEO.md)
+EDHEO
 ## Cosmogonía
 ### Musical
 **Obra:**
@@ -28,28 +28,16 @@ Aaron Dessner
 Matt Berninger		
 **Intérprete:**
 The National
-<div class="aetheon-youtube">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/Ef1nJWtkprU"
-    title="YouTube video"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
-
-<div class="aetheon-youtube-link">
-  <a href="https://www.youtube.com/watch?v=Ef1nJWtkprU"
-     target="_blank"
-     rel="noopener noreferrer">
-    Ver en YouTube
-  </a>
-</div>
+**youtube:**
+Ef1nJWtkprU
 ## Literaria
 ### Capítulo
 01 Mi Contexto 
 ### Secuencia
 010
+### Autoría
+Edheo
+
 ### Contenido
 Mara, la perrita de mis padres, falleció poco más de un mes antes.
 Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.
@@ -88,16 +76,5 @@ Sentí como si... mi click ha fallado? No puede ser, es ella, tiene que ser ella
 Me tocaba aceptar la negación, pero, quería pensar que debía haber un error, porque yo sentía que sí, que era ella, pero... se me negaba la opción.
 Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no podía ser, no contemplaba la posiblidad de que no fuese ella.
 ## Media
-
-<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
-  <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2019-06-03-Nala-WA0000.jpg" data-alt="2019 06 03 Nala WA0000"
-          aria-label="Ampliar 2019 06 03 Nala WA0000">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2019-06-03-Nala-WA0000.jpg" alt="2019 06 03 Nala WA0000" loading="lazy">
-  </button>
-  <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2019-06-03-Nala-WA0002.jpg" data-alt="2019 06 03 Nala WA0002"
-          aria-label="Ampliar 2019 06 03 Nala WA0002">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2019-06-03-Nala-WA0002.jpg" alt="2019 06 03 Nala WA0002" loading="lazy">
-  </button>
-</div>
+images/2019-06-03-Nala-WA0000.jpg
+images/2019-06-03-Nala-WA0002.jpg

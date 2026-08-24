@@ -16,6 +16,9 @@ Entretanto, esperábamos afuera, y curioseabamos a lo lejos, tratando de no demo
 03 Evolución
 ### Secuencia
 010
+### Autoría
+Edheo
+
 ### Contenido
 Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante. En aquel entonces, vivíamos aún en Calderer, un trayecto ansioso por conocer este lugar.
 TITÁN Ya se veia majestuoso al llegar a la parcela, incluso antes que él, podíamos ver a Luperca, Pisa, Amis, Pontos, Dogos y d'Artacán, pero ver su tronco, ya robaba todas las atenciones, fué inevitable quedarnos maravillados viéndolo.
@@ -25,16 +28,16 @@ Podemos ver la diferencianción de los 3 bancales escalonados que conforman la p
 ## Referencias
 **Miembros:**
 AETHEON
-[TITAN](../02_Miembros/TITAN.md)
+TITAN
 LUPERCA
 PISA
 AMIS
 PONTOS
 DOGOS
 D'ARTACAN
-[VETUSTA](../02_Miembros/VETUSTA.md)
+VETUSTA
 CASA
 PISCINA
 TRASTERO
-[EDHEO](../02_Miembros/EDHEO.md)
+EDHEO
 FRANK
