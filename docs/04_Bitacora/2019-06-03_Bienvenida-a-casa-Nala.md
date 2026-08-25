@@ -10,13 +10,29 @@ A primera hora de la mañana, les envié el formulario cumplimentado, y sin dila
 ## Referencias
 **Miembros:**
 NALA
-EDHEO
+[EDHEO](../02_Miembros/EDHEO.md)
 ## Cosmogonía
 ### Musical
 **Obra:**Titanium
 **Autor:**David Guetta, Afrojack, Giorgio Tuinfort
 **Intérprete:**Collin McLoughlin's
-**youtube:**KmAnXxrVC94
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/KmAnXxrVC94"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=KmAnXxrVC94"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
 ### Capítulo
 01 Mi Contexto 
@@ -39,4 +55,11 @@ Como tantas veces me ha pasado, igual que otras veces, sientes que... no, que no
 No se si a más personas les pasará, pero... a mi me sucede, cuando siento el click, quedo expectante a la oportunidad, porque siento que va a ser importante para mí.
 Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, algo hay que me dice que no intente algo a marchas forzadas, y puedo sentir dentro de mi como todo chirria de un modo, que si fuerzo a conseguirlo, el resultado, va a perjudicarme.
 ## Media
-images/2019-06-03-Nala-Adoptada.jpg
+
+<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
+  <button class="aetheon-gallery__item" type="button"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2019-06-03-Nala-Adoptada.jpg" data-alt="2019 06 03 Nala Adoptada"
+          aria-label="Ampliar 2019 06 03 Nala Adoptada">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2019-06-03-Nala-Adoptada.jpg" alt="2019 06 03 Nala Adoptada" loading="lazy">
+  </button>
+</div>

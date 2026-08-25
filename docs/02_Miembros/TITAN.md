@@ -29,7 +29,23 @@ Titán nos demuestra que la guerra no es neceariamente el camino. A veces, sólo
 **Obra:** Like Lovers (Holding On)
 **Autor:** Texas
 **Intérprete:** Texas
-**youtube:** OzMvLN8HuEg
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/OzMvLN8HuEg"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=OzMvLN8HuEg"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Presencia
 Casi parte unificada de la verja de entrada a Aetheon, su presencia se vislumbra ya desde la lejanía, 
 ### Referencias
@@ -44,8 +60,26 @@ Palabra: Protector
 ## Resonancias
 ### Musicales
 David Guetta, Titanium: I'm bulletproof, nothing to lose. Fire away, fire away.  
+## Bitácora
+
+<!-- BEGIN GENERATED MEMBER JOURNAL -->
+### Entradas relacionadas
+
+- *En algún momento posiblemente posterior al año 1846ad* — [Titán Germina](../04_Bitacora/1800-00-00_Titan-Germina.md)
+- *Domingo, 28 de abril de 2024* — [Primera visita a Aetheon](../04_Bitacora/2024-04-28_Primera-visita.md)
+- *Martes, 29 de octubre de 2024* — [Dana de Valencia](../04_Bitacora/2024-10-29_Dana-de-Valencia.md)
+<!-- END GENERATED MEMBER JOURNAL -->
+
 ## Media
-images/2026-08-17-TITAN.jpeg
+
+<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
+  <button class="aetheon-gallery__item" type="button"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-TITAN.jpeg" data-alt="2026 08 17 TITAN"
+          aria-label="Ampliar 2026 08 17 TITAN">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-TITAN.jpeg" alt="2026 08 17 TITAN" loading="lazy">
+  </button>
+</div>
+
 ## Croquis
 
 ## Referencias

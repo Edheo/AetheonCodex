@@ -7,13 +7,29 @@ Hoy, mientras descansaba en el sofá, convaleciente tantos años ya (toda su vid
 ## Referencias
 **Miembros:**
 MARA
-EDHEO
+[EDHEO](../02_Miembros/EDHEO.md)
 ## Cosmogonía
 ### Musical
 **Obra:**Tears In Heaven
 **Autor:**Eric Clapton
 **Intérprete:**Eric Clapton
-**youtube:**JxPj3GAYYZ0
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/JxPj3GAYYZ0"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=JxPj3GAYYZ0"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
 ### Capítulo
 01 Mi Contexto 

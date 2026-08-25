@@ -22,7 +22,23 @@ El minino, sobrevivió, y quizás por esa proeza le llamé Ender, como el niño 
 **Obra:**Fix You
 **Autor:**Chris Martin, Guy Berryman, Jonny Buckland, Audrey Riley
 **Intérprete:**Coldplay
-**youtube:**k4V3Mo61fJM
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/k4V3Mo61fJM"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=k4V3Mo61fJM"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
 ### Capítulo
 01 Mi Contexto

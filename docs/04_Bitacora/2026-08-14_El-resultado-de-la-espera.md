@@ -13,7 +13,7 @@ Así que por lo pronto, no me veré expuesto a ningún tratamiento más, por lo 
 
 ## Referencias
 **Miembros:**
-Edheo
+[Edheo](../02_Miembros/EDHEO.md)
 
 ## Cosmogonía
 ### Musical
@@ -23,9 +23,23 @@ Old Katarakt
 Wim Mertens
 **Intérprete:**
 Wim Mertens
-**youtube:**
-kouO0iV_AOo
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/kouO0iV_AOo"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=kouO0iV_AOo"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
 ### Capítulo
 01 - Mi Contexto

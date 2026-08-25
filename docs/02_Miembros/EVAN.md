@@ -29,7 +29,23 @@ En la película se mencionaba un tal Evan Pitchard como alguien que perseguia en
 **Obra:** Hoppipolla
 **Autor:** Sigur Rós
 **Intérprete:** Sigur Rós
-**youtube:** JAYb8ZyjzD0
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/JAYb8ZyjzD0"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=JAYb8ZyjzD0"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Presencia
 Preside en cierto modo, la entrada al sendero del Rikudo Sennin, junto a Gyuki y Kurama, presente en todas las llegadas y visitas, siempre siendo testigo de cada visitante de Aetheon
 ### Referencias
@@ -52,6 +68,14 @@ Blade Runner: Yo he visto cosas que vosotros no creeríais. Atacar naves en llam
 El viaje de Chihiro: Una vez que conoces a alguien, nunca vuelves a ser el mismo.  
 ### Personales
 El río no elige su cauce, pero siempre encuentra el mar.
+## Bitácora
+
+<!-- BEGIN GENERATED MEMBER JOURNAL -->
+### Entradas relacionadas
+
+- *Domingo, 23 de agosto de 2026* — [Verde que te quiero Verde](../04_Bitacora/2026-08-23_Verde-que-te-quiero-verde.md)
+<!-- END GENERATED MEMBER JOURNAL -->
+
 ## Recursos
 ## Media
 ## Croquis

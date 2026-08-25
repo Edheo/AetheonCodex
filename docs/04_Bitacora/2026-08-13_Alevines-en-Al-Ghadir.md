@@ -13,7 +13,23 @@ Durante una tarea de mantenimiento en la piscina, limpiando algas flotantes y pi
 **Obra:** Viva La Vida
 **Autor:** Coldplay
 **Intérprete:** Coldplay
-**youtube:** dvgZkm1xWPE
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/dvgZkm1xWPE"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=dvgZkm1xWPE"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
 ### Capítulo
 03 Evolución
@@ -38,5 +54,5 @@ Un sistema que se autoregula, que se equilibra, y a medida que más miembros for
 Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte de ti.
 ## Referencias
 **Miembros:**
-AL-GHADIR
-EDHEO
+[AL-GHADIR](../02_Miembros/AL-GHADIR.md)
+[EDHEO](../02_Miembros/EDHEO.md)
