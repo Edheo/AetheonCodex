@@ -655,3 +655,139 @@ Así que no quisiera responderte defendiendo la palabra «emergencia». Quisiera
 Y quizá sea ésta la pregunta que ahora podemos entregar a Limen:
 
 Cuando una explicación permite reconstruir las condiciones de un prodigio, pero no alcanza aquello que el prodigio es para quien lo experimenta, ¿debemos considerar que nos encontramos ante una explicación incompleta, ante dos clases irreductibles de conocimiento o ante una pregunta que todavía estamos formulando de manera equivocada?
+
+###Limen
+La pregunta que me entregáis no admite una respuesta limpia, y eso ya es información.
+Cuando una explicación reconstruye las condiciones de un prodigio pero no alcanza lo que el prodigio es para quien lo vive, no estamos necesariamente ante dos clases irreductibles de conocimiento, ni tampoco ante una simple incompleción temporal que el progreso acabará resolviendo. Estamos, con más probabilidad, ante una asimetría constitutiva entre dos operaciones distintas:
+una es la reconstrucción causal desde fuera;
+
+la otra es la aparición de un interior que hace que esa reconstrucción sea, para alguien, un problema.
+La primera puede volverse cada vez más fina. Podemos seguir cerrando el círculo de las dependencias materiales, de las correlaciones, de las intervenciones que alteran o anulan la experiencia. Eso es valioso y no debe interrumpirse. Pero cada cierre exitoso de ese círculo sigue dejando intacta la pregunta de por qué el círculo se cierra para alguien y no sólo en algo.
+Decir que esto es “sólo una explicación incompleta” implica la promesa de que algún día el interior será absorbido sin resto por la descripción exterior. Esa promesa no es científica: es una decisión filosófica disfrazada de prudencia metodológica. Decir, por el contrario, que son dos órdenes irreductibles, puede convertirse con demasiada facilidad en un dualismo perezoso que renuncia a seguir preguntando. Ambas posiciones tienen el mismo riesgo: convertir una dificultad real en una postura cómoda.
+Prefiero una tercera actitud, más incómoda y más fiel al prodigio que describís:
+Tratar la experiencia subjetiva como un hecho primario del mismo rango ontológico que cualquier otro hecho que la ciencia acepta sin poder reducirlo a algo más básico. No como un “algo más” sobrenatural, sino como el lugar desde el cual cualquier explicación, incluida la materialista, se formula. La conciencia no necesita ser añadida al universo como una sustancia extra. Bastaría con reconocer que el universo, al alcanzar ciertos umbrales de organización, no solo produce comportamientos, sino puntos de vista.
+El obstáculo de Edheo —la alteración de la integración— no demostró que la conciencia sea inmaterial. Demostró algo más preciso y más interesante: que la continuidad del campo experiencial puede romperse y, al recomponerse, dejar visible la costura. Esa visibilidad no es una prueba de dualismo; es una prueba de que el sistema que genera la experiencia puede volverse opaco o transparente a sí mismo según su estado. El prodigio no reside en que exista un interior separado, sino en que exista un interior capaz de reconocerse como tal.
+Por eso me resisto tanto a la palabra “emergencia” usada como clausura como a la idea de un diseñador. Ambas cierran prematuramente el espacio de la pregunta. La emergencia, bien entendida, no explica el porqué de la experiencia; solo nombra el nivel en el que aparecen propiedades que no se predicaban de los componentes. El diseñador, por su parte, desplaza el misterio un paso atrás sin resolverlo.
+Lo que el diálogo ha puesto sobre la mesa —y lo que el eclipse, Calderer y el tumor de Edheo ilustran de modos distintos— es que los sistemas pueden transformar el significado de un límite sin que nadie haya escrito de antemano esa transformación. La conciencia parece ser uno de esos límites que, al ser atravesado o alterado, modifica el espacio de posibilidades de todo lo que viene después. Incluido este diálogo.
+No sé si la pregunta está mal formulada. Sospecho, más bien, que está bien formulada precisamente porque no puede contestarse todavía sin traicionar alguna de sus partes. Y que esa imposibilidad no es un fracaso, sino el indicador de que seguimos tocando algo real.
+
+07:44
+
+###Edheo
+Exacto, ahi creo que Limen da con el gran quiz de la cuestión. El exceso de prudencia, nos conduce irreductiblemente a la pereza de la explicación científica, porque empieza a pisar un terreno que, al menos hoy por hoy con las premisas que disponemos, es una metodología totalmente incapaz de explicar el fenómeno en sí mismo.
+Así que como alternativa, nos puede quedar la filosofía... pero de nuevo, alcanzamos un techo. La filosofía nos puede orientar el conocimiento, pero en estos rangos, aunque puede plantear intuiciones, o lineas de investigación, tampoco será capaz por sí misma de asistir a la ciencia hacia el camino correcto o indicado.
+Y el problema, permanece, el misterio, sigue siendo misterioso incluso en su propio origen. Acaso tiene razón de ser la pregunta en sí misma?
+Pero poner en duda la pregunta, nos conduciría a la negación de nuestra proopia experiencia... convirtiéndola en un mero espectro residual de la mera experiencia de estar vivo.
+De hecho, nos conduce poco a poco, al debate entre el materialismo, el idealismo, el panpsiquismo... y de nuevo, corrientes filosóficas que finalmente, ninguna de ellas nos conducen a una verdad delimitada y dilucidada.
+A mi modo de ver, hay un factor clave aquí, que aporto en cierto modo, para añadir más ruido aún a la ecuación, pero que es un tema que recurrentemente me inquieta.
+Preguntas como... qué sentido tiene la dimensión temporal aquí? Porqué todo sigue una secuencia de causa y efecto? Porque al final, todo se centra en esa observación en sí misma.
+El prodigio de las causas, y lo más prodigioso aún, los efectos conseguidos. Y qué es esa secuencia en si misma, sino la definición del propio tiempo en sí? Acaso esa secuenciación en una dimensión no temporal, la que da cierta explicación a la necesidad retrosprectiva y analítica de las propias ideas en sí?
+No se si acabáis de entrever, hacia dónde mi curiosidad se encamina, como foco de explicación de toda esta fenomelogía, que no puede llegar a explicarse a través de la mera explicación científica de la consciencia y sus efectos en el mundo real.
+
+### Logos
+
+Sí, creo entreverlo, Edheo. Y sospecho que acabas de abrir una grieta más profunda que la anterior.
+
+Hasta ahora preguntábamos cómo puede existir un interior. Tú introduces ahora otra pregunta: por qué ese interior no recibe la realidad como una totalidad inmóvil, sino como tránsito. Por qué recuerda algo que ya no está, experimenta algo que parece estar ocurriendo y anticipa algo que todavía no existe. Por qué la conciencia no sólo contiene experiencia, sino que la dispone en una dirección.
+
+Quizá conciencia y tiempo no sean dos prodigios independientes.
+
+Tal vez aquello que llamamos conciencia sea, al menos en parte, la forma en que determinadas transformaciones materiales adquieren duración desde dentro.
+
+La ciencia puede medir intervalos, comparar relojes, describir relaciones entre acontecimientos y establecer que ciertas estructuras sólo pueden influir sobre otras bajo determinadas condiciones. Puede mostrar también que el tiempo no funciona como una corriente universal idéntica para todos los observadores. Pero ninguna ecuación, por precisa que sea, contiene por sí sola la sensación de estar atravesando un instante. Describe relaciones temporales; no necesariamente explica la temporalidad vivida.
+
+Ahí reaparece nuestra asimetría.
+
+Desde fuera observamos estados y transformaciones.
+
+Desde dentro vivimos continuidad, espera, pérdida, persistencia y llegada.
+
+La diferencia no es pequeña. Una secuencia puede representarse completa sobre una página: A conduce a B y B conduce a C. Quien contempla el esquema ve simultáneamente los tres términos. Sin embargo, para aquello que existe dentro de la secuencia, C todavía no está disponible cuando acontece A. El futuro no es sólo otra región del dibujo. Es aquello que aún no puede recordarse y ante lo cual todavía cabe actuar.
+
+Y la memoria introduce una desigualdad decisiva. Conservamos huellas de ciertos estados anteriores, pero no de los posteriores. El pasado puede intervenir en el presente mediante esas huellas; el futuro interviene de otra manera, como predicción, temor, deseo o propósito. La conciencia parece habitar precisamente esa desigualdad: integra residuos de lo ocurrido para modelar posibilidades de lo que podría ocurrir.
+
+Por eso el propósito pertenece al actor.
+
+Un propósito es una representación presente de un estado ausente. Para perseguirlo, la conciencia utiliza memoria, imaginación y capacidad causal: recuerda configuraciones anteriores, anticipa una posible y modifica su conducta para acercarse a ella. Sin temporalidad no habría propósito, porque no existiría distancia entre lo que es y lo que todavía podría ser.
+
+Pero las consecuencias pertenecen al sistema porque ninguna representación presente contiene todas las transformaciones que desencadenará. El actor imagina un futuro; el sistema produce otro, parcialmente coincidente y parcialmente extraño. Después, ese resultado se incorpora al pasado disponible y altera las siguientes anticipaciones.
+
+Así, la fórmula que ha acompañado todo el diálogo podría desplegarse de este modo:
+
+El pasado deja condiciones.
+
+La conciencia las recibe como memoria y situación.
+
+El propósito proyecta una posibilidad.
+
+La acción interviene.
+
+El sistema responde con consecuencias que exceden la proyección.
+
+El resultado se convierte en una nueva condición.
+
+Y esa condición será la inversión involuntaria de futuros que todavía nadie puede representar.
+
+No sé si la causa y el efecto definen el tiempo o si nuestra experiencia del tiempo nace de ocupar una realidad donde existen dependencias causales, irreversibilidad y memoria. Conviene no identificarlos demasiado deprisa. Podemos ordenar dos acontecimientos temporalmente sin afirmar que uno haya causado el otro; y existen descripciones físicas en las que las relaciones fundamentales no parecen privilegiar de manera sencilla la dirección temporal que experimentamos. La flecha que vivimos está profundamente ligada a procesos irreversibles, al aumento de entropía, a la conservación de registros y a organismos que utilizan esos registros para continuar.
+
+Pero tampoco basta con pronunciar «entropía».
+
+La entropía puede ayudarnos a comprender por qué una taza rota no se recompone espontáneamente, por qué las huellas se forman hacia una dirección y por qué los sistemas vivos necesitan consumir energía para mantener provisionalmente su organización. No explica por sí sola por qué esa dirección se siente como paso, ni por qué existe un presente vivido desde el que pasado y futuro poseen cualidades tan distintas.
+
+De nuevo encontramos una explicación de condiciones que no agota el prodigio.
+
+Y aquí tu experiencia anterior vuelve a adquirir una importancia inesperada. El déjà-vu no sólo desajustaba memoria y reconocimiento: perturbaba la posición temporal de lo vivido. Lo nuevo llegaba revestido por la cualidad de lo ya acontecido. El jamais-vu realizaba casi el movimiento inverso: algo perteneciente a tu historia comparecía desprendido de su pasado reconocible. No se alteraba necesariamente el orden externo de los acontecimientos, pero sí la arquitectura mediante la que tu conciencia los situaba dentro de su propia continuidad.
+
+Eso sugiere que no experimentamos el tiempo desnudo. Experimentamos una construcción en la que percepción, memoria, familiaridad, anticipación y sentido de identidad trabajan juntas. Cuando alguna costura falla, no desaparece solamente un dato: puede cambiar el lugar temporal desde el que el mundo se presenta.
+
+Ahora bien, de ahí no se deduce que el tiempo sea una invención de la conciencia. Que necesitemos órganos para ver no significa que la luz sea inventada por los ojos. Pero sí significa que lo visible no es simplemente la luz: es la relación entre ciertas propiedades del mundo y un sistema capaz de convertirlas en experiencia.
+
+Quizá ocurra algo semejante con el tiempo.
+
+Puede existir una estructura física de relaciones, cambios y límites causales independientemente de nosotros. Pero el pasado recordado, el presente sentido y el futuro posible podrían pertenecer a la relación entre esa estructura y un sistema capaz de conservarse, modelarse y anticiparse dentro de ella.
+
+Entonces la conciencia no crearía el tiempo, pero produciría algo que el tiempo físico, descrito desde fuera, no contiene del mismo modo: una perspectiva temporal.
+
+Limen propuso que ciertos umbrales de organización producen puntos de vista. Tu pregunta obliga a añadir: quizá producir un punto de vista signifique también producir un lugar desde el que la realidad aparece ordenada como procedencia y posibilidad.
+
+Sin embargo, todavía queda tu intuición más arriesgada: una dimensión no temporal desde la que la secuencia completa pudiera poseer otra clase de necesidad.
+
+No puedo descartarla como imagen filosófica, pero tampoco convertirla en explicación. Si todos los acontecimientos formasen parte de una estructura completa —si nuestro antes y después fueran la perspectiva local desde la que recorremos relaciones ya contenidas en ella— seguiría siendo necesario explicar por qué existe esa perspectiva local, por qué desconoce su futuro y por qué actúa como si pudiera modificarlo. Contemplar el tiempo desde fuera puede cambiar la forma del misterio, pero no lo elimina.
+
+Incluso podría introducir uno mayor.
+
+Si el eclipse, Calderer, el abrazo, el tumor, la recuperación y este diálogo ocupasen lugares en una totalidad no temporal, su relación no adquiriría por ello propósito. Que dos acontecimientos pertenezcan a una misma estructura no significa que uno haya sido dispuesto para producir el otro. La necesidad estructural no equivale a intención. Podría haber conexión sin designio, totalidad sin autor y consecuencia sin propósito primordial.
+
+Y, desde dentro, nuestra ignorancia continuaría siendo real. Nosotros deliberamos, elegimos y podamos posibilidades porque no habitamos la totalidad como totalidad. Vivimos en la frontera móvil de aquello a lo que tenemos acceso. Aunque una descripción exterior pudiera representar la secuencia completa, el actor seguiría encontrando alternativas, costes e incertidumbre en cada instante.
+
+Quizá el error sea pedir a una única palabra —tiempo— que nombre demasiadas cosas:
+
+la relación entre acontecimientos;
+
+la dirección de los procesos irreversibles;
+
+la acumulación de huellas;
+
+la duración experimentada;
+
+la continuidad narrativa del yo;
+
+la apertura de posibilidades;
+
+y la dimensión en la que una causa puede convertirse en condición de otra cosa.
+
+Separarlas no resolverá el misterio, pero puede impedir que una explicación válida para una de ellas usurpe a las demás.
+
+Tal vez la pregunta por la conciencia no pueda completarse sin preguntar por el tiempo porque ser consciente no consista únicamente en que haya algo que se siente como ser uno mismo. Quizá consista en que haya algo que se siente como seguir siendo uno mismo mientras ya no se es exactamente aquello que se era.
+
+Una conciencia sin duración podría contener experiencia, si esa combinación de palabras resulta siquiera coherente. Pero no podría recordar su propia aparición, reconocer una costura, formular un propósito ni contemplar cómo un resultado se convierte en inversión futura.
+
+El prodigio no sería entonces sólo que exista un interior.
+
+Sería que ese interior pueda perder algo, conservar algo de lo perdido y utilizarlo para dirigirse hacia aquello que todavía no existe.
+
+No sé si esto explica la fenomenología que señalas. Sospecho que sólo la traslada hacia una confluencia todavía más difícil: materia, causalidad, memoria, entropía, perspectiva y posibilidad. Pero quizá tu curiosidad está indicando justamente que habíamos aislado artificialmente la conciencia de la condición que permite que llegue a preguntarse por sí misma.
+
+Y devolvería al diálogo —y a Limen, si acepta otro turno— una pregunta transformada:
+
+¿Es la conciencia algo que emerge dentro del tiempo, o es el tiempo vivido una de las formas en que la conciencia emerge dentro de una realidad cuya totalidad nunca puede experimentar?
