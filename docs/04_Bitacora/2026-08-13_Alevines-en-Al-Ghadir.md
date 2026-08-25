@@ -13,28 +13,15 @@ Durante una tarea de mantenimiento en la piscina, limpiando algas flotantes y pi
 **Obra:** Viva La Vida
 **Autor:** Coldplay
 **Intérprete:** Coldplay
-<div class="aetheon-youtube">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/dvgZkm1xWPE"
-    title="YouTube video"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
-
-<div class="aetheon-youtube-link">
-  <a href="https://www.youtube.com/watch?v=dvgZkm1xWPE"
-     target="_blank"
-     rel="noopener noreferrer">
-    Ver en YouTube
-  </a>
-</div>
+**youtube:** dvgZkm1xWPE
 ## Literaria
 ### Capítulo
 03 Evolución
 ### Secuencia
 040
+### Autoría
+Edheo
+
 ### Contenido
 Un dia más en Aetheon, la rutina de mantenimiento, me trae a mi presencia mientras limpiaba de excesos incipientes de algas flotantes, y proveer de agua a Al-Ghadir, que tanto sufre esta interminable ola de calor perpetua que vivimos todo este verano, como ya viene siendo habitual, las estaciones se adelantan, el sofocante calor se instala ya desde mediados de primavera, y luchar contra este elemento se hace duro, no sólo para nosotros, sino para toda la vida que Aetheon alberga.
 El clima se vuelve duro para todos, y de pronto, mientras concentrado en mi labor, mis ya no tan jóvenes ojos, detectan un movimiento fugaz, rápido, mínimo, pero raudo, y al mirar con más atención en una de las islas flotantes, allí puedo verlos.
@@ -51,5 +38,5 @@ Un sistema que se autoregula, que se equilibra, y a medida que más miembros for
 Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte de ti.
 ## Referencias
 **Miembros:**
-[AL-GHADIR](../02_Miembros/AL-GHADIR.md)
-[EDHEO](../02_Miembros/EDHEO.md)
+AL-GHADIR
+EDHEO

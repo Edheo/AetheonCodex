@@ -27,6 +27,7 @@
   - 020 · Protectores en la rosa de los vientos y el granado griegos — `2026-08-06_Proteccion-de-los-arboles.md`
   - 030 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
   - 040 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
+  - 101 · Verde que te quiero Verde — `2026-08-23_Verde-que-te-quiero-verde.md`
 
 ### Pendientes de clasificación
 
@@ -312,14 +313,19 @@ El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro mo
 
 ### Titán Germina
 
-*En algún momento posiblemente posterior al año 1800ad*
+*En algún momento posiblemente posterior al año 1846ad*
 
 - **Origen:** `1800-00-00_Titan-Germina.md`
 - **Estado:** Borrador
 - **Capítulo:** 02
 - **Secuencia:** 010
 
-Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
+Según se puede estimar, este pino piñonero, dado que creció en esta colina rocosa, cuando esto sería mero monte.
+Su tronco, a la altura de unos 130 cm, tiene un perímetro de 222 cm en la actualidad, lo cual equivale a un diámetro de 70,6 cm.
+Teniendo en cuenta las condiciones climatológicas de Turís, y que su crecimiento ha debido ser bastante irregular.
+Utilizando el método del lápiz, le calculo aproximadamente unos 17 metros de alto.
+La edad calculada se estima entre 140 y 180 años.
+Este monumental pino, ha sido testigo de la revolución industrial, de la revolución agrícola, el impacto de la guerra civil y la postguerra aquí.
 
 ---
 
@@ -442,6 +448,25 @@ Tanto es así, que precisamente hoy, he necesitado dar presencia a esta antigua 
 Aetheon, es el lugar donde la naturaleza puede expresarse, donde los límites marcados, son sólo convivencia.
 Un sistema que se autoregula, que se equilibra, y a medida que más miembros formamos más parte de él, más vivo es, el propio Aetheon. Porque como digo recurrentemente digo, Aetheon es un ser vivo, quien sabe si incluso consciente, puede parecer una locura, pero la vida no puede estar exenta de cierto grado de consciencia, incluso un mínimo de voluntad, de propósito e intención, y si Aetheon está vivo, y sus miembros somos sus células, entonces, en cierto modo, estamos todos cumpliendo nuestra función dentro de este ser vivo, y Aetheon nos demuestra con sus resultados que el organismo late, respira, siente y crece en su propósito.
 Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte de ti.
+
+---
+
+### Verde que te quiero Verde
+
+*Domingo, 23 de agosto de 2026*
+
+- **Origen:** `2026-08-23_Verde-que-te-quiero-verde.md`
+- **Estado:** Borrador
+- **Capítulo:** 03
+- **Secuencia:** 101
+
+Entre las referencias literarias, que quiero que plasmen su esencia en Aetheon, creo que escogería estas.  
+Evan Mantyk: The classic forms are like the ancient trees / That weather every shifting, modern breeze.  
+Federico García Lorca: Verde que te quiero verde. Verde viento. Verdes ramas.  
+Antonio Machado: Caminante, no hay camino, se hace camino al andar.  
+Gabriela Mistral: Donde haya un árbol que plantar, plántalo tú. Donde haya un error que enmendar, enmiéndalo tú. Donde haya un esfuerzo que todos esquivan, hazlo tú. Sé tú el que aparta la piedra del camino  
+Pablo Neruda: Podrán cortar todas las flores, pero no podrán detener la primavera.  
+Walt Whitman: Oh Capitán!, Mi Capitán!.  Me celebro y me canto a mí mismo, y lo que yo asumo tú lo asumirás...
 
 ---
 

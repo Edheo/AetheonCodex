@@ -5,7 +5,7 @@ Borrador
 ## Evento
 El resultado de la espera
 
-###Descripción
+### Descripción
 Visita al oncólogo, el doctor Cunquero de nuevo, ese gran interlocutor que no transmite más que lo indispensable.
 Y aún así, la visita ha sido productiva, la resonancia que hice justo una semana anterior del estado actual de mi cerebro, ha sido favorable, sigue saliendo totalmente limpia, sin vestigio alguno de tumor visible.
 Sin evidencia de tumor macroscópico (según reza en el informe médico)
@@ -13,7 +13,7 @@ Así que por lo pronto, no me veré expuesto a ningún tratamiento más, por lo 
 
 ## Referencias
 **Miembros:**
-[Edheo](../02_Miembros/EDHEO.md)
+Edheo
 
 ## Cosmogonía
 ### Musical
@@ -23,28 +23,17 @@ Old Katarakt
 Wim Mertens
 **Intérprete:**
 Wim Mertens
-<div class="aetheon-youtube">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/kouO0iV_AOo"
-    title="YouTube video"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
+**youtube:**
+kouO0iV_AOo
 
-<div class="aetheon-youtube-link">
-  <a href="https://www.youtube.com/watch?v=kouO0iV_AOo"
-     target="_blank"
-     rel="noopener noreferrer">
-    Ver en YouTube
-  </a>
-</div>
 ## Literaria
 ### Capítulo
 01 - Mi Contexto
 ### Secuencia
 040
+### Autoría
+Edheo
+
 ### Contenido
 Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
 No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.

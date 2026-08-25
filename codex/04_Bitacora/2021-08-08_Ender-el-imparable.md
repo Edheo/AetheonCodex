@@ -28,6 +28,9 @@ El minino, sobrevivió, y quizás por esa proeza le llamé Ender, como el niño 
 01 Mi Contexto
 ### Secuencia
 023
+### Autoría
+Edheo
+
 ### Contenido
 Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
 Un quejido, un lamento, casi junto a la carretera, un minino lloraba desconsolado, casi a la puerta de mi casa, no habrían más de 20 metros hasta la procedencia del lastimoso maullido.

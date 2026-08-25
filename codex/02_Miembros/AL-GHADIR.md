@@ -4,6 +4,7 @@
 Nombre:	Al-Ghadir
 Tipo: Piscina
 Fecha Nacimiento: Supongo que fué creada al mismo tiempo que la casa.
+
 ### Naturaleza
 Guardián
 ### Mitología

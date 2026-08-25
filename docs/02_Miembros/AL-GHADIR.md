@@ -4,6 +4,7 @@
 Nombre:	Al-Ghadir
 Tipo: Piscina
 Fecha Nacimiento: Supongo que fué creada al mismo tiempo que la casa.
+
 ### Naturaleza
 Guardián
 ### Mitología
@@ -25,23 +26,7 @@ En la tradición árabe, un ghadir es un remanso donde el agua permanece y da vi
 **Obra:** Entre dos Aguas
 **Autor:** Paco de Lucía
 **Intérprete:** Paco de Lucía
-<div class="aetheon-youtube">
-  <iframe
-    src="https://www.youtube-nocookie.com/embed/2oyhlad64-s"
-    title="YouTube video"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
-
-<div class="aetheon-youtube-link">
-  <a href="https://www.youtube.com/watch?v=2oyhlad64-s"
-     target="_blank"
-     rel="noopener noreferrer">
-    Ver en YouTube
-  </a>
-</div>
+**youtube:** 2oyhlad64-s
 ### Significado del nombre
 En la tradición árabe, un ghadir es un remanso donde el agua permanece y da vida a su entorno. Este lugar honra esa idea: un oasis para ranas, aves, libélulas, peces y todas las criaturas que encuentran aquí agua, alimento, refugio y descanso.
 ### Papel dentro de Aetheon
@@ -64,24 +49,8 @@ Virtud: Refugio
 Estación: Perenne
 Color: Agua enverdecida, y colores, colores de los cometas, rojos, amarillos, moteados.
 Palabra: Renovación
-## Bitácora
-
-<!-- BEGIN GENERATED MEMBER JOURNAL -->
-### Entradas relacionadas
-
-- *Jueves, 13 de agosto de 2026* — [Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir](../04_Bitacora/2026-08-13_Alevines-en-Al-Ghadir.md)
-<!-- END GENERATED MEMBER JOURNAL -->
-
 ## Recursos
 
 ## Media
-
-<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
-  <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Al-ghadir.jpg" data-alt="2026 08 17 Al ghadir"
-          aria-label="Ampliar 2026 08 17 Al ghadir">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Al-ghadir.jpg" alt="2026 08 17 Al ghadir" loading="lazy">
-  </button>
-</div>
-
+images/2026-08-17-Al-ghadir.jpg
 ## Referencias

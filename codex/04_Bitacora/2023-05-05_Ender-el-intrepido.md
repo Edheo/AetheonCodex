@@ -38,6 +38,9 @@ Karo
 01 Mi Contexto 
 ### Secuencia
 026
+### Autoría
+Edheo
+
 ### Contenido
 Frank ayer, se encontró un cangrejo de rio, tirado en mitad de la calle privada de Calderer.
 Me mencionó que lo vió, y supuse que alguna gaviota lo soltó o perdió del pico, y fué a parar allí.

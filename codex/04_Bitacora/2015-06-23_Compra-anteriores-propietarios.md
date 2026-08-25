@@ -15,6 +15,9 @@ Fecha de adquisición de los propietarios anteriores. El matrimonio Jose Luis Go
 02 Orígenes
 ### Secuencia
 030
+### Autoría
+Edheo
+
 ### Contenido
 En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que aquí quedó, fué también gracias a su contribución.
 

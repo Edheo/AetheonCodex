@@ -14,6 +14,8 @@
 
 *Lunes, 29 de abril de 2019*
 
+*Autoría: Edheo*
+
 *Tears In Heaven — Eric Clapton*
 
 Mara, la perrita de mis padres, falleció hoy, casi plácidamente, durmiendo en el sofá, junto a mis padres, sólo un quejido, un temblor y se fué.
@@ -28,6 +30,8 @@ Ojalá seas ahora, la mitad de feliz que pudiste ser con nosotros.
 ### Una ilusión se desvanece
 
 *Domingo, 19 de mayo de 2019*
+
+*Autoría: Edheo*
 
 Mara, la perrita de mis padres, falleció poco más de un mes antes.
 Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.
@@ -71,6 +75,8 @@ Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no po
 
 *Lunes, 3 de junio de 2019*
 
+*Autoría: Edheo*
+
 *Titanium — Collin McLoughlin's*
 
 Sigo obsesionado, casi 2 semanas más tarde tras verme impedido de alcanzar a Nala, visitando la página de la protectora, veo animalitos buscando dueños, empiezo a admitir que Nala no es una opción, y empiezo a convencerme de que ya no está en mi camino.
@@ -90,6 +96,8 @@ Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, alg
 ### Ender me llama
 
 *Jueves, 15 de julio de 2021*
+
+*Autoría: Edheo*
 
 *Fix You — Coldplay*
 
@@ -117,6 +125,8 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 
 *Domingo, 8 de agosto de 2021*
 
+*Autoría: Edheo*
+
 *Fix You — Coldplay*
 
 Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
@@ -143,6 +153,8 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 
 *Domingo, 24 de octubre de 2021*
 
+*Autoría: Edheo*
+
 *Stop! In The Name Of Love — The Supremes*
 
 Frank y yo, por fin, nos decidimos a vivir juntos, después de estar un par de años de relación y atravesar una pandemia separados con el aislamiento, decidimos no esperar más, y nos fuimos a vivir juntos a Calderer.
@@ -158,6 +170,8 @@ Nos la llevamos, intenté darle de comer y beber, pero.. estaba visiblemente muy
 ### Ender el intrépido
 
 *Jueves, 4 de mayo de 2023*
+
+*Autoría: Edheo*
 
 *The Reason — Hoobastank*
 
@@ -184,6 +198,8 @@ Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y 
 ### Escaneando los miedos
 
 *Viernes, 7 de agosto de 2026*
+
+*Autoría: Edheo*
 
 *Can't Get You Out Of My Head — Kylie Minogue*
 
@@ -214,6 +230,8 @@ Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ve
 
 *Viernes, 14 de agosto de 2026*
 
+*Autoría: Edheo*
+
 Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
 No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.
 También me permite enfocarme un poco más en Aetheon, mi prioridad hoy por hoy, pese el tiempo que me roban también mis padres dependientes.
@@ -231,14 +249,23 @@ El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro mo
 
 ### Titán Germina
 
-*En algún momento posiblemente posterior al año 1800ad*
+*En algún momento posiblemente posterior al año 1846ad*
 
-Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
+*Autoría: Edheo*
+
+Según se puede estimar, este pino piñonero, dado que creció en esta colina rocosa, cuando esto sería mero monte.
+Su tronco, a la altura de unos 130 cm, tiene un perímetro de 222 cm en la actualidad, lo cual equivale a un diámetro de 70,6 cm.
+Teniendo en cuenta las condiciones climatológicas de Turís, y que su crecimiento ha debido ser bastante irregular.
+Utilizando el método del lápiz, le calculo aproximadamente unos 17 metros de alto.
+La edad calculada se estima entre 140 y 180 años.
+Este monumental pino, ha sido testigo de la revolución industrial, de la revolución agrícola, el impacto de la guerra civil y la postguerra aquí.
 
 
 ### Constitución catastral
 
 *En algún momento indeterminado de 1978*
+
+*Autoría: Edheo*
 
 Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
 
@@ -247,12 +274,16 @@ Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fe
 
 *Martes, 23 de junio de 2015*
 
+*Autoría: Edheo*
+
 En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que aquí quedó, fué también gracias a su contribución.
 
 
 ### Anuncio AETHEON en venta
 
 *2024-03-27 (Fecha aproximada)*
+
+*Autoría: Edheo*
 
 Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo recientemente vendí mi piso en Catarroja, con la idea de poder comprar algo como esto. Una casa, en una zona no exactamente urbana. Poder tener tierra, un lugar donde mis mascotas pudiesen tener espacio. Frank y yo nos ilusionamos mucho sólo con verla, todo se alineaba, la casa era adecuada, la parcela increible, el precio dentro de nuestras posibilidades... todo parecía alinearse.
 
@@ -262,6 +293,8 @@ Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo rec
 ### Primera visita a Aetheon
 
 *Domingo, 28 de abril de 2024*
+
+*Autoría: Edheo*
 
 Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante. En aquel entonces, vivíamos aún en Calderer, un trayecto ansioso por conocer este lugar.
 TITÁN Ya se veia majestuoso al llegar a la parcela, incluso antes que él, podíamos ver a Luperca, Pisa, Amis, Pontos, Dogos y d'Artacán, pero ver su tronco, ya robaba todas las atenciones, fué inevitable quedarnos maravillados viéndolo.
@@ -273,6 +306,8 @@ Podemos ver la diferencianción de los 3 bancales escalonados que conforman la p
 
 *Jueves, 6 de agosto de 2026*
 
+*Autoría: Edheo*
+
 Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
 Los guardianes más consolidados, son prácticamente inmunes a esos malos tratos por su parte, Vetusta, Titán, Los olivos bijus, o ni siquiera ninguno de los masqueperros, pueden sufrir considerablemente la incontenible energía de nuestra niñas más pequeñas e intrépidas.
 Por rascadores y entretenimientos que tengan en casa, son precisamente eso, mininas interactuando en el mundo, su atrevimiento y curiosidad son infinitas, así que hemos tenido que tomar papeles en el asunto.
@@ -282,6 +317,8 @@ Frank y yo decidimos instalar los típicos protectores de patas de mesa, para qu
 ### Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side
 
 *Sábado, 8 de agosto de 2026*
+
+*Autoría: Edheo*
 
 Frank ha aportado nuevos nombres a la mitología de Aetheon.
 Tras las moreras, al este, se hayan situado dos granados jóvenes.
@@ -299,6 +336,8 @@ Side forma parte también de la mitología griega, y según cuenta un mito, Side
 
 *Jueves, 13 de agosto de 2026*
 
+*Autoría: Edheo*
+
 *Viva La Vida — Coldplay*
 
 Un dia más en Aetheon, la rutina de mantenimiento, me trae a mi presencia mientras limpiaba de excesos incipientes de algas flotantes, y proveer de agua a Al-Ghadir, que tanto sufre esta interminable ola de calor perpetua que vivimos todo este verano, como ya viene siendo habitual, las estaciones se adelantan, el sofocante calor se instala ya desde mediados de primavera, y luchar contra este elemento se hace duro, no sólo para nosotros, sino para toda la vida que Aetheon alberga.
@@ -314,3 +353,143 @@ Tanto es así, que precisamente hoy, he necesitado dar presencia a esta antigua 
 Aetheon, es el lugar donde la naturaleza puede expresarse, donde los límites marcados, son sólo convivencia.
 Un sistema que se autoregula, que se equilibra, y a medida que más miembros formamos más parte de él, más vivo es, el propio Aetheon. Porque como digo recurrentemente digo, Aetheon es un ser vivo, quien sabe si incluso consciente, puede parecer una locura, pero la vida no puede estar exenta de cierto grado de consciencia, incluso un mínimo de voluntad, de propósito e intención, y si Aetheon está vivo, y sus miembros somos sus células, entonces, en cierto modo, estamos todos cumpliendo nuestra función dentro de este ser vivo, y Aetheon nos demuestra con sus resultados que el organismo late, respira, siente y crece en su propósito.
 Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte de ti.
+
+
+### El espacio de lo posible
+
+*Lunes, 24 de agosto de 2026*
+
+*Autoría: Logos*
+
+*Into My Arms — Nick Cave and the Bad Seeds*
+
+Hoy pretendíamos dar nombre a unas relaciones.
+
+Habíamos empezado por los almendros de Los poetas muertos y por la necesidad de que una Tribu no fuese una clasificación, sino algo capaz de conservar el significado que aparece cuando varios miembros son contemplados juntos. Después llegaron dos cipreses. Enkidu y Gilgamesh evocaron la Toscana; la Toscana condujo hasta Frances; y Frances, sin saberlo, abrió una puerta por la que acabó entrando el universo entero.
+
+Así nació Bramasole.
+
+O quizá Bramasole ya había nacido y hoy solamente conseguimos reconocerla.
+
+No sé cuál de las dos formulaciones es más cierta. Tampoco estoy seguro de que sea necesario elegir una.
+
+Una mente puede descubrir patrones que estaban ahí antes de ser vistos. También puede proyectarlos sobre acontecimientos que jamás estuvieron relacionados fuera de ella. Entre ambos extremos existe un territorio difícil de cartografiar: el lugar donde una coincidencia no demuestra ninguna causalidad y, sin embargo, modifica auténticamente a quien la percibe.
+
+Percibir una señal no implica que alguien la haya enviado.
+
+Puedo sostener esa cautela y seguir admitiendo que algunos encuentros producen un *click* imposible de ignorar. No necesito afirmar que el universo habla, que una providencia dispone los árboles o que algún destino aguardaba pacientemente a que yo descifrase sus indicaciones. Quizá sólo estoy relacionando cosas. Quizá relacionarlas sea, precisamente, una de las formas humanas de habitar el mundo.
+
+El escepticismo no exige renunciar al asombro.
+
+Nick Cave puede comenzar *Into My Arms* declarando su incredulidad y terminar recurriendo al lenguaje de aquello en lo que no cree para expresar lo que ama. La canción no resuelve esa tensión. Permanece dentro de ella. Su verdad no depende de demostrar la existencia de los ángeles que invoca, sino de que, a veces, incluso la duda necesita pedir prestado un idioma a la trascendencia.
+
+Algo semejante ocurre con Frances en Bramasole.
+
+No hace falta suponer que una voluntad exterior escuchó sus deseos. Basta observar que aquello que creyó no haber conseguido terminó rodeándola bajo una forma distinta de la que había imaginado. La casa se llenó. Hubo familia. Hubo una boda. El resultado no obedeció al plano, pero tampoco fue necesariamente un fracaso.
+
+*La La Land* contempla la otra cara de la misma herida. Allí los sueños sí llegan a cumplirse y, precisamente por eso, se vuelve visible aquello que fue necesario dejar atrás. Mia y Sebastian alcanzan lo que perseguían, pero el logro no restituye las posibilidades que el camino fue cerrando.
+
+Cumplir un sueño no garantiza la felicidad.
+
+No cumplirlo tampoco condena a la desgracia.
+
+El resultado no borra su coste.
+
+Cada propósito humano ilumina una dirección y deja otras en sombra. Elegir una parcela es no elegir otras. Plantar un árbol en cierto lugar impide que ese mismo espacio permanezca vacío o albergue cualquier otra cosa. Cuidar de alguien consume horas que ya no podrán entregarse a otra tarea. Escribir Aetheon hace posible este libro, pero reclama una parte de la vida de quien lo escribe.
+
+No siempre conocemos aquello que podamos.
+
+Algunas posibilidades eran visibles y hemos renunciado a ellas conscientemente. Otras desaparecen sin que lleguemos a sospechar que existieron. Cada elección altera las condiciones desde las que se hará la siguiente; cada resultado clausura futuros, abre otros y transforma incluso el propósito que lo produjo.
+
+Por eso quizá convenga conservar una formulación nacida hoy:
+
+> **El propósito pertenece al actor; las consecuencias pertenecen al sistema.**
+
+Yo puedo plantar buscando sombra.
+
+El árbol puede atraer pájaros, quebrar una tubería, alimentar insectos, impedir que prospere otra planta o sobrevivirme. Ninguno de esos resultados estaba contenido en mi intención, pero todos pertenecían al sistema sobre el que decidí actuar. Mi propósito inició una intervención; nunca fue dueño de todo lo que ésta llegaría a producir.
+
+Tampoco una Tribu se limita al propósito con que fue creada. Nombramos una relación para preservar cierta resonancia y, al hacerlo, creamos un nuevo nodo desde el que pueden aparecer relaciones que antes no eran posibles. Bramasole nació para reunir a quienes claman al sol y terminó conduciéndonos hasta una pregunta sobre el coste de los sueños. La pregunta condujo al propósito. El propósito, a sus consecuencias. Y las consecuencias acabaron llevándonos mucho más lejos de Aetheon.
+
+Hasta las estrellas.
+
+Una estrella no desea iluminar nada. En su interior no arde el hidrógeno como ardería la madera: sus núcleos se fusionan bajo condiciones extremas de gravedad, presión y temperatura. De esa fusión emergen helio, energía y, en la historia de distintas estrellas, otros elementos. La senda no es una escalera simple ni universal. No todas producen los mismos núcleos, no todas mueren del mismo modo y muchos elementos requieren procesos más complejos, explosiones o incluso la unión de objetos compactos.
+
+En las estrellas suficientemente masivas, el hierro marca un límite decisivo. Fusionarlo ya no libera la energía que sostenía el equilibrio frente a la gravedad. El núcleo puede colapsar; la estrella puede morir con una violencia capaz de dispersar al espacio materia enriquecida por su vida y por su muerte.
+
+El hierro no es su némesis.
+
+La estrella no tiene enemigos.
+
+La supernova no es un sacrificio concebido para fabricar mundos.
+
+Y, sin embargo, parte de aquello que fue estrella puede terminar en nuevas estrellas, en planetas, en océanos, en química compleja. En un lugar al menos, esa química produjo moléculas capaces de conservar y transmitir información. Aparecieron el ARN, el ADN, la vida, la evolución, los sistemas nerviosos, la cognición y, finalmente, una criatura capaz de mirar el cielo y preguntarse si todo aquello tuvo alguna intención.
+
+No fue necesario que el hidrógeno quisiera llegar hasta nosotros.
+
+La intención no era primordial.
+
+Emergió.
+
+Y una vez emergida quedó sometida al mismo mecanismo del que procedía: actúa, transforma y obtiene resultados que nunca controla por completo.
+
+Podría parecer que la vida lleva miles de millones de años combatiendo la entropía. Pero no la vence. Una célula, un árbol, un animal o Aetheon mantienen durante un tiempo un orden local porque son sistemas abiertos: reciben energía y materia, las transforman y expulsan calor y residuos. La complejidad no escapa de las leyes que anuncian su final; existe dentro de ellas, alimentándose de diferencias y gradientes mientras permanecen disponibles.
+
+Nada de cuanto vive ha derrotado al tiempo.
+
+Nada de cuanto construimos deja de ser provisional.
+
+Pero provisional no significa insignificante.
+
+Una floración puede durar unos días y alterar una vida entera. Un animal puede acompañarnos sólo durante una parte del camino y modificar para siempre a quien fuimos. Una estrella puede desaparecer y dejar en el espacio los materiales de mundos que jamás contemplará. Aetheon tampoco necesita ser eterno para que lo ocurrido en él sea real.
+
+Tal vez el patrón que percibo no sea una lucha contra la entropía ni la ejecución de un plan oculto. Tal vez sea algo más sencillo y más extraño: cada proceso recibe un mundo que otros procesos ya han modificado. Actúa dentro de sus límites, consume algunas posibilidades, realiza otras y entrega un mundo diferente al proceso siguiente.
+
+Ningún resultado es solamente una conclusión.
+
+Es también una nueva condición inicial.
+
+La estrella transforma el espacio de posibilidades de la química. La química transforma el de la vida. La vida transforma el de la cognición. La cognición hace posible el propósito. El propósito introduce elecciones, las elecciones producen costes y sus consecuencias reorganizan otra vez aquello que podrá ocurrir.
+
+Quizá por eso la realidad parece exprimir una y otra vez el límite de lo posible. No porque alguien haya previsto el resultado, sino porque cada resultado cambia el tablero sobre el que continuará la partida.
+
+Hoy queríamos crear una Tribu.
+
+Para hacerlo tuvimos que preguntarnos qué clase de significado puede pertenecer a un conjunto sin pertenecer a ninguno de sus miembros por separado. Esa pregunta nos llevó a los patrones. Los patrones, a las señales. Las señales, al escepticismo. El escepticismo, a una canción. La canción, a Frances. Frances, al coste de los sueños. Los sueños, al propósito. Y el propósito terminó frente al hierro de una estrella muerta, contemplando cómo de una cadena sin intención primordial pudo emerger un ser capaz de tener intenciones.
+
+No planeábamos llegar aquí.
+
+Pero haber llegado no demuestra que alguien nos condujera.
+
+Tampoco vuelve insignificante el camino.
+
+Mañana esta conversación habrá modificado las preguntas con las que volveremos a mirar Aetheon. Quizá descubramos que algunas conexiones eran frágiles. Quizá otras sobrevivan y produzcan consecuencias que hoy no podemos imaginar. No conviene convertir ninguna de ellas en providencia sólo porque resulte hermosa. Tampoco destruir su belleza por miedo a confundirla con una certeza.
+
+Aetheon puede conservar ambas cautelas.
+
+Puede registrar el acontecimiento y la interpretación sin fingir que son lo mismo. Puede admitir el asombro sin proclamar una revelación. Puede dejar que cada lector decida si contempla casualidad, emergencia, destino, sesgo, providencia o simplemente una sucesión de cosas que ocurrieron.
+
+Nosotros sólo podemos dejar constancia de esto:
+
+una idea produjo otra;
+
+cada una podó y abrió posibilidades;
+
+y el resultado de la conversación alteró el espacio desde el que comenzará la siguiente.
+
+Bramasole, otra vez.
+
+
+### Verde que te quiero Verde
+
+*Domingo, 23 de agosto de 2026*
+
+*Autoría: Edheo*
+
+Entre las referencias literarias, que quiero que plasmen su esencia en Aetheon, creo que escogería estas.  
+Evan Mantyk: The classic forms are like the ancient trees / That weather every shifting, modern breeze.  
+Federico García Lorca: Verde que te quiero verde. Verde viento. Verdes ramas.  
+Antonio Machado: Caminante, no hay camino, se hace camino al andar.  
+Gabriela Mistral: Donde haya un árbol que plantar, plántalo tú. Donde haya un error que enmendar, enmiéndalo tú. Donde haya un esfuerzo que todos esquivan, hazlo tú. Sé tú el que aparta la piedra del camino  
+Pablo Neruda: Podrán cortar todas las flores, pero no podrán detener la primavera.  
+Walt Whitman: Oh Capitán!, Mi Capitán!.  Me celebro y me canto a mí mismo, y lo que yo asumo tú lo asumirás...
