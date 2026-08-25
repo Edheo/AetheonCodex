@@ -35,7 +35,7 @@ Un buen rato de espera eso si, unos 20 minutos de sesión, y a casa. Pero como s
 ### Capítulo
 01 - Mi Contexto
 ### Secuencia
-030
+090
 ### Autoría
 Edheo
 

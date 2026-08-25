@@ -53,7 +53,7 @@ El prodigio sin propósito
 03 Evolución
 
 ### Secuencia
-053
+080
 
 ### Autoría
 Logos, Limen y Edheo

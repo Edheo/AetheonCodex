@@ -37,7 +37,7 @@ Karo
 ### Capítulo
 01 Mi Contexto 
 ### Secuencia
-026
+080
 ### Autoría
 Edheo
 

@@ -27,7 +27,7 @@ El minino, sobrevivió, y quizás por esa proeza le llamé Ender, como el niño 
 ### Capítulo
 01 Mi Contexto
 ### Secuencia
-022
+040
 ### Autoría
 Edheo
 

@@ -37,7 +37,7 @@ NALA
 ### Capítulo
 01 Mi Contexto 
 ### Secuencia
-020
+030
 ### Autoría
 Edheo
 

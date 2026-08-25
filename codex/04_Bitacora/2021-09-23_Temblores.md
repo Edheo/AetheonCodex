@@ -31,7 +31,7 @@ wA-yrzkRas8
 ### Capítulo
 01 - Mi Contexto
 ### Secuencia
-024
+060
 ### Autoría
 Edheo
 

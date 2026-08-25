@@ -39,7 +39,7 @@ ovyfbirtPLs
 
 ## Literaria
 **Capítulo:**  03 Evolución
-**Secuencia:**  101
+**Secuencia:**  090
 ### Autoría
 Edheo
 

@@ -22,7 +22,7 @@ Tuvimos que recogerla, lloviznaba, ella justo encima de un desague, la cogí y c
 ### Capítulo
 01 Mi Contexto
 ### Secuencia
-025
+070
 ### Autoría
 Edheo
 

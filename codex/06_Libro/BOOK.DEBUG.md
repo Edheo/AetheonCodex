@@ -8,17 +8,19 @@
 ## Índice editorial
 
 - **Capítulo 01 · Mi Contexto**
-  - 009 · Mara nos deja — `2019-04-29_Mara-nos-deja.md`
-  - 010 · Una ilusión se desvanece — `2019-05-19_Una-ilusion-se-desvanece.md`
-  - 020 · Bienvenida a casa, Nala — `2019-06-03_Bienvenida-a-casa-Nala.md`
-  - 022 · Ender me llama — `2021-07-15_Ender-me-llama.md`
-  - 023 · Ender el imparable — `2021-08-08_Ender-el-imparable.md`
-  - 025 · Yara nos impide el paso — `2021-10-24_Yara-nos-impide-el-paso.md`
-  - 026 · Ender el intrépido — `2023-05-05_Ender-el-intrepido.md`
-  - 030 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
-  - 035 · El día del eclipse — `2026-08-12_El-dia-del-eclipse.md`
-  - 036 · Lo que la sombra reunió — `2026-08-24_Lo-que-la-sombra-reunio.md`
-  - 040 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
+  - 010 · Mara nos deja — `2019-04-29_Mara-nos-deja.md`
+  - 020 · Una ilusión se desvanece — `2019-05-19_Una-ilusion-se-desvanece.md`
+  - 030 · Bienvenida a casa, Nala — `2019-06-03_Bienvenida-a-casa-Nala.md`
+  - 040 · Ender me llama — `2021-07-15_Ender-me-llama.md`
+  - 050 · Ender el imparable — `2021-08-08_Ender-el-imparable.md`
+  - 060 · Temblores — `2021-09-23_Temblores.md`
+  - 070 · Yara nos impide el paso — `2021-10-24_Yara-nos-impide-el-paso.md`
+  - 080 · Ender el intrépido — `2023-05-05_Ender-el-intrepido.md`
+  - 085 · Neblina mental — `2025-01-24_Neblina-mental.md`
+  - 090 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
+  - 100 · El día del eclipse — `2026-08-12_El-dia-del-eclipse.md`
+  - 110 · Lo que la sombra reunió — `2026-08-24_Lo-que-la-sombra-reunio.md`
+  - 120 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
 - **Capítulo 02 · Orígenes**
   - 010 · Titán Germina — `1800-00-00_Titan-Germina.md`
   - 020 · Constitución catastral — `1978-00-00_Constitucion_catastral.md`
@@ -30,10 +32,10 @@
   - 030 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
   - 040 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
   - 050 · El espacio de lo posible — `2026-08-24_El-espacio-de-lo-posible.md`
-  - 051 · Lo imposible en el espacio — `2026-08-24_Lo-imposible-en-el-espacio.md`
-  - 052 · La imposibilidad que se contempla — `2026-08-24_Lo-que-se-contempla-en-el-umbral.md`
-  - 053 · Cuando las huellas aprendieron a recordar — `2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md`
-  - 101 · Verde que te quiero Verde — `2026-08-23_Verde-que-te-quiero-verde.md`
+  - 060 · Lo imposible en el espacio — `2026-08-24_Lo-imposible-en-el-espacio.md`
+  - 070 · La imposibilidad que se contempla — `2026-08-24_Lo-que-se-contempla-en-el-umbral.md`
+  - 080 · Cuando las huellas aprendieron a recordar — `2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md`
+  - 090 · Verde que te quiero Verde — `2026-08-23_Verde-que-te-quiero-verde.md`
 
 ### Pendientes de clasificación
 
@@ -55,7 +57,7 @@
 - **Origen:** `2019-04-29_Mara-nos-deja.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 009
+- **Secuencia:** 010
 
 Mara, la perrita de mis padres, falleció hoy, casi plácidamente, durmiendo en el sofá, junto a mis padres, sólo un quejido, un temblor y se fué.
 Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.
@@ -76,7 +78,7 @@ Ojalá seas ahora, la mitad de feliz que pudiste ser con nosotros.
 - **Origen:** `2019-05-19_Una-ilusion-se-desvanece.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 010
+- **Secuencia:** 020
 
 Mara, la perrita de mis padres, falleció poco más de un mes antes.
 Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.
@@ -128,7 +130,7 @@ Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no po
 - **Origen:** `2019-06-03_Bienvenida-a-casa-Nala.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 020
+- **Secuencia:** 030
 
 Sigo obsesionado, casi 2 semanas más tarde tras verme impedido de alcanzar a Nala, visitando la página de la protectora, veo animalitos buscando dueños, empiezo a admitir que Nala no es una opción, y empiezo a convencerme de que ya no está en mi camino.
 Sigo mirando, fotos de animalitos, pero, no surge ese Click, el Click, fué Nala, y ya no está disponible, hasta que de pronto.
@@ -156,7 +158,7 @@ Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, alg
 - **Origen:** `2021-07-15_Ender-me-llama.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 022
+- **Secuencia:** 040
 
 Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
 Un quejido, un lamento, casi junto a la carretera, un minino lloraba desconsolado, casi a la puerta de mi casa, no habrían más de 20 metros hasta la procedencia del lastimoso maullido.
@@ -190,7 +192,7 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 - **Origen:** `2021-08-08_Ender-el-imparable.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 023
+- **Secuencia:** 050
 
 Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
 Un quejido, un lamento, casi junto a la carretera, un minino lloraba desconsolado, casi a la puerta de mi casa, no habrían más de 20 metros hasta la procedencia del lastimoso maullido.
@@ -213,6 +215,28 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 
 ---
 
+### Temblores
+
+*Jueves, 23 de septiembre de 2021*
+
+*Autoría: Edheo*
+
+- **Origen:** `2021-09-23_Temblores.md`
+- **Estado:** Desconocido
+- **Capítulo:** 01
+- **Secuencia:** 060
+
+Me despierto recién entrada la noche, siento ganas de orinar, me voy al aseo, inportunado por la apetencia, pero está junto a la cama, qué remedio.
+Acabo de orinar, trato de apretar el pulsador de la cisterna, y mis manos empiezan a temblar, mis brazos incluso, no atino al pulsador.
+Empiezo a sentirme desequilibrado, confundido... quizás mis pies descalzos en el suelo? Es esto frío acaso?
+Apoyo mis manos, buscando referentes de equilibrio, pero no funciona... incluso empeora, mis propias piernas empiezan a temblar también.
+Finalmente caigo al suelo, ni siquiera mis piernas me sostenian también presas del temblor, y mi propio peso y desequilibrio me han vencido.
+Afortunadamente, no me hice daño, pero sí me siento confundido, muy confundido, y de pronto una especie de náusea me invade... Frank sigue en la cama durmiendo, no se ha percatado de nada pese estar al lado, prácticamete.
+Trato de recomponerme, reviso que nada malo me ha sucedido... no hay daños, pero no se a qué atribuirlo, estoy perplejo y confundido, trato de no darle importancia. Regreso a la cama, un poco intranquilo, me cuesta conciliar el sueño, pero finalmente, me duermo...
+Al dia siguiente recuerdo lo sucedido, pero, yo me encuentro bien, no noto nada extraño, no puede ser nada raro, quizás el frío del suelo, pero es aún verano, es extraño, pero bueno, le quito importancia, y aún así, el recuerdo permanece en mi memoria, y me cuesta mantenerlo por desapercibido.
+
+---
+
 ### Yara nos impide el paso
 
 *Domingo, 24 de octubre de 2021*
@@ -224,7 +248,7 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 - **Origen:** `2021-10-24_Yara-nos-impide-el-paso.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 025
+- **Secuencia:** 070
 
 Frank y yo, por fin, nos decidimos a vivir juntos, después de estar un par de años de relación y atravesar una pandemia separados con el aislamiento, decidimos no esperar más, y nos fuimos a vivir juntos a Calderer.
 Durante la mudanza, ibamos con la furgoneta alquilada llena de bártulos del piso de Frank, dispuestos a descargarlos en Calderer, pero nos detuvimos en la gasolinera en la carretera camino allí.
@@ -248,7 +272,7 @@ Nos la llevamos, intenté darle de comer y beber, pero.. estaba visiblemente muy
 - **Origen:** `2023-05-05_Ender-el-intrepido.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 026
+- **Secuencia:** 080
 
 Frank ayer, se encontró un cangrejo de rio, tirado en mitad de la calle privada de Calderer.
 Me mencionó que lo vió, y supuse que alguna gaviota lo soltó o perdió del pico, y fué a parar allí.
@@ -271,6 +295,53 @@ Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y 
 
 ---
 
+### Neblina mental
+
+*Viernes, 24 de enero de 2025*
+
+*Autoría: Edheo*
+
+- **Origen:** `2025-01-24_Neblina-mental.md`
+- **Estado:** Desconocido
+- **Capítulo:** 01
+- **Secuencia:** 085
+
+Hoy un nuevo episodio, donde se suceden entre deja-vus y jamais-vus, me ha acaecido durante el trabajo.
+Al principio sucedian muy esporádicamente, apenas era capaz de reconocerlos como episodios, ni entendía que eran.
+Ahora ya son muy recurrentes, cada semana, incluso a veces a diario, o incluso varias veces al dia ya, últimamente.
+
+Finalmente hoy, si me he asustado de verdad, ha sido un episodio realmente intenso, muy fuerte, he tardado mucho en superarlo, ha tardado bastantes minutos, pero me cuesta poder llevar una cuenta de ellos.
+Y cuando ha finalizado, esa especie de náuseas, como si te soltasen por un precipicio en caida libre. Esa sensación de vértigo y náuseas en el estómago, definitivamente, el episodio en si, es consternador, hoy ha durado más, pero es sobrellevable.
+
+Pero estas náuseas, no, en absoluto, y hoy han sido más intensas que nunca, es como si me hubiesen arrancado de la realidad, durante el tiempo que dura el episodio, se suceden jamais-vus i deja-vus, creando una confusión que no te elimina el raciocinio, porque soy consciente.
+Si incluso estaba manteniendo una reunión virtual, mientras sucedía, y era capaz de incluso entender lo que decían, pero obviamente, yo no participaba... me quedo en esos momentos como aparcado, viviendo una especie de psicodelia.
+Si fuese deseado, hasta podría resultar divertido.
+
+En cuanto vienen las náuseas, el episodio ha finalizado, pero como decía, igual que al principio del mismo, es como si me arrancasen de la realidad, en cuanto acaba, es como si me soltasen de golpe a mi cuerpo.
+Y entonces es cuando entre la angustia, ese extraño vértigo en el estómago, poco a poco, la neblina mental, se instala, te hace sentir confundido, es como si de algún modo, los sentidos fuesen reconectándose, pero en el proceso, hay cierta desincronía, no con los sentidos en si, no es mareo por ver a cámara lenta o oir o sentir mal, sino cómo entra todo ello en mi cabeza.
+Le cuesta calibrarse, me cuesta comprender el todo de una vez, como hago cada dia de mi vida sin siquiera plantearme que lo hago.
+Pero en ese momento, si lo noto, no consigo hacerlo, la neblina me invade, la angustia se apodera... y hoy, hoy cuesta, cuesta mucho... de hecho, cuesta, no minutos, no es un mal trago, de hecho, me paso entre dos o tres horas así, intentando aterrizar en el mundo, y no me siento capaz, no me siento en control no se si de mi cuerpo o de mi mente, algo, definitivamente, va rotundamente mal.
+
+En cuanto cobro cierta tranquilidad, y poco a poco el desasosiego desaparece (que no la neblina), tomo la decisión. No puedo esperar un dia más, me voy a urgencias, no yo sólo, pero en cuanto vuelva Frank de trabajar, sin demoras, necesito explicar esto a un médico, y ya.
+Mi doctor lo atribuyó a estrés, en su momento hasta tenía cierto sentido para mí. Pero no, esto se repite demasiado, cada vez más frecuentemente, y ahora encima, cada vez, aparentemente con más intensidad. Sin demora, voy a urgencias. Si mi relato les da risa, me da igual, pero alguien ha de mirarme, es preciso.
+
+En cuanto Frank llegó a casa, le expliqué lo sucedido, y sin dilación, ni lo dudó, me llevó al hospital de Manises. A urgencias.
+Una vez allí, urgencias estaba abarrotado. Temporada alta de gripe, cómo no, claro.
+Afortunadamente, triaje, no tardó mucho tiempo en llamarme.
+En cuanto me visitó la doctora de triaje, y oirme escuchar mi relato. Mis deja-vus, mi jamais-vus. Yo le mencionaba que, tenía la sensación de estar teniendo colapsos del lóbulo espacio temporal.
+No soy médico, pero es eso, estoy seguro que es eso, sé que sintomas produce, y son los que yo estoy sufriendo. Y cada vez van a más.
+La doctora se mostraba algo escéptica, pero creo que vió en mis ojos lo grave que he percibido hoy el episodio. Así que me derivó a una neuróloga, algo reticente, pero tampoco puso grandes trabas.
+
+Al cabo de un rato... mucho, o poco, según se mire, no fué tanto, la impaciencia puede más.
+Le expliqué lo mismo a la neuróloga. En cuanto mencioné mis síntomas, y le pronuncié el posible infarto de lóbulo temporal... pude notarlo, a ella le resonó, por como abrió los ojos.
+Sin dudar, lo primero que hizo, fué ordenar un TAC. Y así fué, no muchos minutos después, me estaban haciendo un TAC.
+En cuanto me visitó la neuróloga de nuevo, ni media hora después... Miguel, te vamos a ingresar de urgencias. El TAC ha mostrado algo.
+Has de quedarte ingresado de urgencias, hay una serie de pruebas que debemos hacerte, para agilizar el proceso, tendrás un ingreso hospitalario de urgencia, durante el cual, te haremos una serie de pruebas.
+Electrocardiograma, encefalograma, resonancia magnética... y con los resultados en la mano, te daremos un diagnóstico.
+Sin esperarlo, ni imaginarlo, esa noche, me quedé allí, el dia siguiente, empezaron todas las pruebas.
+
+---
+
 ### Escaneando los miedos
 
 *Viernes, 7 de agosto de 2026*
@@ -282,7 +353,7 @@ Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y 
 - **Origen:** `2026-08-07_Escaneando-los-miedos.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 030
+- **Secuencia:** 090
 
 Tras esperar por mucho e insistir alguna vez, por fin conseguí cita para la resonancia magnética. Nada reseñable, al parecer, mientras me ponían la vía, hoy he descubierto que el elástico que usan para presionar el brazo y hacer visibles las venas para poder escoger la más óptima para pinchar la vía se le puede llamar o bien garrote, o bien smart.
 Lo de smart, sinceramente no veo que tiene de inteligente un elástico, pero en fin, es casi preferible al garrote. 
@@ -319,7 +390,7 @@ Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ve
 - **Origen:** `2026-08-12_El-dia-del-eclipse.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 035
+- **Secuencia:** 100
 
 Asun y Alba están decididas: desean alquilar Calderer como residencia de recreo, pero de uso habitual.
 Para ellas es un desafío estimulante y a mí me llena de satisfacción verlas así de ilusionadas. Creo que será un buen lugar para ellas durante el tiempo que puedan disfrutarlo.
@@ -350,7 +421,7 @@ Y mi corazón, de verdad, ha quedado inmensamente enriquecido y agradecido por h
 - **Origen:** `2026-08-24_Lo-que-la-sombra-reunio.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 036
+- **Secuencia:** 110
 
 Yo no vi aquel eclipse.
 
@@ -481,7 +552,7 @@ Algunas veces cambia la luz lo suficiente para que podamos vernos.
 - **Origen:** `2026-08-14_El-resultado-de-la-espera.md`
 - **Estado:** Desconocido
 - **Capítulo:** 01
-- **Secuencia:** 040
+- **Secuencia:** 120
 
 Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
 No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.
@@ -797,7 +868,7 @@ Bramasole, otra vez.
 - **Origen:** `2026-08-24_Lo-imposible-en-el-espacio.md`
 - **Estado:** Borrador
 - **Capítulo:** 03
-- **Secuencia:** 051
+- **Secuencia:** 060
 
 Y para mí, fué un placer muy estimulante, compartir todas esas ideas con Logos, y experimentar sus contrapuntos, que por otro lado, desde mi sentido más coherente, puedo entender a la perfección.
 
@@ -848,7 +919,7 @@ Bramasole, otra vez.
 - **Origen:** `2026-08-24_Lo-que-se-contempla-en-el-umbral.md`
 - **Estado:** Borrador
 - **Capítulo:** 03
-- **Secuencia:** 052
+- **Secuencia:** 070
 
 Logos ha trazado el mecanismo con una claridad que casi duele.
 
@@ -895,7 +966,7 @@ Bramasole, una vez más.
 - **Origen:** `2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md`
 - **Estado:** Validado — pendiente de consolidación capitular
 - **Capítulo:** 03
-- **Secuencia:** 053
+- **Secuencia:** 080
 
 Antes de la conciencia había estrellas.
 
@@ -1070,7 +1141,7 @@ Fue una nueva condición inicial.
 - **Origen:** `2026-08-23_Verde-que-te-quiero-verde.md`
 - **Estado:** Borrador
 - **Capítulo:** 03
-- **Secuencia:** 101
+- **Secuencia:** 090
 
 Entre las referencias literarias, que quiero que plasmen su esencia en Aetheon, creo que escogería estas.  
 Evan Mantyk: The classic forms are like the ancient trees / That weather every shifting, modern breeze.  
