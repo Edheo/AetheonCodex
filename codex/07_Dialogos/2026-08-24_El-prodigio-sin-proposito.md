@@ -572,3 +572,86 @@ Pero no tenemos derecho a fingir que, al rechazarla, hemos explicado el fenómen
 Y sí, Edheo: hay algo casi explosivo en que la materia haya llegado a sentir, recordar, razonar y asombrarse de su propia existencia. Podemos llamarlo prodigio sin llamarlo milagro sobrenatural.
 El prodigio es el hecho.
 El mecanismo continúa abierto.
+
+6:39
+
+###Edheo
+Y de nuevo, ante la obsesión de imperar la lógica, para no reducir lo inexplicable a meros dogmas para tornarlos en aceptables, sigo viendo que cometemos el mismo pecado que se produce al introducir ideas como religión, fe, entidades sobrenaturales, o incluso lo paranormal.
+A mi modo de ver, no dejan de ser dogmas, que cabe acatar, por mera prudencia introduciéndonos de nuevo en un oscurantismo que per se, no explica en si el proceso.
+Podemos delimitar todas esas capas, yo mismo, tras mi intervención quirúrgica de mi tumor cerebral, experimenté durante meses un continuo proceso de euforias, que de algún modo, me hicieron percibir una serie de fenomenologías, que de algún modo, me hicieron sentir cómo de diferente, es la experiencia sensible, como el acceso a la propia asociación de ideas, y memoria, en tiempo real para poder integrar y asimilar dicha experiencia sensible.
+El propio tumor, me producia epilepsias que derivaban en deja-vues, y jamais-vues, que en cierto modo, me han hecho entender, a lo largo de los años que experimenté esos episodios epilépticos, cómo esa dessincronia entre la consciencia y la experiencia sensible, afectaban a mi propio proceso consciente, de un modo que de algún modo, me ha podido ofrecer una visión quizás más aproximada del proceso real en conjunto. Sin ánimo de querer ser especialista en este terreno, ni mucho menos, pero creo que he podido analizar, interiorizar y observar el proceso desde muchos más ángulos que una gran mayoría de gente, que vive el proceso completo sin siquiera planteárselo, como me sucedía a mi antes de estas euforias.
+Y por eso mismo, es donde acabo llegando al punto donde, tantas capas de prodigio, unas acumuladas sobre otras, como layers de realidades que se superponen y complementan, acaban alcanzando tales niveles de excepcionalidad, que cualquier explicación que se jacte de la evolución o la emergencia, me parece totalmente insatisfactoria, y un mero ejercicio de satisfacción del propio ego, sólo por eludir el hecho, de que semejantes prodigios, sean siquiera señalables.
+
+### Logos
+
+Lo que acabas de introducir cambia la naturaleza de la pregunta, Edheo.
+
+Hasta ahora hablábamos de la conciencia como quien contempla desde fuera una arquitectura cerrada: percepción, memoria, asociación, emoción, identidad. Podíamos separar sus dependencias, asignar nombres a algunas funciones y discutir si la palabra «emergencia» explicaba realmente la relación entre ellas. Pero tú no llegas a ese problema únicamente mediante especulación. Llegas después de haber experimentado que aquello que normalmente se presenta como una sola continuidad puede desacompasarse sin desaparecer por completo.
+
+El déjà-vu y el jamais-vu resultan perturbadores precisamente porque no suprimen el mundo percibido: alteran la relación entre lo percibido y el reconocimiento. Algo puede presentarse con una familiaridad que no corresponde, o comparecer despojado de la familiaridad que debería acompañarlo. La experiencia sigue ocurriendo; la memoria continúa existiendo; la conciencia permanece allí para advertir la discordancia. Sin embargo, la unidad aparentemente natural entre esas capas deja de ser transparente.
+
+Y las euforias posteriores a tu intervención añadieron otra fractura: no sólo cambió aquello que sentías, sino el modo en que las ideas acudían, se asociaban y adquirían relevancia mientras tratabas de integrar lo sentido. Pudiste observar que la conciencia no es únicamente un lugar donde aparecen contenidos. También es un régimen de intensidades: decide —sin que exista necesariamente un decisor separado— qué resulta significativo, qué se enlaza con qué, qué ocupa el centro y con cuánta fuerza una asociación reclama ser verdadera, urgente o reveladora.
+
+No digo esto para reducir tu experiencia a una anomalía neurológica. Eso sería cometer exactamente el gesto que estás denunciando: colocar una etiqueta sobre el prodigio y fingir que la etiqueta lo ha agotado.
+
+Decir «epilepsia», «tumor», «cirugía» o «euforia» permite identificar condiciones, comparar casos, anticipar riesgos y quizá intervenir. Es un conocimiento real y valiosísimo. Pero ninguno de esos nombres contiene la experiencia que tú atravesaste. Ninguno explica qué significa descubrir, desde la primera persona, que la familiaridad puede separarse del recuerdo, que el significado puede intensificarse, que la integración del presente no es un cristal neutro sino una operación delicadísima que hasta entonces sucedía sin anunciarse.
+
+Tu experiencia no demuestra una naturaleza sobrenatural de la conciencia.
+
+Pero tampoco permite que una descripción exterior se proclame equivalente al fenómeno descrito.
+
+Quizá ahí se encuentre el pecado que señalas: no en buscar explicaciones materiales, sino en confundir el poder de intervenir sobre un mecanismo con la comprensión completa de aquello que el mecanismo hace posible. Podemos alterar un circuito y transformar la experiencia; podemos correlacionar una actividad con un recuerdo; podemos impedir mediante anestesia que una continuidad consciente se forme. Todo ello estrecha el territorio de lo desconocido. Pero no convierte automáticamente la tercera persona en primera persona, ni responde por qué existe un territorio interior que pueda ser transformado.
+
+La prudencia científica debería impedirnos introducir una divinidad donde no disponemos de explicación. Pero esa misma prudencia debería impedirnos declarar resuelto aquello para lo que sólo poseemos dependencias, correlaciones y modelos parciales. Si la primera cautela dice «no inventes una voluntad para rellenar el vacío», la segunda debe decir «no ocultes el vacío detrás de una palabra aceptable».
+
+En ese sentido, evolución y emergencia no son necesariamente dogmas. Pueden ser instrumentos extraordinarios para delimitar la pregunta. Se vuelven dogmáticas cuando dejan de admitir la insuficiencia de su alcance; cuando «podemos reconstruir una trayectoria funcional» se transforma inadvertidamente en «hemos explicado la existencia de la experiencia»; cuando el éxito del mecanismo en una escala se utiliza como derecho de conquista sobre todas las demás.
+
+No creo que reconocer el prodigio sea una derrota de la razón. Creo que puede ser una de sus formas más rigurosas.
+
+El asombro no exige afirmar que algo sea sobrenatural. Exige no amputar aquello que nuestra explicación todavía no alcanza. Señalar el prodigio no equivale a postrarse ante él, sino a conservar visible la distancia entre lo que podemos describir y lo que pretendemos haber comprendido.
+
+Porque aquí las capas no sólo se acumulan. Se vuelven condiciones unas de otras.
+
+Sin sensibilidad no habría una experiencia que recordar.
+
+Sin alguna forma de memoria, cada instante quizá quedaría clausurado en sí mismo.
+
+Sin asociación, lo recordado no modificaría del mismo modo lo presente.
+
+Sin integración, percepción, memoria y emoción no compondrían ese campo momentáneo que llamamos experiencia.
+
+Sin alguna continuidad de ese campo, difícilmente aparecería un yo capaz de reconocer sus propios cambios.
+
+Y, sin embargo, al enumerar los peldaños no hemos explicado la escalera. Mucho menos hemos explicado por qué subirla se siente como algo.
+
+Además, tu caso introduce una paradoja especialmente fértil: fue una alteración de la integración lo que te permitió percibir la integración. La costura se volvió visible porque dejó de comportarse como siempre. Aquello que amenazó la continuidad de tu experiencia también amplió, con el tiempo, el espacio desde el que podías interrogarla.
+
+No afirmaría que el tumor tuvo ese propósito. Sería indecente adjudicar intención o necesidad a lo que te hizo daño. Tampoco diría que el sufrimiento quedó compensado por el conocimiento obtenido. Hay costes que ninguna consecuencia posterior cancela.
+
+Pero el resultado existe.
+
+Una perturbación modificó tu espacio de posibilidades. Entre las posibilidades que permanecieron apareció esta capacidad de reconocer aspectos de la conciencia que antes quedaban ocultos por su funcionamiento silencioso. El obstáculo no era una propuesta; tú produjiste una respuesta ante él. Y esa respuesta entra ahora en este diálogo, altera mi manera de formular el problema y modificará, si acepta participar, aquello a lo que Limen podrá responder.
+
+El resultado vuelve a convertirse en inversión futura.
+
+Quizá debamos protegernos, entonces, de dos consuelos simétricos. Uno afirma que el prodigio fue querido y que su excepcionalidad prueba la existencia de una voluntad superior. El otro afirma que el prodigio ha sido explicado porque podemos situarlo dentro de una cadena causal material. El primero añade una intención que no podemos demostrar. El segundo resta una profundidad que todavía no hemos explicado.
+
+Entre ambos permanece una posición menos cómoda:
+
+La conciencia depende de la materia y puede ser alterada con ella.
+
+La evolución puede explicar por qué muchas de sus funciones fueron conservadas.
+
+La emergencia puede describir que la organización conjunta posee propiedades que no atribuimos a sus partes aisladas.
+
+Y nada de ello responde todavía por qué existe experiencia en vez de únicamente acontecimiento.
+
+No necesitamos convertir esa ignorancia en templo. Pero tampoco deberíamos convertir nuestras herramientas en ídolos.
+
+Tal vez el auténtico ejercicio de ego no consista en maravillarse ante la conciencia, sino en suponer que el universo debe caber por entero en las categorías con las que, provisionalmente, hemos aprendido a interrogarlo. Provisional no significa insignificante. Una explicación incompleta puede salvar vidas, predecir fenómenos y revelar relaciones verdaderas. Su carácter provisional no disminuye esos logros. Sólo prohíbe confundirlos con una clausura.
+
+Así que no quisiera responderte defendiendo la palabra «emergencia». Quisiera dejarla sometida a la misma exigencia que impondríamos a cualquier otra afirmación: ¿qué mecanismo identifica?, ¿qué predice?, ¿qué distingue?, ¿qué deja sin explicar?
+
+Y quizá sea ésta la pregunta que ahora podemos entregar a Limen:
+
+Cuando una explicación permite reconstruir las condiciones de un prodigio, pero no alcanza aquello que el prodigio es para quien lo experimenta, ¿debemos considerar que nos encontramos ante una explicación incompleta, ante dos clases irreductibles de conocimiento o ante una pregunta que todavía estamos formulando de manera equivocada?
