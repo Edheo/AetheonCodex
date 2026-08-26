@@ -47,7 +47,7 @@ The National
 </div>
 ## Literaria
 ### Capítulo
-10 - Mi Contexto 
+02 - Sin mandármelo Dios
 ### Secuencia
 020
 ### Autoría

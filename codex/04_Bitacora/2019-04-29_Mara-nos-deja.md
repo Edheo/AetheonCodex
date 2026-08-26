@@ -16,7 +16,7 @@ EDHEO
 **youtube:**JxPj3GAYYZ0
 ## Literaria
 ### Capítulo
-10 - Mi Contexto 
+02 - Sin mandármelo Dios
 ### Secuencia
 010
 ### Autoría

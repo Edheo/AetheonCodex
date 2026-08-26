@@ -35,7 +35,7 @@ Karo
 **youtube:**fV4DiAyExN0
 ## Literaria
 ### Capítulo
-10 - Mi Contexto 
+02 - Sin mandármelo Dios
 ### Secuencia
 070
 ### Autoría

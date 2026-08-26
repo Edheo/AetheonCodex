@@ -35,7 +35,7 @@ Un buen rato de espera eso si, unos 20 minutos de sesión, y a casa. Pero como s
 ### Capítulo
 01 - No es la vida de Chuck
 ### Secuencia
-030
+040
 ### Autoría
 Edheo
 

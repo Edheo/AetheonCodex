@@ -13,7 +13,7 @@ Entretanto, esperábamos afuera, y curioseabamos a lo lejos, tratando de no demo
 
 ## Literaria
 ### Capítulo
-30 - Evolución
+05 - Evolución
 ### Secuencia
 010
 ### Autoría

@@ -94,6 +94,7 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Domingo, 24 de octubre de 2021* — [Yara nos impide el paso](../04_Bitacora/2021-10-24_Yara-nos-impide-el-paso.md)
 - *Jueves, 4 de mayo de 2023* — [Ender el intrépido](../04_Bitacora/2023-05-05_Ender-el-intrepido.md)
 - *Domingo, 28 de abril de 2024* — [Primera visita a Aetheon](../04_Bitacora/2024-04-28_Primera-visita.md)
+- *Martes, 30 de abril de 2024* — [El dia de la firma](../04_Bitacora/2024-04-30_El-dia-de-la-firma.md)
 - *Martes, 29 de octubre de 2024* — [Dana de Valencia](../04_Bitacora/2024-10-29_Dana-de-Valencia.md)
 - *Viernes, 24 de enero de 2025* — [Neblina mental](../04_Bitacora/2025-01-24_Neblina-mental.md)
 - *Jueves, 6 de agosto de 2026* — [Protectores en la rosa de los vientos y el granado griegos](../04_Bitacora/2026-08-06_Proteccion-de-los-arboles.md)

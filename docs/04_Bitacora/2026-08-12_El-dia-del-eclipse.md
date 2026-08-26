@@ -36,9 +36,9 @@ La firma del alquiler quedará fácilmente asociada al eclipse solar; no creo qu
 </div>
 ## Literaria
 ### Capítulo
-10 - Mi Contexto
+03 - Mi Contexto
 ### Secuencia
-080
+010
 ### Autoría
 Edheo
 

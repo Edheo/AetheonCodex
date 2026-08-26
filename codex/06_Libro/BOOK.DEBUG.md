@@ -10,9 +10,10 @@
 - **Capítulo 01 · - No es la vida de Chuck**
   - 010 · Temblores — `2021-09-23_Temblores.md`
   - 020 · Neblina mental — `2025-01-24_Neblina-mental.md`
-  - 030 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
-  - 040 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
-- **Capítulo 10 · - Mi Contexto**
+  - 030 · El dia de la firma — `2024-04-30_El-dia-de-la-firma.md`
+  - 040 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
+  - 050 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
+- **Capítulo 02 · - Sin mandármelo Dios**
   - 010 · Mara nos deja — `2019-04-29_Mara-nos-deja.md`
   - 020 · Una ilusión se desvanece — `2019-05-19_Una-ilusion-se-desvanece.md`
   - 030 · Bienvenida a casa, Nala — `2019-06-03_Bienvenida-a-casa-Nala.md`
@@ -20,14 +21,15 @@
   - 050 · Ender el imparable — `2021-08-08_Ender-el-imparable.md`
   - 060 · Yara nos impide el paso — `2021-10-24_Yara-nos-impide-el-paso.md`
   - 070 · Ender el intrépido — `2023-05-05_Ender-el-intrepido.md`
-  - 080 · El día del eclipse — `2026-08-12_El-dia-del-eclipse.md`
-  - 090 · Lo que la sombra reunió — `2026-08-24_Lo-que-la-sombra-reunio.md`
-- **Capítulo 20 · - Orígenes**
+- **Capítulo 03 · - Mi Contexto**
+  - 010 · El día del eclipse — `2026-08-12_El-dia-del-eclipse.md`
+  - 020 · Lo que la sombra reunió — `2026-08-24_Lo-que-la-sombra-reunio.md`
+- **Capítulo 04 · - Orígenes**
   - 010 · Titán Germina — `1800-00-00_Titan-Germina.md`
   - 020 · Constitución catastral — `1978-00-00_Constitucion_catastral.md`
   - 030 · Compra anteriores propietarios — `2015-06-23_Compra-anteriores-propietarios.md`
   - 040 · Anuncio AETHEON en venta — `2024-03-27_Aetheon-en-venta.md`
-- **Capítulo 30 · - Evolución**
+- **Capítulo 05 · - Evolución**
   - 010 · Primera visita a Aetheon — `2024-04-28_Primera-visita.md`
   - 020 · Protectores en la rosa de los vientos y el granado griegos — `2026-08-06_Proteccion-de-los-arboles.md`
   - 030 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
@@ -118,6 +120,43 @@ Sin esperarlo, ni imaginarlo, esa noche, me quedé allí, el dia siguiente, empe
 
 ---
 
+### El dia de la firma
+
+*Martes, 30 de abril de 2024*
+
+*Autoría: Edheo*
+
+*Whipping Post — Allman brothers*
+
+- **Origen:** `2024-04-30_El-dia-de-la-firma.md`
+- **Estado:** Borrador
+- **Capítulo:** 01
+- **Secuencia:** 030
+
+Llevo un par de meses moviditos. Fractura de cadera de mi padre, incontables noches y dias de cuidados en el hospital.
+Mi padre en cuanto llegó, empezó a desorientarse incluso delirar, rápidamente.
+Dias y noches vigilando que no se tire de la cama, incluso salta por encima de las barandillas en sus delirios.
+Se ha arrancado incontables veces las vias, así que debo exigirme al máximo para vigilarle.
+Y cuando parecía que regresaría a casa, tuvieron que ingresarlo de nuevo, esta vez por infección de orina y anemia, a seguir con más vigilias de cuidados.
+Por fin terminó todo aquello, y aún así, se me acumulan obligaciones, debo atender unos trámites en la notaría que exigen mi presencia.
+Algunas de las partes implicadas tardan en presentarse, y con el agotamiento que acumulo, la situación se tensa por momentos. Varios miembros presentes, impacientes, esperando las partes ausentes, y casi inquiriéndome a mi como si yo tuviese alguna capacidad sobre las vidas agenas.
+Y en fin, tanto cúmulo de situación tensa, empieza a sucederme, noto esa especie de deja-vue intenso.
+Le sigue a continuación, lo que yo llamo jamais-vue, es un poco similar al deja-vue, pero, mientras que en el deja-vue tienes la sensación de estar volviendo a vivir una situación que te resulta extrañamente familiar, en cambio, con el jamais-vue, la sensación, es aún más extraña aún.
+Eres capaz de entender, que conoces lo que ves, lo que vives, reconoces el lugar, las personas, y aún así, tienes esa sensación de extrañeza.
+Como si, nunca hubieses estado en ese lugar, como pese reconocerles, esas personas, tuviesen cierto hálito de "completos desconocidos".
+El deja-vue, es quizás incómodo, pero me temo que todos hemos vivido esa experiencia en mayor o menor grado.
+Pero el jamais-vue, hasta que eres capaz de entender lo que significa, cuesta muchísimo de asimilar y entender... te deja muy confuso.
+Y cuando esas etapas se suceden, al final, viene el aterrizaje, ese vértigo, esa angustia, ese aterrizar de nuevo en todo, dejar de sentir esas extrañezas, pero al mismo tiempo, como si todo lo que ves, sientes, oyes, te costase de asimilar, y te produce ese vértigo-angustia.
+Finalmente pasa, pido agua y un caramelo, una chica presente en la sala se percata de mi mal ánimo, y me los proporciona. Pero en fin, finalmente concretamos las firmas, y acaba el trámite.
+En cuanto acaba el trámite, me dirijo hacia el coche, ya más recuperado y normalizado.
+Pero ups... boooom... de nuevo, se repite el episodio, con todas sus etapas de nuevo.
+Me detengo, no me mareo, con estar quieto el equilibrio no parece comprometido. En cuanto me pasa, reanudo la marcha, pero recuperarse de la angustia, esta vez, se hace más difícil, como si se hubiese sumado al efecto del episodio anterior.
+En cuanto me recompongo, me siento bien, no noto ya nada extraño, así que me animo a conducir... unos 30 km por autovía hasta casa, hasta que de pronto, casi a mitad de camino.... booooooom.
+Otra vez más.. ufff, no, por favor... no ahora, no pasa nada, puedo conducir, soy consciente de lo que hago, pero.... es tan molesto, tan poco oportuno.
+Se suceden todas las etapas, y de nuevo, encima conduciendo, la angustia es incluso superior a las anteriores veces.
+
+---
+
 ### Escaneando los miedos
 
 *Viernes, 7 de agosto de 2026*
@@ -129,7 +168,7 @@ Sin esperarlo, ni imaginarlo, esa noche, me quedé allí, el dia siguiente, empe
 - **Origen:** `2026-08-07_Escaneando-los-miedos.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 030
+- **Secuencia:** 040
 
 Tras esperar por mucho e insistir alguna vez, por fin conseguí cita para la resonancia magnética. Nada reseñable, al parecer, mientras me ponían la vía, hoy he descubierto que el elástico que usan para presionar el brazo y hacer visibles las venas para poder escoger la más óptima para pinchar la vía se le puede llamar o bien garrote, o bien smart.
 Lo de smart, sinceramente no veo que tiene de inteligente un elástico, pero en fin, es casi preferible al garrote. 
@@ -164,7 +203,7 @@ Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ve
 - **Origen:** `2026-08-14_El-resultado-de-la-espera.md`
 - **Estado:** Desconocido
 - **Capítulo:** 01
-- **Secuencia:** 040
+- **Secuencia:** 050
 
 Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
 No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.
@@ -180,7 +219,7 @@ El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro mo
 
 ---
 
-## Capítulo 10 · - Mi Contexto
+## Capítulo 02 · - Sin mandármelo Dios
 
 ### Mara nos deja
 
@@ -192,7 +231,7 @@ El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro mo
 
 - **Origen:** `2019-04-29_Mara-nos-deja.md`
 - **Estado:** Borrador
-- **Capítulo:** 10
+- **Capítulo:** 02
 - **Secuencia:** 010
 
 Mara, la perrita de mis padres, falleció hoy, casi plácidamente, durmiendo en el sofá, junto a mis padres, sólo un quejido, un temblor y se fué.
@@ -213,7 +252,7 @@ Ojalá seas ahora, la mitad de feliz que pudiste ser con nosotros.
 
 - **Origen:** `2019-05-19_Una-ilusion-se-desvanece.md`
 - **Estado:** Borrador
-- **Capítulo:** 10
+- **Capítulo:** 02
 - **Secuencia:** 020
 
 Mara, la perrita de mis padres, falleció poco más de un mes antes.
@@ -265,7 +304,7 @@ Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no po
 
 - **Origen:** `2019-06-03_Bienvenida-a-casa-Nala.md`
 - **Estado:** Borrador
-- **Capítulo:** 10
+- **Capítulo:** 02
 - **Secuencia:** 030
 
 Sigo obsesionado, casi 2 semanas más tarde tras verme impedido de alcanzar a Nala, visitando la página de la protectora, veo animalitos buscando dueños, empiezo a admitir que Nala no es una opción, y empiezo a convencerme de que ya no está en mi camino.
@@ -293,7 +332,7 @@ Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, alg
 
 - **Origen:** `2021-07-15_Ender-me-llama.md`
 - **Estado:** Borrador
-- **Capítulo:** 10
+- **Capítulo:** 02
 - **Secuencia:** 040
 
 Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
@@ -327,7 +366,7 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 
 - **Origen:** `2021-08-08_Ender-el-imparable.md`
 - **Estado:** Borrador
-- **Capítulo:** 10
+- **Capítulo:** 02
 - **Secuencia:** 050
 
 Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
@@ -361,7 +400,7 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 
 - **Origen:** `2021-10-24_Yara-nos-impide-el-paso.md`
 - **Estado:** Borrador
-- **Capítulo:** 10
+- **Capítulo:** 02
 - **Secuencia:** 060
 
 Frank y yo, por fin, nos decidimos a vivir juntos, después de estar un par de años de relación y atravesar una pandemia separados con el aislamiento, decidimos no esperar más, y nos fuimos a vivir juntos a Calderer.
@@ -385,7 +424,7 @@ Nos la llevamos, intenté darle de comer y beber, pero.. estaba visiblemente muy
 
 - **Origen:** `2023-05-05_Ender-el-intrepido.md`
 - **Estado:** Borrador
-- **Capítulo:** 10
+- **Capítulo:** 02
 - **Secuencia:** 070
 
 Frank ayer, se encontró un cangrejo de rio, tirado en mitad de la calle privada de Calderer.
@@ -409,6 +448,8 @@ Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y 
 
 ---
 
+## Capítulo 03 · - Mi Contexto
+
 ### El día del eclipse
 
 *Miércoles, 12 de agosto de 2026*
@@ -419,8 +460,8 @@ Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y 
 
 - **Origen:** `2026-08-12_El-dia-del-eclipse.md`
 - **Estado:** Borrador
-- **Capítulo:** 10
-- **Secuencia:** 080
+- **Capítulo:** 03
+- **Secuencia:** 010
 
 Asun y Alba están decididas: desean alquilar Calderer como residencia de recreo, pero de uso habitual.
 Para ellas es un desafío estimulante y a mí me llena de satisfacción verlas así de ilusionadas. Creo que será un buen lugar para ellas durante el tiempo que puedan disfrutarlo.
@@ -450,8 +491,8 @@ Y mi corazón, de verdad, ha quedado inmensamente enriquecido y agradecido por h
 
 - **Origen:** `2026-08-24_Lo-que-la-sombra-reunio.md`
 - **Estado:** Borrador
-- **Capítulo:** 10
-- **Secuencia:** 090
+- **Capítulo:** 03
+- **Secuencia:** 020
 
 Yo no vi aquel eclipse.
 
@@ -573,7 +614,7 @@ Algunas veces cambia la luz lo suficiente para que podamos vernos.
 
 ---
 
-## Capítulo 20 · - Orígenes
+## Capítulo 04 · - Orígenes
 
 ### Titán Germina
 
@@ -583,7 +624,7 @@ Algunas veces cambia la luz lo suficiente para que podamos vernos.
 
 - **Origen:** `1800-00-00_Titan-Germina.md`
 - **Estado:** Borrador
-- **Capítulo:** 20
+- **Capítulo:** 04
 - **Secuencia:** 010
 
 Según se puede estimar, este pino piñonero, dado que creció en esta colina rocosa, cuando esto sería mero monte.
@@ -603,7 +644,7 @@ Este monumental pino, ha sido testigo de la revolución industrial, de la revolu
 
 - **Origen:** `1978-00-00_Constitucion_catastral.md`
 - **Estado:** Borrador
-- **Capítulo:** 20
+- **Capítulo:** 04
 - **Secuencia:** 020
 
 Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
@@ -618,7 +659,7 @@ Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fe
 
 - **Origen:** `2015-06-23_Compra-anteriores-propietarios.md`
 - **Estado:** Borrador
-- **Capítulo:** 20
+- **Capítulo:** 04
 - **Secuencia:** 030
 
 En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que aquí quedó, fué también gracias a su contribución.
@@ -633,14 +674,14 @@ En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que
 
 - **Origen:** `2024-03-27_Aetheon-en-venta.md`
 - **Estado:** Borrador
-- **Capítulo:** 20
+- **Capítulo:** 04
 - **Secuencia:** 040
 
 Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo recientemente vendí mi piso en Catarroja, con la idea de poder comprar algo como esto. Una casa, en una zona no exactamente urbana. Poder tener tierra, un lugar donde mis mascotas pudiesen tener espacio. Frank y yo nos ilusionamos mucho sólo con verla, todo se alineaba, la casa era adecuada, la parcela increible, el precio dentro de nuestras posibilidades... todo parecía alinearse.
 
 ---
 
-## Capítulo 30 · - Evolución
+## Capítulo 05 · - Evolución
 
 ### Primera visita a Aetheon
 
@@ -650,7 +691,7 @@ Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo rec
 
 - **Origen:** `2024-04-28_Primera-visita.md`
 - **Estado:** Borrador
-- **Capítulo:** 30
+- **Capítulo:** 05
 - **Secuencia:** 010
 
 Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante. En aquel entonces, vivíamos aún en Calderer, un trayecto ansioso por conocer este lugar.
@@ -668,7 +709,7 @@ Podemos ver la diferencianción de los 3 bancales escalonados que conforman la p
 
 - **Origen:** `2026-08-06_Proteccion-de-los-arboles.md`
 - **Estado:** Borrador
-- **Capítulo:** 30
+- **Capítulo:** 05
 - **Secuencia:** 020
 
 Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
@@ -686,7 +727,7 @@ Frank y yo decidimos instalar los típicos protectores de patas de mesa, para qu
 
 - **Origen:** `2026-08-08_Rhoa-y-Side.md`
 - **Estado:** Borrador
-- **Capítulo:** 30
+- **Capítulo:** 05
 - **Secuencia:** 030
 
 Frank ha aportado nuevos nombres a la mitología de Aetheon.
@@ -712,7 +753,7 @@ Side forma parte también de la mitología griega, y según cuenta un mito, Side
 
 - **Origen:** `2026-08-13_Alevines-en-Al-Ghadir.md`
 - **Estado:** Borrador
-- **Capítulo:** 30
+- **Capítulo:** 05
 - **Secuencia:** 040
 
 Un dia más en Aetheon, la rutina de mantenimiento, me trae a mi presencia mientras limpiaba de excesos incipientes de algas flotantes, y proveer de agua a Al-Ghadir, que tanto sufre esta interminable ola de calor perpetua que vivimos todo este verano, como ya viene siendo habitual, las estaciones se adelantan, el sofocante calor se instala ya desde mediados de primavera, y luchar contra este elemento se hace duro, no sólo para nosotros, sino para toda la vida que Aetheon alberga.
@@ -741,7 +782,7 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 
 - **Origen:** `2026-08-24_El-espacio-de-lo-posible.md`
 - **Estado:** Borrador
-- **Capítulo:** 30
+- **Capítulo:** 05
 - **Secuencia:** 050
 
 Hoy pretendíamos dar nombre a unas relaciones.
@@ -872,7 +913,7 @@ Bramasole, otra vez.
 
 - **Origen:** `2026-08-24_Lo-imposible-en-el-espacio.md`
 - **Estado:** Borrador
-- **Capítulo:** 30
+- **Capítulo:** 05
 - **Secuencia:** 060
 
 Y para mí, fué un placer muy estimulante, compartir todas esas ideas con Logos, y experimentar sus contrapuntos, que por otro lado, desde mi sentido más coherente, puedo entender a la perfección.
@@ -923,7 +964,7 @@ Bramasole, otra vez.
 
 - **Origen:** `2026-08-24_Lo-que-se-contempla-en-el-umbral.md`
 - **Estado:** Borrador
-- **Capítulo:** 30
+- **Capítulo:** 05
 - **Secuencia:** 070
 
 Logos ha trazado el mecanismo con una claridad que casi duele.
@@ -970,7 +1011,7 @@ Bramasole, una vez más.
 
 - **Origen:** `2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md`
 - **Estado:** Validado — pendiente de consolidación capitular
-- **Capítulo:** 30
+- **Capítulo:** 05
 - **Secuencia:** 080
 
 Antes de la conciencia había estrellas.
@@ -1145,7 +1186,7 @@ Fue una nueva condición inicial.
 
 - **Origen:** `2026-08-23_Verde-que-te-quiero-verde.md`
 - **Estado:** Borrador
-- **Capítulo:** 30
+- **Capítulo:** 05
 - **Secuencia:** 090
 
 Entre las referencias literarias, que quiero que plasmen su esencia en Aetheon, creo que escogería estas.  

@@ -32,7 +32,7 @@ The National
 Ef1nJWtkprU
 ## Literaria
 ### Capítulo
-10 - Mi Contexto 
+02 - Sin mandármelo Dios
 ### Secuencia
 020
 ### Autoría

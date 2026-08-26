@@ -3,9 +3,10 @@
 ## Índice
 
 - [Capítulo 01 · - No es la vida de Chuck](#capítulo-01-no-es-la-vida-de-chuck)
-- [Capítulo 10 · - Mi Contexto](#capítulo-10-mi-contexto)
-- [Capítulo 20 · - Orígenes](#capítulo-20-orígenes)
-- [Capítulo 30 · - Evolución](#capítulo-30-evolución)
+- [Capítulo 02 · - Sin mandármelo Dios](#capítulo-02-sin-mandármelo-dios)
+- [Capítulo 03 · - Mi Contexto](#capítulo-03-mi-contexto)
+- [Capítulo 04 · - Orígenes](#capítulo-04-orígenes)
+- [Capítulo 05 · - Evolución](#capítulo-05-evolución)
 
 ---
 
@@ -70,6 +71,37 @@ Electrocardiograma, encefalograma, resonancia magnética... y con los resultados
 Sin esperarlo, ni imaginarlo, esa noche, me quedé allí, el dia siguiente, empezaron todas las pruebas.
 
 
+### El dia de la firma
+
+*Martes, 30 de abril de 2024*
+
+*Autoría: Edheo*
+
+*Whipping Post — Allman brothers*
+
+Llevo un par de meses moviditos. Fractura de cadera de mi padre, incontables noches y dias de cuidados en el hospital.
+Mi padre en cuanto llegó, empezó a desorientarse incluso delirar, rápidamente.
+Dias y noches vigilando que no se tire de la cama, incluso salta por encima de las barandillas en sus delirios.
+Se ha arrancado incontables veces las vias, así que debo exigirme al máximo para vigilarle.
+Y cuando parecía que regresaría a casa, tuvieron que ingresarlo de nuevo, esta vez por infección de orina y anemia, a seguir con más vigilias de cuidados.
+Por fin terminó todo aquello, y aún así, se me acumulan obligaciones, debo atender unos trámites en la notaría que exigen mi presencia.
+Algunas de las partes implicadas tardan en presentarse, y con el agotamiento que acumulo, la situación se tensa por momentos. Varios miembros presentes, impacientes, esperando las partes ausentes, y casi inquiriéndome a mi como si yo tuviese alguna capacidad sobre las vidas agenas.
+Y en fin, tanto cúmulo de situación tensa, empieza a sucederme, noto esa especie de deja-vue intenso.
+Le sigue a continuación, lo que yo llamo jamais-vue, es un poco similar al deja-vue, pero, mientras que en el deja-vue tienes la sensación de estar volviendo a vivir una situación que te resulta extrañamente familiar, en cambio, con el jamais-vue, la sensación, es aún más extraña aún.
+Eres capaz de entender, que conoces lo que ves, lo que vives, reconoces el lugar, las personas, y aún así, tienes esa sensación de extrañeza.
+Como si, nunca hubieses estado en ese lugar, como pese reconocerles, esas personas, tuviesen cierto hálito de "completos desconocidos".
+El deja-vue, es quizás incómodo, pero me temo que todos hemos vivido esa experiencia en mayor o menor grado.
+Pero el jamais-vue, hasta que eres capaz de entender lo que significa, cuesta muchísimo de asimilar y entender... te deja muy confuso.
+Y cuando esas etapas se suceden, al final, viene el aterrizaje, ese vértigo, esa angustia, ese aterrizar de nuevo en todo, dejar de sentir esas extrañezas, pero al mismo tiempo, como si todo lo que ves, sientes, oyes, te costase de asimilar, y te produce ese vértigo-angustia.
+Finalmente pasa, pido agua y un caramelo, una chica presente en la sala se percata de mi mal ánimo, y me los proporciona. Pero en fin, finalmente concretamos las firmas, y acaba el trámite.
+En cuanto acaba el trámite, me dirijo hacia el coche, ya más recuperado y normalizado.
+Pero ups... boooom... de nuevo, se repite el episodio, con todas sus etapas de nuevo.
+Me detengo, no me mareo, con estar quieto el equilibrio no parece comprometido. En cuanto me pasa, reanudo la marcha, pero recuperarse de la angustia, esta vez, se hace más difícil, como si se hubiese sumado al efecto del episodio anterior.
+En cuanto me recompongo, me siento bien, no noto ya nada extraño, así que me animo a conducir... unos 30 km por autovía hasta casa, hasta que de pronto, casi a mitad de camino.... booooooom.
+Otra vez más.. ufff, no, por favor... no ahora, no pasa nada, puedo conducir, soy consciente de lo que hago, pero.... es tan molesto, tan poco oportuno.
+Se suceden todas las etapas, y de nuevo, encima conduciendo, la angustia es incluso superior a las anteriores veces.
+
+
 ### Escaneando los miedos
 
 *Viernes, 7 de agosto de 2026*
@@ -120,7 +152,7 @@ Aún así, para ellos, es duro, muy duro, aunque en especial mi padre, no sepa y
 El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro motivo, más que por desalinearse de la implacable realidad.
 
 
-## Capítulo 10 · - Mi Contexto
+## Capítulo 02 · - Sin mandármelo Dios
 
 ### Mara nos deja
 
@@ -307,6 +339,8 @@ Yo sólo pensé en salvar de la muerte a una criatura, jamás imaginé, que el p
 Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y junto la misma carretera que le encontré, nos dejó para siempre.
 
 
+## Capítulo 03 · - Mi Contexto
+
 ### El día del eclipse
 
 *Miércoles, 12 de agosto de 2026*
@@ -459,7 +493,7 @@ Porque algunas veces una sombra no viene a oscurecer cuanto alcanza.
 Algunas veces cambia la luz lo suficiente para que podamos vernos.
 
 
-## Capítulo 20 · - Orígenes
+## Capítulo 04 · - Orígenes
 
 ### Titán Germina
 
@@ -502,7 +536,7 @@ En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que
 Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo recientemente vendí mi piso en Catarroja, con la idea de poder comprar algo como esto. Una casa, en una zona no exactamente urbana. Poder tener tierra, un lugar donde mis mascotas pudiesen tener espacio. Frank y yo nos ilusionamos mucho sólo con verla, todo se alineaba, la casa era adecuada, la parcela increible, el precio dentro de nuestras posibilidades... todo parecía alinearse.
 
 
-## Capítulo 30 · - Evolución
+## Capítulo 05 · - Evolución
 
 ### Primera visita a Aetheon
 

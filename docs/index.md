@@ -36,6 +36,7 @@
 - [2023-05-05_Ender-el-intrepido](04_Bitacora/2023-05-05_Ender-el-intrepido.md)
 - [2024-03-27_Aetheon-en-venta](04_Bitacora/2024-03-27_Aetheon-en-venta.md)
 - [2024-04-28_Primera-visita](04_Bitacora/2024-04-28_Primera-visita.md)
+- [2024-04-30_El-dia-de-la-firma](04_Bitacora/2024-04-30_El-dia-de-la-firma.md)
 - [2024-10-29_Dana-de-Valencia](04_Bitacora/2024-10-29_Dana-de-Valencia.md)
 - [2025-01-24_Neblina-mental](04_Bitacora/2025-01-24_Neblina-mental.md)
 - [2026-08-06_Proteccion-de-los-arboles](04_Bitacora/2026-08-06_Proteccion-de-los-arboles.md)

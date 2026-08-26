@@ -36,7 +36,7 @@ Tuvimos que recogerla, lloviznaba, ella justo encima de un desague, la cogí y c
 </div>
 ## Literaria
 ### Capítulo
-10 - Mi Contexto
+02 - Sin mandármelo Dios
 ### Secuencia
 060
 ### Autoría
