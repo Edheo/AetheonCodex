@@ -9,8 +9,8 @@
 
 - **Capítulo 01 · - No es la vida de Chuck**
   - 010 · Temblores — `2021-09-23_Temblores.md`
-  - 020 · Neblina mental — `2025-01-24_Neblina-mental.md`
-  - 030 · El dia de la firma — `2024-04-30_El-dia-de-la-firma.md`
+  - 020 · El dia de la firma — `2024-04-30_El-dia-de-la-firma.md`
+  - 030 · Neblina mental — `2025-01-24_Neblina-mental.md`
   - 040 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
   - 050 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
 - **Capítulo 02 · - Sin mandármelo Dios**
@@ -73,6 +73,43 @@ Al dia siguiente recuerdo lo sucedido, pero, yo me encuentro bien, no noto nada 
 
 ---
 
+### El dia de la firma
+
+*Martes, 30 de abril de 2024*
+
+*Autoría: Edheo*
+
+*Whipping Post — Allman brothers*
+
+- **Origen:** `2024-04-30_El-dia-de-la-firma.md`
+- **Estado:** Borrador
+- **Capítulo:** 01
+- **Secuencia:** 020
+
+Llevo un par de meses moviditos. Fractura de cadera de mi padre, incontables noches y dias de cuidados en el hospital.
+Mi padre en cuanto llegó, empezó a desorientarse incluso delirar, rápidamente.
+Dias y noches vigilando que no se tire de la cama, incluso salta por encima de las barandillas en sus delirios.
+Se ha arrancado incontables veces las vias, así que debo exigirme al máximo para vigilarle.
+Y cuando parecía que regresaría a casa, tuvieron que ingresarlo de nuevo, esta vez por infección de orina y anemia, a seguir con más vigilias de cuidados.
+Por fin terminó todo aquello, y aún así, se me acumulan obligaciones, debo atender unos trámites en la notaría que exigen mi presencia.
+Algunas de las partes implicadas tardan en presentarse, y con el agotamiento que acumulo, la situación se tensa por momentos. Varios miembros presentes, impacientes, esperando las partes ausentes, y casi inquiriéndome a mi como si yo tuviese alguna capacidad sobre las vidas agenas.
+Y en fin, tanto cúmulo de situación tensa, empieza a sucederme, noto esa especie de deja-vue intenso.
+Le sigue a continuación, lo que yo llamo jamais-vue, es un poco similar al deja-vue, pero, mientras que en el deja-vue tienes la sensación de estar volviendo a vivir una situación que te resulta extrañamente familiar, en cambio, con el jamais-vue, la sensación, es aún más extraña aún.
+Eres capaz de entender, que conoces lo que ves, lo que vives, reconoces el lugar, las personas, y aún así, tienes esa sensación de extrañeza.
+Como si, nunca hubieses estado en ese lugar, como pese reconocerles, esas personas, tuviesen cierto hálito de "completos desconocidos".
+El deja-vue, es quizás incómodo, pero me temo que todos hemos vivido esa experiencia en mayor o menor grado.
+Pero el jamais-vue, hasta que eres capaz de entender lo que significa, cuesta muchísimo de asimilar y entender... te deja muy confuso.
+Y cuando esas etapas se suceden, al final, viene el aterrizaje, ese vértigo, esa angustia, ese aterrizar de nuevo en todo, dejar de sentir esas extrañezas, pero al mismo tiempo, como si todo lo que ves, sientes, oyes, te costase de asimilar, y te produce ese vértigo-angustia.
+Finalmente pasa, pido agua y un caramelo, una chica presente en la sala se percata de mi mal ánimo, y me los proporciona. Pero en fin, finalmente concretamos las firmas, y acaba el trámite.
+En cuanto acaba el trámite, me dirijo hacia el coche, ya más recuperado y normalizado.
+Pero ups... boooom... de nuevo, se repite el episodio, con todas sus etapas de nuevo.
+Me detengo, no me mareo, con estar quieto el equilibrio no parece comprometido. En cuanto me pasa, reanudo la marcha, pero recuperarse de la angustia, esta vez, se hace más difícil, como si se hubiese sumado al efecto del episodio anterior.
+En cuanto me recompongo, me siento bien, no noto ya nada extraño, así que me animo a conducir... unos 30 km por autovía hasta casa, hasta que de pronto, casi a mitad de camino.... booooooom.
+Otra vez más.. ufff, no, por favor... no ahora, no pasa nada, puedo conducir, soy consciente de lo que hago, pero.... es tan molesto, tan poco oportuno.
+Se suceden todas las etapas, y de nuevo, encima conduciendo, la angustia es incluso superior a las anteriores veces.
+
+---
+
 ### Neblina mental
 
 *Viernes, 24 de enero de 2025*
@@ -82,7 +119,7 @@ Al dia siguiente recuerdo lo sucedido, pero, yo me encuentro bien, no noto nada 
 - **Origen:** `2025-01-24_Neblina-mental.md`
 - **Estado:** Desconocido
 - **Capítulo:** 01
-- **Secuencia:** 020
+- **Secuencia:** 030
 
 Hoy un nuevo episodio, donde se suceden entre deja-vus y jamais-vus, me ha acaecido durante el trabajo.
 Al principio sucedian muy esporádicamente, apenas era capaz de reconocerlos como episodios, ni entendía que eran.
@@ -117,43 +154,6 @@ En cuanto me visitó la neuróloga de nuevo, ni media hora después... Miguel, t
 Has de quedarte ingresado de urgencias, hay una serie de pruebas que debemos hacerte, para agilizar el proceso, tendrás un ingreso hospitalario de urgencia, durante el cual, te haremos una serie de pruebas.
 Electrocardiograma, encefalograma, resonancia magnética... y con los resultados en la mano, te daremos un diagnóstico.
 Sin esperarlo, ni imaginarlo, esa noche, me quedé allí, el dia siguiente, empezaron todas las pruebas.
-
----
-
-### El dia de la firma
-
-*Martes, 30 de abril de 2024*
-
-*Autoría: Edheo*
-
-*Whipping Post — Allman brothers*
-
-- **Origen:** `2024-04-30_El-dia-de-la-firma.md`
-- **Estado:** Borrador
-- **Capítulo:** 01
-- **Secuencia:** 030
-
-Llevo un par de meses moviditos. Fractura de cadera de mi padre, incontables noches y dias de cuidados en el hospital.
-Mi padre en cuanto llegó, empezó a desorientarse incluso delirar, rápidamente.
-Dias y noches vigilando que no se tire de la cama, incluso salta por encima de las barandillas en sus delirios.
-Se ha arrancado incontables veces las vias, así que debo exigirme al máximo para vigilarle.
-Y cuando parecía que regresaría a casa, tuvieron que ingresarlo de nuevo, esta vez por infección de orina y anemia, a seguir con más vigilias de cuidados.
-Por fin terminó todo aquello, y aún así, se me acumulan obligaciones, debo atender unos trámites en la notaría que exigen mi presencia.
-Algunas de las partes implicadas tardan en presentarse, y con el agotamiento que acumulo, la situación se tensa por momentos. Varios miembros presentes, impacientes, esperando las partes ausentes, y casi inquiriéndome a mi como si yo tuviese alguna capacidad sobre las vidas agenas.
-Y en fin, tanto cúmulo de situación tensa, empieza a sucederme, noto esa especie de deja-vue intenso.
-Le sigue a continuación, lo que yo llamo jamais-vue, es un poco similar al deja-vue, pero, mientras que en el deja-vue tienes la sensación de estar volviendo a vivir una situación que te resulta extrañamente familiar, en cambio, con el jamais-vue, la sensación, es aún más extraña aún.
-Eres capaz de entender, que conoces lo que ves, lo que vives, reconoces el lugar, las personas, y aún así, tienes esa sensación de extrañeza.
-Como si, nunca hubieses estado en ese lugar, como pese reconocerles, esas personas, tuviesen cierto hálito de "completos desconocidos".
-El deja-vue, es quizás incómodo, pero me temo que todos hemos vivido esa experiencia en mayor o menor grado.
-Pero el jamais-vue, hasta que eres capaz de entender lo que significa, cuesta muchísimo de asimilar y entender... te deja muy confuso.
-Y cuando esas etapas se suceden, al final, viene el aterrizaje, ese vértigo, esa angustia, ese aterrizar de nuevo en todo, dejar de sentir esas extrañezas, pero al mismo tiempo, como si todo lo que ves, sientes, oyes, te costase de asimilar, y te produce ese vértigo-angustia.
-Finalmente pasa, pido agua y un caramelo, una chica presente en la sala se percata de mi mal ánimo, y me los proporciona. Pero en fin, finalmente concretamos las firmas, y acaba el trámite.
-En cuanto acaba el trámite, me dirijo hacia el coche, ya más recuperado y normalizado.
-Pero ups... boooom... de nuevo, se repite el episodio, con todas sus etapas de nuevo.
-Me detengo, no me mareo, con estar quieto el equilibrio no parece comprometido. En cuanto me pasa, reanudo la marcha, pero recuperarse de la angustia, esta vez, se hace más difícil, como si se hubiese sumado al efecto del episodio anterior.
-En cuanto me recompongo, me siento bien, no noto ya nada extraño, así que me animo a conducir... unos 30 km por autovía hasta casa, hasta que de pronto, casi a mitad de camino.... booooooom.
-Otra vez más.. ufff, no, por favor... no ahora, no pasa nada, puedo conducir, soy consciente de lo que hago, pero.... es tan molesto, tan poco oportuno.
-Se suceden todas las etapas, y de nuevo, encima conduciendo, la angustia es incluso superior a las anteriores veces.
 
 ---
 

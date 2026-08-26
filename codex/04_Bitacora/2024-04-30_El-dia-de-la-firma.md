@@ -18,7 +18,7 @@ Y de nuevo, conduciendo, otro episodio más...es realmente molesto, y más condu
 ### Capítulo
 01 - No es la vida de Chuck 
 ### Secuencia
-030
+020
 ### Autoría
 Edheo
 
