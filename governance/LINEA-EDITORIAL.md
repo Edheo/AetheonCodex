@@ -24,15 +24,47 @@ Conviene distinguir el hecho, la percepción que se tuvo entonces y la interpret
 
 En el estado actual, las entradas clasificadas generan este orden:
 
-1. `Mi Contexto`
-2. `Orígenes`
-3. `Evolución`
+1. `No es la vida de Chuck`
+2. `Sin mandármelo Dios`
+3. `Mi Contexto`
+4. `Orígenes`
+5. `Evolución`
 
 Existen además entradas literarias pendientes de clasificación. Deben seguir tratándose como tales hasta que exista una decisión editorial expresa.
 
-### Capítulo 01 · Mi Contexto
+### Capítulo 01 · No es la vida de Chuck
 
-**Estado en el repositorio:** definido y vigente como capítulo 01. Su contenido actual reúne experiencias personales, vínculos, enfermedad y reflexión; esa clasificación existente no basta por sí sola para convertir todos esos asuntos en propósito del capítulo.
+**Estado en el repositorio:** definido y vigente como capítulo 01. El título y el arco están acordados; la selección y el orden interno aún deben contrastarse a medida que aparezcan nuevas entradas.
+
+**Propósito:** reunir la experiencia que rodea unos síntomas inicialmente incomprensibles, su investigación, diagnóstico y controles, y de manera especial la vida entre resonancias. El centro no es únicamente lo ocurrido en consulta, sino la forma cotidiana de habitar una incertidumbre periódica.
+
+**Qué pertenece aquí:** percepción contemporánea de los episodios; cambios en su frecuencia o intensidad; decisiones motivadas por ellos; espera, pruebas, controles y resonancias; consecuencias prácticas y subjetivas narradas con prudencia.
+
+**Qué no pertenece aquí:** un historial clínico exhaustivo; una explicación médica que desplace la experiencia; un relato de victoria, superación o destino; conocimiento posterior introducido en una escena anterior como si ya estuviera disponible.
+
+**Tono y criterio narrativo:** respetar la epistemología de cada momento. Antes del diagnóstico se describen sensaciones, hipótesis y desconcierto, no certezas retrospectivas. La terminología clínica sólo entra cuando el narrador o sus interlocutores podían disponer de ella. El título conserva su sentido cualquiera que sea el desenlace.
+
+**Decisión específica:** un mismo día puede reaparecer en otro capítulo sólo si la nueva focalización cambia o amplía sustancialmente su significado. La eventual segunda mirada sobre `El día de la firma` desde `Orígenes` debe centrarse en la transmisión de Catarroja; no debe duplicar la experiencia neurológica ni convertir la repetición en recurso rutinario.
+
+### Capítulo 02 · Sin mandármelo Dios
+
+**Estado en el repositorio:** definido y vigente como capítulo 02. **El título es de trabajo** y debe seguir sometido al contenido; no se escribirá para justificarlo.
+
+**Propósito:** contar en primer plano las relaciones, pérdidas, incorporaciones, cuidados, cariño y satisfacción de velar por Mara, Nala, Ender, Yara, Karo, Alma, Hada y demás relaciones relevantes. En segundo plano puede hacerse visible, de forma paulatina y sobria, cierto distanciamiento humano o social producido durante esa vida compartida.
+
+**Qué pertenece aquí:** encuentros y despedidas; singularidad y carácter de cada relación; cuidados ordinarios o extraordinarios; decisiones y responsabilidades asumidas; alegría, cariño y satisfacción de cuidar; vínculos humanos que continúan a distancia y compromisos que se mantienen pese al conflicto.
+
+**Qué no pertenece aquí:** un inventario de animales; la idea de que ellos causaron el distanciamiento; una oposición entre animales y humanidad; rencor, culpabilización, diagnóstico de terceros o tesis explícita sobre las personas; dolor utilizado como prueba o argumento.
+
+**Tono y criterio narrativo:** las relaciones y el cuidado admiten cercanía y relieve. Los desencuentros humanos se narran de modo factual, con el contexto imprescindible para que el lector construya su interpretación. La emoción puede estar presente, pero no dictar sentencia. La ausencia de mandato no equivale a ausencia de compromiso: el deber puede nacer del propio juicio y persistir pese a la distancia.
+
+Regla editorial del arco:
+
+> No absolver, no condenar; contar.
+
+### Capítulo 03 · Mi Contexto
+
+**Estado en el repositorio:** definido y vigente como capítulo 03. Su contenido actual es reflexivo; esa clasificación existente no basta por sí sola para convertir cualquier reflexión en propósito del capítulo.
 
 **Decisión editorial acordada — Propósito:** mostrar y formular el prisma desde el que el narrador interpreta el mundo y, por extensión, Aetheon. Es un punto de convergencia: las experiencias narradas en otros arcos pueden desembocar aquí transformadas en pensamiento sobre la experiencia.
 
@@ -48,9 +80,9 @@ Como núcleo conceptual puede figurar:
 
 **Pendientes:** revisar en una tarea futura la adscripción de las entradas que hoy contiene. Esa revisión no se realiza ni se presupone aquí.
 
-### Capítulo 02 · Orígenes
+### Capítulo 04 · Orígenes
 
-**Estado en el repositorio:** definido y vigente como capítulo 02.
+**Estado en el repositorio:** definido y vigente como capítulo 04.
 
 **Propósito inferible:** conservar los antecedentes materiales y documentales del lugar antes de su reconocimiento y transformación como Aetheon: la germinación estimada de Titán, la constitución catastral, transmisiones previas y la salida a la venta.
 
@@ -62,9 +94,9 @@ Como núcleo conceptual puede figurar:
 
 **Pendientes:** el arco detallado y sus límites finales están **por definir**. La descripción anterior sólo recoge el denominador común sólido de sus entradas actuales.
 
-### Capítulo 03 · Evolución
+### Capítulo 05 · Evolución
 
-**Estado en el repositorio:** definido y vigente como capítulo 03.
+**Estado en el repositorio:** definido y vigente como capítulo 05.
 
 **Propósito inferible:** narrar transformaciones de Aetheon desde la primera visita: intervenciones, protecciones, incorporaciones, vida descubierta, construcción simbólica y reflexión surgida de su desarrollo.
 
@@ -76,9 +108,7 @@ Como núcleo conceptual puede figurar:
 
 **Pendientes:** el arco detallado y su eventual relación con `Mi Contexto` están **por definir**. La variedad actual aconseja aplicar con especial rigor el criterio de pertenencia.
 
-## Arcos acordados aún no materializados como capítulos vigentes
-
-Estos arcos son decisiones editoriales persistentes, pero no tienen aquí número ni posición. Su creación o la reclasificación de entradas requerirá una tarea posterior.
+## Elementos aún no materializados
 
 ### Prólogo — pendiente; todavía no existe
 
@@ -86,43 +116,27 @@ Estos arcos son decisiones editoriales persistentes, pero no tienen aquí númer
 
 **Pendiente:** decidir en el futuro si la obra lo necesita y, sólo entonces, su propósito y contenido. No anticiparlos ni fabricar un prólogo implícito con material de otros capítulos.
 
-### No es la vida de Chuck
-
-**Estado:** título y arco acordados; no existe como capítulo vigente en la clasificación del repositorio.
-
-**Propósito:** reunir las entradas relativas a la experiencia del tumor y, de manera especial, a la vida entre controles y resonancias. El centro no es únicamente lo ocurrido en consulta, sino la forma cotidiana de habitar una incertidumbre periódica.
-
-**Qué pertenece aquí:** experiencia vivida del tumor; espera, controles, resonancias y cambios en la percepción del tiempo entre ellos; consecuencias prácticas y subjetivas narradas con prudencia; aquello que haga visible una experiencia distinta de la de Chuck.
-
-**Qué no pertenece aquí:** un historial clínico exhaustivo; una explicación médica que desplace la experiencia; un relato de victoria, superación o destino; cualquier lectura que haga depender el título del desenlace clínico.
-
-**Tono y criterio narrativo:** prudente ante el pronóstico y el futuro; concreto sin convertir la terminología clínica en estructura dominante; abierto a la incertidumbre. El título conserva su sentido cualquiera que sea el desenlace.
-
-**Pendientes:** asignación estructural, selección de entradas y orden interno, todos **por definir**.
-
-### Arco sin título — Mara, Nala, Ender, Yara, Karo, Alma, Hada y demás relaciones relevantes
-
-**Estado:** arco acordado, todavía sin título y sin capítulo vigente propio. No definirlo ni rotularlo como «capítulo de mascotas».
-
-**Propósito:** contar en primer plano las relaciones, pérdidas, incorporaciones, cuidados, cariño y satisfacción de velar por ellas. En segundo plano puede hacerse visible, de forma paulatina y sobria, cierto distanciamiento humano o social producido en el transcurso de esa vida compartida.
-
-**Qué pertenece aquí:** encuentros y despedidas; singularidad y carácter de cada relación; cuidados ordinarios o extraordinarios; decisiones y responsabilidades asumidas; alegría, cariño y satisfacción de cuidar; consecuencias observables en la red de relaciones humanas cuando sean necesarias para comprender el arco.
-
-**Qué no pertenece aquí:** un inventario de animales; la idea de que ellas causaron el distanciamiento; una oposición entre animales y humanidad; rencor, culpabilización, diagnóstico de terceros o tesis explícita sobre las personas; escenas humanas incluidas sólo para ajustar cuentas; dolor utilizado como prueba o argumento.
-
-**Tono y criterio narrativo:** las relaciones, el cuidado y sus protagonistas admiten cercanía y relieve. Los desencuentros y ausencias humanos se narran de modo factual, aséptico y sobrio, con el contexto imprescindible para que el lector construya su propia interpretación. No borrar hechos ni afirmar que no hubo dolor; seleccionar no equivale a falsificar. Omitir la reclamación emocional y dejar que las consecuencias observables —por ejemplo, pasar de esperar una presencia a dejar de esperarla— expresen el cambio cuando basten.
-
-Regla editorial del arco:
-
-> No absolver, no condenar; contar.
-
-**Pendientes:** título, posición, selección de entradas y posible distribución del material hoy clasificado en `Mi Contexto`, todo **por definir**. El arco no necesita un desenlace cerrado: puede alcanzar una conclusión literaria y permanecer abierto en la vida.
-
 ## Relación estructural deseada
 
 Los arcos vitales pueden mostrar experiencias sin detenerse a formular toda su consecuencia filosófica. `Mi Contexto` puede funcionar después como punto de convergencia donde la mirada resultante se vuelve pensable y se articula.
 
 Esta relación no fija todavía un orden definitivo. Evita, en cambio, que `Mi Contexto` absorba cualquier episodio relevante y permite que la formulación nazca de experiencias que el lector ya ha podido habitar sin una interpretación impuesta.
+
+## Criterios de revisión y cierre
+
+Una entrada puede estar cerrada como pieza aunque su capítulo permanezca abierto. Cerrar significa que la escena cumple una función narrativa reconocible, conserva la información disponible en su momento y no depende de una explicación futura para sostenerse. No significa que el texto sea intocable: admite corrección ortotipográfica o ajustes menores de ritmo.
+
+Antes de cerrar una secuencia:
+
+1. Comprobar que existe una escena o movimiento reconocible, no sólo una relación de hechos o una tesis.
+2. Distinguir entre lo observado, lo inferido entonces y lo interpretado después. Si se conserva una reconstrucción posterior, señalar su condición de hipótesis y no narrar como visto lo que no se presenció.
+3. Recortar la explicación cuando la escena, una imagen o una consecuencia observable ya permiten comprender. La reiteración no vuelve más precisa una idea.
+4. Mantener los huecos deliberados. El lector no necesita que cada emoción, coincidencia o vínculo reciba una conclusión.
+5. Evitar generalizaciones que conviertan una experiencia singular en sentencia sobre otras personas, la humanidad, el duelo, el miedo o la moral.
+6. Verificar tono, cronología, focalización, nombres, fechas y metadatos. El índice generado no sustituye la presencia y coherencia de la fuente.
+7. Tratar la música como una capa opcional: la pieza literaria debe sostenerse sin conocer la referencia musical y ésta no necesita explicarse dentro del texto.
+
+Una segunda focalización de un acontecimiento compartido sólo se justifica si revela una causalidad, experiencia o significado que la primera no podía contener. Debe evitar repetir el mismo resumen factual y respetar qué sabía cada narrador en cada momento.
 
 ## Lista breve para clasificar futuras entradas
 
