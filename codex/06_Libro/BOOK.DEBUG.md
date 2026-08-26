@@ -221,8 +221,10 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 
 *Autoría: Edheo*
 
+*Lisztomania — Phoenix*
+
 - **Origen:** `2021-09-23_Temblores.md`
-- **Estado:** Desconocido
+- **Estado:** Borrador
 - **Capítulo:** 01
 - **Secuencia:** 060
 

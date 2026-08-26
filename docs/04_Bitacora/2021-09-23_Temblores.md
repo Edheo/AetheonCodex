@@ -14,7 +14,7 @@ Trato de recomponerme, reviso que nada malo ha sucedido... no se a qué atribuir
 
 ## Referencias
 **Miembros:**
-Edheo
+[Edheo](../02_Miembros/EDHEO.md)
 Frank
 
 ## Cosmogonía
@@ -22,8 +22,23 @@ Frank
 **Obra:** Lisztomania 
 **Autor:** Thomas Mars, Laurent Brancowitz, Christian Mazzalai, Deck d'Arcy
 **Intérprete:** Phoenix
-**youtube:**Dq741YqlP7w
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/Dq741YqlP7w"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=Dq741YqlP7w"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
 ### Capítulo
 01 - Mi Contexto
