@@ -10,7 +10,7 @@ Dado el tamaño de este pino, posiblemente germinó aquí, hará unos 160 años,
 
 ## Literaria
 ### Capítulo
-02 Orígenes
+20 - Orígenes
 ### Secuencia
 010
 ### Autoría

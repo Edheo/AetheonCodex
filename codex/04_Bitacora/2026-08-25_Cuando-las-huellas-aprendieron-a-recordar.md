@@ -35,7 +35,7 @@ El prodigio sin propósito
 
 ## Literaria
 ### Capítulo
-03 Evolución
+30 - Evolución
 
 ### Secuencia
 080

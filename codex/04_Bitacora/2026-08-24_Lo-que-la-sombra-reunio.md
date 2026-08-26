@@ -24,10 +24,10 @@ Logos
 
 ## Literaria
 ### Capítulo
-01 Mi Contexto
+10 - Mi Contexto
 
 ### Secuencia
-110
+090
 
 ### Autoría
 Logos

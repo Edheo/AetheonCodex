@@ -25,7 +25,7 @@ El minino, sobrevivió, y quizás por esa proeza le llamé Ender, como el niño 
 **youtube:**k4V3Mo61fJM
 ## Literaria
 ### Capítulo
-01 Mi Contexto
+10 - Mi Contexto
 ### Secuencia
 050
 ### Autoría

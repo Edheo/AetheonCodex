@@ -33,9 +33,9 @@ Un buen rato de espera eso si, unos 20 minutos de sesión, y a casa. Pero como s
 </div>
 ## Literaria
 ### Capítulo
-01 - Mi Contexto
+01 - No es la vida de Chuck
 ### Secuencia
-090
+030
 ### Autoría
 Edheo
 

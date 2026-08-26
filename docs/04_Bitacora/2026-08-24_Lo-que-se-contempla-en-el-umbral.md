@@ -41,7 +41,7 @@ Los poetas muertos
 </div>
 ## Literaria
 ### Capítulo
-03 Evolución
+30 - Evolución
 
 ### Secuencia
 070

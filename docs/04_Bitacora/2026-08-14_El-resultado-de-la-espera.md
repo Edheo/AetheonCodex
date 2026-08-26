@@ -42,9 +42,9 @@ Wim Mertens
 </div>
 ## Literaria
 ### Capítulo
-01 - Mi Contexto
+01 - No es la vida de Chuck
 ### Secuencia
-120
+040
 ### Autoría
 Edheo
 

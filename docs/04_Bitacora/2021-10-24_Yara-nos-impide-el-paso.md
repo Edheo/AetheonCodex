@@ -36,9 +36,9 @@ Tuvimos que recogerla, lloviznaba, ella justo encima de un desague, la cogí y c
 </div>
 ## Literaria
 ### Capítulo
-01 Mi Contexto
+10 - Mi Contexto
 ### Secuencia
-070
+060
 ### Autoría
 Edheo
 

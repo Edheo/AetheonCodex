@@ -31,9 +31,9 @@ kouO0iV_AOo
 
 ## Literaria
 ### Capítulo
-01 - Mi Contexto
+01 - No es la vida de Chuck
 ### Secuencia
-085
+020
 ### Autoría
 Edheo
 

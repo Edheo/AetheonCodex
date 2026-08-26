@@ -52,7 +52,7 @@ Maurice Jarre
   </a>
 </div>
 ## Literaria
-**Capítulo:**  03 Evolución
+**Capítulo:**  30 - Evolución
 **Secuencia:**  090
 ### Autoría
 Edheo

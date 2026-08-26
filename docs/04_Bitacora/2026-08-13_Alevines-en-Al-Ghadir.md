@@ -32,7 +32,7 @@ Durante una tarea de mantenimiento en la piscina, limpiando algas flotantes y pi
 </div>
 ## Literaria
 ### Capítulo
-03 Evolución
+30 - Evolución
 ### Secuencia
 040
 ### Autoría

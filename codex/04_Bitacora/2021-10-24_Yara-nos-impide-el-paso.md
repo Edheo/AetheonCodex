@@ -20,9 +20,9 @@ Tuvimos que recogerla, lloviznaba, ella justo encima de un desague, la cogí y c
 **youtube:**le_P2AtA_EQ
 ## Literaria
 ### Capítulo
-01 Mi Contexto
+10 - Mi Contexto
 ### Secuencia
-070
+060
 ### Autoría
 Edheo
 

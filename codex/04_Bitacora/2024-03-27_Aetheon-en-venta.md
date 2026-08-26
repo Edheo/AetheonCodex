@@ -11,7 +11,7 @@ En un portal inmobiliario, pudimos ver las primeras fotos y descripciones de la 
 
 ## Literaria
 ### Capítulo
-02 Orígenes
+20 - Orígenes
 ### Secuencia
 040
 ### Autoría

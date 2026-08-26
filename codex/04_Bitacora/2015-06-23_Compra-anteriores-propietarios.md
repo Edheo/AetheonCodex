@@ -12,7 +12,7 @@ Fecha de adquisición de los propietarios anteriores. El matrimonio Jose Luis Go
 ## Literaria
 
 ### Capítulo
-02 Orígenes
+20 - Orígenes
 ### Secuencia
 030
 ### Autoría

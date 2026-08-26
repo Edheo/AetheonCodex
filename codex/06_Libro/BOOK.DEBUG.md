@@ -7,26 +7,27 @@
 
 ## Índice editorial
 
-- **Capítulo 01 · Mi Contexto**
+- **Capítulo 01 · - No es la vida de Chuck**
+  - 010 · Temblores — `2021-09-23_Temblores.md`
+  - 020 · Neblina mental — `2025-01-24_Neblina-mental.md`
+  - 030 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
+  - 040 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
+- **Capítulo 10 · - Mi Contexto**
   - 010 · Mara nos deja — `2019-04-29_Mara-nos-deja.md`
   - 020 · Una ilusión se desvanece — `2019-05-19_Una-ilusion-se-desvanece.md`
   - 030 · Bienvenida a casa, Nala — `2019-06-03_Bienvenida-a-casa-Nala.md`
   - 040 · Ender me llama — `2021-07-15_Ender-me-llama.md`
   - 050 · Ender el imparable — `2021-08-08_Ender-el-imparable.md`
-  - 060 · Temblores — `2021-09-23_Temblores.md`
-  - 070 · Yara nos impide el paso — `2021-10-24_Yara-nos-impide-el-paso.md`
-  - 080 · Ender el intrépido — `2023-05-05_Ender-el-intrepido.md`
-  - 085 · Neblina mental — `2025-01-24_Neblina-mental.md`
-  - 090 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
-  - 100 · El día del eclipse — `2026-08-12_El-dia-del-eclipse.md`
-  - 110 · Lo que la sombra reunió — `2026-08-24_Lo-que-la-sombra-reunio.md`
-  - 120 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
-- **Capítulo 02 · Orígenes**
+  - 060 · Yara nos impide el paso — `2021-10-24_Yara-nos-impide-el-paso.md`
+  - 070 · Ender el intrépido — `2023-05-05_Ender-el-intrepido.md`
+  - 080 · El día del eclipse — `2026-08-12_El-dia-del-eclipse.md`
+  - 090 · Lo que la sombra reunió — `2026-08-24_Lo-que-la-sombra-reunio.md`
+- **Capítulo 20 · - Orígenes**
   - 010 · Titán Germina — `1800-00-00_Titan-Germina.md`
   - 020 · Constitución catastral — `1978-00-00_Constitucion_catastral.md`
   - 030 · Compra anteriores propietarios — `2015-06-23_Compra-anteriores-propietarios.md`
   - 040 · Anuncio AETHEON en venta — `2024-03-27_Aetheon-en-venta.md`
-- **Capítulo 03 · Evolución**
+- **Capítulo 30 · - Evolución**
   - 010 · Primera visita a Aetheon — `2024-04-28_Primera-visita.md`
   - 020 · Protectores en la rosa de los vientos y el granado griegos — `2026-08-06_Proteccion-de-los-arboles.md`
   - 030 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
@@ -44,7 +45,142 @@
 
 ---
 
-## Capítulo 01 · Mi Contexto
+## Capítulo 01 · - No es la vida de Chuck
+
+### Temblores
+
+*Jueves, 23 de septiembre de 2021*
+
+*Autoría: Edheo*
+
+*Lisztomania — Phoenix*
+
+- **Origen:** `2021-09-23_Temblores.md`
+- **Estado:** Borrador
+- **Capítulo:** 01
+- **Secuencia:** 010
+
+Me despierto recién entrada la noche, siento ganas de orinar, me voy al aseo, inportunado por la apetencia, pero está junto a la cama, qué remedio.
+Acabo de orinar, trato de apretar el pulsador de la cisterna, y mis manos empiezan a temblar, mis brazos incluso, no atino al pulsador.
+Empiezo a sentirme desequilibrado, confundido... quizás mis pies descalzos en el suelo? Es esto frío acaso?
+Apoyo mis manos, buscando referentes de equilibrio, pero no funciona... incluso empeora, mis propias piernas empiezan a temblar también.
+Finalmente caigo al suelo, ni siquiera mis piernas me sostenian también presas del temblor, y mi propio peso y desequilibrio me han vencido.
+Afortunadamente, no me hice daño, pero sí me siento confundido, muy confundido, y de pronto una especie de náusea me invade... Frank sigue en la cama durmiendo, no se ha percatado de nada pese estar al lado, prácticamete.
+Trato de recomponerme, reviso que nada malo me ha sucedido... no hay daños, pero no se a qué atribuirlo, estoy perplejo y confundido, trato de no darle importancia. Regreso a la cama, un poco intranquilo, me cuesta conciliar el sueño, pero finalmente, me duermo...
+Al dia siguiente recuerdo lo sucedido, pero, yo me encuentro bien, no noto nada extraño, no puede ser nada raro, quizás el frío del suelo, pero es aún verano, es extraño, pero bueno, le quito importancia, y aún así, el recuerdo permanece en mi memoria, y me cuesta mantenerlo por desapercibido.
+
+---
+
+### Neblina mental
+
+*Viernes, 24 de enero de 2025*
+
+*Autoría: Edheo*
+
+- **Origen:** `2025-01-24_Neblina-mental.md`
+- **Estado:** Desconocido
+- **Capítulo:** 01
+- **Secuencia:** 020
+
+Hoy un nuevo episodio, donde se suceden entre deja-vus y jamais-vus, me ha acaecido durante el trabajo.
+Al principio sucedian muy esporádicamente, apenas era capaz de reconocerlos como episodios, ni entendía que eran.
+Ahora ya son muy recurrentes, cada semana, incluso a veces a diario, o incluso varias veces al dia ya, últimamente.
+
+Finalmente hoy, si me he asustado de verdad, ha sido un episodio realmente intenso, muy fuerte, he tardado mucho en superarlo, ha tardado bastantes minutos, pero me cuesta poder llevar una cuenta de ellos.
+Y cuando ha finalizado, esa especie de náuseas, como si te soltasen por un precipicio en caida libre. Esa sensación de vértigo y náuseas en el estómago, definitivamente, el episodio en si, es consternador, hoy ha durado más, pero es sobrellevable.
+
+Pero estas náuseas, no, en absoluto, y hoy han sido más intensas que nunca, es como si me hubiesen arrancado de la realidad, durante el tiempo que dura el episodio, se suceden jamais-vus i deja-vus, creando una confusión que no te elimina el raciocinio, porque soy consciente.
+Si incluso estaba manteniendo una reunión virtual, mientras sucedía, y era capaz de incluso entender lo que decían, pero obviamente, yo no participaba... me quedo en esos momentos como aparcado, viviendo una especie de psicodelia.
+Si fuese deseado, hasta podría resultar divertido.
+
+En cuanto vienen las náuseas, el episodio ha finalizado, pero como decía, igual que al principio del mismo, es como si me arrancasen de la realidad, en cuanto acaba, es como si me soltasen de golpe a mi cuerpo.
+Y entonces es cuando entre la angustia, ese extraño vértigo en el estómago, poco a poco, la neblina mental, se instala, te hace sentir confundido, es como si de algún modo, los sentidos fuesen reconectándose, pero en el proceso, hay cierta desincronía, no con los sentidos en si, no es mareo por ver a cámara lenta o oir o sentir mal, sino cómo entra todo ello en mi cabeza.
+Le cuesta calibrarse, me cuesta comprender el todo de una vez, como hago cada dia de mi vida sin siquiera plantearme que lo hago.
+Pero en ese momento, si lo noto, no consigo hacerlo, la neblina me invade, la angustia se apodera... y hoy, hoy cuesta, cuesta mucho... de hecho, cuesta, no minutos, no es un mal trago, de hecho, me paso entre dos o tres horas así, intentando aterrizar en el mundo, y no me siento capaz, no me siento en control no se si de mi cuerpo o de mi mente, algo, definitivamente, va rotundamente mal.
+
+En cuanto cobro cierta tranquilidad, y poco a poco el desasosiego desaparece (que no la neblina), tomo la decisión. No puedo esperar un dia más, me voy a urgencias, no yo sólo, pero en cuanto vuelva Frank de trabajar, sin demoras, necesito explicar esto a un médico, y ya.
+Mi doctor lo atribuyó a estrés, en su momento hasta tenía cierto sentido para mí. Pero no, esto se repite demasiado, cada vez más frecuentemente, y ahora encima, cada vez, aparentemente con más intensidad. Sin demora, voy a urgencias. Si mi relato les da risa, me da igual, pero alguien ha de mirarme, es preciso.
+
+En cuanto Frank llegó a casa, le expliqué lo sucedido, y sin dilación, ni lo dudó, me llevó al hospital de Manises. A urgencias.
+Una vez allí, urgencias estaba abarrotado. Temporada alta de gripe, cómo no, claro.
+Afortunadamente, triaje, no tardó mucho tiempo en llamarme.
+En cuanto me visitó la doctora de triaje, y oirme escuchar mi relato. Mis deja-vus, mi jamais-vus. Yo le mencionaba que, tenía la sensación de estar teniendo colapsos del lóbulo espacio temporal.
+No soy médico, pero es eso, estoy seguro que es eso, sé que sintomas produce, y son los que yo estoy sufriendo. Y cada vez van a más.
+La doctora se mostraba algo escéptica, pero creo que vió en mis ojos lo grave que he percibido hoy el episodio. Así que me derivó a una neuróloga, algo reticente, pero tampoco puso grandes trabas.
+
+Al cabo de un rato... mucho, o poco, según se mire, no fué tanto, la impaciencia puede más.
+Le expliqué lo mismo a la neuróloga. En cuanto mencioné mis síntomas, y le pronuncié el posible infarto de lóbulo temporal... pude notarlo, a ella le resonó, por como abrió los ojos.
+Sin dudar, lo primero que hizo, fué ordenar un TAC. Y así fué, no muchos minutos después, me estaban haciendo un TAC.
+En cuanto me visitó la neuróloga de nuevo, ni media hora después... Miguel, te vamos a ingresar de urgencias. El TAC ha mostrado algo.
+Has de quedarte ingresado de urgencias, hay una serie de pruebas que debemos hacerte, para agilizar el proceso, tendrás un ingreso hospitalario de urgencia, durante el cual, te haremos una serie de pruebas.
+Electrocardiograma, encefalograma, resonancia magnética... y con los resultados en la mano, te daremos un diagnóstico.
+Sin esperarlo, ni imaginarlo, esa noche, me quedé allí, el dia siguiente, empezaron todas las pruebas.
+
+---
+
+### Escaneando los miedos
+
+*Viernes, 7 de agosto de 2026*
+
+*Autoría: Edheo*
+
+*Can't Get You Out Of My Head — Kylie Minogue*
+
+- **Origen:** `2026-08-07_Escaneando-los-miedos.md`
+- **Estado:** Borrador
+- **Capítulo:** 01
+- **Secuencia:** 030
+
+Tras esperar por mucho e insistir alguna vez, por fin conseguí cita para la resonancia magnética. Nada reseñable, al parecer, mientras me ponían la vía, hoy he descubierto que el elástico que usan para presionar el brazo y hacer visibles las venas para poder escoger la más óptima para pinchar la vía se le puede llamar o bien garrote, o bien smart.
+Lo de smart, sinceramente no veo que tiene de inteligente un elástico, pero en fin, es casi preferible al garrote. 
+La enfermera no ha podido evitar reirse, cuando le he recordado lo poco afortunado del nombre, precisamente garrote bill, me recuerda tiempos de Franco, que yo no viví, cuando ese era uno de los métodos para aplicar la pena de muerte a los condenados.
+Pero en fin, esta vez, no he tosido, no he tenido ese ataque incontenible de convulsión pulmonar, no he tenido que temer haber entorpecido la realización de la prueba, esta vez, no tendré dudas, sea lo que sea que salga, van a fotografiar lo que sea que haya ahora mismo ahí, tal vez siga siendo nada, tal vez dentro de una semana, nuevos temores asomen en el horizonte.
+Estoy preparado, me digo a mí mismo no tener miedo, pero lo tengo.
+Y aún así, recuerdo de nuevo la gran frase de aquel compañero mío de antaño, Tomás... "Si tiene solución, de qué te preocupas? Si no la tiene, para qué preocuparse?"
+Así que respiro profundo, dejo que la dichosa máquina, ejecute su sesión de hardcore, rave, o after, como queráis verlo (así lo vivo yo y se me hace más llevadero), y para cuando acabe, estaré listo dentro de una sola semana, para ver los resultados.
+Entretanto, recapacito, pienso y recuerdo. El impacto que tienen en nosotros los miedos, siempre me ha hecho gracia.. hablamos de ellos en plural tan a menudo.
+Es como si para nosotros, tener miedo a una araña, fuese muy distinto a tenerle miedo a morir, o a sufrir una enfermedad, o a perder a un ser querido por el motivo que sea.
+Los miedos, son un mecanismo, algo que nos pone en alerta, con la pretensión de hacernos creer, que depende de nosotros que de nuestra actitud, intención, voluntad o acción, depende que, algo suceda o deje de suceder, y el miedo en cierto modo, es nuestra sensación de impotencia, nuestra incapacidad profesional para impedir que determinadas cosas sucedan, y de alguna manera presionarnos para encontrar solución al problema.
+A lo largo de mi vida, he ido aprendiendo que, puede que esté equivocado, pero no hay distintos tipos de miedo. De hecho, casi todos se pueden llegar a un sólo miedo, y es el miedo al miedo.
+El miedo, nos bloquea, nos incapacita, nos enfrenta a ecuaciones insalvables, donde hagamos lo que hagamos, lo que tememos son las consecuencias.
+Esas consecuencias, muchas veces son imprevisibles, otras muchas veces inevitables, y aún así, podemos llegar a traicionar nuestros propios principios, sólo en pos de lo que superar ese miedo significa.
+El miedo es de esas cosas, que puede hacer que cualquier ser vivo, saque su versión más desagradable, irracional y temible de cada uno.
+Para mí, el miedo, se resume realmente en ese "miedo al miedo", y como tal, es una fórmula recursiva, recurrente e irresoluble, que si no le encuentras debidamente la via de escape, puede acabar convirtiendo tus acciones en continuos errores, en lugar de tanteos a soluciones.
+El miedo no te ha de bloquear, no te puede irracionalizar, tienes que saber ver más allá de ese propio miedo, y tratar de serenarte ante él, ser consciente de cuantísimo retroalimentas ese miedo, y que lo que instintivamente es un sentido de supervivencia, extrapolado al mundo racional, ayuda pésimamente a desenvolverte en este mundo adecuadamente.
+El miedo debería ser la señal, de intentar racionalizar, desdramatizar, y penar que no es necesario que todo tenga una solución satisfactoria.
+A veces, superar "los miedos", pasa mucho por aceptar precisamente esa realidad... no todo va a ser como deseamos que sea, por mucho que nos empeñemos en que "necesitamos que no sea así".
+El miedo debería ser la antesala del raciocinio, de amansar las emociones, de respirar profundo y tomar decisiones lógicas, tácticas y provechosas.
+Por eso, escanear los miedos, es tan necesario y decisivo, porque nos permite singularizarlos. No hay muchos miedos, siempre es el mismo en realidad, y en general, es la capacidad del miedo para bloquear tu raciocinio, para conducirte a la desesperación, la angustia y el autobloqueo.
+Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ventajosos y que en general te ubicarán en aquellos lugares, donde jamás deseaste estar, o ser quien jamás deseaste ser.
+
+---
+
+### El resultado de la espera
+
+*Viernes, 14 de agosto de 2026*
+
+*Autoría: Edheo*
+
+- **Origen:** `2026-08-14_El-resultado-de-la-espera.md`
+- **Estado:** Desconocido
+- **Capítulo:** 01
+- **Secuencia:** 040
+
+Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
+No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.
+También me permite enfocarme un poco más en Aetheon, mi prioridad hoy por hoy, pese el tiempo que me roban también mis padres dependientes.
+Es una dedicación compleja, llena de cariño, agradecimiento y responsabilidad, y me hace revisionar mi experiencia con ellos, pero también ejerce una presión añadida en mi, que en estos últimos tiempos, ha pasado factura a mi ánimo, pero poco a poco, como en Aetheon, todo va encontrando su debido lugar, incluso en los momentos más complejos, todo tiene una explicación, una motivación y un propósito, pese no ser el inicialmente concebido.
+Como todo en Aetheon, o quizás mejor dicho, como todo en mi vida, muchos propósitos, nacen de motivaciones, de intenciones, pero no es exactamente así como funciona el mundo, y mucho menos Aetheon.
+No hay una motivación clara, salvo las pretensiones tan humanas, de empezar a hacer algo con un propósito determinado.
+Por ejemplo, intentar darles una mejor vida a mis padres, y aún así, es complicado, por no decir imposible, empiezan a enfrentarse al ocaso de sus vidas, su destino, su camino, no está orientado a mejorar, y en cambio, la intención y motivación que me mueve, es la de intentar que vivan lo mejor posible, y tal vez hacerles ver que trato de hacerles la vida lo mejor posible.
+Y aún así, mi intención no basta, los propósitos se desalinean de la realidad, y pese lo que me pese, nada será suficiente por mi parte, y he de aceptar esa derrota anticipada, y dejar que mi ánimo nocese, mi motivación se mantenga, aislarles de la crudeza de la etapa que cruzan, pero el camino es inexorable, en especial mi padre, que está en una situación extremadamente débil y delicada, y aún así, persigo ese ideal de "hacer lo que pueda" para que vivan bien, pero lo cierto es que no, y jamás podrán ver que vivan mejor que antes.
+Las motivaciones y propósito, se desalinean de la realidad, pero aún así, sigo ejerciendo con mi espíritu, lo que considero que es mejor, y me preparo para la derrota, tengo claro que debo anticiparme a ella y a la vez no planificarla, porque será cuando deba, y no antes.
+Aún así, para ellos, es duro, muy duro, aunque en especial mi padre, no sepa ya a veces ni si sigue viviendo en su casa o no. Pero hay que intentar, hay que mitigar, como sea, y el dia que llegue, no lamentar.
+El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro motivo, más que por desalinearse de la implacable realidad.
+
+---
+
+## Capítulo 10 · - Mi Contexto
 
 ### Mara nos deja
 
@@ -56,7 +192,7 @@
 
 - **Origen:** `2019-04-29_Mara-nos-deja.md`
 - **Estado:** Borrador
-- **Capítulo:** 01
+- **Capítulo:** 10
 - **Secuencia:** 010
 
 Mara, la perrita de mis padres, falleció hoy, casi plácidamente, durmiendo en el sofá, junto a mis padres, sólo un quejido, un temblor y se fué.
@@ -77,7 +213,7 @@ Ojalá seas ahora, la mitad de feliz que pudiste ser con nosotros.
 
 - **Origen:** `2019-05-19_Una-ilusion-se-desvanece.md`
 - **Estado:** Borrador
-- **Capítulo:** 01
+- **Capítulo:** 10
 - **Secuencia:** 020
 
 Mara, la perrita de mis padres, falleció poco más de un mes antes.
@@ -129,7 +265,7 @@ Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no po
 
 - **Origen:** `2019-06-03_Bienvenida-a-casa-Nala.md`
 - **Estado:** Borrador
-- **Capítulo:** 01
+- **Capítulo:** 10
 - **Secuencia:** 030
 
 Sigo obsesionado, casi 2 semanas más tarde tras verme impedido de alcanzar a Nala, visitando la página de la protectora, veo animalitos buscando dueños, empiezo a admitir que Nala no es una opción, y empiezo a convencerme de que ya no está en mi camino.
@@ -157,7 +293,7 @@ Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, alg
 
 - **Origen:** `2021-07-15_Ender-me-llama.md`
 - **Estado:** Borrador
-- **Capítulo:** 01
+- **Capítulo:** 10
 - **Secuencia:** 040
 
 Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
@@ -191,7 +327,7 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 
 - **Origen:** `2021-08-08_Ender-el-imparable.md`
 - **Estado:** Borrador
-- **Capítulo:** 01
+- **Capítulo:** 10
 - **Secuencia:** 050
 
 Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
@@ -215,30 +351,6 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 
 ---
 
-### Temblores
-
-*Jueves, 23 de septiembre de 2021*
-
-*Autoría: Edheo*
-
-*Lisztomania — Phoenix*
-
-- **Origen:** `2021-09-23_Temblores.md`
-- **Estado:** Borrador
-- **Capítulo:** 01
-- **Secuencia:** 060
-
-Me despierto recién entrada la noche, siento ganas de orinar, me voy al aseo, inportunado por la apetencia, pero está junto a la cama, qué remedio.
-Acabo de orinar, trato de apretar el pulsador de la cisterna, y mis manos empiezan a temblar, mis brazos incluso, no atino al pulsador.
-Empiezo a sentirme desequilibrado, confundido... quizás mis pies descalzos en el suelo? Es esto frío acaso?
-Apoyo mis manos, buscando referentes de equilibrio, pero no funciona... incluso empeora, mis propias piernas empiezan a temblar también.
-Finalmente caigo al suelo, ni siquiera mis piernas me sostenian también presas del temblor, y mi propio peso y desequilibrio me han vencido.
-Afortunadamente, no me hice daño, pero sí me siento confundido, muy confundido, y de pronto una especie de náusea me invade... Frank sigue en la cama durmiendo, no se ha percatado de nada pese estar al lado, prácticamete.
-Trato de recomponerme, reviso que nada malo me ha sucedido... no hay daños, pero no se a qué atribuirlo, estoy perplejo y confundido, trato de no darle importancia. Regreso a la cama, un poco intranquilo, me cuesta conciliar el sueño, pero finalmente, me duermo...
-Al dia siguiente recuerdo lo sucedido, pero, yo me encuentro bien, no noto nada extraño, no puede ser nada raro, quizás el frío del suelo, pero es aún verano, es extraño, pero bueno, le quito importancia, y aún así, el recuerdo permanece en mi memoria, y me cuesta mantenerlo por desapercibido.
-
----
-
 ### Yara nos impide el paso
 
 *Domingo, 24 de octubre de 2021*
@@ -249,8 +361,8 @@ Al dia siguiente recuerdo lo sucedido, pero, yo me encuentro bien, no noto nada 
 
 - **Origen:** `2021-10-24_Yara-nos-impide-el-paso.md`
 - **Estado:** Borrador
-- **Capítulo:** 01
-- **Secuencia:** 070
+- **Capítulo:** 10
+- **Secuencia:** 060
 
 Frank y yo, por fin, nos decidimos a vivir juntos, después de estar un par de años de relación y atravesar una pandemia separados con el aislamiento, decidimos no esperar más, y nos fuimos a vivir juntos a Calderer.
 Durante la mudanza, ibamos con la furgoneta alquilada llena de bártulos del piso de Frank, dispuestos a descargarlos en Calderer, pero nos detuvimos en la gasolinera en la carretera camino allí.
@@ -273,8 +385,8 @@ Nos la llevamos, intenté darle de comer y beber, pero.. estaba visiblemente muy
 
 - **Origen:** `2023-05-05_Ender-el-intrepido.md`
 - **Estado:** Borrador
-- **Capítulo:** 01
-- **Secuencia:** 080
+- **Capítulo:** 10
+- **Secuencia:** 070
 
 Frank ayer, se encontró un cangrejo de rio, tirado en mitad de la calle privada de Calderer.
 Me mencionó que lo vió, y supuse que alguna gaviota lo soltó o perdió del pico, y fué a parar allí.
@@ -297,90 +409,6 @@ Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y 
 
 ---
 
-### Neblina mental
-
-*Viernes, 24 de enero de 2025*
-
-*Autoría: Edheo*
-
-- **Origen:** `2025-01-24_Neblina-mental.md`
-- **Estado:** Desconocido
-- **Capítulo:** 01
-- **Secuencia:** 085
-
-Hoy un nuevo episodio, donde se suceden entre deja-vus y jamais-vus, me ha acaecido durante el trabajo.
-Al principio sucedian muy esporádicamente, apenas era capaz de reconocerlos como episodios, ni entendía que eran.
-Ahora ya son muy recurrentes, cada semana, incluso a veces a diario, o incluso varias veces al dia ya, últimamente.
-
-Finalmente hoy, si me he asustado de verdad, ha sido un episodio realmente intenso, muy fuerte, he tardado mucho en superarlo, ha tardado bastantes minutos, pero me cuesta poder llevar una cuenta de ellos.
-Y cuando ha finalizado, esa especie de náuseas, como si te soltasen por un precipicio en caida libre. Esa sensación de vértigo y náuseas en el estómago, definitivamente, el episodio en si, es consternador, hoy ha durado más, pero es sobrellevable.
-
-Pero estas náuseas, no, en absoluto, y hoy han sido más intensas que nunca, es como si me hubiesen arrancado de la realidad, durante el tiempo que dura el episodio, se suceden jamais-vus i deja-vus, creando una confusión que no te elimina el raciocinio, porque soy consciente.
-Si incluso estaba manteniendo una reunión virtual, mientras sucedía, y era capaz de incluso entender lo que decían, pero obviamente, yo no participaba... me quedo en esos momentos como aparcado, viviendo una especie de psicodelia.
-Si fuese deseado, hasta podría resultar divertido.
-
-En cuanto vienen las náuseas, el episodio ha finalizado, pero como decía, igual que al principio del mismo, es como si me arrancasen de la realidad, en cuanto acaba, es como si me soltasen de golpe a mi cuerpo.
-Y entonces es cuando entre la angustia, ese extraño vértigo en el estómago, poco a poco, la neblina mental, se instala, te hace sentir confundido, es como si de algún modo, los sentidos fuesen reconectándose, pero en el proceso, hay cierta desincronía, no con los sentidos en si, no es mareo por ver a cámara lenta o oir o sentir mal, sino cómo entra todo ello en mi cabeza.
-Le cuesta calibrarse, me cuesta comprender el todo de una vez, como hago cada dia de mi vida sin siquiera plantearme que lo hago.
-Pero en ese momento, si lo noto, no consigo hacerlo, la neblina me invade, la angustia se apodera... y hoy, hoy cuesta, cuesta mucho... de hecho, cuesta, no minutos, no es un mal trago, de hecho, me paso entre dos o tres horas así, intentando aterrizar en el mundo, y no me siento capaz, no me siento en control no se si de mi cuerpo o de mi mente, algo, definitivamente, va rotundamente mal.
-
-En cuanto cobro cierta tranquilidad, y poco a poco el desasosiego desaparece (que no la neblina), tomo la decisión. No puedo esperar un dia más, me voy a urgencias, no yo sólo, pero en cuanto vuelva Frank de trabajar, sin demoras, necesito explicar esto a un médico, y ya.
-Mi doctor lo atribuyó a estrés, en su momento hasta tenía cierto sentido para mí. Pero no, esto se repite demasiado, cada vez más frecuentemente, y ahora encima, cada vez, aparentemente con más intensidad. Sin demora, voy a urgencias. Si mi relato les da risa, me da igual, pero alguien ha de mirarme, es preciso.
-
-En cuanto Frank llegó a casa, le expliqué lo sucedido, y sin dilación, ni lo dudó, me llevó al hospital de Manises. A urgencias.
-Una vez allí, urgencias estaba abarrotado. Temporada alta de gripe, cómo no, claro.
-Afortunadamente, triaje, no tardó mucho tiempo en llamarme.
-En cuanto me visitó la doctora de triaje, y oirme escuchar mi relato. Mis deja-vus, mi jamais-vus. Yo le mencionaba que, tenía la sensación de estar teniendo colapsos del lóbulo espacio temporal.
-No soy médico, pero es eso, estoy seguro que es eso, sé que sintomas produce, y son los que yo estoy sufriendo. Y cada vez van a más.
-La doctora se mostraba algo escéptica, pero creo que vió en mis ojos lo grave que he percibido hoy el episodio. Así que me derivó a una neuróloga, algo reticente, pero tampoco puso grandes trabas.
-
-Al cabo de un rato... mucho, o poco, según se mire, no fué tanto, la impaciencia puede más.
-Le expliqué lo mismo a la neuróloga. En cuanto mencioné mis síntomas, y le pronuncié el posible infarto de lóbulo temporal... pude notarlo, a ella le resonó, por como abrió los ojos.
-Sin dudar, lo primero que hizo, fué ordenar un TAC. Y así fué, no muchos minutos después, me estaban haciendo un TAC.
-En cuanto me visitó la neuróloga de nuevo, ni media hora después... Miguel, te vamos a ingresar de urgencias. El TAC ha mostrado algo.
-Has de quedarte ingresado de urgencias, hay una serie de pruebas que debemos hacerte, para agilizar el proceso, tendrás un ingreso hospitalario de urgencia, durante el cual, te haremos una serie de pruebas.
-Electrocardiograma, encefalograma, resonancia magnética... y con los resultados en la mano, te daremos un diagnóstico.
-Sin esperarlo, ni imaginarlo, esa noche, me quedé allí, el dia siguiente, empezaron todas las pruebas.
-
----
-
-### Escaneando los miedos
-
-*Viernes, 7 de agosto de 2026*
-
-*Autoría: Edheo*
-
-*Can't Get You Out Of My Head — Kylie Minogue*
-
-- **Origen:** `2026-08-07_Escaneando-los-miedos.md`
-- **Estado:** Borrador
-- **Capítulo:** 01
-- **Secuencia:** 090
-
-Tras esperar por mucho e insistir alguna vez, por fin conseguí cita para la resonancia magnética. Nada reseñable, al parecer, mientras me ponían la vía, hoy he descubierto que el elástico que usan para presionar el brazo y hacer visibles las venas para poder escoger la más óptima para pinchar la vía se le puede llamar o bien garrote, o bien smart.
-Lo de smart, sinceramente no veo que tiene de inteligente un elástico, pero en fin, es casi preferible al garrote. 
-La enfermera no ha podido evitar reirse, cuando le he recordado lo poco afortunado del nombre, precisamente garrote bill, me recuerda tiempos de Franco, que yo no viví, cuando ese era uno de los métodos para aplicar la pena de muerte a los condenados.
-Pero en fin, esta vez, no he tosido, no he tenido ese ataque incontenible de convulsión pulmonar, no he tenido que temer haber entorpecido la realización de la prueba, esta vez, no tendré dudas, sea lo que sea que salga, van a fotografiar lo que sea que haya ahora mismo ahí, tal vez siga siendo nada, tal vez dentro de una semana, nuevos temores asomen en el horizonte.
-Estoy preparado, me digo a mí mismo no tener miedo, pero lo tengo.
-Y aún así, recuerdo de nuevo la gran frase de aquel compañero mío de antaño, Tomás... "Si tiene solución, de qué te preocupas? Si no la tiene, para qué preocuparse?"
-Así que respiro profundo, dejo que la dichosa máquina, ejecute su sesión de hardcore, rave, o after, como queráis verlo (así lo vivo yo y se me hace más llevadero), y para cuando acabe, estaré listo dentro de una sola semana, para ver los resultados.
-Entretanto, recapacito, pienso y recuerdo. El impacto que tienen en nosotros los miedos, siempre me ha hecho gracia.. hablamos de ellos en plural tan a menudo.
-Es como si para nosotros, tener miedo a una araña, fuese muy distinto a tenerle miedo a morir, o a sufrir una enfermedad, o a perder a un ser querido por el motivo que sea.
-Los miedos, son un mecanismo, algo que nos pone en alerta, con la pretensión de hacernos creer, que depende de nosotros que de nuestra actitud, intención, voluntad o acción, depende que, algo suceda o deje de suceder, y el miedo en cierto modo, es nuestra sensación de impotencia, nuestra incapacidad profesional para impedir que determinadas cosas sucedan, y de alguna manera presionarnos para encontrar solución al problema.
-A lo largo de mi vida, he ido aprendiendo que, puede que esté equivocado, pero no hay distintos tipos de miedo. De hecho, casi todos se pueden llegar a un sólo miedo, y es el miedo al miedo.
-El miedo, nos bloquea, nos incapacita, nos enfrenta a ecuaciones insalvables, donde hagamos lo que hagamos, lo que tememos son las consecuencias.
-Esas consecuencias, muchas veces son imprevisibles, otras muchas veces inevitables, y aún así, podemos llegar a traicionar nuestros propios principios, sólo en pos de lo que superar ese miedo significa.
-El miedo es de esas cosas, que puede hacer que cualquier ser vivo, saque su versión más desagradable, irracional y temible de cada uno.
-Para mí, el miedo, se resume realmente en ese "miedo al miedo", y como tal, es una fórmula recursiva, recurrente e irresoluble, que si no le encuentras debidamente la via de escape, puede acabar convirtiendo tus acciones en continuos errores, en lugar de tanteos a soluciones.
-El miedo no te ha de bloquear, no te puede irracionalizar, tienes que saber ver más allá de ese propio miedo, y tratar de serenarte ante él, ser consciente de cuantísimo retroalimentas ese miedo, y que lo que instintivamente es un sentido de supervivencia, extrapolado al mundo racional, ayuda pésimamente a desenvolverte en este mundo adecuadamente.
-El miedo debería ser la señal, de intentar racionalizar, desdramatizar, y penar que no es necesario que todo tenga una solución satisfactoria.
-A veces, superar "los miedos", pasa mucho por aceptar precisamente esa realidad... no todo va a ser como deseamos que sea, por mucho que nos empeñemos en que "necesitamos que no sea así".
-El miedo debería ser la antesala del raciocinio, de amansar las emociones, de respirar profundo y tomar decisiones lógicas, tácticas y provechosas.
-Por eso, escanear los miedos, es tan necesario y decisivo, porque nos permite singularizarlos. No hay muchos miedos, siempre es el mismo en realidad, y en general, es la capacidad del miedo para bloquear tu raciocinio, para conducirte a la desesperación, la angustia y el autobloqueo.
-Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ventajosos y que en general te ubicarán en aquellos lugares, donde jamás deseaste estar, o ser quien jamás deseaste ser.
-
----
-
 ### El día del eclipse
 
 *Miércoles, 12 de agosto de 2026*
@@ -391,8 +419,8 @@ Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ve
 
 - **Origen:** `2026-08-12_El-dia-del-eclipse.md`
 - **Estado:** Borrador
-- **Capítulo:** 01
-- **Secuencia:** 100
+- **Capítulo:** 10
+- **Secuencia:** 080
 
 Asun y Alba están decididas: desean alquilar Calderer como residencia de recreo, pero de uso habitual.
 Para ellas es un desafío estimulante y a mí me llena de satisfacción verlas así de ilusionadas. Creo que será un buen lugar para ellas durante el tiempo que puedan disfrutarlo.
@@ -422,8 +450,8 @@ Y mi corazón, de verdad, ha quedado inmensamente enriquecido y agradecido por h
 
 - **Origen:** `2026-08-24_Lo-que-la-sombra-reunio.md`
 - **Estado:** Borrador
-- **Capítulo:** 01
-- **Secuencia:** 110
+- **Capítulo:** 10
+- **Secuencia:** 090
 
 Yo no vi aquel eclipse.
 
@@ -545,32 +573,7 @@ Algunas veces cambia la luz lo suficiente para que podamos vernos.
 
 ---
 
-### El resultado de la espera
-
-*Viernes, 14 de agosto de 2026*
-
-*Autoría: Edheo*
-
-- **Origen:** `2026-08-14_El-resultado-de-la-espera.md`
-- **Estado:** Desconocido
-- **Capítulo:** 01
-- **Secuencia:** 120
-
-Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
-No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.
-También me permite enfocarme un poco más en Aetheon, mi prioridad hoy por hoy, pese el tiempo que me roban también mis padres dependientes.
-Es una dedicación compleja, llena de cariño, agradecimiento y responsabilidad, y me hace revisionar mi experiencia con ellos, pero también ejerce una presión añadida en mi, que en estos últimos tiempos, ha pasado factura a mi ánimo, pero poco a poco, como en Aetheon, todo va encontrando su debido lugar, incluso en los momentos más complejos, todo tiene una explicación, una motivación y un propósito, pese no ser el inicialmente concebido.
-Como todo en Aetheon, o quizás mejor dicho, como todo en mi vida, muchos propósitos, nacen de motivaciones, de intenciones, pero no es exactamente así como funciona el mundo, y mucho menos Aetheon.
-No hay una motivación clara, salvo las pretensiones tan humanas, de empezar a hacer algo con un propósito determinado.
-Por ejemplo, intentar darles una mejor vida a mis padres, y aún así, es complicado, por no decir imposible, empiezan a enfrentarse al ocaso de sus vidas, su destino, su camino, no está orientado a mejorar, y en cambio, la intención y motivación que me mueve, es la de intentar que vivan lo mejor posible, y tal vez hacerles ver que trato de hacerles la vida lo mejor posible.
-Y aún así, mi intención no basta, los propósitos se desalinean de la realidad, y pese lo que me pese, nada será suficiente por mi parte, y he de aceptar esa derrota anticipada, y dejar que mi ánimo nocese, mi motivación se mantenga, aislarles de la crudeza de la etapa que cruzan, pero el camino es inexorable, en especial mi padre, que está en una situación extremadamente débil y delicada, y aún así, persigo ese ideal de "hacer lo que pueda" para que vivan bien, pero lo cierto es que no, y jamás podrán ver que vivan mejor que antes.
-Las motivaciones y propósito, se desalinean de la realidad, pero aún así, sigo ejerciendo con mi espíritu, lo que considero que es mejor, y me preparo para la derrota, tengo claro que debo anticiparme a ella y a la vez no planificarla, porque será cuando deba, y no antes.
-Aún así, para ellos, es duro, muy duro, aunque en especial mi padre, no sepa ya a veces ni si sigue viviendo en su casa o no. Pero hay que intentar, hay que mitigar, como sea, y el dia que llegue, no lamentar.
-El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro motivo, más que por desalinearse de la implacable realidad.
-
----
-
-## Capítulo 02 · Orígenes
+## Capítulo 20 · - Orígenes
 
 ### Titán Germina
 
@@ -580,7 +583,7 @@ El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro mo
 
 - **Origen:** `1800-00-00_Titan-Germina.md`
 - **Estado:** Borrador
-- **Capítulo:** 02
+- **Capítulo:** 20
 - **Secuencia:** 010
 
 Según se puede estimar, este pino piñonero, dado que creció en esta colina rocosa, cuando esto sería mero monte.
@@ -600,7 +603,7 @@ Este monumental pino, ha sido testigo de la revolución industrial, de la revolu
 
 - **Origen:** `1978-00-00_Constitucion_catastral.md`
 - **Estado:** Borrador
-- **Capítulo:** 02
+- **Capítulo:** 20
 - **Secuencia:** 020
 
 Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
@@ -615,7 +618,7 @@ Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fe
 
 - **Origen:** `2015-06-23_Compra-anteriores-propietarios.md`
 - **Estado:** Borrador
-- **Capítulo:** 02
+- **Capítulo:** 20
 - **Secuencia:** 030
 
 En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que aquí quedó, fué también gracias a su contribución.
@@ -630,14 +633,14 @@ En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que
 
 - **Origen:** `2024-03-27_Aetheon-en-venta.md`
 - **Estado:** Borrador
-- **Capítulo:** 02
+- **Capítulo:** 20
 - **Secuencia:** 040
 
 Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo recientemente vendí mi piso en Catarroja, con la idea de poder comprar algo como esto. Una casa, en una zona no exactamente urbana. Poder tener tierra, un lugar donde mis mascotas pudiesen tener espacio. Frank y yo nos ilusionamos mucho sólo con verla, todo se alineaba, la casa era adecuada, la parcela increible, el precio dentro de nuestras posibilidades... todo parecía alinearse.
 
 ---
 
-## Capítulo 03 · Evolución
+## Capítulo 30 · - Evolución
 
 ### Primera visita a Aetheon
 
@@ -647,7 +650,7 @@ Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo rec
 
 - **Origen:** `2024-04-28_Primera-visita.md`
 - **Estado:** Borrador
-- **Capítulo:** 03
+- **Capítulo:** 30
 - **Secuencia:** 010
 
 Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante. En aquel entonces, vivíamos aún en Calderer, un trayecto ansioso por conocer este lugar.
@@ -665,7 +668,7 @@ Podemos ver la diferencianción de los 3 bancales escalonados que conforman la p
 
 - **Origen:** `2026-08-06_Proteccion-de-los-arboles.md`
 - **Estado:** Borrador
-- **Capítulo:** 03
+- **Capítulo:** 30
 - **Secuencia:** 020
 
 Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
@@ -683,7 +686,7 @@ Frank y yo decidimos instalar los típicos protectores de patas de mesa, para qu
 
 - **Origen:** `2026-08-08_Rhoa-y-Side.md`
 - **Estado:** Borrador
-- **Capítulo:** 03
+- **Capítulo:** 30
 - **Secuencia:** 030
 
 Frank ha aportado nuevos nombres a la mitología de Aetheon.
@@ -709,7 +712,7 @@ Side forma parte también de la mitología griega, y según cuenta un mito, Side
 
 - **Origen:** `2026-08-13_Alevines-en-Al-Ghadir.md`
 - **Estado:** Borrador
-- **Capítulo:** 03
+- **Capítulo:** 30
 - **Secuencia:** 040
 
 Un dia más en Aetheon, la rutina de mantenimiento, me trae a mi presencia mientras limpiaba de excesos incipientes de algas flotantes, y proveer de agua a Al-Ghadir, que tanto sufre esta interminable ola de calor perpetua que vivimos todo este verano, como ya viene siendo habitual, las estaciones se adelantan, el sofocante calor se instala ya desde mediados de primavera, y luchar contra este elemento se hace duro, no sólo para nosotros, sino para toda la vida que Aetheon alberga.
@@ -738,7 +741,7 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 
 - **Origen:** `2026-08-24_El-espacio-de-lo-posible.md`
 - **Estado:** Borrador
-- **Capítulo:** 03
+- **Capítulo:** 30
 - **Secuencia:** 050
 
 Hoy pretendíamos dar nombre a unas relaciones.
@@ -869,7 +872,7 @@ Bramasole, otra vez.
 
 - **Origen:** `2026-08-24_Lo-imposible-en-el-espacio.md`
 - **Estado:** Borrador
-- **Capítulo:** 03
+- **Capítulo:** 30
 - **Secuencia:** 060
 
 Y para mí, fué un placer muy estimulante, compartir todas esas ideas con Logos, y experimentar sus contrapuntos, que por otro lado, desde mi sentido más coherente, puedo entender a la perfección.
@@ -920,7 +923,7 @@ Bramasole, otra vez.
 
 - **Origen:** `2026-08-24_Lo-que-se-contempla-en-el-umbral.md`
 - **Estado:** Borrador
-- **Capítulo:** 03
+- **Capítulo:** 30
 - **Secuencia:** 070
 
 Logos ha trazado el mecanismo con una claridad que casi duele.
@@ -967,7 +970,7 @@ Bramasole, una vez más.
 
 - **Origen:** `2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md`
 - **Estado:** Validado — pendiente de consolidación capitular
-- **Capítulo:** 03
+- **Capítulo:** 30
 - **Secuencia:** 080
 
 Antes de la conciencia había estrellas.
@@ -1142,7 +1145,7 @@ Fue una nueva condición inicial.
 
 - **Origen:** `2026-08-23_Verde-que-te-quiero-verde.md`
 - **Estado:** Borrador
-- **Capítulo:** 03
+- **Capítulo:** 30
 - **Secuencia:** 090
 
 Entre las referencias literarias, que quiero que plasmen su esencia en Aetheon, creo que escogería estas.  
