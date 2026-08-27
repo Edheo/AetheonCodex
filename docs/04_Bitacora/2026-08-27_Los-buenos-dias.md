@@ -11,19 +11,19 @@ Tras dormir hasta cerca de las cinco de la mañana, Edheo toma un café y pasea 
 
 ## Referencias
 **Miembros:**  
-Aetheon  
-Edheo  
+Aetheon
+[Edheo](../02_Miembros/EDHEO.md)
 Luna
 Nala
 Karo
-Evan  
-Al-Ghadir
-Ishtar  
+[Evan](../02_Miembros/EVAN.md)
+[Al-Ghadir](../02_Miembros/AL-GHADIR.md)
+Ishtar
 Bressol.la
-Luperca  
-Pisa  
-Titán  
-Vetusta  
+Luperca
+Pisa
+[Titán](../02_Miembros/TITAN.md)
+[Vetusta](../02_Miembros/VETUSTA.md)
 Yara
 
 ## Cosmogonía
@@ -31,8 +31,23 @@ Yara
 **Obra:**  Miss Celie's blues
 **Autor:**  Quincy Jones, Rod Temperton, Lionel Richie
 **Intérprete:**  Tata Vega
-**youtube:**hz_m4qgYtWY
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/hz_m4qgYtWY"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=hz_m4qgYtWY"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
 ### Capítulo
 05 - Evolución

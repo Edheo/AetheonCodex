@@ -74,6 +74,7 @@ El río no elige su cauce, pero siempre encuentra el mar.
 ### Entradas relacionadas
 
 - *Domingo, 23 de agosto de 2026* — [Verde que te quiero Verde](../04_Bitacora/2026-08-23_Verde-que-te-quiero-verde.md)
+- *Jueves, 27 de agosto de 2026* — [Los buenos días](../04_Bitacora/2026-08-27_Los-buenos-dias.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
 ## Recursos
