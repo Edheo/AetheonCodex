@@ -20,9 +20,9 @@ Tuvimos que recogerla, lloviznaba, ella justo encima de un desague, la cogí y c
 **youtube:**le_P2AtA_EQ
 ## Literaria
 ### Capítulo
-01 Mi Contexto
+02 - Sin mandármelo Dios
 ### Secuencia
-025
+060
 ### Autoría
 Edheo
 

@@ -38,8 +38,8 @@ Maurice Jarre
 ovyfbirtPLs
 
 ## Literaria
-**Capítulo:**  03 Evolución
-**Secuencia:**  101
+**Capítulo:**  05 - Evolución
+**Secuencia:**  090
 ### Autoría
 Edheo
 

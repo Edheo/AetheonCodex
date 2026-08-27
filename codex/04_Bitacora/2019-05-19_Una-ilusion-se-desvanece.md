@@ -32,9 +32,9 @@ The National
 Ef1nJWtkprU
 ## Literaria
 ### Capítulo
-01 Mi Contexto 
+02 - Sin mandármelo Dios
 ### Secuencia
-010
+020
 ### Autoría
 Edheo
 

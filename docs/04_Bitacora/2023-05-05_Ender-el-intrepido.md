@@ -32,12 +32,28 @@ Karo
 **Obra:**The Reason
 **Autor:**Douglas Robb, Daniel Estrin, Marku Lappalainen, Deborah Lurie
 **Intérprete:**Hoobastank
-**youtube:**fV4DiAyExN0
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/fV4DiAyExN0"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=fV4DiAyExN0"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
 ### Capítulo
-01 Mi Contexto 
+02 - Sin mandármelo Dios
 ### Secuencia
-026
+070
 ### Autoría
 Edheo
 

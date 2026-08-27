@@ -10,7 +10,7 @@ Dado el tamaño de este pino, posiblemente germinó aquí, hará unos 160 años,
 
 ## Literaria
 ### Capítulo
-02 Orígenes
+04 - Orígenes
 ### Secuencia
 010
 ### Autoría
@@ -25,4 +25,4 @@ La edad calculada se estima entre 140 y 180 años.
 Este monumental pino, ha sido testigo de la revolución industrial, de la revolución agrícola, el impacto de la guerra civil y la postguerra aquí.
 ## Referencias
 **Miembros:**
-TITAN
+[TITAN](../02_Miembros/TITAN.md)

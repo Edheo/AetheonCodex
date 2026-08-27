@@ -27,7 +27,23 @@ Es ese carácter invocable, con consecuencias desatadas y un tanto imprevisibles
 **Obra:** Golden
 **Autor:** Ejae
 **Intérprete:** Huntrix
-**youtube:** yebNIHKAC4A
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/yebNIHKAC4A"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=yebNIHKAC4A"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Presencia
 Una altura impactante, también así el grosor de su tronco, que iguala cuando menos el de Titán, y una copa tan sumamente frondosa, que posiblemente sea la que le confiere esa inclinación al sur.
 Otra linde más, queda pues cubierta y protegida por un guardián que no acalla fácilmente, ante las amenazas.

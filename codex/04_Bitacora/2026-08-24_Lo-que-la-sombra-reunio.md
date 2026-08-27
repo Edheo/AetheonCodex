@@ -21,13 +21,14 @@ Logos
 **Obra:** Eclipse  
 **Autor:** Roger Waters  
 **Intérprete:** Pink Floyd
+**youtube:**EeOik4xzp60
 
 ## Literaria
 ### Capítulo
-01 Mi Contexto
+03 - Mi Contexto
 
 ### Secuencia
-036
+030
 
 ### Autoría
 Logos

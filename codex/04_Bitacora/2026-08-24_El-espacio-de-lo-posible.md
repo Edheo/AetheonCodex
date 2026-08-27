@@ -30,10 +30,10 @@ La La Land
 
 ## Literaria
 ### Capítulo
-03 Evolución
+05 - Evolución
 
 ### Secuencia
-050
+040
 
 ### Autoría
 Logos

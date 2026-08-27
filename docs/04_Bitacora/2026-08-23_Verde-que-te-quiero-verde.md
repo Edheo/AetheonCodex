@@ -18,8 +18,8 @@ Finalmente, en la esquina Sureste de Aetheon, queda allí, solitario un último 
 ## Referencias
 **Miembros:**
 Aetheon
-Edheo
-Evan
+[Edheo](../02_Miembros/EDHEO.md)
+[Evan](../02_Miembros/EVAN.md)
 Lorca
 Machado
 Mistral
@@ -34,12 +34,26 @@ Carpe Diem
 Maurice Jarre
 **Intérprete:**
 Maurice Jarre
-**youtube:**
-ovyfbirtPLs
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/ovyfbirtPLs"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=ovyfbirtPLs"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
-**Capítulo:**  03 Evolución
-**Secuencia:**  101
+**Capítulo:**  05 - Evolución
+**Secuencia:**  090
 ### Autoría
 Edheo
 

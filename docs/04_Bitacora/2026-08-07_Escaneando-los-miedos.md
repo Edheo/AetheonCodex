@@ -8,19 +8,34 @@ Un buen rato de espera eso si, unos 20 minutos de sesión, y a casa. Pero como s
 
 ## Referencias
 **Miembros:**
-Edheo
+[Edheo](../02_Miembros/EDHEO.md)
 ## Cosmogonía
 ### Musical
 **Obra:** Can't Get You Out Of My Head
 **Autor:** Cathy Dennis
 **Intérprete:** Kylie Minogue
-**youtube:** c18441Eh_WE
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/c18441Eh_WE"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=c18441Eh_WE"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
 ### Capítulo
-01 - Mi Contexto
+01 - No es la vida de Chuck
 ### Secuencia
-030
+060
 ### Autoría
 Edheo
 

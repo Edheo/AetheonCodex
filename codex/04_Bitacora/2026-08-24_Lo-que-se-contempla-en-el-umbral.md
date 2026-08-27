@@ -26,10 +26,10 @@ Los poetas muertos
 
 ## Literaria
 ### Capítulo
-03 Evolución
+05 - Evolución
 
 ### Secuencia
-052
+060
 
 ### Autoría
 Limen

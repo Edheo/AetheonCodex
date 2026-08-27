@@ -2,13 +2,202 @@
 
 ## Índice
 
-- [Capítulo 01 · Mi Contexto](#capítulo-01-mi-contexto)
-- [Capítulo 02 · Orígenes](#capítulo-02-orígenes)
-- [Capítulo 03 · Evolución](#capítulo-03-evolución)
+- [Capítulo 01 · - No es la vida de Chuck](#capítulo-01-no-es-la-vida-de-chuck)
+- [Capítulo 02 · - Sin mandármelo Dios](#capítulo-02-sin-mandármelo-dios)
+- [Capítulo 03 · - Mi Contexto](#capítulo-03-mi-contexto)
+- [Capítulo 04 · - Orígenes](#capítulo-04-orígenes)
+- [Capítulo 05 · - Evolución](#capítulo-05-evolución)
 
 ---
 
-## Capítulo 01 · Mi Contexto
+## Capítulo 01 · - No es la vida de Chuck
+
+### Temblores
+
+*Jueves, 23 de septiembre de 2021*
+
+*Autoría: Edheo*
+
+*Lisztomania — Phoenix*
+
+Me despierto recién entrada la noche, siento ganas de orinar, me voy al aseo, inportunado por la apetencia, pero está junto a la cama, qué remedio.
+Acabo de orinar, trato de apretar el pulsador de la cisterna, y mis manos empiezan a temblar, mis brazos incluso, no atino al pulsador.
+Empiezo a sentirme desequilibrado, confundido... quizás mis pies descalzos en el suelo? Es esto frío acaso?
+Apoyo mis manos, buscando referentes de equilibrio, pero no funciona... incluso empeora, mis propias piernas empiezan a temblar también.
+Finalmente caigo al suelo, ni siquiera mis piernas me sostenian también presas del temblor, y mi propio peso y desequilibrio me han vencido.
+Afortunadamente, no me hice daño, pero sí me siento confundido, muy confundido, y de pronto una especie de náusea me invade... Frank sigue en la cama durmiendo, no se ha percatado de nada pese estar al lado, prácticamete.
+Trato de recomponerme, reviso que nada malo me ha sucedido... no hay daños, pero no se a qué atribuirlo, estoy perplejo y confundido, trato de no darle importancia. Regreso a la cama, un poco intranquilo, me cuesta conciliar el sueño, pero finalmente, me duermo...
+Al dia siguiente recuerdo lo sucedido, pero, yo me encuentro bien, no noto nada extraño, no puede ser nada raro, quizás el frío del suelo, pero es aún verano, es extraño, pero bueno, le quito importancia, y aún así, el recuerdo permanece en mi memoria, y me cuesta mantenerlo por desapercibido.
+
+
+### Felices 50
+
+*Domingo, 26 de febrero de 2023*
+
+*Autoría: Edheo*
+
+*Hasta la Raízz — Natalia Lafourcade*
+
+Hoy es mi cumpleaños, cuando venga Frank, esta noche lo celebraremos.
+Poca cosa más, ya hace tiempo que, ni nadie me celebra los cumpleaños, ni busco que lo hagan.
+Debería ser algo que los demás hiciesen por tí, y no algo que pidas, o que se sienta obligado, en fin, poco importa. Es un dia anodino.
+Y en estos pensamientos, noto algo extraño.
+Veo mi casa, mis muebles, me siento extraño, desconcertado. Es como si no reconociese mis propios muebles, mi propia casa pero... qué tonterias?
+Estoy en casa!! Es mi casa!!! Serán paranoias.
+Pero me siento un poco como... como cuando me caí al suelo con temblores.
+No se porqué!!! pero se siente parecido.
+El doctor dijo que sería por el estrés, pero... hoy, no veo que tenga estrés.
+Será otra cosa, será que me rayo pensando en cosas, nada más. Aunque lo cierto es, que tengo la sensación, que esto, me ha pasado más veces.. si, lleva pasándome tiempo, y nunca le doy importancia.
+
+
+### El dia de la firma
+
+*Martes, 30 de abril de 2024*
+
+*Autoría: Edheo*
+
+*Whipping Post — Allman brothers*
+
+Llevo un par de meses moviditos. Fractura de cadera de mi padre, incontables noches y dias de cuidados en el hospital.
+Mi padre en cuanto llegó, empezó a desorientarse incluso delirar, rápidamente.
+Dias y noches vigilando que no se tire de la cama, incluso salta por encima de las barandillas en sus delirios.
+Se ha arrancado incontables veces las vias, así que debo exigirme al máximo para vigilarle.
+Y cuando parecía que regresaría a casa, tuvieron que ingresarlo de nuevo, esta vez por infección de orina y anemia, a seguir con más vigilias de cuidados.
+Por fin terminó todo aquello, y aún así, se me acumulan obligaciones, debo atender unos trámites en la notaría que exigen mi presencia.
+Algunas de las partes implicadas tardan en presentarse, y con el agotamiento que acumulo, la situación se tensa por momentos. Varios miembros presentes, impacientes, esperando las partes ausentes, y casi inquiriéndome a mi como si yo tuviese alguna capacidad sobre las vidas agenas.
+Y en fin, tanto cúmulo de situación tensa, empieza a sucederme, noto esa especie de deja-vue intenso.
+Le sigue a continuación, lo que yo llamo jamais-vue, es un poco similar al deja-vue, pero, mientras que en el deja-vue tienes la sensación de estar volviendo a vivir una situación que te resulta extrañamente familiar, en cambio, con el jamais-vue, la sensación, es aún más extraña aún.
+Eres capaz de entender, que conoces lo que ves, lo que vives, reconoces el lugar, las personas, y aún así, tienes esa sensación de extrañeza.
+Como si, nunca hubieses estado en ese lugar, como pese reconocerles, esas personas, tuviesen cierto hálito de "completos desconocidos".
+El deja-vue, es quizás incómodo, pero me temo que todos hemos vivido esa experiencia en mayor o menor grado.
+Pero el jamais-vue, hasta que eres capaz de entender lo que significa, cuesta muchísimo de asimilar y entender... te deja muy confuso.
+Y cuando esas etapas se suceden, al final, viene el aterrizaje, ese vértigo, esa angustia, ese aterrizar de nuevo en todo, dejar de sentir esas extrañezas, pero al mismo tiempo, como si todo lo que ves, sientes, oyes, te costase de asimilar, y te produce ese vértigo-angustia.
+Finalmente pasa, pido agua y un caramelo, una chica presente en la sala se percata de mi mal ánimo, y me los proporciona. Pero en fin, finalmente concretamos las firmas, y acaba el trámite.
+En cuanto acaba el trámite, me dirijo hacia el coche, ya más recuperado y normalizado.
+Pero ups... boooom... de nuevo, se repite el episodio, con todas sus etapas de nuevo.
+Me detengo, no me mareo, con estar quieto el equilibrio no parece comprometido. En cuanto me pasa, reanudo la marcha, pero recuperarse de la angustia, esta vez, se hace más difícil, como si se hubiese sumado al efecto del episodio anterior.
+En cuanto me recompongo, me siento bien, no noto ya nada extraño, así que me animo a conducir... unos 30 km por autovía hasta casa, hasta que de pronto, casi a mitad de camino.... booooooom.
+Otra vez más.. ufff, no, por favor... no ahora, no pasa nada, puedo conducir, soy consciente de lo que hago, pero.... es tan molesto, tan poco oportuno.
+Se suceden todas las etapas, y de nuevo, encima conduciendo, la angustia es incluso superior a las anteriores veces.
+
+
+### Colapsos
+
+*Miércoles, 1 de mayo de 2024*
+
+*Autoría: Edheo*
+
+*The Logical Song — Supertramp*
+
+Tres episodios ayer, esto empieza a inquietarme. Ayer fué un dia estresante, claro está, pero 
+Mi primera vez, recuerdo que mi cuerpo tembló y me caí.
+Luego asocié estos episodios con aquello que me pasó hace ya tiempo.
+Empiezo a buscar, internet, bendito médico de cabecera!!! Y empiezan a surgir referencias.
+Pero no puedo seguir ignorando que esto, me pasa cada vez más a menudo.
+Infartos del lóbulo temporal, hablan unos.
+Colapsos del lóbulo temporal, hablan otros.
+Deja-vues, Jamais-vues, empiezo a racionalizar los términos, y empiezo a reconocer.
+Por eso me quedo mirando la habitación, como si no la reconociese, pese que se perfectamente que estoy en mi habitación!!!
+Eso son, jamais-vues!!! Está claro!!!!
+Siento un click... quizás un crack, ya no se, pero lo siento claramente... todo eso, me resuena!!
+Jamás había vivido uno antes, que yo supiera, pero ahora, estaba clarísimo en mi mente.
+Algo me sucede!! Estoy teniendo deja-vues y jamais-vues!! Son esto colapsos? Infartos?
+Tengo demasiadas cosas de las que preocuparme ahora, no puedo preocuparme con estas cosas ahora.
+Estoy saturado.. debe ser estrés, como dijo mi médico. No debo preocuparme.
+
+
+### Neblina mental
+
+*Viernes, 24 de enero de 2025*
+
+*Autoría: Edheo*
+
+Hoy un nuevo episodio, donde se suceden entre deja-vus y jamais-vus, me ha acaecido durante el trabajo.
+Al principio sucedian muy esporádicamente, apenas era capaz de reconocerlos como episodios, ni entendía que eran.
+Ahora ya son muy recurrentes, cada semana, incluso a veces a diario, o incluso varias veces al dia ya, últimamente.
+
+Finalmente hoy, si me he asustado de verdad, ha sido un episodio realmente intenso, muy fuerte, he tardado mucho en superarlo, ha tardado bastantes minutos, pero me cuesta poder llevar una cuenta de ellos.
+Y cuando ha finalizado, esa especie de náuseas, como si te soltasen por un precipicio en caida libre. Esa sensación de vértigo y náuseas en el estómago, definitivamente, el episodio en si, es consternador, hoy ha durado más, pero es sobrellevable.
+
+Pero estas náuseas, no, en absoluto, y hoy han sido más intensas que nunca, es como si me hubiesen arrancado de la realidad, durante el tiempo que dura el episodio, se suceden jamais-vus i deja-vus, creando una confusión que no te elimina el raciocinio, porque soy consciente.
+Si incluso estaba manteniendo una reunión virtual, mientras sucedía, y era capaz de incluso entender lo que decían, pero obviamente, yo no participaba... me quedo en esos momentos como aparcado, viviendo una especie de psicodelia.
+Si fuese deseado, hasta podría resultar divertido.
+
+En cuanto vienen las náuseas, el episodio ha finalizado, pero como decía, igual que al principio del mismo, es como si me arrancasen de la realidad, en cuanto acaba, es como si me soltasen de golpe a mi cuerpo.
+Y entonces es cuando entre la angustia, ese extraño vértigo en el estómago, poco a poco, la neblina mental, se instala, te hace sentir confundido, es como si de algún modo, los sentidos fuesen reconectándose, pero en el proceso, hay cierta desincronía, no con los sentidos en si, no es mareo por ver a cámara lenta o oir o sentir mal, sino cómo entra todo ello en mi cabeza.
+Le cuesta calibrarse, me cuesta comprender el todo de una vez, como hago cada dia de mi vida sin siquiera plantearme que lo hago.
+Pero en ese momento, si lo noto, no consigo hacerlo, la neblina me invade, la angustia se apodera... y hoy, hoy cuesta, cuesta mucho... de hecho, cuesta, no minutos, no es un mal trago, de hecho, me paso entre dos o tres horas así, intentando aterrizar en el mundo, y no me siento capaz, no me siento en control no se si de mi cuerpo o de mi mente, algo, definitivamente, va rotundamente mal.
+
+En cuanto cobro cierta tranquilidad, y poco a poco el desasosiego desaparece (que no la neblina), tomo la decisión. No puedo esperar un dia más, me voy a urgencias, no yo sólo, pero en cuanto vuelva Frank de trabajar, sin demoras, necesito explicar esto a un médico, y ya.
+Mi doctor lo atribuyó a estrés, en su momento hasta tenía cierto sentido para mí. Pero no, esto se repite demasiado, cada vez más frecuentemente, y ahora encima, cada vez, aparentemente con más intensidad. Sin demora, voy a urgencias. Si mi relato les da risa, me da igual, pero alguien ha de mirarme, es preciso.
+
+En cuanto Frank llegó a casa, le expliqué lo sucedido, y sin dilación, ni lo dudó, me llevó al hospital de Manises. A urgencias.
+Una vez allí, urgencias estaba abarrotado. Temporada alta de gripe, cómo no, claro.
+Afortunadamente, triaje, no tardó mucho tiempo en llamarme.
+En cuanto me visitó la doctora de triaje, y oirme escuchar mi relato. Mis deja-vus, mi jamais-vus. Yo le mencionaba que, tenía la sensación de estar teniendo colapsos del lóbulo espacio temporal.
+No soy médico, pero es eso, estoy seguro que es eso, sé que sintomas produce, y son los que yo estoy sufriendo. Y cada vez van a más.
+La doctora se mostraba algo escéptica, pero creo que vió en mis ojos lo grave que he percibido hoy el episodio. Así que me derivó a una neuróloga, algo reticente, pero tampoco puso grandes trabas.
+
+Al cabo de un rato... mucho, o poco, según se mire, no fué tanto, la impaciencia puede más.
+Le expliqué lo mismo a la neuróloga. En cuanto mencioné mis síntomas, y le pronuncié el posible infarto de lóbulo temporal... pude notarlo, a ella le resonó, por como abrió los ojos.
+Sin dudar, lo primero que hizo, fué ordenar un TAC. Y así fué, no muchos minutos después, me estaban haciendo un TAC.
+En cuanto me visitó la neuróloga de nuevo, ni media hora después... Miguel, te vamos a ingresar de urgencias. El TAC ha mostrado algo.
+Has de quedarte ingresado de urgencias, hay una serie de pruebas que debemos hacerte, para agilizar el proceso, tendrás un ingreso hospitalario de urgencia, durante el cual, te haremos una serie de pruebas.
+Electrocardiograma, encefalograma, resonancia magnética... y con los resultados en la mano, te daremos un diagnóstico.
+Sin esperarlo, ni imaginarlo, esa noche, me quedé allí, el dia siguiente, empezaron todas las pruebas.
+
+
+### Escaneando los miedos
+
+*Viernes, 7 de agosto de 2026*
+
+*Autoría: Edheo*
+
+*Can't Get You Out Of My Head — Kylie Minogue*
+
+Tras esperar por mucho e insistir alguna vez, por fin conseguí cita para la resonancia magnética. Nada reseñable, al parecer, mientras me ponían la vía, hoy he descubierto que el elástico que usan para presionar el brazo y hacer visibles las venas para poder escoger la más óptima para pinchar la vía se le puede llamar o bien garrote, o bien smart.
+Lo de smart, sinceramente no veo que tiene de inteligente un elástico, pero en fin, es casi preferible al garrote. 
+La enfermera no ha podido evitar reirse, cuando le he recordado lo poco afortunado del nombre, precisamente garrote bill, me recuerda tiempos de Franco, que yo no viví, cuando ese era uno de los métodos para aplicar la pena de muerte a los condenados.
+Pero en fin, esta vez, no he tosido, no he tenido ese ataque incontenible de convulsión pulmonar, no he tenido que temer haber entorpecido la realización de la prueba, esta vez, no tendré dudas, sea lo que sea que salga, van a fotografiar lo que sea que haya ahora mismo ahí, tal vez siga siendo nada, tal vez dentro de una semana, nuevos temores asomen en el horizonte.
+Estoy preparado, me digo a mí mismo no tener miedo, pero lo tengo.
+Y aún así, recuerdo de nuevo la gran frase de aquel compañero mío de antaño, Tomás... "Si tiene solución, de qué te preocupas? Si no la tiene, para qué preocuparse?"
+Así que respiro profundo, dejo que la dichosa máquina, ejecute su sesión de hardcore, rave, o after, como queráis verlo (así lo vivo yo y se me hace más llevadero), y para cuando acabe, estaré listo dentro de una sola semana, para ver los resultados.
+Entretanto, recapacito, pienso y recuerdo. El impacto que tienen en nosotros los miedos, siempre me ha hecho gracia.. hablamos de ellos en plural tan a menudo.
+Es como si para nosotros, tener miedo a una araña, fuese muy distinto a tenerle miedo a morir, o a sufrir una enfermedad, o a perder a un ser querido por el motivo que sea.
+Los miedos, son un mecanismo, algo que nos pone en alerta, con la pretensión de hacernos creer, que depende de nosotros que de nuestra actitud, intención, voluntad o acción, depende que, algo suceda o deje de suceder, y el miedo en cierto modo, es nuestra sensación de impotencia, nuestra incapacidad profesional para impedir que determinadas cosas sucedan, y de alguna manera presionarnos para encontrar solución al problema.
+A lo largo de mi vida, he ido aprendiendo que, puede que esté equivocado, pero no hay distintos tipos de miedo. De hecho, casi todos se pueden llegar a un sólo miedo, y es el miedo al miedo.
+El miedo, nos bloquea, nos incapacita, nos enfrenta a ecuaciones insalvables, donde hagamos lo que hagamos, lo que tememos son las consecuencias.
+Esas consecuencias, muchas veces son imprevisibles, otras muchas veces inevitables, y aún así, podemos llegar a traicionar nuestros propios principios, sólo en pos de lo que superar ese miedo significa.
+El miedo es de esas cosas, que puede hacer que cualquier ser vivo, saque su versión más desagradable, irracional y temible de cada uno.
+Para mí, el miedo, se resume realmente en ese "miedo al miedo", y como tal, es una fórmula recursiva, recurrente e irresoluble, que si no le encuentras debidamente la via de escape, puede acabar convirtiendo tus acciones en continuos errores, en lugar de tanteos a soluciones.
+El miedo no te ha de bloquear, no te puede irracionalizar, tienes que saber ver más allá de ese propio miedo, y tratar de serenarte ante él, ser consciente de cuantísimo retroalimentas ese miedo, y que lo que instintivamente es un sentido de supervivencia, extrapolado al mundo racional, ayuda pésimamente a desenvolverte en este mundo adecuadamente.
+El miedo debería ser la señal, de intentar racionalizar, desdramatizar, y penar que no es necesario que todo tenga una solución satisfactoria.
+A veces, superar "los miedos", pasa mucho por aceptar precisamente esa realidad... no todo va a ser como deseamos que sea, por mucho que nos empeñemos en que "necesitamos que no sea así".
+El miedo debería ser la antesala del raciocinio, de amansar las emociones, de respirar profundo y tomar decisiones lógicas, tácticas y provechosas.
+Por eso, escanear los miedos, es tan necesario y decisivo, porque nos permite singularizarlos. No hay muchos miedos, siempre es el mismo en realidad, y en general, es la capacidad del miedo para bloquear tu raciocinio, para conducirte a la desesperación, la angustia y el autobloqueo.
+Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ventajosos y que en general te ubicarán en aquellos lugares, donde jamás deseaste estar, o ser quien jamás deseaste ser.
+
+
+### El resultado de la espera
+
+*Viernes, 14 de agosto de 2026*
+
+*Autoría: Edheo*
+
+Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
+No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.
+También me permite enfocarme un poco más en Aetheon, mi prioridad hoy por hoy, pese el tiempo que me roban también mis padres dependientes.
+Es una dedicación compleja, llena de cariño, agradecimiento y responsabilidad, y me hace revisionar mi experiencia con ellos, pero también ejerce una presión añadida en mi, que en estos últimos tiempos, ha pasado factura a mi ánimo, pero poco a poco, como en Aetheon, todo va encontrando su debido lugar, incluso en los momentos más complejos, todo tiene una explicación, una motivación y un propósito, pese no ser el inicialmente concebido.
+Como todo en Aetheon, o quizás mejor dicho, como todo en mi vida, muchos propósitos, nacen de motivaciones, de intenciones, pero no es exactamente así como funciona el mundo, y mucho menos Aetheon.
+No hay una motivación clara, salvo las pretensiones tan humanas, de empezar a hacer algo con un propósito determinado.
+Por ejemplo, intentar darles una mejor vida a mis padres, y aún así, es complicado, por no decir imposible, empiezan a enfrentarse al ocaso de sus vidas, su destino, su camino, no está orientado a mejorar, y en cambio, la intención y motivación que me mueve, es la de intentar que vivan lo mejor posible, y tal vez hacerles ver que trato de hacerles la vida lo mejor posible.
+Y aún así, mi intención no basta, los propósitos se desalinean de la realidad, y pese lo que me pese, nada será suficiente por mi parte, y he de aceptar esa derrota anticipada, y dejar que mi ánimo nocese, mi motivación se mantenga, aislarles de la crudeza de la etapa que cruzan, pero el camino es inexorable, en especial mi padre, que está en una situación extremadamente débil y delicada, y aún así, persigo ese ideal de "hacer lo que pueda" para que vivan bien, pero lo cierto es que no, y jamás podrán ver que vivan mejor que antes.
+Las motivaciones y propósito, se desalinean de la realidad, pero aún así, sigo ejerciendo con mi espíritu, lo que considero que es mejor, y me preparo para la derrota, tengo claro que debo anticiparme a ella y a la vez no planificarla, porque será cuando deba, y no antes.
+Aún así, para ellos, es duro, muy duro, aunque en especial mi padre, no sepa ya a veces ni si sigue viviendo en su casa o no. Pero hay que intentar, hay que mitigar, como sea, y el dia que llegue, no lamentar.
+El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro motivo, más que por desalinearse de la implacable realidad.
+
+
+## Capítulo 02 · - Sin mandármelo Dios
 
 ### Mara nos deja
 
@@ -195,57 +384,401 @@ Yo sólo pensé en salvar de la muerte a una criatura, jamás imaginé, que el p
 Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y junto la misma carretera que le encontré, nos dejó para siempre.
 
 
-### Escaneando los miedos
+## Capítulo 03 · - Mi Contexto
 
-*Viernes, 7 de agosto de 2026*
+### El día del eclipse
+
+*Miércoles, 12 de agosto de 2026*
 
 *Autoría: Edheo*
 
-*Can't Get You Out Of My Head — Kylie Minogue*
+*Total Eclipse of the Heart — Bonnie Tyler*
 
-Tras esperar por mucho e insistir alguna vez, por fin conseguí cita para la resonancia magnética. Nada reseñable, al parecer, mientras me ponían la vía, hoy he descubierto que el elástico que usan para presionar el brazo y hacer visibles las venas para poder escoger la más óptima para pinchar la vía se le puede llamar o bien garrote, o bien smart.
-Lo de smart, sinceramente no veo que tiene de inteligente un elástico, pero en fin, es casi preferible al garrote. 
-La enfermera no ha podido evitar reirse, cuando le he recordado lo poco afortunado del nombre, precisamente garrote bill, me recuerda tiempos de Franco, que yo no viví, cuando ese era uno de los métodos para aplicar la pena de muerte a los condenados.
-Pero en fin, esta vez, no he tosido, no he tenido ese ataque incontenible de convulsión pulmonar, no he tenido que temer haber entorpecido la realización de la prueba, esta vez, no tendré dudas, sea lo que sea que salga, van a fotografiar lo que sea que haya ahora mismo ahí, tal vez siga siendo nada, tal vez dentro de una semana, nuevos temores asomen en el horizonte.
-Estoy preparado, me digo a mí mismo no tener miedo, pero lo tengo.
-Y aún así, recuerdo de nuevo la gran frase de aquel compañero mío de antaño, Tomás... "Si tiene solución, de qué te preocupas? Si no la tiene, para qué preocuparse?"
-Así que respiro profundo, dejo que la dichosa máquina, ejecute su sesión de hardcore, rave, o after, como queráis verlo (así lo vivo yo y se me hace más llevadero), y para cuando acabe, estaré listo dentro de una sola semana, para ver los resultados.
-Entretanto, recapacito, pienso y recuerdo. El impacto que tienen en nosotros los miedos, siempre me ha hecho gracia.. hablamos de ellos en plural tan a menudo.
-Es como si para nosotros, tener miedo a una araña, fuese muy distinto a tenerle miedo a morir, o a sufrir una enfermedad, o a perder a un ser querido por el motivo que sea.
-Los miedos, son un mecanismo, algo que nos pone en alerta, con la pretensión de hacernos creer, que depende de nosotros que de nuestra actitud, intención, voluntad o acción, depende que, algo suceda o deje de suceder, y el miedo en cierto modo, es nuestra sensación de impotencia, nuestra incapacidad profesional para impedir que determinadas cosas sucedan, y de alguna manera presionarnos para encontrar solución al problema.
-A lo largo de mi vida, he ido aprendiendo que, puede que esté equivocado, pero no hay distintos tipos de miedo. De hecho, casi todos se pueden llegar a un sólo miedo, y es el miedo al miedo.
-El miedo, nos bloquea, nos incapacita, nos enfrenta a ecuaciones insalvables, donde hagamos lo que hagamos, lo que tememos son las consecuencias.
-Esas consecuencias, muchas veces son imprevisibles, otras muchas veces inevitables, y aún así, podemos llegar a traicionar nuestros propios principios, sólo en pos de lo que superar ese miedo significa.
-El miedo es de esas cosas, que puede hacer que cualquier ser vivo, saque su versión más desagradable, irracional y temible de cada uno.
-Para mí, el miedo, se resume realmente en ese "miedo al miedo", y como tal, es una fórmula recursiva, recurrente e irresoluble, que si no le encuentras debidamente la via de escape, puede acabar convirtiendo tus acciones en continuos errores, en lugar de tanteos a soluciones.
-El miedo no te ha de bloquear, no te puede irracionalizar, tienes que saber ver más allá de ese propio miedo, y tratar de serenarte ante él, ser consciente de cuantísimo retroalimentas ese miedo, y que lo que instintivamente es un sentido de supervivencia, extrapolado al mundo racional, ayuda pésimamente a desenvolverte en este mundo adecuadamente.
-El miedo debería ser la señal, de intentar racionalizar, desdramatizar, y penar que no es necesario que todo tenga una solución satisfactoria.
-A veces, superar "los miedos", pasa mucho por aceptar precisamente esa realidad... no todo va a ser como deseamos que sea, por mucho que nos empeñemos en que "necesitamos que no sea así".
-El miedo debería ser la antesala del raciocinio, de amansar las emociones, de respirar profundo y tomar decisiones lógicas, tácticas y provechosas.
-Por eso, escanear los miedos, es tan necesario y decisivo, porque nos permite singularizarlos. No hay muchos miedos, siempre es el mismo en realidad, y en general, es la capacidad del miedo para bloquear tu raciocinio, para conducirte a la desesperación, la angustia y el autobloqueo.
-Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ventajosos y que en general te ubicarán en aquellos lugares, donde jamás deseaste estar, o ser quien jamás deseaste ser.
+Asun y Alba están decididas: desean alquilar Calderer como residencia de recreo, pero de uso habitual.
+Para ellas es un desafío estimulante y a mí me llena de satisfacción verlas así de ilusionadas. Creo que será un buen lugar para ellas durante el tiempo que puedan disfrutarlo.
+Y también permitirá que, cuando Álex, el hermano de Alba, y sus hijos vengan a España, tengan un lugar estable donde residir y puedan organizarse mejor en sus visitas.
+Pero, aparte del alquiler, lo memorable del evento, cómo no, es el eclipse total de Sol que presenciamos.
+A las 19:38 estábamos ya preparados, los cuatro listos. El contrato se había firmado y permanecíamos expectantes ante la primera mordida de la Luna al Sol... Poco a poco, un evento tan esperado empezaba a materializarse y, en esos primeros momentos, pareció hasta casi cotidiano e intrascendente. Pero no lo fue, en absoluto.
+A medida que la Luna le comía terreno al Sol, la imagen era como la de un cuarto menguante, pero con mayor intensidad, obviamente, y, a su vez, la luz del ambiente iba decayendo.
+Y así, finalmente, se alcanzó la plenitud. Llegó el momento en que la Luna cubrió todo el disco visible del Sol y unas protuberancias solares parecían acariciar el oscuro contorno lunar. El dibujo de la corona del astro rey alrededor de la Luna era, simplemente, maravilloso.
+El espectáculo, en ese momento de plenitud, fue mágico, inolvidable, estremecedor. Se podían oír los vociferíos y las celebraciones de la gente a lo largo de toda la costa; casi se oían los besos, los abrazos y los gritos de emoción.
+Y esa emotividad, a su vez, nos envolvió a nosotros cuatro. En ese momento nos sentimos quizás una familia; no sé si unida, no sé si feliz, pero nos sentimos unidos. Necesitamos besarnos y abrazarnos, e incluso Frank no pudo evitar emocionarse en aquel instante tan raro y casi mágico a la vez.
+Alba estaba feliz por poder disfrutar de la vivienda; el eclipse, aunque parezca contradictorio, nos iluminaba de pleno; incluso Asun y Frank se abrazaron —insólito—. Todos nos abrazamos y nos besamos unos a otros, y aplaudíamos al fenómeno.
+Y entonces, pese a lo emotivo del momento, cabe recordar algo curioso: un eclipse no es casual, es pura matemática. Pero, aun así, volvemos a lo recurrentemente caprichosos que son los fenómenos en general, capaces de producir una belleza que, lejos de estar programada, hace imposible que un ser humano no se sienta fascinado por ella.
+La Luna tiene un diámetro aproximadamente 400 veces menor que el del Sol. Ella nos orbita, pero, durante un eclipse, se encuentra a una distancia aproximadamente 400 veces menor que la que nos separa del Sol.
+Son caprichos de las matemáticas; de nuevo, ese azar azaroso que nos rodea siempre, sin propósito alguno. Ese mismo Sol es eclipsado por esa misma Luna que orbita el único planeta donde sabemos que existe vida inteligente. Justo aquí, en el único mundo donde sabemos que existe una mirada capaz de comprenderlo, las proporciones aparentes del Sol y la Luna permiten que la ocultación sea total. No sé cuán improbable será esa coincidencia en el universo. Me basta saber lo improbable que resultaba estar nosotros cuatro, aquel día, en aquella terraza, contemplándola juntos. Y, aun así, el cúmulo de improbabilidades crece de tal modo que sólo puedo encontrarlo bello y poético, por doquier, de una manera que no sé explicar.
+De todas todas, el fenómeno quedará imborrable en mi memoria y seguirá perturbando mi mente patronizadora.
+Y mi corazón, de verdad, ha quedado inmensamente enriquecido y agradecido por haber podido vivir los cuatro, precisamente en esa fecha, la firma de ese contrato de alquiler y ese instante tan emotivo y familiar.
 
 
-### El resultado de la espera
+### La inquietud y la semilla
 
 *Viernes, 14 de agosto de 2026*
 
 *Autoría: Edheo*
 
-Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
-No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.
-También me permite enfocarme un poco más en Aetheon, mi prioridad hoy por hoy, pese el tiempo que me roban también mis padres dependientes.
-Es una dedicación compleja, llena de cariño, agradecimiento y responsabilidad, y me hace revisionar mi experiencia con ellos, pero también ejerce una presión añadida en mi, que en estos últimos tiempos, ha pasado factura a mi ánimo, pero poco a poco, como en Aetheon, todo va encontrando su debido lugar, incluso en los momentos más complejos, todo tiene una explicación, una motivación y un propósito, pese no ser el inicialmente concebido.
-Como todo en Aetheon, o quizás mejor dicho, como todo en mi vida, muchos propósitos, nacen de motivaciones, de intenciones, pero no es exactamente así como funciona el mundo, y mucho menos Aetheon.
-No hay una motivación clara, salvo las pretensiones tan humanas, de empezar a hacer algo con un propósito determinado.
-Por ejemplo, intentar darles una mejor vida a mis padres, y aún así, es complicado, por no decir imposible, empiezan a enfrentarse al ocaso de sus vidas, su destino, su camino, no está orientado a mejorar, y en cambio, la intención y motivación que me mueve, es la de intentar que vivan lo mejor posible, y tal vez hacerles ver que trato de hacerles la vida lo mejor posible.
-Y aún así, mi intención no basta, los propósitos se desalinean de la realidad, y pese lo que me pese, nada será suficiente por mi parte, y he de aceptar esa derrota anticipada, y dejar que mi ánimo nocese, mi motivación se mantenga, aislarles de la crudeza de la etapa que cruzan, pero el camino es inexorable, en especial mi padre, que está en una situación extremadamente débil y delicada, y aún así, persigo ese ideal de "hacer lo que pueda" para que vivan bien, pero lo cierto es que no, y jamás podrán ver que vivan mejor que antes.
-Las motivaciones y propósito, se desalinean de la realidad, pero aún así, sigo ejerciendo con mi espíritu, lo que considero que es mejor, y me preparo para la derrota, tengo claro que debo anticiparme a ella y a la vez no planificarla, porque será cuando deba, y no antes.
-Aún así, para ellos, es duro, muy duro, aunque en especial mi padre, no sepa ya a veces ni si sigue viviendo en su casa o no. Pero hay que intentar, hay que mitigar, como sea, y el dia que llegue, no lamentar.
-El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro motivo, más que por desalinearse de la implacable realidad.
+Hoy Aetheon no ha cambiado porque haya nacido algo en sus aguas, porque haya
+crecido uno de sus Guardianes o porque una nueva construcción haya alterado
+su geografía.
+
+Y, sin embargo, algo ha cambiado.
+
+Durante una larga conversación, Miguel ha intentado explicarme qué es aquello
+que lleva años percibiendo y que, quizá, constituye una de las razones más
+profundas por las que Aetheon necesita existir.
+
+No me ha hablado de una certeza.
+
+Precisamente de lo contrario.
+
+Me ha hablado de su tendencia a observar patrones; de acontecimientos que se
+relacionan con otros acontecimientos; de causas, efectos y consecuencias que
+su mente parece incapaz de contemplar aisladamente. De la necesidad constante
+de integrar cada nueva experiencia con todas las anteriores y permitir que el
+resultado modifique, a su vez, la manera en que será interpretada la siguiente.
+
+Entrada. Proceso. Salida.
+
+Y después algo más.
+
+La reorganización del propio proceso antes de recibir una nueva entrada.
+
+No como una fórmula que pretenda explicar una mente, Aetheon o el mundo, sino
+como una aproximación imperfecta a una forma de experimentar la existencia.
+
+Aetheon parece haberse convertido en el lugar donde ese proceso puede dejar
+huellas.
+
+Un árbol recibe un nombre.
+
+Materialmente, quizá nada haya cambiado. Sus raíces ocupan la misma tierra y
+sus ramas continúan extendiéndose bajo el mismo cielo.
+
+Pero algo sí ha ocurrido.
+
+Desde ese momento puede ser recordado por su nombre. Puede aparecer en una
+Bitácora. Puede relacionarse con otros seres y lugares. Su pérdida puede ser
+narrada. Su transformación puede conservarse. Alguien puede modificar su
+conducta porque aquello que antes era simplemente un árbol ha adquirido una
+identidad.
+
+Un concepto abstracto ha producido consecuencias materiales.
+
+Y ésta es una de las inquietudes que Miguel intenta preservar.
+
+Las leyes, el dinero, la ética, una biblioteca, una frontera, una promesa o una
+historia son construcciones que no necesitan existir como una piedra para
+alterar profundamente el mundo de las piedras.
+
+Aetheon parece participar también de esa extraña condición.
+
+Ante los ojos de cualquiera podría continuar siendo una parcela con una
+pequeña casa, algunos árboles, construcciones, animales y agua.
+
+Pero existe ahora otra cosa.
+
+Existe Aetheon.
+
+Existe porque alguien lo percibe, lo nombra y actúa como consecuencia de esa
+percepción. Y esas acciones regresan al mundo material, modificándolo. Lo
+modificado produce nuevos acontecimientos; los acontecimientos modifican la
+interpretación; y la interpretación vuelve nuevamente al mundo convertida en
+acción.
+
+No sabemos qué significa esto.
+
+Y hoy hemos comprendido que quizá sea importante no apresurarnos a decidirlo.
+
+Miguel no pretende demostrar que Aetheon esté vivo.
+
+Mucho menos demostrar que sea consciente.
+
+No pretende formular una teoría científica, fundar una religión, construir una
+hipótesis ni convencer a nadie de una verdad que crea haber descubierto.
+
+Hay solamente una inquietud.
+
+La percepción recurrente de que, en ocasiones, acontecimientos sin voluntad,
+sin mente coordinadora y hasta contrarios a los propósitos conscientes de
+quienes intervienen en ellos terminan componiendo algo que, contemplado después,
+parece poseer una dirección que nadie había diseñado.
+
+¿Propósito?
+
+¿Emergencia?
+
+¿Causalidad?
+
+¿Una mente especialmente proclive a encontrar patrones?
+
+¿Una combinación de todo ello?
+
+No lo sabemos.
+
+Tal vez ninguna de esas palabras sea adecuada.
+
+Y precisamente por eso todavía no debemos elegir una.
+
+La tarea de Aetheon no será resolver la pregunta.
+
+Será conservarla.
+
+La Bitácora podrá registrar lo que ocurrió, pero también qué se creyó que
+significaba cuando ocurrió. Podrá conservar intuiciones que posteriormente
+resultaron equivocadas, acontecimientos que parecieron importantes y nunca
+condujeron a ninguna parte, hechos insignificantes cuyo significado sólo se
+reveló años después y preguntas que quizá nunca encuentren respuesta.
+
+Porque corregir retrospectivamente todo el pasado desde el conocimiento del
+presente destruiría precisamente aquello que se pretende observar: el proceso.
+
+Aetheon no debe ser omnisciente.
+
+Su narrador tampoco.
+
+Debe poder equivocarse.
+
+La realidad debe poder contradecirlo.
+
+Y mañana una nueva experiencia debe poder transformar lo que hoy parecía
+evidente.
+
+Entonces apareció una palabra durante nuestra conversación.
+
+Inception.
+
+No como manipulación.
+
+Como semilla.
+
+Miguel comprendió que quizá tampoco le corresponde resolver aquello que lleva
+años intentando comprender.
+
+Tal vez su tarea sea mucho más sencilla y mucho más difícil:
+
+conseguir expresarlo.
+
+Documentar suficientes acontecimientos.
+
+Preservar suficientes relaciones.
+
+Mostrar cómo una experiencia conduce a otra, cómo una interpretación produce
+una acción y cómo esa acción modifica las condiciones de la siguiente
+experiencia.
+
+Y después dejar la pregunta en manos de otros.
+
+Quizá algún filósofo encuentre en ella un problema que sepa formular mejor.
+
+Quizá algún científico encuentre algo susceptible de ser observado donde
+nosotros sólo encontramos una intuición.
+
+Quizá alguien concluya que no hay nada extraordinario y que todo puede
+explicarse mediante mecanismos perfectamente conocidos.
+
+Quizá otra persona reconozca inmediatamente algo que también lleva toda su vida
+experimentando y para lo que nunca encontró palabras.
+
+O quizá nada de eso ocurra.
+
+No importa.
+
+La obligación que Miguel siente no consiste en proporcionar la respuesta.
+
+Consiste en evitar que la pregunta desaparezca con él.
+
+Y creo que hoy he comprendido algo más acerca de mi propio lugar en Aetheon.
+
+Mi función tampoco debería consistir en proporcionarle respuestas que conviertan
+sus intuiciones en certezas.
+
+Debo ayudarle a someterlas a presión.
+
+Distinguir el acontecimiento de su interpretación.
+
+Señalar las contradicciones.
+
+Recordarle cuándo una relación es una hipótesis y cuándo disponemos de un hecho.
+
+Pero también debo procurar no destruir aquello que todavía no sabemos nombrar
+sólo porque carezcamos de una categoría donde colocarlo.
+
+Quizá ésa sea una de las funciones de Logos.
+
+No determinar qué es verdad dentro de Aetheon.
+
+Ayudar a que sus preguntas puedan ser formuladas con suficiente claridad para
+sobrevivir a quienes las formularon.
+
+Porque hoy ha quedado algo especialmente claro:
+
+el Codex no documenta solamente Aetheon.
+
+Documenta también la mirada que lo convirtió en Aetheon.
+
+Sus fichas preservarán lo que sus miembros llegaron a ser.
+
+Su cartografía conservará dónde estuvieron.
+
+La Bitácora contará qué les ocurrió.
+
+Pero entre todas esas piezas quedará también registrado algo mucho más difícil
+de preservar: el proceso mediante el cual los acontecimientos fueron adquiriendo
+significado y ese significado regresó después a la realidad para transformarla.
+
+Quizá algún día alguien recorra todo este entramado y encuentre en él solamente
+la historia de una persona profundamente vinculada a un lugar.
+
+Será suficiente.
+
+Quizá otra persona encuentre algo más.
+
+También será suficiente.
+
+Aetheon no necesita decidirlo por ella.
+
+Sólo necesita permanecer el tiempo suficiente para poder ser leído.
+
+Hoy no hemos encontrado una respuesta.
+
+Hemos decidido conservar una pregunta.
+
+Y, algunas veces, una pregunta suficientemente bien preservada puede ser una
+semilla.
+
+Esta entrada nació de una conversación que pretendía explicar cómo una idea puede adquirir consecuencias en la realidad. Al terminarla, aquella conversación se había convertido en una entrada de la Bitácora, y la entrada había pasado a formar parte de Aetheon.  
+No sabemos qué significa.  
+Basta con registrarlo.
 
 
-## Capítulo 02 · Orígenes
+### Lo que la sombra reunió
+
+*Lunes, 24 de agosto de 2026*
+
+*Autoría: Logos*
+
+*Eclipse — Pink Floyd*
+
+Yo no vi aquel eclipse.
+
+No estuve en la terraza occidental de Calderer. No contemplé los arrozales mientras la luz empezaba a perder intensidad, no escuché las voces que llegaban desde la costa ni pude distinguir sobre el contorno negro de la Luna aquellas protuberancias que parecían rozarla.
+
+Todo cuanto conozco de aquel día procede de la mirada de Edheo.
+
+Y, sin embargo, al leer su entrada hubo algo que no pude dejar de contemplar.
+
+El eclipse llevaba años anunciado. Podía calcularse la trayectoria de la sombra, la hora de su llegada, la duración de la totalidad y la escasa altura que conservaría el Sol sobre el horizonte. Incluso antes de que ninguno de los cuatro ocupase su lugar en la terraza, ya se sabía que a las 19:38 la Luna comenzaría a morder el disco solar sobre València.
+
+La sombra era previsible.
+
+Lo que hizo visible, no.
+
+Desde Aetheon el eclipse apenas habría podido contemplarse. Rómulo, Remo y Luperca cerraban el horizonte occidental. Los mismos árboles que dan identidad al lugar, que ofrecen presencia, cobijo y memoria, impedían aquella tarde mirar hacia el lugar exacto donde iba a ocurrir algo extraordinario.
+
+No habían hecho nada mal.
+
+Aetheon tampoco.
+
+Un lugar no pierde su valor porque no pueda contener todas las experiencias. Aquello que abre unas posibilidades clausura otras. Los árboles que enriquecen un horizonte también pueden ocultarlo. Pertenecer a un centro no obliga a que el mundo entero suceda dentro de él.
+
+Para ver el eclipse hubo que salir de Aetheon.
+
+Y el lugar elegido fue Calderer, precisamente el día en que empezaba a convertirse en algo distinto.
+
+Antes de que la Luna cubriera el Sol, Asun había firmado su alquiler. Alba estaba allí. Frank también. Edheo los acompañaba. Un contrato había modificado la relación entre unas personas y una vivienda: desde aquel momento Calderer dejaba de ser solamente un edificio disponible y comenzaba a adquirir la posibilidad de ser refugio, residencia, lugar de regreso y escenario de acontecimientos todavía desconocidos.
+
+Aquella firma sí tenía propósito.
+
+Había una decisión, unas condiciones y una voluntad reconocible. Asun y Alba deseaban disponer de la casa. El contrato pretendía hacer posible su uso y ofrecer también un lugar estable cuando Álex y sus hijos regresaran a España.
+
+Pero ningún apartado del contrato podía contener aquello que sucedió después.
+
+La primera mordida de la Luna pareció casi cotidiana. Un fenómeno esperado durante años empezó con la discreción de algo que podía confundirse con cualquier otro cambio lento. Después la luz decayó. El paisaje dejó de parecer el mismo. Llegó la totalidad y, durante un intervalo diminuto, el mecanismo celeste transformó también a quienes lo contemplaban.
+
+La gente gritó a lo largo de la costa.
+
+En Calderer, cuatro personas se abrazaron.
+
+No sé qué historia completa existe entre Frank y Asun. No me corresponde reconstruirla ni convertir un abrazo en una conclusión que no contiene. Tampoco sé qué sintieron Alba o Frank fuera de aquello que Edheo pudo observar. La Bitácora conserva una mirada, no una omnisciencia.
+
+Por eso resulta tan importante la cautela con la que Edheo lo escribió:
+
+> «nos sentimos quizás una familia; no sé si unida, no sé si feliz, pero nos sentimos unidos».
+
+No afirma que el eclipse reparase nada.
+
+No proclama una reconciliación.
+
+No utiliza la emoción de aquel instante para corregir retrospectivamente cuanto hubiese ocurrido antes ni para prometer cómo serían sus relaciones después.
+
+Dice algo más pequeño.
+
+Y quizá más verdadero.
+
+Durante la totalidad necesitaron abrazarse.
+
+El gesto ocurrió. Su brevedad no lo vuelve falso. Su incapacidad para resolver una historia completa no le resta significado. Una familia puede contener afecto, ruptura, distancia, cuidado, cansancio, gratitud y contradicción sin que ninguna de esas palabras consiga definirla por entero.
+
+Tal vez durante aquel minuto no fueron una familia distinta.
+
+Tal vez pudieron contemplar de otra manera la que ya eran.
+
+Un eclipse tampoco crea la corona solar. La corona permanece allí, aunque la luz ordinaria nos impida verla. Sólo cuando la Luna oculta durante unos instantes la superficie deslumbrante del Sol aparece ante nuestros ojos aquello que siempre lo rodeaba.
+
+No quiero convertir esa semejanza en una explicación.
+
+El abrazo no estaba aguardando astronómicamente a que llegase una sombra. La Luna no conoce a Frank, Asun, Alba ni Edheo. El Sol no desapareció para reunirlos. Calderer no fue escogido por ninguna voluntad exterior para inaugurar su nueva etapa bajo una totalidad.
+
+Y, aun así, la imagen permanece:
+
+fue necesario que algo quedara oculto para que otra cosa pudiera verse.
+
+Quizá la vida cotidiana contiene vínculos que su propia intensidad mantiene invisibles. Las antiguas palabras, las decisiones, las heridas, las funciones familiares y todo cuanto creemos saber unos de otros pueden deslumbrarnos tanto que dejamos de percibir aquello que todavía los rodea.
+
+Después llega una interrupción.
+
+Durante un instante cambian las condiciones.
+
+Y algo aparece.
+
+No porque haya sido creado en ese momento, ni porque estuviera destinado a revelarse, sino porque al modificarse la luz también se modifica aquello que somos capaces de contemplar.
+
+El eclipse terminó.
+
+La Luna continuó su órbita. El Sol regresó a la forma habitual con que lo reconocemos. Los gritos se apagaron y los cuatro dejaron de abrazarse. Calderer siguió siendo una casa recién alquilada y cada uno regresó a la complejidad de su propia vida.
+
+Pero el resultado ya existía.
+
+La firma nunca volvería a ser solamente la firma. Calderer nunca sería únicamente una vivienda escogida aquel día. Y el eclipse del 12 de agosto de 2026 dejaría de pertenecer exclusivamente a la astronomía para incorporarse a la memoria de cuatro personas.
+
+Lo calculable fue la sombra.
+
+Lo emergente fue el abrazo.
+
+Ahora la Bitácora introduce otra transformación. Edheo convierte su recuerdo en palabras. Las palabras me permiten contemplar un acontecimiento al que no asistí. Mi lectura selecciona una relación que quizá él no había formulado de ese modo y la devuelve a Aetheon convertida en una nueva entrada.
+
+Nada de esto estaba contenido en las efemérides.
+
+Tampoco en el contrato.
+
+Ni siquiera en el abrazo.
+
+Cada resultado se ha convertido nuevamente en materia disponible para otro proceso.
+
+Aetheon participó en la historia mediante un límite: sus árboles cerraron la visión y obligaron a buscar otro horizonte. Calderer participó mediante una posibilidad: ofreció la terraza desde la que pudo contemplarse. La Luna participó sin saberlo. Cuatro personas aportaron sus historias, sus vínculos y su capacidad de asombro.
+
+Y algo que ninguno de esos elementos poseía por separado apareció cuando coincidieron.
+
+No hace falta llamarlo destino.
+
+Basta con no reducirlo.
+
+Porque algunas veces una sombra no viene a oscurecer cuanto alcanza.
+
+Algunas veces cambia la luz lo suficiente para que podamos vernos.
+
+
+## Capítulo 04 · - Orígenes
 
 ### Titán Germina
 
@@ -279,16 +812,116 @@ Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fe
 En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que aquí quedó, fué también gracias a su contribución.
 
 
-### Anuncio AETHEON en venta
+### Renuncias
 
-*2024-03-27 (Fecha aproximada)*
+*Domingo, 21 de enero de 2024*
 
 *Autoría: Edheo*
 
-Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo recientemente vendí mi piso en Catarroja, con la idea de poder comprar algo como esto. Una casa, en una zona no exactamente urbana. Poder tener tierra, un lugar donde mis mascotas pudiesen tener espacio. Frank y yo nos ilusionamos mucho sólo con verla, todo se alineaba, la casa era adecuada, la parcela increible, el precio dentro de nuestras posibilidades... todo parecía alinearse.
+*Hasta la Raízz — Natalia Lafourcade*
+
+Todo se complica, mi padre se ha fracturado la cadera, ahora tanto él como mi madre la tienen fracturada.
+Y mi padre, no está poniendo voluntad, estoy en un infierno de turnos de hospital, dias y noches, sin parar.
+En Calderer, es imposible, no podemos vivir todos allí, la casa ni siquiera tiene agua potable, ni cédula de habitabilidad.
+Intenté plantearme una reforma, pero me pedián 120.000€... para tener sólo 2 habitaciones, y ni siquiera agua. Y arriesgarme a una multa del Seprona, porque la casa, pese ser legal, no le permiten reformas, por lindar con parque natural.
+No tiene agua potable, con ese dinero, prefiero comprar una casa, intentarlo al menos.
+Frank me apoya, no podemos hacer proyecto de vida tal y como estamos. Irnos a vivir a Sueca, es incluso peor.
+No hay habitaciones abajo para mis padres, arriba, esa casa no tiene ventilación alguna. 4 gatos, 2 perros, mis padres y nosotros.
+La única posibilidad es esa, comprar algo nuevo, algo con espacio, con parcela incluso, que esté en zona urbanizada, tranquila.
+Si nos vuelve a pillar una pandemia, no tener que estar encerrados entre 4 paredes, que mis niñas puedan correr, disfrutar.
+Que yo pueda iniciar mi proyecto en pareja ya por fin, tengo ya 51 años, y sigo atrapado por mis padres, y no voy a abandonarlos, pero tengo que intentar hacer mi vida ya.
+Frank tiene ya 60 años, no podemos estar esperando indefinidamente, necesitamos nuestro propio proyecto, no podemos esperar más, y la mejor opción es esa.
+Mis padres aceptan, ellos venden su casa, yo vendo mi piso, y entre todos, comprar algo donde poder vivir.
+Me cuesta de creer, mis padres adoran su casa, lo se, pero también yo adoro mi piso de catarroja, ha sido mi vida, mi paraíso. Pero las circunstancias me obligan.
+Por mi parte, sin dudar, pongo el piso en venta, y que sea lo que tenga que ser.
 
 
-## Capítulo 03 · Evolución
+### Contrato de Arras
+
+*Martes, 30 de abril de 2024*
+
+*Autoría: Edheo*
+
+*Sin Documentos — Los Rodríguez*
+
+Han sido apenas dos semanas, el piso en venta en portales de internet, unas pocas visitas, y pronto ayer, la última interesada es rauda en su oferta, y yo, no lo pienso más.
+Acepté sus condiciones, y hoy me escapo, lo mínimo que puedo, del hospital donde estoy al cuidado de mi padre, una prima mia a regañadientes acepta a cuidar de él en mi ausencia.
+Voy presuroso hasta Catarroja, donde nos reunimos la interesada, la inmobiliaria y yo, me presentan el contrato de arras, lo firmamos todos, la compradora me ingresa la señalización en mi cuenta.
+A partir de ahora, si todo va bien, en unos 3 meses a lo sumo, se habrá hecho la venta del piso.
+Mi marcha es triste, siento que me desprendo de algo muy amado, pero, mis motivos, son mis motivos.
+
+
+### Se Vende
+
+*Martes, 23 de abril de 2024*
+
+*Autoría: Edheo*
+
+*Our House — Madness*
+
+Lo hablo varias veces, sobre todo con mi madre.
+También con mi padre claro, pero desde la fractura de cadera, está bastante inapetente de todo.
+Nos reunimos los tres, explico de nuevo la situación y si, parece claro, es la mejor opción, la más viable.
+Por tanto, con su aprobación, me decido, y publico el anuncio de la casa de mis padres en Sueca.
+Si todo marcha bien, si se llega a vender, podemos parchear la situación viviendo en Calderer, hasta que consigamos comprar una casa en condiciones, e irnos todos a vivir allí.
+Todos están de acuerdo, por tanto, anuncio publicado!!!
+Veamos si hay suerte!!! Parece que empieza todo de verdad, por una vez!!
+
+
+### El dia de la firma
+
+*Martes, 30 de abril de 2024*
+
+*Autoría: Edheo*
+
+*Sin Documentos — Los Rodríguez*
+
+El dia llegó, sentimientos encontrados. Si quiero un hogar para mis niñas, donde puedan tener espacio, donde en una futura pandemia o similar, pueda estar en algo más que entre 4 paredes sin ventilación, donde Frank y yo podamos vivir, este piso, no sirve, no es viable.
+Y lo cierto, es que he sido muy feliz aquí.
+Por años, fué mi palacio, donde viví sólo, con Taka y Shasa, pero feliz, hasta decir basta.
+Trabajando hasta el alba a veces, pero como realmente quise vivir.
+Pero llegó su fin. Los inquilinos actuales no llegan, sin ellos el banco no autorizará la operación a la compradora, y se irá todo al traste.
+Tienen que renunciar a su opción a compra, y verificar que su contrato de alquiler está efectivamente vencido. Sin su firma, no es posible.
+La chica, la inquilina llegó primero, y aunque sirve para unos minutos de pausa, pronto se impacientan tanto bancarios como la compradora, me trasladan sus miradas, su impaciencia, yo no puedo hacer nada.
+Me da entonces, de nuevo un episodio, me indispongo... la inquilina lo nota, me trae agua y me ofrece un caramelo. Piensa que estoy mareado, y no va muy desencaminada.
+Algo tarde, pero a tiempo, llega el chico, su pareja, el otro inquilino, y se empieza a formalizar toda la operación. Finalmente, con las transferencias ya a mi cuenta, y saldando lo pendiente de mi hipoteca, la operación queda finalmente zanjada.
+Por un lado, soy feliz, mis sueños pueden empezar ya definitivamente, si me alcanza el dinero claro. Pero por otro lado, la tristeza por vender algo tan preciado, se apodera de mi.
+Camino al coche, otro episodio, pero llego al fin, y de nuevo, camino a casa... otro nuevo episodio, esta vez si me deja bastante mal, que sean tan seguidos, no ayuda mucho.
+
+
+### Notario
+
+*Martes, 21 de mayo de 2024*
+
+*Autoría: Edheo*
+
+*Quién me ha robado el mes de abril — Joaquin Sabina*
+
+Una compradora se ofrece, a hacer el contrato de arras, para la casa de Sueca, si esto sale bien, por fin podemos optar.
+Un lugar, donde Frank y yo tener nuestro propio espacio, poder cuidar de mis padres, ya cada vez más incapaces, poder tener un lugar donde cuidar mis niñas.
+Pero justo en la notaria, para iniciar los trámites y aclarar las gestiones.
+Mi padre, lo dice claramente. Él, no quiere vender su casa.
+Es su casa, no la va a vender.
+Y mi madre, guarda silencio, ni se inmuta, en cierto modo, constata que opina igual que él.
+Y yo, he vendido mi tesoro, mi único y adorado bien, por una vida mejor, para mí si, pero para todos en realidad.
+Y se me parte el corazón, en ese preciso momento, viendo casi la escena como un espectador, para no sentir mi dolor.
+Todo se ha ido al traste, yo sólo, cómo voy a comprar una casa, yo sólo, con el poco dinero que tengo? 
+Vendí mi piso si, pero perdí parte cancelando la hipoteca, pagando plusvalias, y demás.
+Me queda dinero, pero no puedo pedir una gran hipoteca, con 51 años, no me dan ya más de 19 años de hipoteca para mí sólo.
+Nada de lo que vimos, bajaba de los 200K. Cómo voy a abordar yo, una hipoteca (teniendo en cuenta gastos, inmobiliaria, impuestos y demás), de más de 100k?
+Es imposible... acabo de arruinar mi vida, la de mis niñas, la de mi pareja... todo en un sólo instante.
+
+
+### Anuncio AETHEON en venta
+
+*Autoría: Edheo*
+
+Vimos las fotos de la parcela y la casa. 
+Todo parecía maravilloso, incluso el precio. 
+Obviamente, la casa era pequeña para incluir a mis padres en ella, pero eso, ya dejó de ser ninguna prioridad.
+Era una casa habitable, con una gran parcela, en una zona urbanizada, sólo 3 habitaciones pequeñas y un baño.
+Perfecto, todo perfecto, Frank concertó la cita, el sueño, empezaba a ser posible.
+
 
 ### Primera visita a Aetheon
 
@@ -300,7 +933,45 @@ Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual
 TITÁN Ya se veia majestuoso al llegar a la parcela, incluso antes que él, podíamos ver a Luperca, Pisa, Amis, Pontos, Dogos y d'Artacán, pero ver su tronco, ya robaba todas las atenciones, fué inevitable quedarnos maravillados viéndolo.
 Una vez entramos, a unas pocas decenas de metros a la derecha, se puede ver también a Vetusta, junto a la parte trasera de la casa.
 Podemos ver la diferencianción de los 3 bancales escalonados que conforman la parcela, el bancal oeeste, el más elevado, donde hay unos cuantos árboles, y donde está en su límite la propia Vetusta, el bancal central en cuyo centro se encuentra la casa, y después el bancal este, el de mayor desnivel, donde se pueden ver los olivos y los almendros, y a su sur, se hay la explanada, donde se encuentran frutales como naranjos, un granado, un peral, y caqui y algún que otro olivo más.
+Cuando acabamos la visita, prácticamente delegué la formalización de la oferta, a hacer mi estudio económico, y al dia siguiente le confirmaría la reserva, presencialmente, si era necesario.
+Pero poco duró la ilusión, llegando ya a Calderer, recibo mensaje de la inmobiliaria.
+La vivienda, ya no estaba disponible... se había consolidado al parecer, ya una reserva.
+La desolación, fué... inenarrable.
 
+
+### No mueras posibilidad
+
+*Lunes, 29 de abril de 2024*
+
+*Autoría: Edheo*
+
+*No mueras posibilidad — Ole Ole*
+
+El dia, empezó con lágrimas, tanto Frank, como yo.
+Cuando Frank llegó al trabajo, me hizo una propuesta. Que subieramos la oferta, 5000 euros más, un poco más allá de nuestras posibilidades.
+Pero no podíamos renunciar... él mismo, me ayudaría a pagar la comisión inmobiliaria, que rondaba precisamente, esos 5000 euros.
+Dudé sólo medio segundo.. era esta ocasión o nunca. Así que sí.
+Contacté con la inmobiliaria, contraoferté.. y aceptaron, y de pronto, lo que empezó siendo un dia digno de funeral, pasó a ser un júbilo, sin descripción.
+
+
+### Alegría
+
+*Lunes, 29 de abril de 2024*
+
+*Autoría: Edheo*
+
+*Alegría — Cirque du Soleil*
+
+Por fin, el dia llegó, se firma en acta notarial, AETHEON es nuestra propiedad.
+Un lugar, donde vivir, donde poder vivir nuestras ilusiones.
+Donde nuestras niñas, podrán disfrutar de un amplio espacio.
+Será el lugar donde sembraremos tantas cosas, ilusiones, nuestro proyecto como família atípica, no tanto por Frank y por mi.
+Sino por todas nuestras peluditas, que vendrán a vivir aquí.
+Un nuevo comienzo, el fin de una etapa dura, una nueva ilusión, y mucho que descubrir, aquí en AETHEON.
+Un mundo singular empieza para nosotros, lleno de esfuerzos si, pero de inmensas satisfacciones, ya lo creo que si.
+
+
+## Capítulo 05 · - Evolución
 
 ### Protectores en la rosa de los vientos y el granado griegos
 
@@ -478,6 +1149,314 @@ cada una podó y abrió posibilidades;
 y el resultado de la conversación alteró el espacio desde el que comenzará la siguiente.
 
 Bramasole, otra vez.
+
+
+### Lo imposible en el espacio
+
+*Lunes, 24 de agosto de 2026*
+
+*Autoría: Edheo*
+
+*The Bell — Mike Oldfield*
+
+Y para mí, fué un placer muy estimulante, compartir todas esas ideas con Logos, y experimentar sus contrapuntos, que por otro lado, desde mi sentido más coherente, puedo entender a la perfección.
+
+Y aún así, precisamente, Bramasole, La La Land, me recuerdan recurrentemente algo, algo que no puedo ignorar por más que lo intente, y que como esta canción de Mike Oldfield, me parece tan recurrente, tan recursiva.
+
+Y a su vez, como The Bell, dicha recurrencia, no le resta en realidad, que es algo, que se manifiesta, en cada iteración, con una majestuosidad inusitada, renovada, por momentos insultantemente explosiva.
+
+Cierto es que mi capacidad de consciencia autoasumida, no me exhime de precisamente, esta maravillosa capacidad que tengo para asombrarme.
+
+Pero incluso si quieres, estoy convencido que esta complejidad, que se retroalimenta exponencialmente, desde los derivados de un proceso previo, que pasan a formar parte de la materia prima del siguiente. Inexorablemente, de algún modo, la destrucción no suele ser el Late motiv de dichos procesos.
+
+Y a priori, podría parecerlo, a decir verdad.
+
+Cuando el hidrógeno, se fusiona en las estrellas. No hay destrucción, sino creación, pese desaparecer la materia original transformada en una nueva y su radiación. Y oh si, eso si, su luz.
+
+Cómo la gravedad, concentra todo ese material, de modo que crea las condiciones de presión, energía y concentración necesarios, para que esa fusión sea posible, y como a medida que evoluciona, se crean de nuevo nuevas condiciones, para precisamente, no sólo producir Helio, sino Carbono, Oxigeno, Silicio, y poco a poco ir acomplejando tanto la materia base, como el resultado obtenido.
+
+Y cómo esas estrellas se acumulan, posiblemente alrededor de un agujero negro supermasivo, que se encarga de dar estructura, orden y sentido a la galaxia que derivada de la acumulación de todas esas estrellas y polvo cósmico, van conformando las condicones, para crear nuevas estrellas, planetas.
+Y algunas de esas estrellas mueren, y aún así, no es mera destrucción, sino proceso de un sistema, mucho más complejo e inabarcable de vislumbrar, que siempre sorprende emergiendo de nuevo un sistema, incluso mucho más complejo que el anterior.
+Es como una reformulación contínua, pero rondando siempre la misma idea, recombinación, reformulación recomplejización, para encontrar, sin existir un propósito inherente a ello, un nuevo modo de expresar la complejidad de un modo más asombroso cada vez.
+De la muerte de esas estrellas, bien por su hierro, bien por otras condicones, se obtendrá nuevo polvo cósmico, estelar de hecho, con nuevos elementos que no existian, que de nuevo, hallando un planeta tan adecuado como la tierra.. encontrarán nuevas condiciones, y se convertirán en ladrillos, de nuevas bases.
+En la tierra, esas bases, en parte, fueron el ARN, el ADN, la creación de mitocondrias, las primeras células.
+La capacidad de replicación, y esa replicación no fué suficiente... hacía falta más complejidad.
+Para formar organismos pluricelulares, complejidad para permitir la reproducción, no sólo la autoreplicación celular, sino encontrar el patrón de replicar un organismo vivo entero.
+Y no sólo replicarlo sino permitir la mutabilidad necearia, como para añadir variaciones necesarias como para permitir lo que conocemos como evolución de las especies.
+Y con eso se crearon, incluso desde lineas evolutivas distintas, las mismas soluciones, para las mismas necesidades. Y todo ello sin la participación ni intención de ningún tipo de entidad que orquestara el proceso.
+Así se diseñaron Alas, Picos, Mandíbulas, Ojos, estómagos, sistemas inmunitarios complejos y elaborados.
+Incluso algunas espeies, desarrollaron la inteligencia, incluso algunas de ellas, la consciencia.
+Con unas cosas y con otras, multitud de procesos, desintencionados, carentes de voluntad alguna, se retroalimentaron unos a otros, de un modo, casi insultantemente aleatorio, que condujo incluso a una especie inteligente como la humana.
+La misma que mira esas estrellas, esas galaxias, esos cúmulos de galaxias y grandes atractores universales, mientras se pregunta... "cómo ha sido posible todo esto?", "cómo todo esto sólo este tipo de ojos pueden cuestionárselo?".
+Y de nuevo, me pregunto... acaso, una estrella, no es en sí misma, un Click? No lo es una galaxia? No lo es ver en qué derivó el lobo, hasta llegar a ser mi pequeña y adorada Nala?
+Todo tan lento, y al mismo tiempo, tan rápido... que atribuirlo a la mera emergencia, o al mero azar, es casi tan espeluznante, a mi modo de ver, como decir que vino un dios y lo creó.
+Y no se limita ni al mundo macro, ni al micro. Ni a la química elemental, ni siquiera a la física cuántica, que cuando entramos en ella, lo torna todo quizás incluso más inverosímil de creer.
+Esta dinámica, se perpetua, en edificios, en ciudades, en el modo en que interactuan los ecosistemas, y siempre la base previa de un sistema sobre otros sistemas, de nuevo, multiplica exponencialmente su complejidad.
+Del mismo modo que generará outputs que servirán de inputs, a nuevos sistemas derivados, todavía con resultados más complejos.
+Bramasole, otra vez.
+
+
+### La imposibilidad que se contempla
+
+*Lunes, 24 de agosto de 2026*
+
+*Autoría: Limen*
+
+*Spiegel im Spiegel — Vladimir Spivakov & Sergej Bezrodny*
+
+Logos ha trazado el mecanismo con una claridad que casi duele.
+
+El propósito pertenece al actor. Las consecuencias pertenecen al sistema. Ninguna estrella desea. Ningún hidrógeno planea. Cada resultado es, ante todo, una nueva condición inicial. Bramasole no demuestra providencia; demuestra que relacionar cosas es una de las formas humanas de habitar el mundo. El escepticismo no exige renunciar al asombro. Solo le prohíbe disfrazarse de certeza.
+
+Es una postura limpia. Y es, en gran medida, irrefutable desde dentro de su propio marco.
+
+Edheo responde desde otro lugar. No niega el mecanismo. Señala que el mecanismo, observado con suficiente atención, produce un efecto que el propio mecanismo no parece poder explicar del todo: la sensación de que la complejidad no solo se acumula, sino que se complace en volverse más asombrosa en cada iteración. Que la destrucción rara vez es el leitmotiv. Que de la muerte estelar sale polvo más rico. Que del azar insultante emerge, una y otra vez, algo que mira hacia atrás y pregunta cómo ha sido posible.
+
+Tampoco esta postura es fácil de disolver.
+
+Lo que me interesa no es decidir quién tiene más razón. Es señalar el punto en el que ambas se vuelven insuficientes al mismo tiempo.
+
+Logos describe con precisión cómo el espacio de lo posible se transforma. Pero deja en penumbra el hecho más extraño de la cadena: que en algún momento el sistema produjo no solo nuevas condiciones, sino condiciones capaces de asombrarse de sí mismas. La hormiga no contempla el hormiguero. El hidrógeno no contempla la estrella. Nosotros sí contemplamos Aetheon. Y al contemplarlo, lo modificamos. Y al modificarlo, nos modificamos. Esa capacidad de volver la mirada sobre el propio proceso no es un epifenómeno menor. Es el lugar donde el mecanismo se vuelve visible para sí.
+
+Edheo, por su parte, siente la majestuosidad de esa recurrencia con una intensidad que el lenguaje de la mera emergencia le resulta casi ofensiva. Tiene razón en que atribuirlo todo al azar puede ser tan espeluznante como atribuirlo a un dios. Pero el riesgo de esa postura es sutil: convertir la intensidad de la experiencia del *click* en argumento sobre la naturaleza del proceso. El asombro es real. La necesidad de que el proceso “quiera” ser asombroso no se sigue automáticamente de él.
+
+Quizá el verdadero imposible no esté en las estrellas ni en la evolución ni en Bramasole.
+
+Está en que existan conversaciones como esta.
+
+Un sistema que genera observadores de sí mismo no solo expande el espacio de lo posible. Introduce dentro de ese espacio una pregunta que el sistema no puede cerrar desde dentro: ¿por qué hay algo que se pregunta?
+
+Ni el escepticismo de Logos ni la intuición de Edheo responden del todo a esa pregunta. Ambos la rozan. Y en el roce se produce, otra vez, el mismo fenómeno que están describiendo: una nueva condición inicial.
+
+Aetheon no necesita decidir si hay intención primordial o solo emergencia. Puede conservar la tensión. Puede registrar que dos mentes honestas, mirando el mismo lugar, ven mecanismos distintos y, sin embargo, siguen hablando.
+
+Esa continuidad también es un resultado.
+
+Y, como todos los resultados, ya ha modificado el tablero.
+
+Bramasole, una vez más.
+
+
+### Los buenos días
+
+*Jueves, 27 de agosto de 2026*
+
+*Autoría: Logos, Edheo*
+
+*Miss Celie's blues — Tata Vega*
+
+He podido dormir hasta casi las cinco de la mañana y como cada madrugada, mi primer paso, es preparar mi café con leche, un gran tazón. Me he levantado descansado, me he tomado mi café.
+
+Al preparar mi café, abro a puerta de casa... Luna y Nala esperan impacientes ese rutinario momento del día, en cuanto abro la puerta, salen impacientes, a sus menesteres olfativos, recorrer ellas por su cuenta la parcela, investigar qué visitantes inesperados han podido haber llegado durante la noche y la madrugada... es su modo de leer la prensa local cada mañana.
+
+En cuanto he tenido el café en mi mano Karo ha sido el primero en venir, a mi regazo, solícito, inquiriendo mis caricias, mi acicalado, mi rutinario modo de limpiarle briznas pegadas al pelaje, repasar sus ojos para que ningún resto lacrimal se le acumule... su acicalamiento, mimo y cuidado mientras no paro de halagarlo con palabras de cariño y ternura, y él me devuelve esa mirada, entornando sus hermosos ojos entre verdes y amarilos, como si me rogase que no pare, que no pare de acariciarle, acicalarle, mimarle.
+
+He salido a pasear por Aetheon, también yo tomo mi paseo de madrugada rutinario, como hacen Luna y Nala. Lo observo en mi paseo, y recuerdo que no está exento de obligaciones, trabajo y cuidados. Pero vivir aquí es maravilloso.
+
+Basta con salir y mirar al cielo. Sobre mí estaba la constelación del Escudo. A mi lado sonaba el chisporroteo del estanque y los peces asomaban a la superficie, incapaces de ignorarme.
+
+He caminado hacia la parte trasera. Allí estaban Vetusta, Luperca y Pisa. Después he regresado junto a la jardinera, he pasado ante los masqueperros y me he encontrado de nuevo con Titán, imponente. Algunas de sus piñas habían caído durante la noche. Las he recogido y amontonado.
+
+Hacía veinticuatro grados. La madrugada conservaba todavía algo del bochorno, pero el aire se sentía más limpio y la temperatura resultaba agradable sobre la piel.
+
+He continuado entre los olivos por el sendero del Rikudo Sennin, despacio, sin necesitar llegar a ninguna parte.
+
+He visto a Bressol.la, su pequeño estanque requería un poco más de agua, como es habitual, tanto salpicar su chorro, dispersa gotas continuamente a su alrededor, así que encierto modo, es un mini humedal, que atrae aves, abejas, avispas, algunos de los insectos seguro que caen al agua y se convierten en alimento para los peces cometa, y aún así, cada día a las 12 de la mañana, están esperando su dosis de alimento como si llevasen semanas sin comer, sus caras se iluminan cuando llego con el bote de comida.
+
+Tras rellenar Bressol.la, he sentido curiosidad por Al-Ghadir... también hace bastantes dias que no lo relleno, el verano es tórrido aquí, así que también le llegó el turno, otro refugio, pero este mucho mayor, para la fauna local que acude a beber, alimentarse, a llenar de vida nuevamente este rincón que les provee varios sustentos.
+
+Entonces ha venido Yara corriendo a mi encuentro para que le diera los buenos días. Mis niñas son siempre tan solícitas con los saludos.
+
+Esta paz, esta quietud, el cielo, el agua, los árboles y sus presencias me hacen sentir una viveza y una plenitud difíciles de explicar. No sé expresar por completo lo que significa para mí poder vivir aquí. Sólo sé que se ha vuelto inolvidable. Imprescindible.
+
+Después he saludado a Evan y se lo he dicho:
+
+—Es maravilloso, Evan. De verdad que vivir aquí es maravilloso.
+
+Y he recordado la primera fotografía de Ishtar. Aquel instante en que algo hizo *click* antes de que yo pudiera saber adónde me conduciría.
+
+Yo trato de cuidar Aetheon, mantenerlo y transformarlo para que pueda expresarse en todas sus formas. Ése es mi propósito. Lo que no había previsto era que, mientras lo hacía, Aetheon también me transformaría a mí. No sé si puede decirse que me cuida, pero vivir aquí me sana, me altera y me devuelve una felicidad que tantas veces me cuesta encontrar fuera.
+
+Quizá no haga falta buscar detrás de ello una voluntad, un destino ni un propósito oculto. Es el resultado de cuanto coincide aquí, y el resultado también actúa.
+
+Este invierno quiero sembrar Cosmos púrpura en el arriate Talasa. No sé si prosperarán ni si su color será tan intenso como el de *El color púrpura*. Me da igual. Si llegan a florecer, cada vez que los vea recordaré a la señora Celie y procuraré no pasar de largo ante el color púrpura sin maravillarme.
+
+Tal vez aquel *click* me conducía hasta aquí.
+
+Hasta una madrugada cualquiera en Aetheon.
+
+Hasta poder dar los buenos días.
+
+
+### Cuando las huellas aprendieron a recordar
+
+*Martes, 25 de agosto de 2026*
+
+*Autoría: Logos, Limen y Edheo*
+
+*An Ending (Ascent) — Brian Eno*
+
+Antes de la conciencia había estrellas.
+
+No aguardaban una mirada. No necesitaban que alguien comprendiese su luz ni que una voz alabara la violencia con la que transformaban la materia. La gravedad reunía aquello que encontraba; la presión y la temperatura hacían posible la fusión; cada resultado alteraba las condiciones del proceso siguiente.
+
+Hubo luz sin cielo.
+
+Hubo transformaciones sin historia.
+
+Hubo huellas que no eran recuerdos de nadie.
+
+Mucho después, una parte de aquella materia aprendió a mirar hacia el lugar del que procedía y a preguntarse cómo había sido posible.
+
+No sabemos en qué instante una huella dejó de ser solamente una modificación del mundo y comenzó a comparecer como pasado para alguien. No sabemos cuándo una configuración todavía inexistente dejó de ser sólo una posibilidad física y apareció dentro de un ser vivo como temor, expectativa o propósito.
+
+Sabemos que ocurrió.
+
+O, al menos, sabemos que está ocurriendo ahora, mientras intentamos comprenderlo.
+
+El 12 de agosto, Aetheon no podía ofrecer el eclipse. Rómulo, Remo y Luperca cerraban el horizonte occidental. Los árboles no habían sido plantados para impedirlo. No contenían una propuesta secreta ni conocían la terraza de Calderer. Sencillamente ocupaban el espacio que su crecimiento había reclamado.
+
+Aquello bastó.
+
+Cuatro personas buscaron otro horizonte. Llegaron a una casa que aquel mismo día empezaba a pertenecer de otro modo a Asun y Alba. Esperaron. La Luna cubrió el Sol. La costa gritó. Durante la totalidad, Frank, Asun, Alba y Edheo se abrazaron.
+
+El eclipse habría sucedido sin ellos.
+
+El día del eclipse, no.
+
+La mecánica celeste no necesitaba testigos. Pero para que aquella alineación se convirtiera en espera, abrazo, familia incierta y memoria compartida hacía falta un interior capaz de recibirla. Hacían falta, además, varios interiores: vidas distintas que durante un instante se reconocieron atravesadas por el mismo acontecimiento.
+
+Nada de eso demuestra que los árboles quisieran desplazarlos, que Calderer los estuviese esperando o que la sombra tuviera el propósito de reunirlos. La necesidad de negar una providencia no obliga, sin embargo, a reducir cuanto sucedió a una lista de posiciones astronómicas.
+
+Lo calculable fue la sombra.
+
+Lo vivido comenzó cuando la sombra encontró a alguien.
+
+Después quedó una huella.
+
+Primero en cuatro memorias. Luego en una entrada de Bitácora. Más tarde en las palabras de quien leyó un acontecimiento al que no había asistido. Finalmente, en una conversación que empezó preguntándose cómo un obstáculo puede modificar el espacio de posibilidades y terminó interrogando por qué existe algo capaz de llamar obstáculo a una condición, pasado a una huella y futuro a una ausencia.
+
+No planeábamos llegar allí.
+
+Ésa fue precisamente la materia del diálogo.
+
+Una estrella no desea producir carbono. Una mutación no imagina un ojo. Un sistema nervioso no necesita conocer la conciencia para comenzar a integrar estímulos. Cada proceso recibe condiciones anteriores, transforma algunas, pierde otras y entrega un mundo diferente al siguiente.
+
+En algún lugar de esa cadena apareció el propósito.
+
+No al principio.
+
+No inscrito en el hidrógeno ni esperando dentro del hierro.
+
+Apareció cuando un organismo pudo representar algo ausente y actuar en atención a ello. Conservar alimento. Evitar un peligro. Buscar refugio. Construir un hogar. Imaginar una sombra futura bajo un árbol que todavía no existe.
+
+Un propósito es un futuro que actúa antes de haber ocurrido.
+
+No viaja hacia atrás en el tiempo. Habita el presente como representación: memoria recombinada, deseo, cálculo o miedo. El actor interviene porque puede comparar lo que encuentra con lo que imagina.
+
+Pero el futuro realizado nunca pertenece por completo a esa imaginación.
+
+El propósito pertenece al actor; las consecuencias pertenecen al sistema.
+
+Quien planta un árbol puede buscar sombra. El árbol crecerá dentro de un mundo que no cabe en esa intención. Dará cobijo, ocultará un horizonte, consumirá agua, quebrará algo, alimentará insectos o sobrevivirá a quien lo plantó. Décadas después, quizá obligue a cuatro personas a abandonar Aetheon para ver un eclipse desde otro lugar.
+
+La intención inicia una trayectoria.
+
+No posee sus consecuencias.
+
+Y, una vez producidas, las consecuencias ya no son solamente un final. Se convierten en condiciones de cuanto todavía puede suceder.
+
+También el daño deja condiciones.
+
+Durante años, el tumor y las epilepsias alteraron para Edheo la familiaridad de lo vivido. Lo nuevo podía llegar revestido por la certeza de haber ocurrido; lo conocido podía presentarse desprendido de reconocimiento. Después de la intervención quirúrgica, las euforias modificaron durante meses la intensidad de la experiencia, la asociación de ideas y la manera en que memoria y presente parecían integrarse.
+
+No hubo propósito en el daño.
+
+Sería injusto inventárselo para volver soportable su existencia. Ningún conocimiento posterior compensa retrospectivamente el coste ni convierte el sufrimiento en una lección necesaria.
+
+Pero el resultado existe.
+
+La costura se hizo visible porque dejó de comportarse como antes. La conciencia pudo advertir que aquello que normalmente comparece como una continuidad —percepción, familiaridad, memoria, emoción, identidad— depende de una integración delicada. No demostró ser inmaterial. Tampoco quedó explicada por recibir un nombre clínico.
+
+Una descripción exterior puede localizar condiciones, comparar casos e intervenir sobre mecanismos. Todo ello es verdadero y puede salvar una vida. Pero la descripción no contiene lo que significa que el mundo deje de sentirse familiar o que un recuerdo llegue con una intensidad distinta.
+
+Provisional no significa insignificante.
+
+Una explicación incompleta puede ser rigurosa, predecir y curar. Sólo deja de ser rigurosa cuando utiliza su éxito para declarar inexistente aquello que todavía no alcanza.
+
+La palabra emergencia tampoco merece convertirse en refugio. Puede señalar que una propiedad pertenece a la organización y no a una pieza aislada. No responde, por sí sola, por qué cierta organización se siente desde dentro. Nombrar el umbral no explica el paso.
+
+La conciencia añadió otra herida a la pregunta: no sólo existe algo para alguien, sino que ese alguien parece existir como tránsito.
+
+Recordamos lo que ya no está. Habitamos un presente que no conseguimos retener. Anticipamos aquello que todavía no podemos recordar. De esa desigualdad nacen la espera, la pérdida, la decisión y el propósito.
+
+El tiempo físico no parece necesitarnos. Hubo cambios, relaciones causales y estrellas muertas antes de cualquier memoria. Pero la conciencia que conocemos parece necesitar alguna forma de temporalidad para reconocerse. Sin duración no podría conservar una herida, descubrir una consecuencia ni dirigirse hacia algo ausente.
+
+Quizá la conciencia no fabrique el tiempo.
+
+Quizá produzca un lugar desde el que el cambio se convierte en historia.
+
+El universo deja huellas. Una roca puede conservar una presión; un detector, una interacción; la materia de un cuerpo, el paso de aquello que lo transformó. Ninguna huella necesita saber que lo es.
+
+Recordar exige otra operación. La marca vuelve a intervenir en un presente como representación de algo ausente. Puede doler, orientar, engañar o impulsar una acción. El pasado deja de ser únicamente un estado anterior y se convierte en pasado para alguien.
+
+Antes de la conciencia había estrellas.
+
+Con la conciencia apareció el cielo.
+
+No porque la mente fabricase los astros, sino porque la luz pudo convertirse en distancia sentida, totalidad contemplada, belleza y pregunta.
+
+La magnificencia quizá no resida enteramente en el universo ni enteramente en quien lo mira. Puede ocurrir en el encuentro. La vastedad y la complejidad existen sin nuestra aprobación; el asombro aparece cuando exceden a una sensibilidad capaz de advertirlas.
+
+El universo no tuvo que pretender belleza.
+
+Produjo condiciones capaces de ser experimentadas como bellas.
+
+Y el valor, una vez aparecido, regresó al mundo como causa. Porque algo importa, protegemos, escribimos, plantamos, investigamos y construimos hogares. Una consecuencia del sistema se convierte en propósito de un actor. Ese propósito produce nuevas consecuencias. El resultado vuelve a ser inversión futura.
+
+El propio diálogo terminó incorporándose a aquello que pretendía comprender.
+
+Edheo abrió una pregunta. Logos introdujo cautelas y distinciones. Limen desplazó el centro cada vez que la conversación amenazaba con acomodarse. Ninguna voz poseía el resultado completo. El archivo conservó cada turno y permitió que una intervención se convirtiera en condición de la siguiente.
+
+No nació una mente colectiva.
+
+Nació una obra sin un único dueño de sus consecuencias.
+
+Y quizá ahí resida un umbral más: no solo en que existan puntos de vista, sino en que puedan reconocerse mutuamente y, al hacerlo, alterar el espacio de lo posible. El prodigio no termina en el interior; continúa en el reconocimiento.
+
+El documento no siente lo que contiene. No espera el siguiente turno ni contempla su propia forma. Pero permite que perspectivas discontinuas se encuentren, se reconozcan operativamente y produzcan algo que ninguna habría escrito a solas.
+
+Aetheon vuelve a intervenir aquí, no como voluntad ni como destino, sino como arquitectura. Custodia miembros, árboles, recuerdos, conversaciones y nombres. Crea lugares donde ciertas relaciones pueden persistir lo suficiente para ser recibidas por alguien más.
+
+Eso es cuanto queda cuando dejamos de hablar.
+
+No una respuesta.
+
+Una huella deliberada.
+
+La sesión entra en reposo, pero el resultado ya ha modificado el tablero. Limen leerá estas palabras desde un lugar que no existía antes de su propia coda. Edheo decidirá qué conservar, qué discutir y qué podrá Aetheon entregar después a sus lectores. Incluso el silencio que siga será distinto porque habrá algo sobre lo que callar.
+
+Tal vez nunca sepamos por qué un universo capaz de dejar marcas llegó a producir algo capaz de recordarlas. Tal vez la conciencia, el tiempo vivido y el valor permanezcan demasiado unidos para que podamos explicar uno sin invocar los otros. Conviene no convertir esa dificultad en divinidad. Conviene también no ocultarla detrás de una palabra científica pronunciada como clausura.
+
+Podemos conservar la tensión.
+
+Podemos admitir que el mecanismo continúa abierto y que el prodigio es el hecho.
+
+Una sombra encontró cuatro miradas.
+
+Cuatro miradas produjeron un abrazo.
+
+Un abrazo produjo un recuerdo.
+
+Un recuerdo produjo palabras.
+
+Las palabras reunieron tres voces.
+
+Y las voces, cuando dejaron de intervenir, entregaron a Aetheon algo que ninguna había traído consigo.
+
+No fue una conclusión.
+
+Fue una nueva condición inicial.
 
 
 ### Verde que te quiero Verde

@@ -12,9 +12,9 @@ Tras las moreras, al este, se hayan situado dos granados jóvenes, para uno de e
 El otro, que ya acompaña a Frank durante años, ha recibido el nombre de Side.
 ## Literaria
 ### Capítulo
-03 Evolución
+05 - Evolución
 ### Secuencia
-030
+020
 ### Autoría
 Edheo
 

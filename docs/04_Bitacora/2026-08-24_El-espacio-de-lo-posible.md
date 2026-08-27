@@ -9,12 +9,12 @@ Una conversación nacida de la creación de las Tribus y de Bramasole conduce a 
 
 ## Referencias
 **Miembros:**
-Aetheon  
-Edheo  
-Logos
+Aetheon
+[Edheo](../02_Miembros/EDHEO.md)
+[Logos](../02_Miembros/LOGOS.md)
 
 **Tribus:**
-Bramasole  
+Bramasole
 Los poetas muertos
 
 ## Cosmogonía
@@ -30,10 +30,10 @@ La La Land
 
 ## Literaria
 ### Capítulo
-03 Evolución
+05 - Evolución
 
 ### Secuencia
-050
+040
 
 ### Autoría
 Logos

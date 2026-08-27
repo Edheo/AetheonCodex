@@ -28,8 +28,23 @@ Vetusta domina visualmente la parte norte de Aetheon. Su porte hace difícil rec
 **Obra:** What Was I Made For?
 **Autor:** Billie Eilish
 **Intérprete:** Billie Eilish & FINNEAS
-**youtube:** cW8VLC9nnTo
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/cW8VLC9nnTo"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=cW8VLC9nnTo"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ### Significado del nombre
 El nombre le viene dado, por su antigüedad y por la importancia que tuvo en el pasado, siendo un lugar de gran relevancia para la comunidad de Aetheon. Pero de algún modo, ese nombre, no fue escogido para darle una significancia, sino que ha sido el transcurso del tiempo, el que ha esculpido el nombre en ella. El mero hecho de nacer en ese lugar, crecer pequeña e indefensa en un terreno que ni siquiera estaba delimitado, vulnerable a los elementos, al pastoreo, a lo largo de los siglos, y aún así, ha permanecido allí muda, silenciosa, sin pronunciarse, ha sido testigo de todos los cambios, sin protestar ni interferir, salvo por su cada vez más masiva y contundente presencia. 
 Ha visto crecer muros que delimitaban a Aetheon.
@@ -70,10 +85,25 @@ Espacio reservado para relatos, poemas y literatura.
 Fecha desconocida	-	En algún momento de algún siglo más o menos reciente, más bien antiguo, un algarrobo germnó en este terreno, seguramente una semilla accidental, quizás hubo muchos más algarrobos entonces, o quizás sólo fue un gorrino o jabalí que la trajo aquí en su aparato digestivo, la cuestión es que, Vetusta, germinó entonces aquí.
 2024-04-28	-	Primera vez que visitamos la parcela, sobre las 7 de la tarde, justo al entrar, y girar la cabeza a nuestra derecha, se la ve visible, vieja, monumental, y aún así algo ajada, incluso abandonada, pero sana y vital, plagada de chupones muy crecidos ya, que impedian poder ver siquiera su magna sueca.
 2024-07-16	-	Se ha realizado una primera inspección visual, y se ha determinado que el árbol está en buen estado, aunque con algunas ramas dañadas, posiblemente por roedores. Se ha decidido realizar un seguimiento periódico para evaluar su evolución y tomar medidas si es necesario.
+
+<!-- BEGIN GENERATED MEMBER JOURNAL -->
+### Entradas relacionadas
+
+- *Domingo, 28 de abril de 2024* — [Primera visita a Aetheon](../04_Bitacora/2024-05-28_Primera-visita.md)
+- *Jueves, 27 de agosto de 2026* — [Los buenos días](../04_Bitacora/2026-08-27_Los-buenos-dias.md)
+<!-- END GENERATED MEMBER JOURNAL -->
+
 ## Recursos
 
 ## Media
-images/2026-08-17-Vetusta.jpeg
+
+<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
+  <button class="aetheon-gallery__item" type="button"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Vetusta.jpeg" data-alt="2026 08 17 Vetusta"
+          aria-label="Ampliar 2026 08 17 Vetusta">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-08-17-Vetusta.jpeg" alt="2026 08 17 Vetusta" loading="lazy">
+  </button>
+</div>
 
 ## Croquis
 

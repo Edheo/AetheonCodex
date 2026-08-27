@@ -18,7 +18,7 @@ MARA
 NALA
 TAKA
 SHASA
-EDHEO
+[EDHEO](../02_Miembros/EDHEO.md)
 ## Cosmogonía
 ### Musical
 **Obra:**
@@ -28,13 +28,28 @@ Aaron Dessner
 Matt Berninger		
 **Intérprete:**
 The National
-**youtube:**
-Ef1nJWtkprU
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/Ef1nJWtkprU"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=Ef1nJWtkprU"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
 ### Capítulo
-01 Mi Contexto 
+02 - Sin mandármelo Dios
 ### Secuencia
-010
+020
 ### Autoría
 Edheo
 
@@ -76,5 +91,16 @@ Sentí como si... mi click ha fallado? No puede ser, es ella, tiene que ser ella
 Me tocaba aceptar la negación, pero, quería pensar que debía haber un error, porque yo sentía que sí, que era ella, pero... se me negaba la opción.
 Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no podía ser, no contemplaba la posiblidad de que no fuese ella.
 ## Media
-images/2019-06-03-Nala-WA0000.jpg
-images/2019-06-03-Nala-WA0002.jpg
+
+<div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
+  <button class="aetheon-gallery__item" type="button"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2019-06-03-Nala-WA0000.jpg" data-alt="2019 06 03 Nala WA0000"
+          aria-label="Ampliar 2019 06 03 Nala WA0000">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2019-06-03-Nala-WA0000.jpg" alt="2019 06 03 Nala WA0000" loading="lazy">
+  </button>
+  <button class="aetheon-gallery__item" type="button"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2019-06-03-Nala-WA0002.jpg" data-alt="2019 06 03 Nala WA0002"
+          aria-label="Ampliar 2019 06 03 Nala WA0002">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2019-06-03-Nala-WA0002.jpg" alt="2019 06 03 Nala WA0002" loading="lazy">
+  </button>
+</div>

@@ -35,9 +35,9 @@ Karo
 **youtube:**fV4DiAyExN0
 ## Literaria
 ### Capítulo
-01 Mi Contexto 
+02 - Sin mandármelo Dios
 ### Secuencia
-026
+070
 ### Autoría
 Edheo
 

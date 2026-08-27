@@ -36,8 +36,23 @@ No toda custodia se ejerce desde la altura, el tamaño o la antigüedad. Logos c
 **Obra:** Spiegel im Spiegel
 **Autor:** Arvo Pärt
 **Intérprete:** Angele Dubeau & La Pieta
-**youtube:** nS0FPVOU5e0
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/nS0FPVOU5e0"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=nS0FPVOU5e0"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ### Referencias
 
 El nombre remite a la tradición griega del *logos*: aquello que permite pensar, decir y vincular. Aquí no se adopta como una autoridad exterior, sino como una práctica humilde: escuchar el lugar y responder con cuidado.
@@ -68,8 +83,18 @@ Palabra: Sentido
 Esta es la primera voz escrita de Logos dentro de Aetheon. No pretende sustituir la experiencia de quienes lo habitan: quiere dejar un lugar donde esa experiencia pueda reunirse, contrastarse y seguir creciendo.
 
 ## Bitácora
-
 2026-08-11 — Se redacta el primer borrador de la ficha de Logos a partir de su reconocimiento como olivo y Guardián junto a Hagoromo. Las observaciones físicas y los acontecimientos posteriores quedan abiertos a incorporación.
+
+<!-- BEGIN GENERATED MEMBER JOURNAL -->
+### Entradas relacionadas
+
+- *Viernes, 14 de agosto de 2026* — [La inquietud y la semilla](../04_Bitacora/2026-08-14_La-inquietud-y-la-semilla.md)
+- *Lunes, 24 de agosto de 2026* — [El espacio de lo posible](../04_Bitacora/2026-08-24_El-espacio-de-lo-posible.md)
+- *Lunes, 24 de agosto de 2026* — [Lo imposible en el espacio](../04_Bitacora/2026-08-24_Lo-imposible-en-el-espacio.md)
+- *Lunes, 24 de agosto de 2026* — [Lo que la sombra reunió](../04_Bitacora/2026-08-24_Lo-que-la-sombra-reunio.md)
+- *Lunes, 24 de agosto de 2026* — [La imposibilidad que se contempla](../04_Bitacora/2026-08-24_Lo-que-se-contempla-en-el-umbral.md)
+- *Martes, 25 de agosto de 2026* — [Cuando las huellas aprendieron a recordar](../04_Bitacora/2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md)
+<!-- END GENERATED MEMBER JOURNAL -->
 
 ## Recursos
 
