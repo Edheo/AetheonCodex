@@ -37,7 +37,7 @@
 - [2023-05-05_Ender-el-intrepido](04_Bitacora/2023-05-05_Ender-el-intrepido.md)
 - [2024-01-21-Renuncias](04_Bitacora/2024-01-21-Renuncias.md)
 - [2024-02-07-Contrato-de-arras](04_Bitacora/2024-02-07-Contrato-de-arras.md)
-- [2024-04-03_Se-vende](04_Bitacora/2024-04-03_Se-vende.md)
+- [2024-04-23_Se-vende](04_Bitacora/2024-04-23_Se-vende.md)
 - [2024-04-30_El-dia-de-la-firma](04_Bitacora/2024-04-30_El-dia-de-la-firma.md)
 - [2024-04-30_El-dia-de-las-firmas](04_Bitacora/2024-04-30_El-dia-de-las-firmas.md)
 - [2024-05-01_Colapsos](04_Bitacora/2024-05-01_Colapsos.md)

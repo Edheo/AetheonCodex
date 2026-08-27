@@ -838,7 +838,7 @@ Por mi parte, sin dudar, pongo el piso en venta, y que sea lo que tenga que ser.
 
 ### Contrato de Arras
 
-*Martes, 30 de abril de 2024*
+*Miércoles, 7 de febrero de 2024*
 
 *Autoría: Edheo*
 
@@ -925,7 +925,7 @@ Perfecto, todo perfecto, Frank concertó la cita, el sueño, empezaba a ser posi
 
 ### Primera visita a Aetheon
 
-*Domingo, 28 de abril de 2024*
+*Martes, 28 de mayo de 2024*
 
 *Autoría: Edheo*
 
@@ -941,7 +941,7 @@ La desolación, fué... inenarrable.
 
 ### No mueras posibilidad
 
-*Lunes, 29 de abril de 2024*
+*Miércoles, 29 de mayo de 2024*
 
 *Autoría: Edheo*
 
@@ -956,7 +956,7 @@ Contacté con la inmobiliaria, contraoferté.. y aceptaron, y de pronto, lo que 
 
 ### Alegría
 
-*Lunes, 29 de abril de 2024*
+*Lunes, 15 de julio de 2024*
 
 *Autoría: Edheo*
 
@@ -1243,15 +1243,15 @@ Bramasole, una vez más.
 
 *Autoría: Logos, Edheo*
 
-*Miss Celie's blues — Tata Vega*
+*Miss Celie's Blues — Tata Vega*
 
-He podido dormir hasta casi las cinco de la mañana y como cada madrugada, mi primer paso, es preparar mi café con leche, un gran tazón. Me he levantado descansado, me he tomado mi café.
+He podido dormir hasta casi las cinco de la mañana. Me he levantado descansado y, como cada madrugada, mi primer paso ha sido prepararme un gran tazón de café con leche.
 
-Al preparar mi café, abro a puerta de casa... Luna y Nala esperan impacientes ese rutinario momento del día, en cuanto abro la puerta, salen impacientes, a sus menesteres olfativos, recorrer ellas por su cuenta la parcela, investigar qué visitantes inesperados han podido haber llegado durante la noche y la madrugada... es su modo de leer la prensa local cada mañana.
+Mientras lo preparo, abro la puerta de casa. Luna y Nala esperan impacientes ese momento cotidiano. En cuanto pueden, salen a sus menesteres olfativos: recorren la parcela por su cuenta e investigan qué visitantes inesperados han podido llegar durante la noche. Es su manera de leer la prensa local cada mañana.
 
-En cuanto he tenido el café en mi mano Karo ha sido el primero en venir, a mi regazo, solícito, inquiriendo mis caricias, mi acicalado, mi rutinario modo de limpiarle briznas pegadas al pelaje, repasar sus ojos para que ningún resto lacrimal se le acumule... su acicalamiento, mimo y cuidado mientras no paro de halagarlo con palabras de cariño y ternura, y él me devuelve esa mirada, entornando sus hermosos ojos entre verdes y amarilos, como si me rogase que no pare, que no pare de acariciarle, acicalarle, mimarle.
+En cuanto he tenido el café en la mano, Karo ha sido el primero en acercarse. Ha venido a mi regazo en busca de sus caricias y su acicalamiento. Le he quitado algunas briznas adheridas al pelaje y le he limpiado los ojos para que no se le acumulasen restos de lágrimas. Mientras lo mimaba y le dedicaba palabras de cariño, él entornaba sus hermosos ojos, entre verdes y amarillos, como si me rogase que no parara.
 
-He salido a pasear por Aetheon, también yo tomo mi paseo de madrugada rutinario, como hacen Luna y Nala. Lo observo en mi paseo, y recuerdo que no está exento de obligaciones, trabajo y cuidados. Pero vivir aquí es maravilloso.
+Después he salido a pasear por Aetheon. También yo tengo mi recorrido habitual de madrugada, como Luna y Nala. Mientras camino recuerdo que vivir aquí no está exento de obligaciones, trabajo y cuidados. Pero es maravilloso.
 
 Basta con salir y mirar al cielo. Sobre mí estaba la constelación del Escudo. A mi lado sonaba el chisporroteo del estanque y los peces asomaban a la superficie, incapaces de ignorarme.
 
@@ -1261,9 +1261,9 @@ Hacía veinticuatro grados. La madrugada conservaba todavía algo del bochorno, 
 
 He continuado entre los olivos por el sendero del Rikudo Sennin, despacio, sin necesitar llegar a ninguna parte.
 
-He visto a Bressol.la, su pequeño estanque requería un poco más de agua, como es habitual, tanto salpicar su chorro, dispersa gotas continuamente a su alrededor, así que encierto modo, es un mini humedal, que atrae aves, abejas, avispas, algunos de los insectos seguro que caen al agua y se convierten en alimento para los peces cometa, y aún así, cada día a las 12 de la mañana, están esperando su dosis de alimento como si llevasen semanas sin comer, sus caras se iluminan cuando llego con el bote de comida.
+Al llegar a Bressol.la he visto que su pequeño estanque necesitaba algo más de agua. El chorro salpica y dispersa gotas continuamente a su alrededor, de modo que se ha formado una especie de diminuto humedal que atrae aves, abejas y avispas. Algunos insectos caerán al agua y se convertirán en alimento para los peces cometa. Aun así, cada día, a las doce, ellos esperan su ración como si llevaran semanas sin comer. Sus caras parecen iluminarse cuando me acerco con el bote.
 
-Tras rellenar Bressol.la, he sentido curiosidad por Al-Ghadir... también hace bastantes dias que no lo relleno, el verano es tórrido aquí, así que también le llegó el turno, otro refugio, pero este mucho mayor, para la fauna local que acude a beber, alimentarse, a llenar de vida nuevamente este rincón que les provee varios sustentos.
+Después de rellenar Bressol.la, he pensado en Al-Ghadir. Hacía ya bastantes días que no reponía su agua y el verano es tórrido aquí, así que también le ha llegado el turno. Es otro refugio, mucho mayor, para la fauna local que acude a beber y alimentarse, y que a cambio llena de vida este rincón que le ofrece sustento.
 
 Entonces ha venido Yara corriendo a mi encuentro para que le diera los buenos días. Mis niñas son siempre tan solícitas con los saludos.
 
