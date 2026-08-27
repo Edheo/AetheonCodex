@@ -914,6 +914,8 @@ Es imposible... acabo de arruinar mi vida, la de mis niñas, la de mi pareja... 
 
 ### Anuncio AETHEON en venta
 
+*Miércoles, 22 de mayo de 2024*
+
 *Autoría: Edheo*
 
 Vimos las fotos de la parcela y la casa. 
@@ -983,6 +985,17 @@ Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre,
 Los guardianes más consolidados, son prácticamente inmunes a esos malos tratos por su parte, Vetusta, Titán, Los olivos bijus, o ni siquiera ninguno de los masqueperros, pueden sufrir considerablemente la incontenible energía de nuestra niñas más pequeñas e intrépidas.
 Por rascadores y entretenimientos que tengan en casa, son precisamente eso, mininas interactuando en el mundo, su atrevimiento y curiosidad son infinitas, así que hemos tenido que tomar papeles en el asunto.
 Frank y yo decidimos instalar los típicos protectores de patas de mesa, para que los felinos no se ceben con ellos, en los troncos de aquellos árboles más jóvenes, con tal de que ningún mal peor, pueda agravar la situación de salud e integridad de estas promesas de morera, que están destinadas a añadir un espacio de sombraje en la tórrida parcela durante los peores meses de verano.
+
+
+### Dana de Valencia
+
+*Martes, 29 de octubre de 2024*
+
+*Autoría: Edheo*
+
+*Stormy Weather — Etta James*
+
+Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuertes rachas de viento, Titán demostró ser, mucho más que un nombre que hace honor a su naturaleza. 800 litros por metro aquí, la madrugada fué sólo un aperitivo de lo que iba a acontecer. El desastre de la región de Valencia, ha sido mundialmente conocido. Y aquí vivimos la mayor crudeza de la lluvia, esa ingente masa de agua que laderas y barrancos abajo, causaría la devastación que nadie podíamos imaginar. Titán resistió sin palidecer todas esas inclemencias, de agua torrencial, vientos huracanados por momentos, ni la más mínima grieta, ni en el propio árbol ni en el sustrato sobre el que se ancla. Simplemente, inenarrable.
 
 
 ### Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side

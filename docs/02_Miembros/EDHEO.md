@@ -101,7 +101,7 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Martes, 30 de abril de 2024* — [El dia de la firma](../04_Bitacora/2024-04-30_El-dia-de-las-firmas.md)
 - *Miércoles, 1 de mayo de 2024* — [Colapsos](../04_Bitacora/2024-05-01_Colapsos.md)
 - *Martes, 21 de mayo de 2024* — [Notario](../04_Bitacora/2024-05-21-Notario.md)
-- [Anuncio AETHEON en venta](../04_Bitacora/2024-05-22_Aetheon-en-venta.md)
+- *Miércoles, 22 de mayo de 2024* — [Anuncio AETHEON en venta](../04_Bitacora/2024-05-22_Aetheon-en-venta.md)
 - *Martes, 28 de mayo de 2024* — [Primera visita a Aetheon](../04_Bitacora/2024-05-28_Primera-visita.md)
 - *Miércoles, 29 de mayo de 2024* — [No mueras posibilidad](../04_Bitacora/2024-05-29_No-mueras-posibilidad.md)
 - *Lunes, 15 de julio de 2024* — [Alegría](../04_Bitacora/2024-07-15_Alegria.md)

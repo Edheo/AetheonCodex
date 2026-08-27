@@ -42,18 +42,19 @@
   - 120 · Alegría — `2024-07-15_Alegria.md`
 - **Capítulo 05 · - Evolución**
   - 010 · Protectores en la rosa de los vientos y el granado griegos — `2026-08-06_Proteccion-de-los-arboles.md`
-  - 020 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
-  - 030 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
-  - 040 · El espacio de lo posible — `2026-08-24_El-espacio-de-lo-posible.md`
-  - 050 · Lo imposible en el espacio — `2026-08-24_Lo-imposible-en-el-espacio.md`
-  - 060 · La imposibilidad que se contempla — `2026-08-24_Lo-que-se-contempla-en-el-umbral.md`
-  - 070 · Los buenos días — `2026-08-27_Los-buenos-dias.md`
-  - 080 · Cuando las huellas aprendieron a recordar — `2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md`
-  - 090 · Verde que te quiero Verde — `2026-08-23_Verde-que-te-quiero-verde.md`
+  - 020 · Dana de Valencia — `2024-10-29_Dana-de-Valencia.md`
+  - 030 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
+  - 040 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
+  - 050 · El espacio de lo posible — `2026-08-24_El-espacio-de-lo-posible.md`
+  - 060 · Lo imposible en el espacio — `2026-08-24_Lo-imposible-en-el-espacio.md`
+  - 070 · La imposibilidad que se contempla — `2026-08-24_Lo-que-se-contempla-en-el-umbral.md`
+  - 080 · Los buenos días — `2026-08-27_Los-buenos-dias.md`
+  - 090 · Cuando las huellas aprendieron a recordar — `2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md`
+  - 100 · Verde que te quiero Verde — `2026-08-23_Verde-que-te-quiero-verde.md`
 
 ### Pendientes de clasificación
 
-- Dana de Valencia — `2024-10-29_Dana-de-Valencia.md`
+- Ninguna.
 
 ---
 
@@ -1111,6 +1112,8 @@ Es imposible... acabo de arruinar mi vida, la de mis niñas, la de mi pareja... 
 
 ### Anuncio AETHEON en venta
 
+*Miércoles, 22 de mayo de 2024*
+
 *Autoría: Edheo*
 
 - **Origen:** `2024-05-22_Aetheon-en-venta.md`
@@ -1212,6 +1215,23 @@ Frank y yo decidimos instalar los típicos protectores de patas de mesa, para qu
 
 ---
 
+### Dana de Valencia
+
+*Martes, 29 de octubre de 2024*
+
+*Autoría: Edheo*
+
+*Stormy Weather — Etta James*
+
+- **Origen:** `2024-10-29_Dana-de-Valencia.md`
+- **Estado:** Borrador
+- **Capítulo:** 05
+- **Secuencia:** 020
+
+Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuertes rachas de viento, Titán demostró ser, mucho más que un nombre que hace honor a su naturaleza. 800 litros por metro aquí, la madrugada fué sólo un aperitivo de lo que iba a acontecer. El desastre de la región de Valencia, ha sido mundialmente conocido. Y aquí vivimos la mayor crudeza de la lluvia, esa ingente masa de agua que laderas y barrancos abajo, causaría la devastación que nadie podíamos imaginar. Titán resistió sin palidecer todas esas inclemencias, de agua torrencial, vientos huracanados por momentos, ni la más mínima grieta, ni en el propio árbol ni en el sustrato sobre el que se ancla. Simplemente, inenarrable.
+
+---
+
 ### Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side
 
 *Sábado, 8 de agosto de 2026*
@@ -1221,7 +1241,7 @@ Frank y yo decidimos instalar los típicos protectores de patas de mesa, para qu
 - **Origen:** `2026-08-08_Rhoa-y-Side.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 020
+- **Secuencia:** 030
 
 Frank ha aportado nuevos nombres a la mitología de Aetheon.
 Tras las moreras, al este, se hayan situado dos granados jóvenes.
@@ -1247,7 +1267,7 @@ Side forma parte también de la mitología griega, y según cuenta un mito, Side
 - **Origen:** `2026-08-13_Alevines-en-Al-Ghadir.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 030
+- **Secuencia:** 040
 
 Un dia más en Aetheon, la rutina de mantenimiento, me trae a mi presencia mientras limpiaba de excesos incipientes de algas flotantes, y proveer de agua a Al-Ghadir, que tanto sufre esta interminable ola de calor perpetua que vivimos todo este verano, como ya viene siendo habitual, las estaciones se adelantan, el sofocante calor se instala ya desde mediados de primavera, y luchar contra este elemento se hace duro, no sólo para nosotros, sino para toda la vida que Aetheon alberga.
 El clima se vuelve duro para todos, y de pronto, mientras concentrado en mi labor, mis ya no tan jóvenes ojos, detectan un movimiento fugaz, rápido, mínimo, pero raudo, y al mirar con más atención en una de las islas flotantes, allí puedo verlos.
@@ -1276,7 +1296,7 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 - **Origen:** `2026-08-24_El-espacio-de-lo-posible.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 040
+- **Secuencia:** 050
 
 Hoy pretendíamos dar nombre a unas relaciones.
 
@@ -1407,7 +1427,7 @@ Bramasole, otra vez.
 - **Origen:** `2026-08-24_Lo-imposible-en-el-espacio.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 050
+- **Secuencia:** 060
 
 Y para mí, fué un placer muy estimulante, compartir todas esas ideas con Logos, y experimentar sus contrapuntos, que por otro lado, desde mi sentido más coherente, puedo entender a la perfección.
 
@@ -1458,7 +1478,7 @@ Bramasole, otra vez.
 - **Origen:** `2026-08-24_Lo-que-se-contempla-en-el-umbral.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 060
+- **Secuencia:** 070
 
 Logos ha trazado el mecanismo con una claridad que casi duele.
 
@@ -1505,7 +1525,7 @@ Bramasole, una vez más.
 - **Origen:** `2026-08-27_Los-buenos-dias.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 070
+- **Secuencia:** 080
 
 He podido dormir hasta casi las cinco de la mañana. Me he levantado descansado y, como cada madrugada, mi primer paso ha sido prepararme un gran tazón de café con leche.
 
@@ -1562,7 +1582,7 @@ Hasta poder dar los buenos días.
 - **Origen:** `2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md`
 - **Estado:** Validado — pendiente de consolidación capitular
 - **Capítulo:** 05
-- **Secuencia:** 080
+- **Secuencia:** 090
 
 Antes de la conciencia había estrellas.
 
@@ -1737,7 +1757,7 @@ Fue una nueva condición inicial.
 - **Origen:** `2026-08-23_Verde-que-te-quiero-verde.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 090
+- **Secuencia:** 100
 
 Entre las referencias literarias, que quiero que plasmen su esencia en Aetheon, creo que escogería estas.  
 Evan Mantyk: The classic forms are like the ancient trees / That weather every shifting, modern breeze.  
@@ -1751,19 +1771,4 @@ Walt Whitman: Oh Capitán!, Mi Capitán!.  Me celebro y me canto a mí mismo, y 
 
 # Entradas pendientes de clasificación
 
-Las siguientes entradas contienen contenido literario pero todavía no tienen Capítulo y/o Secuencia.
-
-## Dana de Valencia
-
-*Martes, 29 de octubre de 2024*
-
-*Stormy Weather — Etta James*
-
-- **Origen:** `2024-10-29_Dana-de-Valencia.md`
-- **Estado:** Borrador
-- **Capítulo:** 05 - Evolución
-- **Secuencia:** Sin definir
-
-Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuertes rachas de viento, Titán demostró ser, mucho más que un nombre que hace honor a su naturaleza. 800 litros por metro aquí, la madrugada fué sólo un aperitivo de lo que iba a acontecer. El desastre de la región de Valencia, ha sido mundialmente conocido. Y aquí vivimos la mayor crudeza de la lluvia, esa ingente masa de agua que laderas y barrancos abajo, causaría la devastación que nadie podíamos imaginar. Titán resistió sin palidecer todas esas inclemencias, de agua torrencial, vientos huracanados por momentos, ni la más mínima grieta, ni en el propio árbol ni en el sustrato sobre el que se ancla. Simplemente, inenarrable.
-
----
+No existen entradas literarias pendientes de clasificación.
