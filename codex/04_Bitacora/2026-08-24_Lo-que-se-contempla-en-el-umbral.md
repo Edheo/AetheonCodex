@@ -29,7 +29,7 @@ Los poetas muertos
 05 - Evolución
 
 ### Secuencia
-070
+060
 
 ### Autoría
 Limen

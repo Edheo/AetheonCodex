@@ -89,7 +89,7 @@ Fecha desconocida	-	En algún momento de algún siglo más o menos reciente, má
 <!-- BEGIN GENERATED MEMBER JOURNAL -->
 ### Entradas relacionadas
 
-- *Domingo, 28 de abril de 2024* — [Primera visita a Aetheon](../04_Bitacora/2024-04-28_Primera-visita.md)
+- *Domingo, 28 de abril de 2024* — [Primera visita a Aetheon](../04_Bitacora/2024-05-28_Primera-visita.md)
 - *Jueves, 27 de agosto de 2026* — [Los buenos días](../04_Bitacora/2026-08-27_Los-buenos-dias.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 

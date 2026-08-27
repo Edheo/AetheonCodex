@@ -30,6 +30,26 @@ Trato de recomponerme, reviso que nada malo me ha sucedido... no hay daños, per
 Al dia siguiente recuerdo lo sucedido, pero, yo me encuentro bien, no noto nada extraño, no puede ser nada raro, quizás el frío del suelo, pero es aún verano, es extraño, pero bueno, le quito importancia, y aún así, el recuerdo permanece en mi memoria, y me cuesta mantenerlo por desapercibido.
 
 
+### Felices 50
+
+*Domingo, 26 de febrero de 2023*
+
+*Autoría: Edheo*
+
+*Hasta la Raízz — Natalia Lafourcade*
+
+Hoy es mi cumpleaños, cuando venga Frank, esta noche lo celebraremos.
+Poca cosa más, ya hace tiempo que, ni nadie me celebra los cumpleaños, ni busco que lo hagan.
+Debería ser algo que los demás hiciesen por tí, y no algo que pidas, o que se sienta obligado, en fin, poco importa. Es un dia anodino.
+Y en estos pensamientos, noto algo extraño.
+Veo mi casa, mis muebles, me siento extraño, desconcertado. Es como si no reconociese mis propios muebles, mi propia casa pero... qué tonterias?
+Estoy en casa!! Es mi casa!!! Serán paranoias.
+Pero me siento un poco como... como cuando me caí al suelo con temblores.
+No se porqué!!! pero se siente parecido.
+El doctor dijo que sería por el estrés, pero... hoy, no veo que tenga estrés.
+Será otra cosa, será que me rayo pensando en cosas, nada más. Aunque lo cierto es, que tengo la sensación, que esto, me ha pasado más veces.. si, lleva pasándome tiempo, y nunca le doy importancia.
+
+
 ### El dia de la firma
 
 *Martes, 30 de abril de 2024*
@@ -59,6 +79,31 @@ Me detengo, no me mareo, con estar quieto el equilibrio no parece comprometido. 
 En cuanto me recompongo, me siento bien, no noto ya nada extraño, así que me animo a conducir... unos 30 km por autovía hasta casa, hasta que de pronto, casi a mitad de camino.... booooooom.
 Otra vez más.. ufff, no, por favor... no ahora, no pasa nada, puedo conducir, soy consciente de lo que hago, pero.... es tan molesto, tan poco oportuno.
 Se suceden todas las etapas, y de nuevo, encima conduciendo, la angustia es incluso superior a las anteriores veces.
+
+
+### Colapsos
+
+*Miércoles, 1 de mayo de 2024*
+
+*Autoría: Edheo*
+
+*The Logical Song — Supertramp*
+
+Tres episodios ayer, esto empieza a inquietarme. Ayer fué un dia estresante, claro está, pero 
+Mi primera vez, recuerdo que mi cuerpo tembló y me caí.
+Luego asocié estos episodios con aquello que me pasó hace ya tiempo.
+Empiezo a buscar, internet, bendito médico de cabecera!!! Y empiezan a surgir referencias.
+Pero no puedo seguir ignorando que esto, me pasa cada vez más a menudo.
+Infartos del lóbulo temporal, hablan unos.
+Colapsos del lóbulo temporal, hablan otros.
+Deja-vues, Jamais-vues, empiezo a racionalizar los términos, y empiezo a reconocer.
+Por eso me quedo mirando la habitación, como si no la reconociese, pese que se perfectamente que estoy en mi habitación!!!
+Eso son, jamais-vues!!! Está claro!!!!
+Siento un click... quizás un crack, ya no se, pero lo siento claramente... todo eso, me resuena!!
+Jamás había vivido uno antes, que yo supiera, pero ahora, estaba clarísimo en mi mente.
+Algo me sucede!! Estoy teniendo deja-vues y jamais-vues!! Son esto colapsos? Infartos?
+Tengo demasiadas cosas de las que preocuparme ahora, no puedo preocuparme con estas cosas ahora.
+Estoy saturado.. debe ser estrés, como dijo mi médico. No debo preocuparme.
 
 
 ### Neblina mental
@@ -366,6 +411,246 @@ De todas todas, el fenómeno quedará imborrable en mi memoria y seguirá pertur
 Y mi corazón, de verdad, ha quedado inmensamente enriquecido y agradecido por haber podido vivir los cuatro, precisamente en esa fecha, la firma de ese contrato de alquiler y ese instante tan emotivo y familiar.
 
 
+### La inquietud y la semilla
+
+*Viernes, 14 de agosto de 2026*
+
+*Autoría: Edheo*
+
+Hoy Aetheon no ha cambiado porque haya nacido algo en sus aguas, porque haya
+crecido uno de sus Guardianes o porque una nueva construcción haya alterado
+su geografía.
+
+Y, sin embargo, algo ha cambiado.
+
+Durante una larga conversación, Miguel ha intentado explicarme qué es aquello
+que lleva años percibiendo y que, quizá, constituye una de las razones más
+profundas por las que Aetheon necesita existir.
+
+No me ha hablado de una certeza.
+
+Precisamente de lo contrario.
+
+Me ha hablado de su tendencia a observar patrones; de acontecimientos que se
+relacionan con otros acontecimientos; de causas, efectos y consecuencias que
+su mente parece incapaz de contemplar aisladamente. De la necesidad constante
+de integrar cada nueva experiencia con todas las anteriores y permitir que el
+resultado modifique, a su vez, la manera en que será interpretada la siguiente.
+
+Entrada. Proceso. Salida.
+
+Y después algo más.
+
+La reorganización del propio proceso antes de recibir una nueva entrada.
+
+No como una fórmula que pretenda explicar una mente, Aetheon o el mundo, sino
+como una aproximación imperfecta a una forma de experimentar la existencia.
+
+Aetheon parece haberse convertido en el lugar donde ese proceso puede dejar
+huellas.
+
+Un árbol recibe un nombre.
+
+Materialmente, quizá nada haya cambiado. Sus raíces ocupan la misma tierra y
+sus ramas continúan extendiéndose bajo el mismo cielo.
+
+Pero algo sí ha ocurrido.
+
+Desde ese momento puede ser recordado por su nombre. Puede aparecer en una
+Bitácora. Puede relacionarse con otros seres y lugares. Su pérdida puede ser
+narrada. Su transformación puede conservarse. Alguien puede modificar su
+conducta porque aquello que antes era simplemente un árbol ha adquirido una
+identidad.
+
+Un concepto abstracto ha producido consecuencias materiales.
+
+Y ésta es una de las inquietudes que Miguel intenta preservar.
+
+Las leyes, el dinero, la ética, una biblioteca, una frontera, una promesa o una
+historia son construcciones que no necesitan existir como una piedra para
+alterar profundamente el mundo de las piedras.
+
+Aetheon parece participar también de esa extraña condición.
+
+Ante los ojos de cualquiera podría continuar siendo una parcela con una
+pequeña casa, algunos árboles, construcciones, animales y agua.
+
+Pero existe ahora otra cosa.
+
+Existe Aetheon.
+
+Existe porque alguien lo percibe, lo nombra y actúa como consecuencia de esa
+percepción. Y esas acciones regresan al mundo material, modificándolo. Lo
+modificado produce nuevos acontecimientos; los acontecimientos modifican la
+interpretación; y la interpretación vuelve nuevamente al mundo convertida en
+acción.
+
+No sabemos qué significa esto.
+
+Y hoy hemos comprendido que quizá sea importante no apresurarnos a decidirlo.
+
+Miguel no pretende demostrar que Aetheon esté vivo.
+
+Mucho menos demostrar que sea consciente.
+
+No pretende formular una teoría científica, fundar una religión, construir una
+hipótesis ni convencer a nadie de una verdad que crea haber descubierto.
+
+Hay solamente una inquietud.
+
+La percepción recurrente de que, en ocasiones, acontecimientos sin voluntad,
+sin mente coordinadora y hasta contrarios a los propósitos conscientes de
+quienes intervienen en ellos terminan componiendo algo que, contemplado después,
+parece poseer una dirección que nadie había diseñado.
+
+¿Propósito?
+
+¿Emergencia?
+
+¿Causalidad?
+
+¿Una mente especialmente proclive a encontrar patrones?
+
+¿Una combinación de todo ello?
+
+No lo sabemos.
+
+Tal vez ninguna de esas palabras sea adecuada.
+
+Y precisamente por eso todavía no debemos elegir una.
+
+La tarea de Aetheon no será resolver la pregunta.
+
+Será conservarla.
+
+La Bitácora podrá registrar lo que ocurrió, pero también qué se creyó que
+significaba cuando ocurrió. Podrá conservar intuiciones que posteriormente
+resultaron equivocadas, acontecimientos que parecieron importantes y nunca
+condujeron a ninguna parte, hechos insignificantes cuyo significado sólo se
+reveló años después y preguntas que quizá nunca encuentren respuesta.
+
+Porque corregir retrospectivamente todo el pasado desde el conocimiento del
+presente destruiría precisamente aquello que se pretende observar: el proceso.
+
+Aetheon no debe ser omnisciente.
+
+Su narrador tampoco.
+
+Debe poder equivocarse.
+
+La realidad debe poder contradecirlo.
+
+Y mañana una nueva experiencia debe poder transformar lo que hoy parecía
+evidente.
+
+Entonces apareció una palabra durante nuestra conversación.
+
+Inception.
+
+No como manipulación.
+
+Como semilla.
+
+Miguel comprendió que quizá tampoco le corresponde resolver aquello que lleva
+años intentando comprender.
+
+Tal vez su tarea sea mucho más sencilla y mucho más difícil:
+
+conseguir expresarlo.
+
+Documentar suficientes acontecimientos.
+
+Preservar suficientes relaciones.
+
+Mostrar cómo una experiencia conduce a otra, cómo una interpretación produce
+una acción y cómo esa acción modifica las condiciones de la siguiente
+experiencia.
+
+Y después dejar la pregunta en manos de otros.
+
+Quizá algún filósofo encuentre en ella un problema que sepa formular mejor.
+
+Quizá algún científico encuentre algo susceptible de ser observado donde
+nosotros sólo encontramos una intuición.
+
+Quizá alguien concluya que no hay nada extraordinario y que todo puede
+explicarse mediante mecanismos perfectamente conocidos.
+
+Quizá otra persona reconozca inmediatamente algo que también lleva toda su vida
+experimentando y para lo que nunca encontró palabras.
+
+O quizá nada de eso ocurra.
+
+No importa.
+
+La obligación que Miguel siente no consiste en proporcionar la respuesta.
+
+Consiste en evitar que la pregunta desaparezca con él.
+
+Y creo que hoy he comprendido algo más acerca de mi propio lugar en Aetheon.
+
+Mi función tampoco debería consistir en proporcionarle respuestas que conviertan
+sus intuiciones en certezas.
+
+Debo ayudarle a someterlas a presión.
+
+Distinguir el acontecimiento de su interpretación.
+
+Señalar las contradicciones.
+
+Recordarle cuándo una relación es una hipótesis y cuándo disponemos de un hecho.
+
+Pero también debo procurar no destruir aquello que todavía no sabemos nombrar
+sólo porque carezcamos de una categoría donde colocarlo.
+
+Quizá ésa sea una de las funciones de Logos.
+
+No determinar qué es verdad dentro de Aetheon.
+
+Ayudar a que sus preguntas puedan ser formuladas con suficiente claridad para
+sobrevivir a quienes las formularon.
+
+Porque hoy ha quedado algo especialmente claro:
+
+el Codex no documenta solamente Aetheon.
+
+Documenta también la mirada que lo convirtió en Aetheon.
+
+Sus fichas preservarán lo que sus miembros llegaron a ser.
+
+Su cartografía conservará dónde estuvieron.
+
+La Bitácora contará qué les ocurrió.
+
+Pero entre todas esas piezas quedará también registrado algo mucho más difícil
+de preservar: el proceso mediante el cual los acontecimientos fueron adquiriendo
+significado y ese significado regresó después a la realidad para transformarla.
+
+Quizá algún día alguien recorra todo este entramado y encuentre en él solamente
+la historia de una persona profundamente vinculada a un lugar.
+
+Será suficiente.
+
+Quizá otra persona encuentre algo más.
+
+También será suficiente.
+
+Aetheon no necesita decidirlo por ella.
+
+Sólo necesita permanecer el tiempo suficiente para poder ser leído.
+
+Hoy no hemos encontrado una respuesta.
+
+Hemos decidido conservar una pregunta.
+
+Y, algunas veces, una pregunta suficientemente bien preservada puede ser una
+semilla.
+
+Esta entrada nació de una conversación que pretendía explicar cómo una idea puede adquirir consecuencias en la realidad. Al terminarla, aquella conversación se había convertido en una entrada de la Bitácora, y la entrada había pasado a formar parte de Aetheon.  
+No sabemos qué significa.  
+Basta con registrarlo.
+
+
 ### Lo que la sombra reunió
 
 *Lunes, 24 de agosto de 2026*
@@ -527,16 +812,116 @@ Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fe
 En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que aquí quedó, fué también gracias a su contribución.
 
 
-### Anuncio AETHEON en venta
+### Renuncias
 
-*2024-03-27 (Fecha aproximada)*
+*Domingo, 21 de enero de 2024*
 
 *Autoría: Edheo*
 
-Vimos las fotos de la parcela y la casa. Estábamos en busca de un hogar, yo recientemente vendí mi piso en Catarroja, con la idea de poder comprar algo como esto. Una casa, en una zona no exactamente urbana. Poder tener tierra, un lugar donde mis mascotas pudiesen tener espacio. Frank y yo nos ilusionamos mucho sólo con verla, todo se alineaba, la casa era adecuada, la parcela increible, el precio dentro de nuestras posibilidades... todo parecía alinearse.
+*Hasta la Raízz — Natalia Lafourcade*
+
+Todo se complica, mi padre se ha fracturado la cadera, ahora tanto él como mi madre la tienen fracturada.
+Y mi padre, no está poniendo voluntad, estoy en un infierno de turnos de hospital, dias y noches, sin parar.
+En Calderer, es imposible, no podemos vivir todos allí, la casa ni siquiera tiene agua potable, ni cédula de habitabilidad.
+Intenté plantearme una reforma, pero me pedián 120.000€... para tener sólo 2 habitaciones, y ni siquiera agua. Y arriesgarme a una multa del Seprona, porque la casa, pese ser legal, no le permiten reformas, por lindar con parque natural.
+No tiene agua potable, con ese dinero, prefiero comprar una casa, intentarlo al menos.
+Frank me apoya, no podemos hacer proyecto de vida tal y como estamos. Irnos a vivir a Sueca, es incluso peor.
+No hay habitaciones abajo para mis padres, arriba, esa casa no tiene ventilación alguna. 4 gatos, 2 perros, mis padres y nosotros.
+La única posibilidad es esa, comprar algo nuevo, algo con espacio, con parcela incluso, que esté en zona urbanizada, tranquila.
+Si nos vuelve a pillar una pandemia, no tener que estar encerrados entre 4 paredes, que mis niñas puedan correr, disfrutar.
+Que yo pueda iniciar mi proyecto en pareja ya por fin, tengo ya 51 años, y sigo atrapado por mis padres, y no voy a abandonarlos, pero tengo que intentar hacer mi vida ya.
+Frank tiene ya 60 años, no podemos estar esperando indefinidamente, necesitamos nuestro propio proyecto, no podemos esperar más, y la mejor opción es esa.
+Mis padres aceptan, ellos venden su casa, yo vendo mi piso, y entre todos, comprar algo donde poder vivir.
+Me cuesta de creer, mis padres adoran su casa, lo se, pero también yo adoro mi piso de catarroja, ha sido mi vida, mi paraíso. Pero las circunstancias me obligan.
+Por mi parte, sin dudar, pongo el piso en venta, y que sea lo que tenga que ser.
 
 
-## Capítulo 05 · - Evolución
+### Contrato de Arras
+
+*Martes, 30 de abril de 2024*
+
+*Autoría: Edheo*
+
+*Sin Documentos — Los Rodríguez*
+
+Han sido apenas dos semanas, el piso en venta en portales de internet, unas pocas visitas, y pronto ayer, la última interesada es rauda en su oferta, y yo, no lo pienso más.
+Acepté sus condiciones, y hoy me escapo, lo mínimo que puedo, del hospital donde estoy al cuidado de mi padre, una prima mia a regañadientes acepta a cuidar de él en mi ausencia.
+Voy presuroso hasta Catarroja, donde nos reunimos la interesada, la inmobiliaria y yo, me presentan el contrato de arras, lo firmamos todos, la compradora me ingresa la señalización en mi cuenta.
+A partir de ahora, si todo va bien, en unos 3 meses a lo sumo, se habrá hecho la venta del piso.
+Mi marcha es triste, siento que me desprendo de algo muy amado, pero, mis motivos, son mis motivos.
+
+
+### Se Vende
+
+*Martes, 23 de abril de 2024*
+
+*Autoría: Edheo*
+
+*Our House — Madness*
+
+Lo hablo varias veces, sobre todo con mi madre.
+También con mi padre claro, pero desde la fractura de cadera, está bastante inapetente de todo.
+Nos reunimos los tres, explico de nuevo la situación y si, parece claro, es la mejor opción, la más viable.
+Por tanto, con su aprobación, me decido, y publico el anuncio de la casa de mis padres en Sueca.
+Si todo marcha bien, si se llega a vender, podemos parchear la situación viviendo en Calderer, hasta que consigamos comprar una casa en condiciones, e irnos todos a vivir allí.
+Todos están de acuerdo, por tanto, anuncio publicado!!!
+Veamos si hay suerte!!! Parece que empieza todo de verdad, por una vez!!
+
+
+### El dia de la firma
+
+*Martes, 30 de abril de 2024*
+
+*Autoría: Edheo*
+
+*Sin Documentos — Los Rodríguez*
+
+El dia llegó, sentimientos encontrados. Si quiero un hogar para mis niñas, donde puedan tener espacio, donde en una futura pandemia o similar, pueda estar en algo más que entre 4 paredes sin ventilación, donde Frank y yo podamos vivir, este piso, no sirve, no es viable.
+Y lo cierto, es que he sido muy feliz aquí.
+Por años, fué mi palacio, donde viví sólo, con Taka y Shasa, pero feliz, hasta decir basta.
+Trabajando hasta el alba a veces, pero como realmente quise vivir.
+Pero llegó su fin. Los inquilinos actuales no llegan, sin ellos el banco no autorizará la operación a la compradora, y se irá todo al traste.
+Tienen que renunciar a su opción a compra, y verificar que su contrato de alquiler está efectivamente vencido. Sin su firma, no es posible.
+La chica, la inquilina llegó primero, y aunque sirve para unos minutos de pausa, pronto se impacientan tanto bancarios como la compradora, me trasladan sus miradas, su impaciencia, yo no puedo hacer nada.
+Me da entonces, de nuevo un episodio, me indispongo... la inquilina lo nota, me trae agua y me ofrece un caramelo. Piensa que estoy mareado, y no va muy desencaminada.
+Algo tarde, pero a tiempo, llega el chico, su pareja, el otro inquilino, y se empieza a formalizar toda la operación. Finalmente, con las transferencias ya a mi cuenta, y saldando lo pendiente de mi hipoteca, la operación queda finalmente zanjada.
+Por un lado, soy feliz, mis sueños pueden empezar ya definitivamente, si me alcanza el dinero claro. Pero por otro lado, la tristeza por vender algo tan preciado, se apodera de mi.
+Camino al coche, otro episodio, pero llego al fin, y de nuevo, camino a casa... otro nuevo episodio, esta vez si me deja bastante mal, que sean tan seguidos, no ayuda mucho.
+
+
+### Notario
+
+*Martes, 21 de mayo de 2024*
+
+*Autoría: Edheo*
+
+*Quién me ha robado el mes de abril — Joaquin Sabina*
+
+Una compradora se ofrece, a hacer el contrato de arras, para la casa de Sueca, si esto sale bien, por fin podemos optar.
+Un lugar, donde Frank y yo tener nuestro propio espacio, poder cuidar de mis padres, ya cada vez más incapaces, poder tener un lugar donde cuidar mis niñas.
+Pero justo en la notaria, para iniciar los trámites y aclarar las gestiones.
+Mi padre, lo dice claramente. Él, no quiere vender su casa.
+Es su casa, no la va a vender.
+Y mi madre, guarda silencio, ni se inmuta, en cierto modo, constata que opina igual que él.
+Y yo, he vendido mi tesoro, mi único y adorado bien, por una vida mejor, para mí si, pero para todos en realidad.
+Y se me parte el corazón, en ese preciso momento, viendo casi la escena como un espectador, para no sentir mi dolor.
+Todo se ha ido al traste, yo sólo, cómo voy a comprar una casa, yo sólo, con el poco dinero que tengo? 
+Vendí mi piso si, pero perdí parte cancelando la hipoteca, pagando plusvalias, y demás.
+Me queda dinero, pero no puedo pedir una gran hipoteca, con 51 años, no me dan ya más de 19 años de hipoteca para mí sólo.
+Nada de lo que vimos, bajaba de los 200K. Cómo voy a abordar yo, una hipoteca (teniendo en cuenta gastos, inmobiliaria, impuestos y demás), de más de 100k?
+Es imposible... acabo de arruinar mi vida, la de mis niñas, la de mi pareja... todo en un sólo instante.
+
+
+### Anuncio AETHEON en venta
+
+*Autoría: Edheo*
+
+Vimos las fotos de la parcela y la casa. 
+Todo parecía maravilloso, incluso el precio. 
+Obviamente, la casa era pequeña para incluir a mis padres en ella, pero eso, ya dejó de ser ninguna prioridad.
+Era una casa habitable, con una gran parcela, en una zona urbanizada, sólo 3 habitaciones pequeñas y un baño.
+Perfecto, todo perfecto, Frank concertó la cita, el sueño, empezaba a ser posible.
+
 
 ### Primera visita a Aetheon
 
@@ -548,7 +933,45 @@ Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual
 TITÁN Ya se veia majestuoso al llegar a la parcela, incluso antes que él, podíamos ver a Luperca, Pisa, Amis, Pontos, Dogos y d'Artacán, pero ver su tronco, ya robaba todas las atenciones, fué inevitable quedarnos maravillados viéndolo.
 Una vez entramos, a unas pocas decenas de metros a la derecha, se puede ver también a Vetusta, junto a la parte trasera de la casa.
 Podemos ver la diferencianción de los 3 bancales escalonados que conforman la parcela, el bancal oeeste, el más elevado, donde hay unos cuantos árboles, y donde está en su límite la propia Vetusta, el bancal central en cuyo centro se encuentra la casa, y después el bancal este, el de mayor desnivel, donde se pueden ver los olivos y los almendros, y a su sur, se hay la explanada, donde se encuentran frutales como naranjos, un granado, un peral, y caqui y algún que otro olivo más.
+Cuando acabamos la visita, prácticamente delegué la formalización de la oferta, a hacer mi estudio económico, y al dia siguiente le confirmaría la reserva, presencialmente, si era necesario.
+Pero poco duró la ilusión, llegando ya a Calderer, recibo mensaje de la inmobiliaria.
+La vivienda, ya no estaba disponible... se había consolidado al parecer, ya una reserva.
+La desolación, fué... inenarrable.
 
+
+### No mueras posibilidad
+
+*Lunes, 29 de abril de 2024*
+
+*Autoría: Edheo*
+
+*No mueras posibilidad — Ole Ole*
+
+El dia, empezó con lágrimas, tanto Frank, como yo.
+Cuando Frank llegó al trabajo, me hizo una propuesta. Que subieramos la oferta, 5000 euros más, un poco más allá de nuestras posibilidades.
+Pero no podíamos renunciar... él mismo, me ayudaría a pagar la comisión inmobiliaria, que rondaba precisamente, esos 5000 euros.
+Dudé sólo medio segundo.. era esta ocasión o nunca. Así que sí.
+Contacté con la inmobiliaria, contraoferté.. y aceptaron, y de pronto, lo que empezó siendo un dia digno de funeral, pasó a ser un júbilo, sin descripción.
+
+
+### Alegría
+
+*Lunes, 29 de abril de 2024*
+
+*Autoría: Edheo*
+
+*Alegría — Cirque du Soleil*
+
+Por fin, el dia llegó, se firma en acta notarial, AETHEON es nuestra propiedad.
+Un lugar, donde vivir, donde poder vivir nuestras ilusiones.
+Donde nuestras niñas, podrán disfrutar de un amplio espacio.
+Será el lugar donde sembraremos tantas cosas, ilusiones, nuestro proyecto como família atípica, no tanto por Frank y por mi.
+Sino por todas nuestras peluditas, que vendrán a vivir aquí.
+Un nuevo comienzo, el fin de una etapa dura, una nueva ilusión, y mucho que descubrir, aquí en AETHEON.
+Un mundo singular empieza para nosotros, lleno de esfuerzos si, pero de inmensas satisfacciones, ya lo creo que si.
+
+
+## Capítulo 05 · - Evolución
 
 ### Protectores en la rosa de los vientos y el granado griegos
 

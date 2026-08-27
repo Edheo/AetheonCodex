@@ -39,8 +39,10 @@ Max Richter
   </a>
 </div>
 ## Literaria
-**Capítulo:**
-**Secuencia:**  
+### Capítulo
+03 - Mi Contexto
+### Secuencia
+020
 ### Autoría
 Edheo
 

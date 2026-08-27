@@ -52,7 +52,7 @@ Yara
 ### Capítulo
 05 - Evolución
 ### Secuencia
-080
+070
 ### Autoría
 Logos, Edheo
 

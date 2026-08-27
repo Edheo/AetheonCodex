@@ -14,7 +14,7 @@ El otro, que ya acompaña a Frank durante años, ha recibido el nombre de Side.
 ### Capítulo
 05 - Evolución
 ### Secuencia
-030
+020
 ### Autoría
 Edheo
 
