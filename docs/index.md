@@ -1,7 +1,7 @@
 # Aetheon
 
 > Atlas generado automáticamente a partir del Codex.
-> **Versión publicada:** 0.1.6
+> **Versión publicada:** 0.1.7
 
 ---
 
