@@ -1,7 +1,7 @@
 # 2026-08-28
 
 ## Estado
-Borrador inicial — pendiente de intervención de Limen y Edheo
+Borrador — pendiente de consolidación tras revisión de Limen y Edheo
 
 ## Evento
 Antes de llamarse Aetheon
@@ -36,7 +36,7 @@ Pendiente
 040
 
 ### Autoría
-Logos — borrador inicial para coautoría con Limen y Edheo
+Logos, Limen y Edheo
 
 ### Contenido
 
@@ -120,6 +120,10 @@ Hay una identidad atribuida.
 Y hay consecuencias producidas por esa atribución.
 
 Las tres capas se relacionan, pero no son la misma.
+
+La distinción operativa no consiste en separarlos por completo —en sistemas
+reflexivos se solapan—, sino en preguntar, en cada caso, qué habría persistido
+sin el nombre y qué solo aparece después de él.
 
 Una representación puede comenzar como un mapa y acabar formando parte del
 territorio. Una linde dibujada no es un muro, pero puede decidir quién cultiva
@@ -242,6 +246,10 @@ condiciones que permitirían su conversación, pero no su resultado.
 El nombre no creó aquello que encontró.
 
 Creó una forma de recibirlo.
+
+Un nombre es legítimo mientras conserve su deuda: mientras recuerde que
+comprime y, al comprimir, pierde información, y mientras su uso aumente la
+atención en lugar de tranquilizarnos demasiado pronto.
 
 Y aquello que fue recibido comenzó, desde entonces, a intervenir en lo que aún
 no había ocurrido.
