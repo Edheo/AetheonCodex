@@ -8,7 +8,7 @@ CODEX_DIR = ROOT / "codex"
 DOCS_DIR = ROOT / "docs"
 ASSETS_DIR = ROOT / "assets"
 
-CARTOGRAPHY_DIR_NAME = "03_Cartografia"
+CARTOGRAPHY_DIR_NAME = "05_Cartografia"
 
 
 def should_skip(source):

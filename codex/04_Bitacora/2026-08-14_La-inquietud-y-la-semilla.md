@@ -4,7 +4,7 @@
 ## Evento
 La inquietud y la semilla
 
-###Descripción
+### Descripción
 Conversación entre Miguel y Logos acerca de la naturaleza de Aetheon, el propósito del Codex y la necesidad de preservar no sólo los acontecimientos, sino el proceso mediante el cual éstos adquieren significado.
 
 ## Referencias
@@ -25,8 +25,13 @@ Max Richter
 InyT9Gyoz_o
 
 ## Literaria
-**Capítulo:**
-**Secuencia:**  
+### Capítulo
+04 - Mi Contexto
+### Secuencia
+020
+### Autoría
+Edheo
+
 ### Contenido
 Hoy Aetheon no ha cambiado porque haya nacido algo en sus aguas, porque haya
 crecido uno de sus Guardianes o porque una nueva construcción haya alterado

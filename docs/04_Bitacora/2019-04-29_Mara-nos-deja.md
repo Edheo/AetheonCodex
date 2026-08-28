@@ -2,7 +2,7 @@
 **Estado:**Borrador
 ## Evento
 Mara nos deja
-###Descripción
+### Descripción
 Hoy, mientras descansaba en el sofá, convaleciente tantos años ya (toda su vida), de una dolencia de corazón congénita, tras un leve quejido, se apagó su luz. Es un dia triste hoy.
 ## Referencias
 **Miembros:**
@@ -32,9 +32,12 @@ MARA
 </div>
 ## Literaria
 ### Capítulo
-01 Mi Contexto 
+03 - Sin mandármelo Dios
 ### Secuencia
-009
+010
+### Autoría
+Edheo
+
 ### Contenido
 Mara, la perrita de mis padres, falleció hoy, casi plácidamente, durmiendo en el sofá, junto a mis padres, sólo un quejido, un temblor y se fué.
 Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.

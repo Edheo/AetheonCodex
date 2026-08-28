@@ -1,4 +1,4 @@
-# 2024-04-28
+# 2024-05-28
 
 ## Estado
 Borrador
@@ -13,14 +13,21 @@ Entretanto, esperábamos afuera, y curioseabamos a lo lejos, tratando de no demo
 
 ## Literaria
 ### Capítulo
-03 Evolución
+02 - Orígenes
 ### Secuencia
-010
+110
+### Autoría
+Edheo
+
 ### Contenido
 Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante. En aquel entonces, vivíamos aún en Calderer, un trayecto ansioso por conocer este lugar.
 TITÁN Ya se veia majestuoso al llegar a la parcela, incluso antes que él, podíamos ver a Luperca, Pisa, Amis, Pontos, Dogos y d'Artacán, pero ver su tronco, ya robaba todas las atenciones, fué inevitable quedarnos maravillados viéndolo.
 Una vez entramos, a unas pocas decenas de metros a la derecha, se puede ver también a Vetusta, junto a la parte trasera de la casa.
 Podemos ver la diferencianción de los 3 bancales escalonados que conforman la parcela, el bancal oeeste, el más elevado, donde hay unos cuantos árboles, y donde está en su límite la propia Vetusta, el bancal central en cuyo centro se encuentra la casa, y después el bancal este, el de mayor desnivel, donde se pueden ver los olivos y los almendros, y a su sur, se hay la explanada, donde se encuentran frutales como naranjos, un granado, un peral, y caqui y algún que otro olivo más.
+Cuando acabamos la visita, prácticamente delegué la formalización de la oferta, a hacer mi estudio económico, y al dia siguiente le confirmaría la reserva, presencialmente, si era necesario.
+Pero poco duró la ilusión, llegando ya a Calderer, recibo mensaje de la inmobiliaria.
+La vivienda, ya no estaba disponible... se había consolidado al parecer, ya una reserva.
+La desolación, fué... inenarrable.
 
 ## Referencias
 **Miembros:**

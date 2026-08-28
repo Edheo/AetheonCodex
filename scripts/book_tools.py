@@ -13,7 +13,8 @@ Principios:
 - La Bitácora es la fuente de verdad.
 - Las herramientas sólo se ejecutan manualmente.
 - Nunca forman parte de build.py.
-- Git debe estar limpio antes de modificar archivos.
+- Los cambios pendientes en Git se advierten, pero no bloquean la operación.
+- Los archivos objetivo no pueden cambiar entre el plan y la escritura.
 - Primero se valida toda la operación.
 - Si existe cualquier ambigüedad, no se modifica nada.
 - Las entradas sin Capítulo o Secuencia quedan intactas.
@@ -99,50 +100,140 @@ def write_text(path, content):
         )
 
 
-def ensure_clean_git():
-    """
-    Impide modificar el Codex si existen
-    cambios pendientes en Git.
+def get_changed_git_paths():
+    """Devuelve rutas con cambios, incluidas las no rastreadas."""
 
-    Después de ejecutar una operación,
-    Git constituye el mecanismo natural
-    de revisión y rollback.
-    """
+    commands = [
+        ["git", "diff", "--name-only", "-z"],
+        ["git", "diff", "--cached", "--name-only", "-z"],
+        ["git", "ls-files", "--others", "--exclude-standard", "-z"],
+    ]
+    changed = set()
 
-    result = subprocess.run(
-        [
-            "git",
-            "status",
-            "--porcelain",
-        ],
-        cwd=ROOT,
-        capture_output=True,
-        text=True,
-    )
+    for command in commands:
+        result = subprocess.run(
+            command,
+            cwd=ROOT,
+            capture_output=True,
+        )
 
-    if result.returncode != 0:
+        if result.returncode != 0:
+            fail("Unable to determine Git status.")
+
+        for raw_path in result.stdout.split(b"\0"):
+            if not raw_path:
+                continue
+            relative = raw_path.decode(
+                "utf-8",
+                errors="surrogateescape",
+            )
+            changed.add((ROOT / relative).resolve())
+
+    return changed
+
+
+def display_path(path):
+    """Muestra rutas del repositorio de forma relativa cuando sea posible."""
+
+    try:
+        return path.relative_to(ROOT)
+    except ValueError:
+        return path
+
+
+def warn_about_git_changes(target_paths):
+    """Informa de cambios pendientes y devuelve los objetivos solapados."""
+
+    changed = get_changed_git_paths()
+
+    if not changed:
+        return set()
+
+    targets = {path.resolve() for path in target_paths}
+    overlap = changed & targets
+    unrelated = changed - targets
+
+    print()
+    print("[WARNING] Git contains pending changes.")
+
+    if overlap:
+        print()
+        print("Target files already modified before renumbering:")
+        for path in sorted(overlap, key=str):
+            print(f"    {display_path(path)}")
+
+    if unrelated:
+        print()
+        print(
+            f"There are also {len(unrelated)} pending change(s) "
+            "outside the target files."
+        )
+
+    print()
+    print("Pending changes do not block this operation.")
+
+    return overlap
+
+
+def confirm_changes(target_paths):
+    """Solicita confirmación, reforzada si un objetivo ya estaba modificado."""
+
+    overlap = warn_about_git_changes(target_paths)
+    print()
+
+    if overlap:
+        confirmation = input(
+            "Type APPLY to update the already modified target files: "
+        ).strip()
+        return confirmation == "APPLY"
+
+    confirmation = input(
+        "Apply these changes? [y/N] "
+    ).strip().lower()
+    return confirmation == "y"
+
+
+def ensure_sources_unchanged(originals):
+    """Evita sobrescribir cambios ocurridos después de calcular el plan."""
+
+    changed_during_operation = [
+        path
+        for path, original in originals.items()
+        if read_text(path) != original
+    ]
+
+    if changed_during_operation:
+        details = "\n".join(
+            f"        {display_path(path)}"
+            for path in changed_during_operation
+        )
         fail(
-            "Unable to determine Git status."
+            "Target files changed after the plan was calculated. "
+            "No files were written.\n"
+            f"{details}"
         )
 
-    if result.stdout.strip():
 
-        print()
-        print(
-            "[ERROR] Working tree is not clean."
-        )
-        print()
-        print(
-            "Commit or discard pending changes "
-            "before using book tools."
-        )
-        print()
-        print(
-            result.stdout.rstrip()
-        )
-        print()
+def originals_from_prepared(prepared, entries):
+    """Relaciona cada documento preparado con la instantánea que lo originó."""
 
-        sys.exit(1)
+    target_paths = {path for path, _ in prepared}
+    return {
+        entry["path"]: entry["text"]
+        for entry in entries
+        if entry["path"] in target_paths
+    }
+
+
+def write_prepared_changes(prepared, originals):
+    """Valida las instantáneas y escribe una operación ya preparada."""
+
+    ensure_sources_unchanged(originals)
+
+    for path, content in prepared:
+        write_text(path, content)
+
+    return len(prepared)
 
 
 # ============================================================
@@ -925,14 +1016,9 @@ def apply_sequence_plan(plan):
         )
     )
 
-    for path, content in prepared:
-
-        write_text(
-            path,
-            content,
-        )
-
-    return len(prepared)
+    entries = [item["entry"] for item in plan]
+    originals = originals_from_prepared(prepared, entries)
+    return write_prepared_changes(prepared, originals)
 
 
 def renumber_sequences(args):
@@ -991,13 +1077,9 @@ def renumber_sequences(args):
 
         return
 
-    print()
+    prepared = prepare_sequence_changes(plan)
 
-    confirmation = input(
-        "Apply these changes? [y/N] "
-    ).strip().lower()
-
-    if confirmation != "y":
+    if not confirm_changes(path for path, _ in prepared):
 
         print()
         print(
@@ -1007,8 +1089,6 @@ def renumber_sequences(args):
         print()
 
         return
-
-    ensure_clean_git()
 
     changed = apply_sequence_plan(
         plan
@@ -1133,7 +1213,7 @@ def build_chapter_plan(
 
     - Se conserva el orden ordinal actual.
     - Si existe capítulo 0, continúa siendo 0.
-    - Si no existe capítulo 0, se empieza por 1.
+    - Si no existe capítulo 0, se empieza por step.
     - El incremento lo determina step.
     - No se modifican las secuencias.
     """
@@ -1164,7 +1244,7 @@ def build_chapter_plan(
     current = (
         0
         if has_zero
-        else 1
+        else step
     )
 
     for old_number in ordered_numbers:
@@ -1266,10 +1346,13 @@ def apply_chapter_plan(plan):
 
     prepared = prepare_chapter_changes(plan)
 
-    for path, content in prepared:
-        write_text(path, content)
-
-    return len(prepared)
+    entries = [
+        entry
+        for item in plan
+        for entry in item["entries"]
+    ]
+    originals = originals_from_prepared(prepared, entries)
+    return write_prepared_changes(prepared, originals)
 
 
 def renumber_chapters(args):
@@ -1302,16 +1385,14 @@ def renumber_chapters(args):
         print()
         return
 
-    print()
-    confirmation = input("Apply these changes? [y/N] ").strip().lower()
+    prepared = prepare_chapter_changes(plan)
 
-    if confirmation != "y":
+    if not confirm_changes(path for path, _ in prepared):
         print()
         print("[BOOK TOOLS] Operation cancelled.")
         print()
         return
 
-    ensure_clean_git()
     changed = apply_chapter_plan(plan)
 
     print()
@@ -1357,17 +1438,14 @@ def replace_chapter(args):
         print()
         return
 
-    print()
-    confirmation = input("Apply these changes? [y/N] ").strip().lower()
-    if confirmation != "y":
+    if not confirm_changes(path for path, _ in prepared):
         print()
         print("[BOOK TOOLS] Operation cancelled.")
         print()
         return
 
-    ensure_clean_git()
-    for path, content in prepared:
-        write_text(path, content)
+    originals = originals_from_prepared(prepared, matches)
+    write_prepared_changes(prepared, originals)
 
     print()
     print(f"[OK] {len(prepared)} file(s) updated.")

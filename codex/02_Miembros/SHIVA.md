@@ -5,6 +5,7 @@ Nombre: Shiva
 Tipo: Pino
 Especie: Pino Carrasco (pinus halepensis)
 Fecha Nacimiento: indeterminada
+
 ### Naturaleza
 Guardián
 ### Mitología

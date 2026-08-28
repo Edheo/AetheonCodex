@@ -20,9 +20,12 @@ Tuvimos que recogerla, lloviznaba, ella justo encima de un desague, la cogí y c
 **youtube:**le_P2AtA_EQ
 ## Literaria
 ### Capítulo
-01 Mi Contexto
+03 - Sin mandármelo Dios
 ### Secuencia
-025
+060
+### Autoría
+Edheo
+
 ### Contenido
 Frank y yo, por fin, nos decidimos a vivir juntos, después de estar un par de años de relación y atravesar una pandemia separados con el aislamiento, decidimos no esperar más, y nos fuimos a vivir juntos a Calderer.
 Durante la mudanza, ibamos con la furgoneta alquilada llena de bártulos del piso de Frank, dispuestos a descargarlos en Calderer, pero nos detuvimos en la gasolinera en la carretera camino allí.

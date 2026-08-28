@@ -2,7 +2,7 @@
 **Estado:**Borrador
 ## Evento
 Una ilusión se desvanece
-###Descripción
+### Descripción
 Consultando estaba en PROANSU la protectora de animales local del pueblo de mis padres.
 Aparece de pronto, una perrita, rescatada recién nacida, de una camada, perteneciente a una jauría de perros salvajes que vivían sueltos entre los campos de arroz y los naranjos de Sueca.
 Vi su carita, no tenía aún 2 meses de vida, ella y sus hermanos, estaban en adopción según la página web de la protectora.
@@ -32,9 +32,12 @@ The National
 Ef1nJWtkprU
 ## Literaria
 ### Capítulo
-01 Mi Contexto 
+03 - Sin mandármelo Dios
 ### Secuencia
-010
+020
+### Autoría
+Edheo
+
 ### Contenido
 Mara, la perrita de mis padres, falleció poco más de un mes antes.
 Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.

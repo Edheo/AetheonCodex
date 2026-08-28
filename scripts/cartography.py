@@ -5,11 +5,11 @@ Genera un GeoJSON unificado a partir de las capas
 cartográficas canónicas almacenadas en codex.
 
 Fuentes:
-    codex/03_Cartografia/*.geojson
+    codex/05_Cartografia/*.geojson
 
 Salida:
-    docs/03_Cartografia/AETHEON.geojson
-    docs/03_Cartografia/MAPA.md
+    docs/05_Cartografia/AETHEON.geojson
+    docs/05_Cartografia/MAPA.md
     docs/assets/stylesheets/cartography.css
     docs/assets/javascripts/cartography.js
 
@@ -31,13 +31,13 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCE_DIR = (
     ROOT
     / "codex"
-    / "03_Cartografia"
+    / "05_Cartografia"
 )
 
 OUTPUT_DIR = (
     ROOT
     / "docs"
-    / "03_Cartografia"
+    / "05_Cartografia"
 )
 
 OUTPUT_FILE = (

@@ -5,7 +5,7 @@ Borrador
 ## Evento
 El resultado de la espera
 
-###Descripción
+### Descripción
 Visita al oncólogo, el doctor Cunquero de nuevo, ese gran interlocutor que no transmite más que lo indispensable.
 Y aún así, la visita ha sido productiva, la resonancia que hice justo una semana anterior del estado actual de mi cerebro, ha sido favorable, sigue saliendo totalmente limpia, sin vestigio alguno de tumor visible.
 Sin evidencia de tumor macroscópico (según reza en el informe médico)
@@ -42,9 +42,12 @@ Wim Mertens
 </div>
 ## Literaria
 ### Capítulo
-01 - Mi Contexto
+01 - No es la vida de Chuck
 ### Secuencia
-040
+070
+### Autoría
+Edheo
+
 ### Contenido
 Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
 No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.

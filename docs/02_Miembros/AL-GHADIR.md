@@ -4,6 +4,7 @@
 Nombre:	Al-Ghadir
 Tipo: Piscina
 Fecha Nacimiento: Supongo que fué creada al mismo tiempo que la casa.
+
 ### Naturaleza
 Guardián
 ### Mitología
@@ -70,6 +71,7 @@ Palabra: Renovación
 ### Entradas relacionadas
 
 - *Jueves, 13 de agosto de 2026* — [Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir](../04_Bitacora/2026-08-13_Alevines-en-Al-Ghadir.md)
+- *Jueves, 27 de agosto de 2026* — [Los buenos días](../04_Bitacora/2026-08-27_Los-buenos-dias.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
 ## Recursos
