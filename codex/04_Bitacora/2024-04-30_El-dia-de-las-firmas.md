@@ -18,7 +18,7 @@ Pese al alivio, siento haber vendido algo tan preciado, pero fué necesario, no 
 Conduciendo a casa, me acaece otro episodio más.
 ## Literaria
 ### Capítulo
-03 - Orígenes 
+02 - Orígenes 
 ### Secuencia
 080
 ### Autoría

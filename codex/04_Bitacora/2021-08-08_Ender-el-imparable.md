@@ -25,7 +25,7 @@ El minino, sobrevivió, y quizás por esa proeza le llamé Ender, como el niño 
 **youtube:**k4V3Mo61fJM
 ## Literaria
 ### Capítulo
-02 - Sin mandármelo Dios
+03 - Sin mandármelo Dios
 ### Secuencia
 050
 ### Autoría

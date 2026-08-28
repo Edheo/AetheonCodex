@@ -15,7 +15,7 @@ Este monumental pino, ha sido testigo de la revolución industrial, de la revolu
 
 ## Literaria
 ### Capítulo
-03 - Orígenes
+02 - Orígenes
 ### Secuencia
 020
 ### Autoría

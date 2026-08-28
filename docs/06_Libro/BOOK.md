@@ -3,8 +3,8 @@
 ## Índice
 
 - [Capítulo 01 · - No es la vida de Chuck](#capítulo-01-no-es-la-vida-de-chuck)
-- [Capítulo 02 · - Sin mandármelo Dios](#capítulo-02-sin-mandármelo-dios)
-- [Capítulo 03 · - Orígenes](#capítulo-03-orígenes)
+- [Capítulo 02 · - Orígenes](#capítulo-02-orígenes)
+- [Capítulo 03 · - Sin mandármelo Dios](#capítulo-03-sin-mandármelo-dios)
 - [Capítulo 04 · - Mi Contexto](#capítulo-04-mi-contexto)
 - [Capítulo 05 · - Evolución](#capítulo-05-evolución)
 
@@ -197,194 +197,7 @@ Aún así, para ellos, es duro, muy duro, aunque en especial mi padre, no sepa y
 El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro motivo, más que por desalinearse de la implacable realidad.
 
 
-## Capítulo 02 · - Sin mandármelo Dios
-
-### Mara nos deja
-
-*Lunes, 29 de abril de 2019*
-
-*Autoría: Edheo*
-
-*Tears In Heaven — Eric Clapton*
-
-Mara, la perrita de mis padres, falleció hoy, casi plácidamente, durmiendo en el sofá, junto a mis padres, sólo un quejido, un temblor y se fué.
-Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.
-Para mí, también es demoledor... pero, desde un principio, le daban una esperanza de vida de un año, y aún así, con medicación, cuidados, y mucha alegria y cariño, tanto nos dió ella, como nosotros a ella... han sido ocho años los que ha estado con nosotros.
-La casa se va a sentir muy vacía, aunque débil, ahí esta siempre, con dolencias, una ascitis severa provocada por su dolencia cardíaca, y cada vez más recurrentemenete, había que drenarla.
-Fué esta última etapa muy dolorosa, para mí en particular, pero de algún modo, ella descansó así ya de sus dolencias, ya poco bueno iba a disfrutar en la vida.
-Aún así Mara, te sigo recordando, tanto tiempo después, aún añoro tus ansias de cariño.
-Ojalá seas ahora, la mitad de feliz que pudiste ser con nosotros.
-
-
-### Una ilusión se desvanece
-
-*Domingo, 19 de mayo de 2019*
-
-*Autoría: Edheo*
-
-Mara, la perrita de mis padres, falleció poco más de un mes antes.
-Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.
-Quizás yo parezca más frío en ese sentido, y no, no es frialdad, simplemente, toca aceptar, porque los que se van, duele, pero la vida sigue.
-Y no sigue sólo para mí, sino para todos los que aquí seguimos, por mucho que hayas querido a alguien que ya no puede seguir con nosotros, siento en mi, una convicción.
-Cuando algo tan amado, se marcha, el dolor es inevitable, pero lo he visto tantas veces.
-Ese dolor te quiebra, te inmoviliza, te vuelve insensible a tu entorno.
-Y entonces, surge ese problema, el problema que aparece cuando, ninguno de los que sí están, es capaz de acallar tu dolor.
-Cuando eso empieza a suceder, la mayoría de las personas, se sume en ese dolor, es como si el duelo, tuviese esa etapa que te absorbe.
-Permites que te absorba, algunas personas incluso parecen estar dispuestas a residir casi indefinidamente en ese estado, como si al salir de él, insultasen la memoria que les unía.
-Yo, he de admitir que, no soy creyente, no parlotearé de los matices de esta cuestión, porque no ser creyente, no es mi verdadera realidad, pero al parecer, es así como hay que decirlo para que el mundo te entienda.
-No soy creyente, puesto que no acepto ninguna de las religiones vigentes, ni en sus formas, ni en sus contenidos.
-Pero si he sido educado en la religión cristiana, en sus valores, y en lo que yo he destilado para mí, de los que profesan esa fe.
-Soy incapaz de aseverar, que exista o no un dios, y en lo que a mi conciencia respecta, es poco relevante que yo tome partido en ese asunto, no me corresponde.
-Pero si es relevante, para mí, no tomar partido en las empresas que constituyen esas religiones, ni asumir como propios, lo que esas empresas constituidas, demarcan para mí, qué es lo que me define.
-No, me niego, no aceptaré que ninguna religión perimetre mi ser.
-Para mí no son mandatos divinos, sino escritos humanos, que tratan de dictar, definir, confinar y condicionar, quienes somos, y cómo debemos ser.
-Existe una gran hipocresía, pero toda esta parte, es demasiado extensa, como para elaborarla aquí, y el punto clave ahora, es que yo, siempre acabo pensando en una frase, que siempre me resuena.
-Es una frase, de una película, una maravillosa película, a mi modo de ver... El color púrpura.
-En esa escena, Shug Avery, le dice a Celie, "Creo que Dios se enfada (pisses God off) si pasas ante el color púrpura en un campo y ni siquiera te das cuenta".
-Y esa frase, siempre resonó en mi, nos fijamos demasiado en el dolor, en lo que no nos gusta, en lo que nos falta, y siempre falta algo.
-Y reparamos tanto en todo ello que... se nos olvida ver, todo lo que si se ha creado, para nosotros, en las maravillas de alrededor, en esos campos de color púrpura, en árboles tal vez milenarios, en el milagro de la vida, en la gente que amamos y nos aman.
-Cuando dejamos que desde nuestro egoismo, nuestros sentidos se obcequen en la pérdida, y empezamos a ignorar todo lo que sí nos ha sido dado... si, entonces, si, es cierto, también yo lo creo, si yo fuese Dios, creo que incluso alguien como él, se debe sentir defraudado.
-Tantos regalos a tus pies, tantas cosas al alcance de tu mano, sólo tienes que tomarlas y disfrutarlas, dar lo mejor de ti, y disfrutar de lo mejor de los demás, lo mejor de lo que te rodea.
-Como decían en el club de los poetas muertos.. "Carpe diem".
-Y así sea, me puse a buscar, en la protectora, todo el cariño que podemos dar, debe haber un ser que lo necesite.
-A Mara, ya no podremos dárselo más, pero si, lo que tenemos que ofrecer es mucho, yo en particular tengo mucho para dar a un animalito que podrá vivir con todas sus necesidades cubiertas y rodeado de amor.
-Y mirando, en la web de la protectora... foto tras foto. Apareció esa carita tierna, esa historia complicada, una camada, rescatada de una jauria de perros salvajes y asociales.
-Ese morrillo oscuro ensombreciendo un color entre terracota y canela que era todo su cuerpo.
-Apareció ese nombre... Nala... y lo sentí, era ella, ella era. Mis mascotas, han solido ser hembras.
-Mi gata Taka, su hija Shasa, la fallecida perrita Mara, nombres bisilábicos, y una única vocal, la A.
-Nala, era ella, era la señal, era todo lo que necesité mmientras veía la foto en el portal de la protectora, y pude sentirlo, ese "Click". Era ella.
-Contacté inmediatamente, era tarde en la noche, las 10 de la noche, no eran horas de llamar, pero mandé el mensaje inmediatamente, interesándome por ella.. "Hemos visto a Nala y la verdad nos gustaría saber si aún no tiene familia"
-Ni un minuto tardaron en contestar... "Nala está reservada", me contestó.
-Sentí como si... mi click ha fallado? No puede ser, es ella, tiene que ser ella, yo se que es ella, pero... no, ya está reservada, eso significa que no tengo nada que hacer.
-Me tocaba aceptar la negación, pero, quería pensar que debía haber un error, porque yo sentía que sí, que era ella, pero... se me negaba la opción.
-Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no podía ser, no contemplaba la posiblidad de que no fuese ella.
-
-
-### Bienvenida a casa, Nala
-
-*Lunes, 3 de junio de 2019*
-
-*Autoría: Edheo*
-
-*Titanium — Collin McLoughlin's*
-
-Sigo obsesionado, casi 2 semanas más tarde tras verme impedido de alcanzar a Nala, visitando la página de la protectora, veo animalitos buscando dueños, empiezo a admitir que Nala no es una opción, y empiezo a convencerme de que ya no está en mi camino.
-Sigo mirando, fotos de animalitos, pero, no surge ese Click, el Click, fué Nala, y ya no está disponible, hasta que de pronto.
-Una publicación nueva, la publicación informa.... "Nala disponible", siento un vuelco. Será cierto? Será un error? Debo contactar ya!!! De estar disponible, me habrían avisado, no?
-Eso era dia 2, eran casi las 11 de la noche!! Y aún así, contacto con ellos, y efectivamente, inmediatamente me contestaron. Si!!! Sonó la flauta, la familia que tan pronto se interesó por ella... sigue sin acudir a recogerla... y pese el interés inicial demostrado por ella... no dan señales de vida. No vienen a recogerla.
-Yo les digo que si, que por supuesto, ya mismo, y en pocos minutos, me envian el formulario de preadopción, que les hago llegar a primera hora de la mañana.
-Y esa misma tarde del dia 3, reunidos en mi veterinaria de confianza, por fin, se formalizó la adopción.
-Mis padres y yo, allí presentes, y mi pequeña Nala, un poco desorientada, y aún así ya, afable y cariñosa... Por fin pasó a formar parte de nuestras vidas. De mi vida.
-Y entonces entendí que si, que de nuevo, la vida te ofrece, y por momentos te lo quita, pero cuando sientes esa señal, el camino es el correcto, sólo hay que intentarlo un poco más.
-No siempre será la solución, no siempre saldrá bien, pero cuando sientes esa señal... ese click, que digo yo, cuando notas cómo resuena, es que por ahí está el camino.
-Como tantas veces me ha pasado, igual que otras veces, sientes que... no, que no es lo que has de hacer, igual que existe un click, existe un crack... y sientes casi el ruido en si mismo, indicándote que pares, que no sigas, que no te conviene.
-No se si a más personas les pasará, pero... a mi me sucede, cuando siento el click, quedo expectante a la oportunidad, porque siento que va a ser importante para mí.
-Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, algo hay que me dice que no intente algo a marchas forzadas, y puedo sentir dentro de mi como todo chirria de un modo, que si fuerzo a conseguirlo, el resultado, va a perjudicarme.
-
-
-### Ender me llama
-
-*Jueves, 15 de julio de 2021*
-
-*Autoría: Edheo*
-
-*Fix You — Coldplay*
-
-Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
-Un quejido, un lamento, casi junto a la carretera, un minino lloraba desconsolado, casi a la puerta de mi casa, no habrían más de 20 metros hasta la procedencia del lastimoso maullido.
-Mi mente inmediatamente supo que era un minino, y tuve que acudir, de algún modo, el click sonó en mi. No podía ignorar esa llamada.
-Estaba en mi puerta como quien dice, yo no podía oir ese lamento toda la noche e ignorarlo, ya pasó a ser mi responsabilidad, sólo por oirle llamarme.
-Acudí a su encuentro, un gatito de muy pocos meses, malherido, malhumorado, no podía huir, estaba claramente herido y en muy malas condiciones.
-Volví a casa a por una caja de cartón, como pude le metí dentro, pese su mal carácter, me lo llevé a casa.
-El animal estaba asustado, malherido, y aún así no cejaba su empeño, era un animal fuerte, saltaba a la vista, intenté darle algo de comer, y no dudó, pese el pánico, podía más su hambre a todas sus otras contrariedades... ese animal, quería vivir, no había abandonado en absoluto.
-El dia siguiente lo llevé a mi veterinaria, el pronóstico no era muy bueno, pese estar aún fuerte... tenía una seria herida, posiblemente un perro u otro animal similar, le mordió en la pata trasera izquierda.
-Además, la analítica reveló estar contagiado parvovirus, que precisamente en bebés de meses, suele ser letal. El pronóstico era seriamente grave.
-Y aún así, dediqué mis esfuerzos, cariño y cuidados, y el animal, con la medicación, pese pasarlo muy mal los primeros dias (era crítico que los superase), poco a poco, fué remontando.
-Primero, del parvovirus, a las pocas semanas, ya empezó a dar negativo, mientras a mi me aliviaba. Pese haberlo tenido aislado del resto de mis mascotas, Taka, Shasa, Nala, el peligro de contagio era una posibilidad.
-Y ya sólo quedaba ir curándole recurrentemente la grave herida de la pata... el pobre Ender, que ya se merecía ese nombre en honor a las novelas del prodigioso niño que popularizó Orson Scott Card, se sometía pacientemente a las curas, y su pata, pronto recuperó también, completamente funcional.
-Finalmente, curado de su pata, el parvovirus ya no daba señales de vida ni en sus síntomas ni en su ánimo, ni en su analítica.
-Ender poco apoco, se fué convirtiendo en un compañero, fuerte como pocos han habido, cariñoso hasta decir basta, una gratitud retornada en cada gesto, en cada maullido pidiendo atención, en sus bruscos modos de jugar.
-Ender fué, ha sido, sigue siendo y será, un compañero del que jamás podré olvidar la memoria de todo lo que muchos humanos carecen, amor, cariño, fortaleza, carácter, nobleza.
-Todo lo que podría hacerme admirar a alguien, él lo tenía... sin desmerecer en absoluto ninguna de mis otras mascotas... pero en especial él, fué uno de tantos prodigios, con los que me he podido encontrar.
-Curiosamente, es raro que esos prodigios, los encuentre entre los humanos. Curiosamente suelen ser estas bestias peludas, las que me dejan pensando, qué es en realidad, ser una buena persona.
-Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. De las mejores que recuerdo.
-
-
-### Ender el imparable
-
-*Domingo, 8 de agosto de 2021*
-
-*Autoría: Edheo*
-
-*Fix You — Coldplay*
-
-Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
-Un quejido, un lamento, casi junto a la carretera, un minino lloraba desconsolado, casi a la puerta de mi casa, no habrían más de 20 metros hasta la procedencia del lastimoso maullido.
-Mi mente inmediatamente supo que era un minino, y tuve que acudir, de algún modo, el click sonó en mi. No podía ignorar esa llamada.
-Estaba en mi puerta como quien dice, yo no podía oir ese lamento toda la noche e ignorarlo, ya pasó a ser mi responsabilidad, sólo por oirle llamarme.
-Acudí a su encuentro, un gatito de muy pocos meses, malherido, malhumorado, no podía huir, estaba claramente herido y en muy malas condiciones.
-Volví a casa a por una caja de cartón, como pude le metí dentro, pese su mal carácter, me lo llevé a casa.
-El animal estaba asustado, malherido, y aún así no cejaba su empeño, era un animal fuerte, saltaba a la vista, intenté darle algo de comer, y no dudó, pese el pánico, podía más su hambre a todas sus otras contrariedades... ese animal, quería vivir, no había abandonado en absoluto.
-El dia siguiente lo llevé a mi veterinaria, el pronóstico no era muy bueno, pese estar aún fuerte... tenía una seria herida, posiblemente un perro u otro animal similar, le mordió en la pata trasera izquierda.
-Además, la analítica reveló estar contagiado parvovirus, que precisamente en bebés de meses, suele ser letal. El pronóstico era seriamente grave.
-Y aún así, dediqué mis esfuerzos, cariño y cuidados, y el animal, con la medicación, pese pasarlo muy mal los primeros dias (era crítico que los superase), poco a poco, fué remontando.
-Primero, del parvovirus, a las pocas semanas, ya empezó a dar negativo, mientras a mi me aliviaba. Pese haberlo tenido aislado del resto de mis mascotas, Taka, Shasa, Nala, el peligro de contagio era una posibilidad.
-Y ya sólo quedaba ir curándole recurrentemente la grave herida de la pata... el pobre Ender, que ya se merecía ese nombre en honor a las novelas del prodigioso niño que popularizó Orson Scott Card, se sometía pacientemente a las curas, y su pata, pronto recuperó también, completamente funcional.
-Finalmente, curado de su pata, el parvovirus ya no daba señales de vida ni en sus síntomas ni en su ánimo, ni en su analítica.
-Ender poco apoco, se fué convirtiendo en un compañero, fuerte como pocos han habido, cariñoso hasta decir basta, una gratitud retornada en cada gesto, en cada maullido pidiendo atención, en sus bruscos modos de jugar.
-Ender fué, ha sido, sigue siendo y será, un compañero del que jamás podré olvidar la memoria de todo lo que muchos humanos carecen, amor, cariño, fortaleza, carácter, nobleza.
-Todo lo que podría hacerme admirar a alguien, él lo tenía... sin desmerecer en absoluto ninguna de mis otras mascotas... pero en especial él, fué uno de tantos prodigios, con los que me he podido encontrar.
-Curiosamente, es raro que esos prodigios, los encuentre entre los humanos. Curiosamente suelen ser estas bestias peludas, las que me dejan pensando, qué es en realidad, ser una buena persona.
-Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. De las mejores que recuerdo.
-
-
-### Yara nos impide el paso
-
-*Domingo, 24 de octubre de 2021*
-
-*Autoría: Edheo*
-
-*Stop! In The Name Of Love — The Supremes*
-
-Frank y yo, por fin, nos decidimos a vivir juntos, después de estar un par de años de relación y atravesar una pandemia separados con el aislamiento, decidimos no esperar más, y nos fuimos a vivir juntos a Calderer.
-Durante la mudanza, ibamos con la furgoneta alquilada llena de bártulos del piso de Frank, dispuestos a descargarlos en Calderer, pero nos detuvimos en la gasolinera en la carretera camino allí.
-Llenamos combustible, y al salir, el portón trasero mal cerrado se movió, nos detuvimos para asegurar esa puerta, y de pronto. 
-Ojos como de lechuza, nos miraban desde el suelo, un ser diminuto, empapado con la llovizna de la noche, pero con ojos enormes, que nos miraba asustado e inmóvil.
-Intentaba cobijarse del clima, justo encima de un desague, no lo dudé un segundo... Click... bajé y recogí ese animal asustado e inmóvil. Ni intentó huir, al contrario, parecia que llevara horas allí esperando que la recogiese en mis brazos.
-Estaba asustaada si, y aún así, incapaz de renunciar a la calidez de mi regazo, una vez subimos a la furgoneta.
-No tenia buen aspecto, su tamaño era grotescamente pequeño, su garganta palpitaba como si fuese un fuelle o una bomba.
-Nos la llevamos, intenté darle de comer y beber, pero.. estaba visiblemente muy débil, y aún así, algo muy vivo brillaba en sus ojos, obviamente, tuvimos que llevarla al veterinario, pero no ese dia, sino al dia siguiente.
-
-
-### Ender el intrépido
-
-*Jueves, 4 de mayo de 2023*
-
-*Autoría: Edheo*
-
-*The Reason — Hoobastank*
-
-Frank ayer, se encontró un cangrejo de rio, tirado en mitad de la calle privada de Calderer.
-Me mencionó que lo vió, y supuse que alguna gaviota lo soltó o perdió del pico, y fué a parar allí.
-La acequia, está junto a la carretera, así que se me ocurrió, hacer una buena obra, y mira por dónde, no sonó mi crack. 
-Si acaso levemente, pensé que siendo una especie invasora, no debía salvarlo, y aún así, pensé que yo no debía juzgar a un cangrejo aún vivo y saludable. Así que lo tomé, y me fuí.
-Allí me dirigí, y liberé, sobre un pequeño puente de la acequia, al cruzar la carretera, al pobre cangrejo de rio que nuevamente, como otros animales han hecho llegan cerca de mi casa, y pensé que mejor salvarlo.
-Crucé la carretera, tiene mucho tráfico, llegué hasta el pequeño pontón, y deje caer el rio en el agua. Me di media vuelta, y me dirigí a casa, nada raro vi ni oí en todo este transcurso, totalmente ignorante de lo que estaba sucediendo.
-Ni media hora más tarde, ya era la hora de cenar para todas nuestras mascotas, Luna, Nala, Karo, llamamos a todos los gatos y los perros, para darles de cenar, curiosamente Ender no vino, pensamos que, como alguna vez ha hecho, estaba demasiado entretenido subiéndose a los naranjos o los campos de cultivo alrededor de la casa. Nos preocupó, pero no quisimos darle importancia.
-Hoy, me dirigía, a casa de mis padres, para como es habitual, prepararles pastilleros de medicamentos, hacerles la compra de la semana, vigilar cómo se encuentran, mi padre delicado, pero aún saludable, y en fin, mis obligaciones con ellos que son habituales y rutinarias.
-Al salir a la carretera, un gato, blanco y negro, aplastado en la carretera, junto al mismo puente donde liberé el cangrejo de rio, con evidencia de que varios vehículos habían pasado ya sobre él.
-Y entonces... sí... entonces sí sentí el crack, un inmenso crac y me quebró por completo. Lo entendí todo. Y hay que entender esto con matices, no hay una clarividencia, no hay una visión especial. 
-Pero lo que si hay, y es lo que he ido entendiendo a lo largo de mi vida, un maquiavélico mecanismo, que se empeña en juntar piezas de un puzzle inexistente en mi mente.
-Ender, con su innataa curiosidad, vió que algo cogí del suelo, algo vivo, y sintió curiosidad, de algún modo, me siguió en sigilo, hasta la carretera.
-Vió que yo tiraba ese algo vivo, a la acequia, justo donde el pequeño pontón.
-Casi podía ver las imágenes en mi mente, me siguió, y quiso ver qué habia tirado yo a la acequia, así que pese su temor a los coches, creyó que tenía ocasión de cruzar. Tuvo que dudar bastante, pero se atrevió, y finalmente cruzó la carretera, el primer carril fué sencillo, sólo no tenía que venir ningún coche cerca, pero... el segundo carril, el que lindaba con la acequia, ya no hubo tanta suerte... justo la rueda derecha de alguno de los presurosos coches... dió con él, posiblemente sólo fué el morro del coche, lo tumbó, lo dejó ya moribundo o muerto, el resto de coches que vinieran después, hicieron su labor.
-Jamás podré borrar mi sentimiento de culpa, y de nuevo entendí, nuevamente. La intención no siempre implica resultado.
-Y esta narrativa, es la que explica, cómo en mi cabeza se elaboran constructos, que... puede.. tal vez... estén alineados con la realidad, pero puede que no. Pero los atajos se refuerzan en mi mente, con estas reconstrucciones imaginarias, pero que tan bien explican mi modo de entender los sucesos acaecidos.
-Yo sólo pensé en salvar de la muerte a una criatura, jamás imaginé, que el pago de esa obra, iba a ser, perder por ello a un ser tan inmensamente querido por mí, por Frank, por toda la manada, pese lo bruto que era. Karo lo veia como a un padre de hecho, siempre iba tras él. Le maravillaba lo majestuoso, fuerte y seguro de sí mismo que era.
-Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y junto la misma carretera que le encontré, nos dejó para siempre.
-
-
-## Capítulo 03 · - Orígenes
+## Capítulo 02 · - Orígenes
 
 ### Vetusta Germina
 
@@ -609,6 +422,193 @@ Será el lugar donde sembraremos tantas cosas, ilusiones, nuestro proyecto como 
 Sino por todas nuestras peluditas, que vendrán a vivir aquí.
 Un nuevo comienzo, el fin de una etapa dura, una nueva ilusión, y mucho que descubrir, aquí en AETHEON.
 Un mundo singular empieza para nosotros, lleno de esfuerzos si, pero de inmensas satisfacciones, ya lo creo que si.
+
+
+## Capítulo 03 · - Sin mandármelo Dios
+
+### Mara nos deja
+
+*Lunes, 29 de abril de 2019*
+
+*Autoría: Edheo*
+
+*Tears In Heaven — Eric Clapton*
+
+Mara, la perrita de mis padres, falleció hoy, casi plácidamente, durmiendo en el sofá, junto a mis padres, sólo un quejido, un temblor y se fué.
+Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.
+Para mí, también es demoledor... pero, desde un principio, le daban una esperanza de vida de un año, y aún así, con medicación, cuidados, y mucha alegria y cariño, tanto nos dió ella, como nosotros a ella... han sido ocho años los que ha estado con nosotros.
+La casa se va a sentir muy vacía, aunque débil, ahí esta siempre, con dolencias, una ascitis severa provocada por su dolencia cardíaca, y cada vez más recurrentemenete, había que drenarla.
+Fué esta última etapa muy dolorosa, para mí en particular, pero de algún modo, ella descansó así ya de sus dolencias, ya poco bueno iba a disfrutar en la vida.
+Aún así Mara, te sigo recordando, tanto tiempo después, aún añoro tus ansias de cariño.
+Ojalá seas ahora, la mitad de feliz que pudiste ser con nosotros.
+
+
+### Una ilusión se desvanece
+
+*Domingo, 19 de mayo de 2019*
+
+*Autoría: Edheo*
+
+Mara, la perrita de mis padres, falleció poco más de un mes antes.
+Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.
+Quizás yo parezca más frío en ese sentido, y no, no es frialdad, simplemente, toca aceptar, porque los que se van, duele, pero la vida sigue.
+Y no sigue sólo para mí, sino para todos los que aquí seguimos, por mucho que hayas querido a alguien que ya no puede seguir con nosotros, siento en mi, una convicción.
+Cuando algo tan amado, se marcha, el dolor es inevitable, pero lo he visto tantas veces.
+Ese dolor te quiebra, te inmoviliza, te vuelve insensible a tu entorno.
+Y entonces, surge ese problema, el problema que aparece cuando, ninguno de los que sí están, es capaz de acallar tu dolor.
+Cuando eso empieza a suceder, la mayoría de las personas, se sume en ese dolor, es como si el duelo, tuviese esa etapa que te absorbe.
+Permites que te absorba, algunas personas incluso parecen estar dispuestas a residir casi indefinidamente en ese estado, como si al salir de él, insultasen la memoria que les unía.
+Yo, he de admitir que, no soy creyente, no parlotearé de los matices de esta cuestión, porque no ser creyente, no es mi verdadera realidad, pero al parecer, es así como hay que decirlo para que el mundo te entienda.
+No soy creyente, puesto que no acepto ninguna de las religiones vigentes, ni en sus formas, ni en sus contenidos.
+Pero si he sido educado en la religión cristiana, en sus valores, y en lo que yo he destilado para mí, de los que profesan esa fe.
+Soy incapaz de aseverar, que exista o no un dios, y en lo que a mi conciencia respecta, es poco relevante que yo tome partido en ese asunto, no me corresponde.
+Pero si es relevante, para mí, no tomar partido en las empresas que constituyen esas religiones, ni asumir como propios, lo que esas empresas constituidas, demarcan para mí, qué es lo que me define.
+No, me niego, no aceptaré que ninguna religión perimetre mi ser.
+Para mí no son mandatos divinos, sino escritos humanos, que tratan de dictar, definir, confinar y condicionar, quienes somos, y cómo debemos ser.
+Existe una gran hipocresía, pero toda esta parte, es demasiado extensa, como para elaborarla aquí, y el punto clave ahora, es que yo, siempre acabo pensando en una frase, que siempre me resuena.
+Es una frase, de una película, una maravillosa película, a mi modo de ver... El color púrpura.
+En esa escena, Shug Avery, le dice a Celie, "Creo que Dios se enfada (pisses God off) si pasas ante el color púrpura en un campo y ni siquiera te das cuenta".
+Y esa frase, siempre resonó en mi, nos fijamos demasiado en el dolor, en lo que no nos gusta, en lo que nos falta, y siempre falta algo.
+Y reparamos tanto en todo ello que... se nos olvida ver, todo lo que si se ha creado, para nosotros, en las maravillas de alrededor, en esos campos de color púrpura, en árboles tal vez milenarios, en el milagro de la vida, en la gente que amamos y nos aman.
+Cuando dejamos que desde nuestro egoismo, nuestros sentidos se obcequen en la pérdida, y empezamos a ignorar todo lo que sí nos ha sido dado... si, entonces, si, es cierto, también yo lo creo, si yo fuese Dios, creo que incluso alguien como él, se debe sentir defraudado.
+Tantos regalos a tus pies, tantas cosas al alcance de tu mano, sólo tienes que tomarlas y disfrutarlas, dar lo mejor de ti, y disfrutar de lo mejor de los demás, lo mejor de lo que te rodea.
+Como decían en el club de los poetas muertos.. "Carpe diem".
+Y así sea, me puse a buscar, en la protectora, todo el cariño que podemos dar, debe haber un ser que lo necesite.
+A Mara, ya no podremos dárselo más, pero si, lo que tenemos que ofrecer es mucho, yo en particular tengo mucho para dar a un animalito que podrá vivir con todas sus necesidades cubiertas y rodeado de amor.
+Y mirando, en la web de la protectora... foto tras foto. Apareció esa carita tierna, esa historia complicada, una camada, rescatada de una jauria de perros salvajes y asociales.
+Ese morrillo oscuro ensombreciendo un color entre terracota y canela que era todo su cuerpo.
+Apareció ese nombre... Nala... y lo sentí, era ella, ella era. Mis mascotas, han solido ser hembras.
+Mi gata Taka, su hija Shasa, la fallecida perrita Mara, nombres bisilábicos, y una única vocal, la A.
+Nala, era ella, era la señal, era todo lo que necesité mmientras veía la foto en el portal de la protectora, y pude sentirlo, ese "Click". Era ella.
+Contacté inmediatamente, era tarde en la noche, las 10 de la noche, no eran horas de llamar, pero mandé el mensaje inmediatamente, interesándome por ella.. "Hemos visto a Nala y la verdad nos gustaría saber si aún no tiene familia"
+Ni un minuto tardaron en contestar... "Nala está reservada", me contestó.
+Sentí como si... mi click ha fallado? No puede ser, es ella, tiene que ser ella, yo se que es ella, pero... no, ya está reservada, eso significa que no tengo nada que hacer.
+Me tocaba aceptar la negación, pero, quería pensar que debía haber un error, porque yo sentía que sí, que era ella, pero... se me negaba la opción.
+Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no podía ser, no contemplaba la posiblidad de que no fuese ella.
+
+
+### Bienvenida a casa, Nala
+
+*Lunes, 3 de junio de 2019*
+
+*Autoría: Edheo*
+
+*Titanium — Collin McLoughlin's*
+
+Sigo obsesionado, casi 2 semanas más tarde tras verme impedido de alcanzar a Nala, visitando la página de la protectora, veo animalitos buscando dueños, empiezo a admitir que Nala no es una opción, y empiezo a convencerme de que ya no está en mi camino.
+Sigo mirando, fotos de animalitos, pero, no surge ese Click, el Click, fué Nala, y ya no está disponible, hasta que de pronto.
+Una publicación nueva, la publicación informa.... "Nala disponible", siento un vuelco. Será cierto? Será un error? Debo contactar ya!!! De estar disponible, me habrían avisado, no?
+Eso era dia 2, eran casi las 11 de la noche!! Y aún así, contacto con ellos, y efectivamente, inmediatamente me contestaron. Si!!! Sonó la flauta, la familia que tan pronto se interesó por ella... sigue sin acudir a recogerla... y pese el interés inicial demostrado por ella... no dan señales de vida. No vienen a recogerla.
+Yo les digo que si, que por supuesto, ya mismo, y en pocos minutos, me envian el formulario de preadopción, que les hago llegar a primera hora de la mañana.
+Y esa misma tarde del dia 3, reunidos en mi veterinaria de confianza, por fin, se formalizó la adopción.
+Mis padres y yo, allí presentes, y mi pequeña Nala, un poco desorientada, y aún así ya, afable y cariñosa... Por fin pasó a formar parte de nuestras vidas. De mi vida.
+Y entonces entendí que si, que de nuevo, la vida te ofrece, y por momentos te lo quita, pero cuando sientes esa señal, el camino es el correcto, sólo hay que intentarlo un poco más.
+No siempre será la solución, no siempre saldrá bien, pero cuando sientes esa señal... ese click, que digo yo, cuando notas cómo resuena, es que por ahí está el camino.
+Como tantas veces me ha pasado, igual que otras veces, sientes que... no, que no es lo que has de hacer, igual que existe un click, existe un crack... y sientes casi el ruido en si mismo, indicándote que pares, que no sigas, que no te conviene.
+No se si a más personas les pasará, pero... a mi me sucede, cuando siento el click, quedo expectante a la oportunidad, porque siento que va a ser importante para mí.
+Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, algo hay que me dice que no intente algo a marchas forzadas, y puedo sentir dentro de mi como todo chirria de un modo, que si fuerzo a conseguirlo, el resultado, va a perjudicarme.
+
+
+### Ender me llama
+
+*Jueves, 15 de julio de 2021*
+
+*Autoría: Edheo*
+
+*Fix You — Coldplay*
+
+Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
+Un quejido, un lamento, casi junto a la carretera, un minino lloraba desconsolado, casi a la puerta de mi casa, no habrían más de 20 metros hasta la procedencia del lastimoso maullido.
+Mi mente inmediatamente supo que era un minino, y tuve que acudir, de algún modo, el click sonó en mi. No podía ignorar esa llamada.
+Estaba en mi puerta como quien dice, yo no podía oir ese lamento toda la noche e ignorarlo, ya pasó a ser mi responsabilidad, sólo por oirle llamarme.
+Acudí a su encuentro, un gatito de muy pocos meses, malherido, malhumorado, no podía huir, estaba claramente herido y en muy malas condiciones.
+Volví a casa a por una caja de cartón, como pude le metí dentro, pese su mal carácter, me lo llevé a casa.
+El animal estaba asustado, malherido, y aún así no cejaba su empeño, era un animal fuerte, saltaba a la vista, intenté darle algo de comer, y no dudó, pese el pánico, podía más su hambre a todas sus otras contrariedades... ese animal, quería vivir, no había abandonado en absoluto.
+El dia siguiente lo llevé a mi veterinaria, el pronóstico no era muy bueno, pese estar aún fuerte... tenía una seria herida, posiblemente un perro u otro animal similar, le mordió en la pata trasera izquierda.
+Además, la analítica reveló estar contagiado parvovirus, que precisamente en bebés de meses, suele ser letal. El pronóstico era seriamente grave.
+Y aún así, dediqué mis esfuerzos, cariño y cuidados, y el animal, con la medicación, pese pasarlo muy mal los primeros dias (era crítico que los superase), poco a poco, fué remontando.
+Primero, del parvovirus, a las pocas semanas, ya empezó a dar negativo, mientras a mi me aliviaba. Pese haberlo tenido aislado del resto de mis mascotas, Taka, Shasa, Nala, el peligro de contagio era una posibilidad.
+Y ya sólo quedaba ir curándole recurrentemente la grave herida de la pata... el pobre Ender, que ya se merecía ese nombre en honor a las novelas del prodigioso niño que popularizó Orson Scott Card, se sometía pacientemente a las curas, y su pata, pronto recuperó también, completamente funcional.
+Finalmente, curado de su pata, el parvovirus ya no daba señales de vida ni en sus síntomas ni en su ánimo, ni en su analítica.
+Ender poco apoco, se fué convirtiendo en un compañero, fuerte como pocos han habido, cariñoso hasta decir basta, una gratitud retornada en cada gesto, en cada maullido pidiendo atención, en sus bruscos modos de jugar.
+Ender fué, ha sido, sigue siendo y será, un compañero del que jamás podré olvidar la memoria de todo lo que muchos humanos carecen, amor, cariño, fortaleza, carácter, nobleza.
+Todo lo que podría hacerme admirar a alguien, él lo tenía... sin desmerecer en absoluto ninguna de mis otras mascotas... pero en especial él, fué uno de tantos prodigios, con los que me he podido encontrar.
+Curiosamente, es raro que esos prodigios, los encuentre entre los humanos. Curiosamente suelen ser estas bestias peludas, las que me dejan pensando, qué es en realidad, ser una buena persona.
+Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. De las mejores que recuerdo.
+
+
+### Ender el imparable
+
+*Domingo, 8 de agosto de 2021*
+
+*Autoría: Edheo*
+
+*Fix You — Coldplay*
+
+Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
+Un quejido, un lamento, casi junto a la carretera, un minino lloraba desconsolado, casi a la puerta de mi casa, no habrían más de 20 metros hasta la procedencia del lastimoso maullido.
+Mi mente inmediatamente supo que era un minino, y tuve que acudir, de algún modo, el click sonó en mi. No podía ignorar esa llamada.
+Estaba en mi puerta como quien dice, yo no podía oir ese lamento toda la noche e ignorarlo, ya pasó a ser mi responsabilidad, sólo por oirle llamarme.
+Acudí a su encuentro, un gatito de muy pocos meses, malherido, malhumorado, no podía huir, estaba claramente herido y en muy malas condiciones.
+Volví a casa a por una caja de cartón, como pude le metí dentro, pese su mal carácter, me lo llevé a casa.
+El animal estaba asustado, malherido, y aún así no cejaba su empeño, era un animal fuerte, saltaba a la vista, intenté darle algo de comer, y no dudó, pese el pánico, podía más su hambre a todas sus otras contrariedades... ese animal, quería vivir, no había abandonado en absoluto.
+El dia siguiente lo llevé a mi veterinaria, el pronóstico no era muy bueno, pese estar aún fuerte... tenía una seria herida, posiblemente un perro u otro animal similar, le mordió en la pata trasera izquierda.
+Además, la analítica reveló estar contagiado parvovirus, que precisamente en bebés de meses, suele ser letal. El pronóstico era seriamente grave.
+Y aún así, dediqué mis esfuerzos, cariño y cuidados, y el animal, con la medicación, pese pasarlo muy mal los primeros dias (era crítico que los superase), poco a poco, fué remontando.
+Primero, del parvovirus, a las pocas semanas, ya empezó a dar negativo, mientras a mi me aliviaba. Pese haberlo tenido aislado del resto de mis mascotas, Taka, Shasa, Nala, el peligro de contagio era una posibilidad.
+Y ya sólo quedaba ir curándole recurrentemente la grave herida de la pata... el pobre Ender, que ya se merecía ese nombre en honor a las novelas del prodigioso niño que popularizó Orson Scott Card, se sometía pacientemente a las curas, y su pata, pronto recuperó también, completamente funcional.
+Finalmente, curado de su pata, el parvovirus ya no daba señales de vida ni en sus síntomas ni en su ánimo, ni en su analítica.
+Ender poco apoco, se fué convirtiendo en un compañero, fuerte como pocos han habido, cariñoso hasta decir basta, una gratitud retornada en cada gesto, en cada maullido pidiendo atención, en sus bruscos modos de jugar.
+Ender fué, ha sido, sigue siendo y será, un compañero del que jamás podré olvidar la memoria de todo lo que muchos humanos carecen, amor, cariño, fortaleza, carácter, nobleza.
+Todo lo que podría hacerme admirar a alguien, él lo tenía... sin desmerecer en absoluto ninguna de mis otras mascotas... pero en especial él, fué uno de tantos prodigios, con los que me he podido encontrar.
+Curiosamente, es raro que esos prodigios, los encuentre entre los humanos. Curiosamente suelen ser estas bestias peludas, las que me dejan pensando, qué es en realidad, ser una buena persona.
+Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. De las mejores que recuerdo.
+
+
+### Yara nos impide el paso
+
+*Domingo, 24 de octubre de 2021*
+
+*Autoría: Edheo*
+
+*Stop! In The Name Of Love — The Supremes*
+
+Frank y yo, por fin, nos decidimos a vivir juntos, después de estar un par de años de relación y atravesar una pandemia separados con el aislamiento, decidimos no esperar más, y nos fuimos a vivir juntos a Calderer.
+Durante la mudanza, ibamos con la furgoneta alquilada llena de bártulos del piso de Frank, dispuestos a descargarlos en Calderer, pero nos detuvimos en la gasolinera en la carretera camino allí.
+Llenamos combustible, y al salir, el portón trasero mal cerrado se movió, nos detuvimos para asegurar esa puerta, y de pronto. 
+Ojos como de lechuza, nos miraban desde el suelo, un ser diminuto, empapado con la llovizna de la noche, pero con ojos enormes, que nos miraba asustado e inmóvil.
+Intentaba cobijarse del clima, justo encima de un desague, no lo dudé un segundo... Click... bajé y recogí ese animal asustado e inmóvil. Ni intentó huir, al contrario, parecia que llevara horas allí esperando que la recogiese en mis brazos.
+Estaba asustaada si, y aún así, incapaz de renunciar a la calidez de mi regazo, una vez subimos a la furgoneta.
+No tenia buen aspecto, su tamaño era grotescamente pequeño, su garganta palpitaba como si fuese un fuelle o una bomba.
+Nos la llevamos, intenté darle de comer y beber, pero.. estaba visiblemente muy débil, y aún así, algo muy vivo brillaba en sus ojos, obviamente, tuvimos que llevarla al veterinario, pero no ese dia, sino al dia siguiente.
+
+
+### Ender el intrépido
+
+*Jueves, 4 de mayo de 2023*
+
+*Autoría: Edheo*
+
+*The Reason — Hoobastank*
+
+Frank ayer, se encontró un cangrejo de rio, tirado en mitad de la calle privada de Calderer.
+Me mencionó que lo vió, y supuse que alguna gaviota lo soltó o perdió del pico, y fué a parar allí.
+La acequia, está junto a la carretera, así que se me ocurrió, hacer una buena obra, y mira por dónde, no sonó mi crack. 
+Si acaso levemente, pensé que siendo una especie invasora, no debía salvarlo, y aún así, pensé que yo no debía juzgar a un cangrejo aún vivo y saludable. Así que lo tomé, y me fuí.
+Allí me dirigí, y liberé, sobre un pequeño puente de la acequia, al cruzar la carretera, al pobre cangrejo de rio que nuevamente, como otros animales han hecho llegan cerca de mi casa, y pensé que mejor salvarlo.
+Crucé la carretera, tiene mucho tráfico, llegué hasta el pequeño pontón, y deje caer el rio en el agua. Me di media vuelta, y me dirigí a casa, nada raro vi ni oí en todo este transcurso, totalmente ignorante de lo que estaba sucediendo.
+Ni media hora más tarde, ya era la hora de cenar para todas nuestras mascotas, Luna, Nala, Karo, llamamos a todos los gatos y los perros, para darles de cenar, curiosamente Ender no vino, pensamos que, como alguna vez ha hecho, estaba demasiado entretenido subiéndose a los naranjos o los campos de cultivo alrededor de la casa. Nos preocupó, pero no quisimos darle importancia.
+Hoy, me dirigía, a casa de mis padres, para como es habitual, prepararles pastilleros de medicamentos, hacerles la compra de la semana, vigilar cómo se encuentran, mi padre delicado, pero aún saludable, y en fin, mis obligaciones con ellos que son habituales y rutinarias.
+Al salir a la carretera, un gato, blanco y negro, aplastado en la carretera, junto al mismo puente donde liberé el cangrejo de rio, con evidencia de que varios vehículos habían pasado ya sobre él.
+Y entonces... sí... entonces sí sentí el crack, un inmenso crac y me quebró por completo. Lo entendí todo. Y hay que entender esto con matices, no hay una clarividencia, no hay una visión especial. 
+Pero lo que si hay, y es lo que he ido entendiendo a lo largo de mi vida, un maquiavélico mecanismo, que se empeña en juntar piezas de un puzzle inexistente en mi mente.
+Ender, con su innataa curiosidad, vió que algo cogí del suelo, algo vivo, y sintió curiosidad, de algún modo, me siguió en sigilo, hasta la carretera.
+Vió que yo tiraba ese algo vivo, a la acequia, justo donde el pequeño pontón.
+Casi podía ver las imágenes en mi mente, me siguió, y quiso ver qué habia tirado yo a la acequia, así que pese su temor a los coches, creyó que tenía ocasión de cruzar. Tuvo que dudar bastante, pero se atrevió, y finalmente cruzó la carretera, el primer carril fué sencillo, sólo no tenía que venir ningún coche cerca, pero... el segundo carril, el que lindaba con la acequia, ya no hubo tanta suerte... justo la rueda derecha de alguno de los presurosos coches... dió con él, posiblemente sólo fué el morro del coche, lo tumbó, lo dejó ya moribundo o muerto, el resto de coches que vinieran después, hicieron su labor.
+Jamás podré borrar mi sentimiento de culpa, y de nuevo entendí, nuevamente. La intención no siempre implica resultado.
+Y esta narrativa, es la que explica, cómo en mi cabeza se elaboran constructos, que... puede.. tal vez... estén alineados con la realidad, pero puede que no. Pero los atajos se refuerzan en mi mente, con estas reconstrucciones imaginarias, pero que tan bien explican mi modo de entender los sucesos acaecidos.
+Yo sólo pensé en salvar de la muerte a una criatura, jamás imaginé, que el pago de esa obra, iba a ser, perder por ello a un ser tan inmensamente querido por mí, por Frank, por toda la manada, pese lo bruto que era. Karo lo veia como a un padre de hecho, siempre iba tras él. Le maravillaba lo majestuoso, fuerte y seguro de sí mismo que era.
+Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y junto la misma carretera que le encontré, nos dejó para siempre.
 
 
 ## Capítulo 04 · - Mi Contexto

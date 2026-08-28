@@ -19,7 +19,7 @@ EDHEO
 **youtube:**KmAnXxrVC94
 ## Literaria
 ### Capítulo
-02 - Sin mandármelo Dios
+03 - Sin mandármelo Dios
 ### Secuencia
 030
 ### Autoría

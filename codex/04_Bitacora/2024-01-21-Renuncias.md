@@ -16,7 +16,7 @@ En Sueca, la casa no tiene habitaciones abajo, y la casa, no puede sostener 2 pe
 Decidido, venderé Catarroja, mis padres venderán Sueca también, y con todo, comprar algo donde podamos vivir todos juntos, y así poder seguir teniendo mis niñas, y poder seguir teletrabajando y cuidando a la vez como pueda de mis padres.
 ## Literaria
 ### Capítulo
-03 - Orígenes 
+02 - Orígenes 
 ### Secuencia
 050
 ### Autoría

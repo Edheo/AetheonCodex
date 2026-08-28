@@ -20,7 +20,7 @@ Tuvimos que recogerla, lloviznaba, ella justo encima de un desague, la cogí y c
 **youtube:**le_P2AtA_EQ
 ## Literaria
 ### Capítulo
-02 - Sin mandármelo Dios
+03 - Sin mandármelo Dios
 ### Secuencia
 060
 ### Autoría

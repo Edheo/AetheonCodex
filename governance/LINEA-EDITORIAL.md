@@ -25,9 +25,9 @@ Conviene distinguir el hecho, la percepción que se tuvo entonces y la interpret
 En el estado actual, las entradas clasificadas generan este orden:
 
 1. `No es la vida de Chuck`
-2. `Sin mandármelo Dios`
-3. `Mi Contexto`
-4. `Orígenes`
+2. `Orígenes`
+3. `Sin mandármelo Dios`
+4. `Mi Contexto`
 5. `Evolución`
 
 Existen además entradas literarias pendientes de clasificación. Deben seguir tratándose como tales hasta que exista una decisión editorial expresa.
@@ -46,9 +46,25 @@ Existen además entradas literarias pendientes de clasificación. Deben seguir t
 
 **Decisión específica:** un mismo día puede reaparecer en otro capítulo sólo si la nueva focalización cambia o amplía sustancialmente su significado. La eventual segunda mirada sobre `El día de la firma` desde `Orígenes` debe centrarse en la transmisión de Catarroja; no debe duplicar la experiencia neurológica ni convertir la repetición en recurso rutinario.
 
-### Capítulo 02 · Sin mandármelo Dios
+### Capítulo 02 · Orígenes
 
-**Estado en el repositorio:** definido y vigente como capítulo 02. **El título es de trabajo** y debe seguir sometido al contenido; no se escribirá para justificarlo.
+**Estado en el repositorio:** definido y vigente como capítulo 02.
+
+**Propósito:** conservar los antecedentes materiales, biológicos, documentales y humanos del lugar antes de su reconocimiento y transformación como Aetheon, y narrar las condiciones que hicieron posible el encuentro. Aetheon no comienza con la llegada del narrador: Vetusta, Titán, el terreno, la casa y las intervenciones anteriores ya poseían una historia propia.
+
+**Qué pertenece aquí:** germinaciones estimadas y permanencias significativas; hechos que expliquen la procedencia del terreno y sus elementos heredados; constitución catastral y transmisiones previas; decisiones, renuncias y casualidades necesarias para que las trayectorias del narrador y del lugar lleguen a cruzarse; salida a la venta, primera visita y adquisición.
+
+**Qué no pertenece aquí:** cualquier pasado remoto por su mera antigüedad; la evolución posterior del lugar; una cosmogonía completa deducida a partir de documentación parcial; la conversión de una sucesión de casualidades en prueba obligatoria de destino, voluntad o propósito exterior.
+
+**Tono y criterio narrativo:** conservador ante fechas aproximadas y lagunas documentales, distinguiendo lo acreditado de lo estimado o simbólico. La mirada de Edheo forma parte legítima del capítulo: no debe aseptizarse ni ocultar las coincidencias y condiciones que efectivamente tuvieron que concurrir. Éstas pueden mostrarse, relacionarse y causar asombro sin que el libro fuerce al lector a interpretarlas como demostración. La incertidumbre no exige prescindir de información; exige distinguir el hecho, la conexión percibida y la conclusión posible.
+
+**Relación con la apertura:** después de que `No es la vida de Chuck` presente una mirada parcial, vulnerable y capaz de buscar relaciones, `Orígenes` amplía el campo hacia un lugar que ya existía antes de esa mirada. Ambas trayectorias comienzan separadas y convergen en el encuentro con Aetheon.
+
+**Pendientes:** el arco detallado y sus límites finales siguen abiertos. Faltan antecedentes materiales y documentales por investigar y Bitácoras que permitan desarrollar la historia previa sin rellenar sus lagunas mediante inferencias tratadas como hechos.
+
+### Capítulo 03 · Sin mandármelo Dios
+
+**Estado en el repositorio:** definido y vigente como capítulo 03. **El título es de trabajo** y debe seguir sometido al contenido; no se escribirá para justificarlo.
 
 **Propósito:** contar en primer plano las relaciones, pérdidas, incorporaciones, cuidados, cariño y satisfacción de velar por Mara, Nala, Ender, Yara, Karo, Alma, Hada y demás relaciones relevantes. En segundo plano puede hacerse visible, de forma paulatina y sobria, cierto distanciamiento humano o social producido durante esa vida compartida.
 
@@ -62,9 +78,9 @@ Regla editorial del arco:
 
 > No absolver, no condenar; contar.
 
-### Capítulo 03 · Mi Contexto
+### Capítulo 04 · Mi Contexto
 
-**Estado en el repositorio:** definido y vigente como capítulo 03. Su contenido actual es reflexivo; esa clasificación existente no basta por sí sola para convertir cualquier reflexión en propósito del capítulo.
+**Estado en el repositorio:** definido y vigente como capítulo 04. Su contenido actual es reflexivo; esa clasificación existente no basta por sí sola para convertir cualquier reflexión en propósito del capítulo.
 
 **Decisión editorial acordada — Propósito:** mostrar y formular el prisma desde el que el narrador interpreta el mundo y, por extensión, Aetheon. Es un punto de convergencia: las experiencias narradas en otros arcos pueden desembocar aquí transformadas en pensamiento sobre la experiencia.
 
@@ -79,20 +95,6 @@ Como núcleo conceptual puede figurar:
 **Tono y criterio narrativo:** reflexivo, preciso y provisional. Presentar relaciones y someterlas a contraste sin disfrazar una intuición de hecho ni utilizar el escepticismo para clausurar el asombro.
 
 **Pendientes:** revisar en una tarea futura la adscripción de las entradas que hoy contiene. Esa revisión no se realiza ni se presupone aquí.
-
-### Capítulo 04 · Orígenes
-
-**Estado en el repositorio:** definido y vigente como capítulo 04.
-
-**Propósito inferible:** conservar los antecedentes materiales y documentales del lugar antes de su reconocimiento y transformación como Aetheon: la germinación estimada de Titán, la constitución catastral, transmisiones previas y la salida a la venta.
-
-**Qué pertenece aquí:** hechos que expliquen de forma directa la procedencia del terreno, sus elementos heredados y las condiciones históricas o documentales que hicieron posible el encuentro con Aetheon.
-
-**Qué no pertenece aquí:** cualquier pasado remoto por su mera antigüedad; la evolución posterior del lugar; una cosmogonía completa deducida a partir de documentación parcial.
-
-**Tono y criterio narrativo:** conservador ante fechas aproximadas y lagunas documentales; distinguir lo acreditado de lo estimado o simbólico.
-
-**Pendientes:** el arco detallado y sus límites finales están **por definir**. La descripción anterior sólo recoge el denominador común sólido de sus entradas actuales.
 
 ### Capítulo 05 · Evolución
 
@@ -118,9 +120,9 @@ Como núcleo conceptual puede figurar:
 
 ## Relación estructural deseada
 
-Los arcos vitales pueden mostrar experiencias sin detenerse a formular toda su consecuencia filosófica. `Mi Contexto` puede funcionar después como punto de convergencia donde la mirada resultante se vuelve pensable y se articula.
+La apertura establece dos trayectorias que empiezan separadas y terminan entretejiéndose. `No es la vida de Chuck` presenta la experiencia parcial del narrador y los límites de su conocimiento. `Orígenes` amplía después la mirada hacia un lugar cuya existencia material, biológica y humana es anterior a él, hasta narrar las condiciones y casualidades que permiten el encuentro. `Sin mandármelo Dios` muestra la red de relaciones, cuidados y compromisos con la que el narrador llega a ese encuentro.
 
-Esta relación no fija todavía un orden definitivo. Evita, en cambio, que `Mi Contexto` absorba cualquier episodio relevante y permite que la formulación nazca de experiencias que el lector ya ha podido habitar sin una interpretación impuesta.
+Los arcos vitales pueden mostrar experiencias y conexiones sin detenerse a formular toda su consecuencia filosófica. `Mi Contexto` funciona después como punto de convergencia donde la mirada resultante se vuelve pensable y se articula. Este orden evita que `Mi Contexto` absorba cualquier episodio relevante y permite que la formulación nazca de experiencias que el lector ya ha podido habitar sin una interpretación impuesta.
 
 ## Criterios de revisión y cierre
 
