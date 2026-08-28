@@ -780,18 +780,50 @@ Algunas veces cambia la luz lo suficiente para que podamos vernos.
 
 ## Capítulo 04 · - Orígenes
 
+### Vetusta Germina
+
+*En algún momento posiblemente posterior al año 1576ad, quién podría estar seguro?*
+
+*Autoría: Edheo*
+
+*Adagio en sol menor — Academy of St Martin in the Fields*
+
+Desde que nació Vetusta... tantas cosas han acaecido en el mundo, en la humanidad.
+Quien sabe si presenció la revuelta de las Germanías o siquiera pudieron impedir que germinase.
+Posiblemente ya estaba en esta loma, mientras se iba conquistando el continente americano por los españoles, causando sus masacres, inyectando allá su cultura.
+Las moreras y la seda, colmaban los paisajes, por el desarrollo de Carcaixent y su demanda para sus telares. Y aún así, eso tampoco la frenó.
+Galileo, Kepler y Newton, establecieron las bases del método científico, y empezaron a estructurar el método analítico para explorar la realidad y justificarla.
+La expulsión de los moriscos, tampoco creó el contexto para exterminarla... sobrevivió a aquello también, o quizás precisamente ello la salvó.
+Ya debia ser adulta, cuando a lo lejos puede que oyese resonar alguna máquina de vapor.
+Y una guerra de sucesión que acompaño a Felipe V, además, con su consecuente invasión de tropas en la zona y la abolición de los fueros valencianos.
+Algunas tierras conquistadas de América, empezaron a reclamar su independencia.
+Los naranjos empezaron a dominar el horizonte, pero por algún motivo, tampoco significó su tala o exterminio.
+La Gran Riada de San Calixto, no pudo anegarla, pero si pudo interferir con sus consecuencias, pero las sobrevivió.
+Francia se revolvió civilmente, desatando una de las revoluciones más trascendentes de la historia, pese que al final, el yugo contra el que se reveló aquella sociedad, en realidad, nunca fué purgado.
+El marical Suchet, ni las guerras napoleónicas, tampoco crearon suficiente caos con la Guerra de la independencia como para suponer su fin.
+Y así, ella entretanto, observaba a Titán que también iba comiendo terreno, ganando portento, ambos se observaban, inquietos, quizás asustados por los ritmos de los tiempos, sus amenazas, nada ni nadie les protegía seguramente de todo ello. Pero ambos, sobrevivian.
+Nuevas revoluciones industriales, dos guerras mundiales, una trágica guerra civil en España.
+Tampoco la pantanada de Tous creó el caos necesario para liquidarles, pero por seguro, que amenazas, más de una hubo.
+Quizás vivieron incendios, de cerca o de lejos.. la destrucción, es parte de la rutina, en esta tierra, en este pais, en este planeta, en la propia naturaleza.
+Y aún así... sin paraguas, sin chaleco antibalas, sin abrigo... aquí están.. no sólo Vetusta, sino también su compañero ya de siglos, Titán, supervivientes del tiempo, de la historia, de la industria, de los humanos y de lo salvaje.
+
+
 ### Titán Germina
 
 *En algún momento posiblemente posterior al año 1846ad*
 
 *Autoría: Edheo*
 
-Según se puede estimar, este pino piñonero, dado que creció en esta colina rocosa, cuando esto sería mero monte.
-Su tronco, a la altura de unos 130 cm, tiene un perímetro de 222 cm en la actualidad, lo cual equivale a un diámetro de 70,6 cm.
-Teniendo en cuenta las condiciones climatológicas de Turís, y que su crecimiento ha debido ser bastante irregular.
-Utilizando el método del lápiz, le calculo aproximadamente unos 17 metros de alto.
-La edad calculada se estima entre 140 y 180 años.
-Este monumental pino, ha sido testigo de la revolución industrial, de la revolución agrícola, el impacto de la guerra civil y la postguerra aquí.
+*Canon en re mayor — Kanon Orchestre de Chambre*
+
+Algo más joven, pero no por ello, ha necesitado menos fortuna que Vetusta para seguir aquí donde está.
+Obviamente, el paso del tiempo le fué dotando de una majestuosidad que desafiaba la de la propia Vetusta, quizás este Canon de colosos, este dueto poderoso que conformaban ambos.
+Para afrentar los retos, los cambios, los tiempos duros... fueron definiendo, tal vez, de algún modo, el territorio que quedaba custodiado a sus pies.
+No puede ser casual, me niego a creerlo que sus propias presencias, no conformaran de algún modo, lo que esta parcela, esta tierra, este pequeño reino, ha quedado configurado en buena parte, por lo que los humanos, en su momento, hemos considerado, que eran sus límites geográficos naturales.
+Y en cierto modo, aquellos que decidieron ese mapa cartográfico, delimitado de este que es Aetheon, de algún modo... ya dió voz a su identidad.
+Titán, los masqueperros, Pisa, Luperca, Láctea, Rómulo, Remo, Shiva y Shenlong... sin tener ni consciencia, ni voz, ni tan siquiera voluntad propia.. dieron a su modo, voz a Aetheon.
+Cumplieron su función, fueron los guardianes, y crearon las lindes, y al crearlas, empezaron a darle el verdadero cuerpo, que hoy dia Aetheon tiene.
+De ese modo, ellos fueron para Aetheon su costura, su linde, su forma, y Aetheon les dió sentido a lo que pudieron llamar, por fin, hogar.
 
 
 ### Constitución catastral

@@ -20,7 +20,7 @@ Conduciendo a casa, me acaece otro episodio más.
 ### Capítulo
 04 - Orígenes 
 ### Secuencia
-070
+080
 ### Autoría
 Edheo
 

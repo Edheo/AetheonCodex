@@ -15,7 +15,7 @@ Entretanto, esperábamos afuera, y curioseabamos a lo lejos, tratando de no demo
 ### Capítulo
 04 - Orígenes
 ### Secuencia
-100
+110
 ### Autoría
 Edheo
 

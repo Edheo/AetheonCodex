@@ -13,7 +13,7 @@ Así queda constituida a nivel catastral como fecha de construcción de la casa.
 ### Capítulo
 04 - Orígenes
 ### Secuencia
-020
+030
 ### Autoría
 Edheo
 

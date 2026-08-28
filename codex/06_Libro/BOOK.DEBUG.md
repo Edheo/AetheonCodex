@@ -28,18 +28,19 @@
   - 020 · La inquietud y la semilla — `2026-08-14_La-inquietud-y-la-semilla.md`
   - 030 · Lo que la sombra reunió — `2026-08-24_Lo-que-la-sombra-reunio.md`
 - **Capítulo 04 · - Orígenes**
-  - 010 · Titán Germina — `1800-00-00_Titan-Germina.md`
-  - 020 · Constitución catastral — `1978-00-00_Constitucion_catastral.md`
-  - 030 · Compra anteriores propietarios — `2015-06-23_Compra-anteriores-propietarios.md`
-  - 040 · Renuncias — `2024-01-21-Renuncias.md`
-  - 050 · Contrato de Arras — `2024-02-07-Contrato-de-arras.md`
-  - 060 · Se Vende — `2024-04-23_Se-vende.md`
-  - 070 · El dia de la firma — `2024-04-30_El-dia-de-las-firmas.md`
-  - 080 · Notario — `2024-05-21-Notario.md`
-  - 090 · Anuncio AETHEON en venta — `2024-05-22_Aetheon-en-venta.md`
-  - 100 · Primera visita a Aetheon — `2024-05-28_Primera-visita.md`
-  - 110 · No mueras posibilidad — `2024-05-29_No-mueras-posibilidad.md`
-  - 120 · Alegría — `2024-07-15_Alegria.md`
+  - 010 · Vetusta Germina — `1576-00-00_Vetusta-Germina.md`
+  - 020 · Titán Germina — `1800-00-00_Titan-Germina.md`
+  - 030 · Constitución catastral — `1978-00-00_Constitucion_catastral.md`
+  - 040 · Compra anteriores propietarios — `2015-06-23_Compra-anteriores-propietarios.md`
+  - 050 · Renuncias — `2024-01-21-Renuncias.md`
+  - 060 · Contrato de Arras — `2024-02-07-Contrato-de-arras.md`
+  - 070 · Se Vende — `2024-04-23_Se-vende.md`
+  - 080 · El dia de la firma — `2024-04-30_El-dia-de-las-firmas.md`
+  - 090 · Notario — `2024-05-21-Notario.md`
+  - 100 · Anuncio AETHEON en venta — `2024-05-22_Aetheon-en-venta.md`
+  - 110 · Primera visita a Aetheon — `2024-05-28_Primera-visita.md`
+  - 120 · No mueras posibilidad — `2024-05-29_No-mueras-posibilidad.md`
+  - 130 · Alegría — `2024-07-15_Alegria.md`
 - **Capítulo 05 · - Evolución**
   - 010 · Protectores en la rosa de los vientos y el granado griegos — `2026-08-06_Proteccion-de-los-arboles.md`
   - 020 · Dana de Valencia — `2024-10-29_Dana-de-Valencia.md`
@@ -930,23 +931,61 @@ Algunas veces cambia la luz lo suficiente para que podamos vernos.
 
 ## Capítulo 04 · - Orígenes
 
+### Vetusta Germina
+
+*En algún momento posiblemente posterior al año 1576ad, quién podría estar seguro?*
+
+*Autoría: Edheo*
+
+*Adagio en sol menor — Academy of St Martin in the Fields*
+
+- **Origen:** `1576-00-00_Vetusta-Germina.md`
+- **Estado:** Borrador
+- **Capítulo:** 04
+- **Secuencia:** 010
+
+Desde que nació Vetusta... tantas cosas han acaecido en el mundo, en la humanidad.
+Quien sabe si presenció la revuelta de las Germanías o siquiera pudieron impedir que germinase.
+Posiblemente ya estaba en esta loma, mientras se iba conquistando el continente americano por los españoles, causando sus masacres, inyectando allá su cultura.
+Las moreras y la seda, colmaban los paisajes, por el desarrollo de Carcaixent y su demanda para sus telares. Y aún así, eso tampoco la frenó.
+Galileo, Kepler y Newton, establecieron las bases del método científico, y empezaron a estructurar el método analítico para explorar la realidad y justificarla.
+La expulsión de los moriscos, tampoco creó el contexto para exterminarla... sobrevivió a aquello también, o quizás precisamente ello la salvó.
+Ya debia ser adulta, cuando a lo lejos puede que oyese resonar alguna máquina de vapor.
+Y una guerra de sucesión que acompaño a Felipe V, además, con su consecuente invasión de tropas en la zona y la abolición de los fueros valencianos.
+Algunas tierras conquistadas de América, empezaron a reclamar su independencia.
+Los naranjos empezaron a dominar el horizonte, pero por algún motivo, tampoco significó su tala o exterminio.
+La Gran Riada de San Calixto, no pudo anegarla, pero si pudo interferir con sus consecuencias, pero las sobrevivió.
+Francia se revolvió civilmente, desatando una de las revoluciones más trascendentes de la historia, pese que al final, el yugo contra el que se reveló aquella sociedad, en realidad, nunca fué purgado.
+El marical Suchet, ni las guerras napoleónicas, tampoco crearon suficiente caos con la Guerra de la independencia como para suponer su fin.
+Y así, ella entretanto, observaba a Titán que también iba comiendo terreno, ganando portento, ambos se observaban, inquietos, quizás asustados por los ritmos de los tiempos, sus amenazas, nada ni nadie les protegía seguramente de todo ello. Pero ambos, sobrevivian.
+Nuevas revoluciones industriales, dos guerras mundiales, una trágica guerra civil en España.
+Tampoco la pantanada de Tous creó el caos necesario para liquidarles, pero por seguro, que amenazas, más de una hubo.
+Quizás vivieron incendios, de cerca o de lejos.. la destrucción, es parte de la rutina, en esta tierra, en este pais, en este planeta, en la propia naturaleza.
+Y aún así... sin paraguas, sin chaleco antibalas, sin abrigo... aquí están.. no sólo Vetusta, sino también su compañero ya de siglos, Titán, supervivientes del tiempo, de la historia, de la industria, de los humanos y de lo salvaje.
+
+---
+
 ### Titán Germina
 
 *En algún momento posiblemente posterior al año 1846ad*
 
 *Autoría: Edheo*
 
+*Canon en re mayor — Kanon Orchestre de Chambre*
+
 - **Origen:** `1800-00-00_Titan-Germina.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 010
+- **Secuencia:** 020
 
-Según se puede estimar, este pino piñonero, dado que creció en esta colina rocosa, cuando esto sería mero monte.
-Su tronco, a la altura de unos 130 cm, tiene un perímetro de 222 cm en la actualidad, lo cual equivale a un diámetro de 70,6 cm.
-Teniendo en cuenta las condiciones climatológicas de Turís, y que su crecimiento ha debido ser bastante irregular.
-Utilizando el método del lápiz, le calculo aproximadamente unos 17 metros de alto.
-La edad calculada se estima entre 140 y 180 años.
-Este monumental pino, ha sido testigo de la revolución industrial, de la revolución agrícola, el impacto de la guerra civil y la postguerra aquí.
+Algo más joven, pero no por ello, ha necesitado menos fortuna que Vetusta para seguir aquí donde está.
+Obviamente, el paso del tiempo le fué dotando de una majestuosidad que desafiaba la de la propia Vetusta, quizás este Canon de colosos, este dueto poderoso que conformaban ambos.
+Para afrentar los retos, los cambios, los tiempos duros... fueron definiendo, tal vez, de algún modo, el territorio que quedaba custodiado a sus pies.
+No puede ser casual, me niego a creerlo que sus propias presencias, no conformaran de algún modo, lo que esta parcela, esta tierra, este pequeño reino, ha quedado configurado en buena parte, por lo que los humanos, en su momento, hemos considerado, que eran sus límites geográficos naturales.
+Y en cierto modo, aquellos que decidieron ese mapa cartográfico, delimitado de este que es Aetheon, de algún modo... ya dió voz a su identidad.
+Titán, los masqueperros, Pisa, Luperca, Láctea, Rómulo, Remo, Shiva y Shenlong... sin tener ni consciencia, ni voz, ni tan siquiera voluntad propia.. dieron a su modo, voz a Aetheon.
+Cumplieron su función, fueron los guardianes, y crearon las lindes, y al crearlas, empezaron a darle el verdadero cuerpo, que hoy dia Aetheon tiene.
+De ese modo, ellos fueron para Aetheon su costura, su linde, su forma, y Aetheon les dió sentido a lo que pudieron llamar, por fin, hogar.
 
 ---
 
@@ -959,7 +998,7 @@ Este monumental pino, ha sido testigo de la revolución industrial, de la revolu
 - **Origen:** `1978-00-00_Constitucion_catastral.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 020
+- **Secuencia:** 030
 
 Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
 
@@ -974,7 +1013,7 @@ Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fe
 - **Origen:** `2015-06-23_Compra-anteriores-propietarios.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 030
+- **Secuencia:** 040
 
 En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que aquí quedó, fué también gracias a su contribución.
 
@@ -991,7 +1030,7 @@ En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que
 - **Origen:** `2024-01-21-Renuncias.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 040
+- **Secuencia:** 050
 
 Todo se complica, mi padre se ha fracturado la cadera, ahora tanto él como mi madre la tienen fracturada.
 Y mi padre, no está poniendo voluntad, estoy en un infierno de turnos de hospital, dias y noches, sin parar.
@@ -1021,7 +1060,7 @@ Por mi parte, sin dudar, pongo el piso en venta, y que sea lo que tenga que ser.
 - **Origen:** `2024-02-07-Contrato-de-arras.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 050
+- **Secuencia:** 060
 
 Han sido apenas dos semanas, el piso en venta en portales de internet, unas pocas visitas, y pronto ayer, la última interesada es rauda en su oferta, y yo, no lo pienso más.
 Acepté sus condiciones, y hoy me escapo, lo mínimo que puedo, del hospital donde estoy al cuidado de mi padre, una prima mia a regañadientes acepta a cuidar de él en mi ausencia.
@@ -1042,7 +1081,7 @@ Mi marcha es triste, siento que me desprendo de algo muy amado, pero, mis motivo
 - **Origen:** `2024-04-23_Se-vende.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 060
+- **Secuencia:** 070
 
 Lo hablo varias veces, sobre todo con mi madre.
 También con mi padre claro, pero desde la fractura de cadera, está bastante inapetente de todo.
@@ -1065,7 +1104,7 @@ Veamos si hay suerte!!! Parece que empieza todo de verdad, por una vez!!
 - **Origen:** `2024-04-30_El-dia-de-las-firmas.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 070
+- **Secuencia:** 080
 
 El dia llegó, sentimientos encontrados. Si quiero un hogar para mis niñas, donde puedan tener espacio, donde en una futura pandemia o similar, pueda estar en algo más que entre 4 paredes sin ventilación, donde Frank y yo podamos vivir, este piso, no sirve, no es viable.
 Y lo cierto, es que he sido muy feliz aquí.
@@ -1092,7 +1131,7 @@ Camino al coche, otro episodio, pero llego al fin, y de nuevo, camino a casa... 
 - **Origen:** `2024-05-21-Notario.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 080
+- **Secuencia:** 090
 
 Una compradora se ofrece, a hacer el contrato de arras, para la casa de Sueca, si esto sale bien, por fin podemos optar.
 Un lugar, donde Frank y yo tener nuestro propio espacio, poder cuidar de mis padres, ya cada vez más incapaces, poder tener un lugar donde cuidar mis niñas.
@@ -1119,7 +1158,7 @@ Es imposible... acabo de arruinar mi vida, la de mis niñas, la de mi pareja... 
 - **Origen:** `2024-05-22_Aetheon-en-venta.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 090
+- **Secuencia:** 100
 
 Vimos las fotos de la parcela y la casa. 
 Todo parecía maravilloso, incluso el precio. 
@@ -1138,7 +1177,7 @@ Perfecto, todo perfecto, Frank concertó la cita, el sueño, empezaba a ser posi
 - **Origen:** `2024-05-28_Primera-visita.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 100
+- **Secuencia:** 110
 
 Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante. En aquel entonces, vivíamos aún en Calderer, un trayecto ansioso por conocer este lugar.
 TITÁN Ya se veia majestuoso al llegar a la parcela, incluso antes que él, podíamos ver a Luperca, Pisa, Amis, Pontos, Dogos y d'Artacán, pero ver su tronco, ya robaba todas las atenciones, fué inevitable quedarnos maravillados viéndolo.
@@ -1162,7 +1201,7 @@ La desolación, fué... inenarrable.
 - **Origen:** `2024-05-29_No-mueras-posibilidad.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 110
+- **Secuencia:** 120
 
 El dia, empezó con lágrimas, tanto Frank, como yo.
 Cuando Frank llegó al trabajo, me hizo una propuesta. Que subieramos la oferta, 5000 euros más, un poco más allá de nuestras posibilidades.
@@ -1183,7 +1222,7 @@ Contacté con la inmobiliaria, contraoferté.. y aceptaron, y de pronto, lo que 
 - **Origen:** `2024-07-15_Alegria.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 120
+- **Secuencia:** 130
 
 Por fin, el dia llegó, se firma en acta notarial, AETHEON es nuestra propiedad.
 Un lugar, donde vivir, donde poder vivir nuestras ilusiones.

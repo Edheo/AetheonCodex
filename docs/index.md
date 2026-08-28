@@ -23,6 +23,7 @@
 
 ## 04_Bitacora
 
+- [1576-00-00_Vetusta-Germina](04_Bitacora/1576-00-00_Vetusta-Germina.md)
 - [1800-00-00_Titan-Germina](04_Bitacora/1800-00-00_Titan-Germina.md)
 - [1978-00-00_Constitucion_catastral](04_Bitacora/1978-00-00_Constitucion_catastral.md)
 - [2015-06-23_Compra-anteriores-propietarios](04_Bitacora/2015-06-23_Compra-anteriores-propietarios.md)

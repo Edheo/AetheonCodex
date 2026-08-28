@@ -89,6 +89,8 @@ Fecha desconocida	-	En algún momento de algún siglo más o menos reciente, má
 <!-- BEGIN GENERATED MEMBER JOURNAL -->
 ### Entradas relacionadas
 
+- *En algún momento posiblemente posterior al año 1576ad, quién podría estar seguro?* — [Vetusta Germina](../04_Bitacora/1576-00-00_Vetusta-Germina.md)
+- *En algún momento posiblemente posterior al año 1846ad* — [Titán Germina](../04_Bitacora/1800-00-00_Titan-Germina.md)
 - *Martes, 28 de mayo de 2024* — [Primera visita a Aetheon](../04_Bitacora/2024-05-28_Primera-visita.md)
 - *Jueves, 27 de agosto de 2026* — [Los buenos días](../04_Bitacora/2026-08-27_Los-buenos-dias.md)
 <!-- END GENERATED MEMBER JOURNAL -->
