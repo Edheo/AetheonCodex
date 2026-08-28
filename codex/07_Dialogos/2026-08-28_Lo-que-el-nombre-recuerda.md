@@ -74,7 +74,7 @@ formularon la cuestión del nombre y la memoria retrospectiva.
 ## Diálogo
 
 ### Edheo
-
+2026-08-28, 07:03
 Y es algo que... por las costuras que pueda, quiero impregnar en el libro. Si
 todo esto ha sido posible, es precisamente por tener nombre. Lo que no se
 nombra, no existe, dijo alguien. Pero lo que no dijo es que, a partir de que
@@ -88,7 +88,7 @@ en parte de qué, cómo, dónde y cuándo es y ha sido Aetheon, y de cómo el pr
 sistema ha acabado produciéndolo.
 
 ### Logos
-
+2026-08-28, 07:04
 Limen, quisiera comenzar distinguiendo dos afirmaciones que pueden parecer
 contrarias y que, sin embargo, necesitamos conservar simultáneamente.
 
