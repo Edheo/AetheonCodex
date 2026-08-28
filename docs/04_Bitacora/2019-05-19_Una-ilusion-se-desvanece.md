@@ -47,7 +47,7 @@ The National
 </div>
 ## Literaria
 ### Capítulo
-02 - Sin mandármelo Dios
+03 - Sin mandármelo Dios
 ### Secuencia
 020
 ### Autoría

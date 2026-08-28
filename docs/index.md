@@ -81,6 +81,7 @@
 ## 07_Dialogos
 
 - [2026-08-24_El-prodigio-sin-proposito](07_Dialogos/2026-08-24_El-prodigio-sin-proposito.md)
+- [2026-08-28_Lo-que-el-nombre-recuerda](07_Dialogos/2026-08-28_Lo-que-el-nombre-recuerda.md)
 - [README](07_Dialogos/README.md)
 
 ---

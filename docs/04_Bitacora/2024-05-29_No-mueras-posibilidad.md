@@ -14,7 +14,7 @@ Le hago esa oferta desesperada a la inmobiliaria... y si, esta vez sí... acepta
 Ese mismo dia, realizariamos las condicones del contrato de arras y la semana siguiente, se firmaría.
 ## Literaria
 ### Capítulo
-03 - Orígenes
+02 - Orígenes
 ### Secuencia
 120
 ### Autoría
