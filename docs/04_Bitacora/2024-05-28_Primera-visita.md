@@ -13,7 +13,7 @@ Entretanto, esperábamos afuera, y curioseabamos a lo lejos, tratando de no demo
 
 ## Literaria
 ### Capítulo
-03 - Orígenes
+02 - Orígenes
 ### Secuencia
 110
 ### Autoría

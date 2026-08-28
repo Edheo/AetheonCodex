@@ -10,7 +10,7 @@ Utilizando medidas de troncos, estatura y demás, se calcula datación sin poder
 
 ## Literaria
 ### Capítulo
-03 - Orígenes
+02 - Orígenes
 ### Secuencia
 010
 ### Autoría
