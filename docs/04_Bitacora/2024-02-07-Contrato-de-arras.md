@@ -13,7 +13,7 @@ Durante una breve reunión entre la inmobiliaria, la interesada y yo, se formali
 Es un trámite ligero, casi frívolo, y fin, regreso con premura al hospital, para liberar a mi prima y seguir con mis responsabilidades de cuidado de mi padre.
 ## Literaria
 ### Capítulo
-04 - Orígenes 
+03 - Orígenes 
 ### Secuencia
 060
 ### Autoría

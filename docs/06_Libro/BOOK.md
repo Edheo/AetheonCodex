@@ -4,8 +4,8 @@
 
 - [Capítulo 01 · - No es la vida de Chuck](#capítulo-01-no-es-la-vida-de-chuck)
 - [Capítulo 02 · - Sin mandármelo Dios](#capítulo-02-sin-mandármelo-dios)
-- [Capítulo 03 · - Mi Contexto](#capítulo-03-mi-contexto)
-- [Capítulo 04 · - Orígenes](#capítulo-04-orígenes)
+- [Capítulo 03 · - Orígenes](#capítulo-03-orígenes)
+- [Capítulo 04 · - Mi Contexto](#capítulo-04-mi-contexto)
 - [Capítulo 05 · - Evolución](#capítulo-05-evolución)
 
 ---
@@ -384,7 +384,234 @@ Yo sólo pensé en salvar de la muerte a una criatura, jamás imaginé, que el p
 Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y junto la misma carretera que le encontré, nos dejó para siempre.
 
 
-## Capítulo 03 · - Mi Contexto
+## Capítulo 03 · - Orígenes
+
+### Vetusta Germina
+
+*En algún momento posiblemente posterior al año 1576ad, quién podría estar seguro?*
+
+*Autoría: Edheo*
+
+*Adagio en sol menor — Academy of St Martin in the Fields*
+
+Desde que nació Vetusta... tantas cosas han acaecido en el mundo, en la humanidad.
+Quien sabe si presenció la revuelta de las Germanías o siquiera pudieron impedir que germinase.
+Posiblemente ya estaba en esta loma, mientras se iba conquistando el continente americano por los españoles, causando sus masacres, inyectando allá su cultura.
+Las moreras y la seda, colmaban los paisajes, por el desarrollo de Carcaixent y su demanda para sus telares. Y aún así, eso tampoco la frenó.
+Galileo, Kepler y Newton, establecieron las bases del método científico, y empezaron a estructurar el método analítico para explorar la realidad y justificarla.
+La expulsión de los moriscos, tampoco creó el contexto para exterminarla... sobrevivió a aquello también, o quizás precisamente ello la salvó.
+Ya debia ser adulta, cuando a lo lejos puede que oyese resonar alguna máquina de vapor.
+Y una guerra de sucesión que acompaño a Felipe V, además, con su consecuente invasión de tropas en la zona y la abolición de los fueros valencianos.
+Algunas tierras conquistadas de América, empezaron a reclamar su independencia.
+Los naranjos empezaron a dominar el horizonte, pero por algún motivo, tampoco significó su tala o exterminio.
+La Gran Riada de San Calixto, no pudo anegarla, pero si pudo interferir con sus consecuencias, pero las sobrevivió.
+Francia se revolvió civilmente, desatando una de las revoluciones más trascendentes de la historia, pese que al final, el yugo contra el que se reveló aquella sociedad, en realidad, nunca fué purgado.
+El marical Suchet, ni las guerras napoleónicas, tampoco crearon suficiente caos con la Guerra de la independencia como para suponer su fin.
+Y así, ella entretanto, observaba a Titán que también iba comiendo terreno, ganando portento, ambos se observaban, inquietos, quizás asustados por los ritmos de los tiempos, sus amenazas, nada ni nadie les protegía seguramente de todo ello. Pero ambos, sobrevivian.
+Nuevas revoluciones industriales, dos guerras mundiales, una trágica guerra civil en España.
+Tampoco la pantanada de Tous creó el caos necesario para liquidarles, pero por seguro, que amenazas, más de una hubo.
+Quizás vivieron incendios, de cerca o de lejos.. la destrucción, es parte de la rutina, en esta tierra, en este pais, en este planeta, en la propia naturaleza.
+Y aún así... sin paraguas, sin chaleco antibalas, sin abrigo... aquí están.. no sólo Vetusta, sino también su compañero ya de siglos, Titán, supervivientes del tiempo, de la historia, de la industria, de los humanos y de lo salvaje.
+
+
+### Titán Germina
+
+*En algún momento posiblemente posterior al año 1846ad*
+
+*Autoría: Edheo*
+
+*Canon en re mayor — Kanon Orchestre de Chambre*
+
+Algo más joven, pero no por ello, ha necesitado menos fortuna que Vetusta para seguir aquí donde está.
+Obviamente, el paso del tiempo le fué dotando de una majestuosidad que desafiaba la de la propia Vetusta, quizás este Canon de colosos, este dueto poderoso que conformaban ambos.
+Para afrentar los retos, los cambios, los tiempos duros... fueron definiendo, tal vez, de algún modo, el territorio que quedaba custodiado a sus pies.
+No puede ser casual, me niego a creerlo que sus propias presencias, no conformaran de algún modo, lo que esta parcela, esta tierra, este pequeño reino, ha quedado configurado en buena parte, por lo que los humanos, en su momento, hemos considerado, que eran sus límites geográficos naturales.
+Y en cierto modo, aquellos que decidieron ese mapa cartográfico, delimitado de este que es Aetheon, de algún modo... ya dió voz a su identidad.
+Titán, los masqueperros, Pisa, Luperca, Láctea, Rómulo, Remo, Shiva y Shenlong... sin tener ni consciencia, ni voz, ni tan siquiera voluntad propia.. dieron a su modo, voz a Aetheon.
+Cumplieron su función, fueron los guardianes, y crearon las lindes, y al crearlas, empezaron a darle el verdadero cuerpo, que hoy dia Aetheon tiene.
+De ese modo, ellos fueron para Aetheon su costura, su linde, su forma, y Aetheon les dió sentido a lo que pudieron llamar, por fin, hogar.
+
+
+### Constitución catastral
+
+*En algún momento indeterminado de 1978*
+
+*Autoría: Edheo*
+
+Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
+
+
+### Compra anteriores propietarios
+
+*Martes, 23 de junio de 2015*
+
+*Autoría: Edheo*
+
+En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que aquí quedó, fué también gracias a su contribución.
+
+
+### Renuncias
+
+*Domingo, 21 de enero de 2024*
+
+*Autoría: Edheo*
+
+*Hasta la Raízz — Natalia Lafourcade*
+
+Todo se complica, mi padre se ha fracturado la cadera, ahora tanto él como mi madre la tienen fracturada.
+Y mi padre, no está poniendo voluntad, estoy en un infierno de turnos de hospital, dias y noches, sin parar.
+En Calderer, es imposible, no podemos vivir todos allí, la casa ni siquiera tiene agua potable, ni cédula de habitabilidad.
+Intenté plantearme una reforma, pero me pedián 120.000€... para tener sólo 2 habitaciones, y ni siquiera agua. Y arriesgarme a una multa del Seprona, porque la casa, pese ser legal, no le permiten reformas, por lindar con parque natural.
+No tiene agua potable, con ese dinero, prefiero comprar una casa, intentarlo al menos.
+Frank me apoya, no podemos hacer proyecto de vida tal y como estamos. Irnos a vivir a Sueca, es incluso peor.
+No hay habitaciones abajo para mis padres, arriba, esa casa no tiene ventilación alguna. 4 gatos, 2 perros, mis padres y nosotros.
+La única posibilidad es esa, comprar algo nuevo, algo con espacio, con parcela incluso, que esté en zona urbanizada, tranquila.
+Si nos vuelve a pillar una pandemia, no tener que estar encerrados entre 4 paredes, que mis niñas puedan correr, disfrutar.
+Que yo pueda iniciar mi proyecto en pareja ya por fin, tengo ya 51 años, y sigo atrapado por mis padres, y no voy a abandonarlos, pero tengo que intentar hacer mi vida ya.
+Frank tiene ya 60 años, no podemos estar esperando indefinidamente, necesitamos nuestro propio proyecto, no podemos esperar más, y la mejor opción es esa.
+Mis padres aceptan, ellos venden su casa, yo vendo mi piso, y entre todos, comprar algo donde poder vivir.
+Me cuesta de creer, mis padres adoran su casa, lo se, pero también yo adoro mi piso de catarroja, ha sido mi vida, mi paraíso. Pero las circunstancias me obligan.
+Por mi parte, sin dudar, pongo el piso en venta, y que sea lo que tenga que ser.
+
+
+### Contrato de Arras
+
+*Miércoles, 7 de febrero de 2024*
+
+*Autoría: Edheo*
+
+*Sin Documentos — Los Rodríguez*
+
+Han sido apenas dos semanas, el piso en venta en portales de internet, unas pocas visitas, y pronto ayer, la última interesada es rauda en su oferta, y yo, no lo pienso más.
+Acepté sus condiciones, y hoy me escapo, lo mínimo que puedo, del hospital donde estoy al cuidado de mi padre, una prima mia a regañadientes acepta a cuidar de él en mi ausencia.
+Voy presuroso hasta Catarroja, donde nos reunimos la interesada, la inmobiliaria y yo, me presentan el contrato de arras, lo firmamos todos, la compradora me ingresa la señalización en mi cuenta.
+A partir de ahora, si todo va bien, en unos 3 meses a lo sumo, se habrá hecho la venta del piso.
+Mi marcha es triste, siento que me desprendo de algo muy amado, pero, mis motivos, son mis motivos.
+
+
+### Se Vende
+
+*Martes, 23 de abril de 2024*
+
+*Autoría: Edheo*
+
+*Our House — Madness*
+
+Lo hablo varias veces, sobre todo con mi madre.
+También con mi padre claro, pero desde la fractura de cadera, está bastante inapetente de todo.
+Nos reunimos los tres, explico de nuevo la situación y si, parece claro, es la mejor opción, la más viable.
+Por tanto, con su aprobación, me decido, y publico el anuncio de la casa de mis padres en Sueca.
+Si todo marcha bien, si se llega a vender, podemos parchear la situación viviendo en Calderer, hasta que consigamos comprar una casa en condiciones, e irnos todos a vivir allí.
+Todos están de acuerdo, por tanto, anuncio publicado!!!
+Veamos si hay suerte!!! Parece que empieza todo de verdad, por una vez!!
+
+
+### El dia de la firma
+
+*Martes, 30 de abril de 2024*
+
+*Autoría: Edheo*
+
+*Sin Documentos — Los Rodríguez*
+
+El dia llegó, sentimientos encontrados. Si quiero un hogar para mis niñas, donde puedan tener espacio, donde en una futura pandemia o similar, pueda estar en algo más que entre 4 paredes sin ventilación, donde Frank y yo podamos vivir, este piso, no sirve, no es viable.
+Y lo cierto, es que he sido muy feliz aquí.
+Por años, fué mi palacio, donde viví sólo, con Taka y Shasa, pero feliz, hasta decir basta.
+Trabajando hasta el alba a veces, pero como realmente quise vivir.
+Pero llegó su fin. Los inquilinos actuales no llegan, sin ellos el banco no autorizará la operación a la compradora, y se irá todo al traste.
+Tienen que renunciar a su opción a compra, y verificar que su contrato de alquiler está efectivamente vencido. Sin su firma, no es posible.
+La chica, la inquilina llegó primero, y aunque sirve para unos minutos de pausa, pronto se impacientan tanto bancarios como la compradora, me trasladan sus miradas, su impaciencia, yo no puedo hacer nada.
+Me da entonces, de nuevo un episodio, me indispongo... la inquilina lo nota, me trae agua y me ofrece un caramelo. Piensa que estoy mareado, y no va muy desencaminada.
+Algo tarde, pero a tiempo, llega el chico, su pareja, el otro inquilino, y se empieza a formalizar toda la operación. Finalmente, con las transferencias ya a mi cuenta, y saldando lo pendiente de mi hipoteca, la operación queda finalmente zanjada.
+Por un lado, soy feliz, mis sueños pueden empezar ya definitivamente, si me alcanza el dinero claro. Pero por otro lado, la tristeza por vender algo tan preciado, se apodera de mi.
+Camino al coche, otro episodio, pero llego al fin, y de nuevo, camino a casa... otro nuevo episodio, esta vez si me deja bastante mal, que sean tan seguidos, no ayuda mucho.
+
+
+### Notario
+
+*Martes, 21 de mayo de 2024*
+
+*Autoría: Edheo*
+
+*Quién me ha robado el mes de abril — Joaquin Sabina*
+
+Una compradora se ofrece, a hacer el contrato de arras, para la casa de Sueca, si esto sale bien, por fin podemos optar.
+Un lugar, donde Frank y yo tener nuestro propio espacio, poder cuidar de mis padres, ya cada vez más incapaces, poder tener un lugar donde cuidar mis niñas.
+Pero justo en la notaria, para iniciar los trámites y aclarar las gestiones.
+Mi padre, lo dice claramente. Él, no quiere vender su casa.
+Es su casa, no la va a vender.
+Y mi madre, guarda silencio, ni se inmuta, en cierto modo, constata que opina igual que él.
+Y yo, he vendido mi tesoro, mi único y adorado bien, por una vida mejor, para mí si, pero para todos en realidad.
+Y se me parte el corazón, en ese preciso momento, viendo casi la escena como un espectador, para no sentir mi dolor.
+Todo se ha ido al traste, yo sólo, cómo voy a comprar una casa, yo sólo, con el poco dinero que tengo? 
+Vendí mi piso si, pero perdí parte cancelando la hipoteca, pagando plusvalias, y demás.
+Me queda dinero, pero no puedo pedir una gran hipoteca, con 51 años, no me dan ya más de 19 años de hipoteca para mí sólo.
+Nada de lo que vimos, bajaba de los 200K. Cómo voy a abordar yo, una hipoteca (teniendo en cuenta gastos, inmobiliaria, impuestos y demás), de más de 100k?
+Es imposible... acabo de arruinar mi vida, la de mis niñas, la de mi pareja... todo en un sólo instante.
+
+
+### Anuncio AETHEON en venta
+
+*Miércoles, 22 de mayo de 2024*
+
+*Autoría: Edheo*
+
+Vimos las fotos de la parcela y la casa. 
+Todo parecía maravilloso, incluso el precio. 
+Obviamente, la casa era pequeña para incluir a mis padres en ella, pero eso, ya dejó de ser ninguna prioridad.
+Era una casa habitable, con una gran parcela, en una zona urbanizada, sólo 3 habitaciones pequeñas y un baño.
+Perfecto, todo perfecto, Frank concertó la cita, el sueño, empezaba a ser posible.
+
+
+### Primera visita a Aetheon
+
+*Martes, 28 de mayo de 2024*
+
+*Autoría: Edheo*
+
+Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante. En aquel entonces, vivíamos aún en Calderer, un trayecto ansioso por conocer este lugar.
+TITÁN Ya se veia majestuoso al llegar a la parcela, incluso antes que él, podíamos ver a Luperca, Pisa, Amis, Pontos, Dogos y d'Artacán, pero ver su tronco, ya robaba todas las atenciones, fué inevitable quedarnos maravillados viéndolo.
+Una vez entramos, a unas pocas decenas de metros a la derecha, se puede ver también a Vetusta, junto a la parte trasera de la casa.
+Podemos ver la diferencianción de los 3 bancales escalonados que conforman la parcela, el bancal oeeste, el más elevado, donde hay unos cuantos árboles, y donde está en su límite la propia Vetusta, el bancal central en cuyo centro se encuentra la casa, y después el bancal este, el de mayor desnivel, donde se pueden ver los olivos y los almendros, y a su sur, se hay la explanada, donde se encuentran frutales como naranjos, un granado, un peral, y caqui y algún que otro olivo más.
+Cuando acabamos la visita, prácticamente delegué la formalización de la oferta, a hacer mi estudio económico, y al dia siguiente le confirmaría la reserva, presencialmente, si era necesario.
+Pero poco duró la ilusión, llegando ya a Calderer, recibo mensaje de la inmobiliaria.
+La vivienda, ya no estaba disponible... se había consolidado al parecer, ya una reserva.
+La desolación, fué... inenarrable.
+
+
+### No mueras posibilidad
+
+*Miércoles, 29 de mayo de 2024*
+
+*Autoría: Edheo*
+
+*No mueras posibilidad — Ole Ole*
+
+El dia, empezó con lágrimas, tanto Frank, como yo.
+Cuando Frank llegó al trabajo, me hizo una propuesta. Que subieramos la oferta, 5000 euros más, un poco más allá de nuestras posibilidades.
+Pero no podíamos renunciar... él mismo, me ayudaría a pagar la comisión inmobiliaria, que rondaba precisamente, esos 5000 euros.
+Dudé sólo medio segundo.. era esta ocasión o nunca. Así que sí.
+Contacté con la inmobiliaria, contraoferté.. y aceptaron, y de pronto, lo que empezó siendo un dia digno de funeral, pasó a ser un júbilo, sin descripción.
+
+
+### Alegría
+
+*Lunes, 15 de julio de 2024*
+
+*Autoría: Edheo*
+
+*Alegría — Cirque du Soleil*
+
+Por fin, el dia llegó, se firma en acta notarial, AETHEON es nuestra propiedad.
+Un lugar, donde vivir, donde poder vivir nuestras ilusiones.
+Donde nuestras niñas, podrán disfrutar de un amplio espacio.
+Será el lugar donde sembraremos tantas cosas, ilusiones, nuestro proyecto como família atípica, no tanto por Frank y por mi.
+Sino por todas nuestras peluditas, que vendrán a vivir aquí.
+Un nuevo comienzo, el fin de una etapa dura, una nueva ilusión, y mucho que descubrir, aquí en AETHEON.
+Un mundo singular empieza para nosotros, lleno de esfuerzos si, pero de inmensas satisfacciones, ya lo creo que si.
+
+
+## Capítulo 04 · - Mi Contexto
 
 ### El día del eclipse
 
@@ -776,233 +1003,6 @@ Basta con no reducirlo.
 Porque algunas veces una sombra no viene a oscurecer cuanto alcanza.
 
 Algunas veces cambia la luz lo suficiente para que podamos vernos.
-
-
-## Capítulo 04 · - Orígenes
-
-### Vetusta Germina
-
-*En algún momento posiblemente posterior al año 1576ad, quién podría estar seguro?*
-
-*Autoría: Edheo*
-
-*Adagio en sol menor — Academy of St Martin in the Fields*
-
-Desde que nació Vetusta... tantas cosas han acaecido en el mundo, en la humanidad.
-Quien sabe si presenció la revuelta de las Germanías o siquiera pudieron impedir que germinase.
-Posiblemente ya estaba en esta loma, mientras se iba conquistando el continente americano por los españoles, causando sus masacres, inyectando allá su cultura.
-Las moreras y la seda, colmaban los paisajes, por el desarrollo de Carcaixent y su demanda para sus telares. Y aún así, eso tampoco la frenó.
-Galileo, Kepler y Newton, establecieron las bases del método científico, y empezaron a estructurar el método analítico para explorar la realidad y justificarla.
-La expulsión de los moriscos, tampoco creó el contexto para exterminarla... sobrevivió a aquello también, o quizás precisamente ello la salvó.
-Ya debia ser adulta, cuando a lo lejos puede que oyese resonar alguna máquina de vapor.
-Y una guerra de sucesión que acompaño a Felipe V, además, con su consecuente invasión de tropas en la zona y la abolición de los fueros valencianos.
-Algunas tierras conquistadas de América, empezaron a reclamar su independencia.
-Los naranjos empezaron a dominar el horizonte, pero por algún motivo, tampoco significó su tala o exterminio.
-La Gran Riada de San Calixto, no pudo anegarla, pero si pudo interferir con sus consecuencias, pero las sobrevivió.
-Francia se revolvió civilmente, desatando una de las revoluciones más trascendentes de la historia, pese que al final, el yugo contra el que se reveló aquella sociedad, en realidad, nunca fué purgado.
-El marical Suchet, ni las guerras napoleónicas, tampoco crearon suficiente caos con la Guerra de la independencia como para suponer su fin.
-Y así, ella entretanto, observaba a Titán que también iba comiendo terreno, ganando portento, ambos se observaban, inquietos, quizás asustados por los ritmos de los tiempos, sus amenazas, nada ni nadie les protegía seguramente de todo ello. Pero ambos, sobrevivian.
-Nuevas revoluciones industriales, dos guerras mundiales, una trágica guerra civil en España.
-Tampoco la pantanada de Tous creó el caos necesario para liquidarles, pero por seguro, que amenazas, más de una hubo.
-Quizás vivieron incendios, de cerca o de lejos.. la destrucción, es parte de la rutina, en esta tierra, en este pais, en este planeta, en la propia naturaleza.
-Y aún así... sin paraguas, sin chaleco antibalas, sin abrigo... aquí están.. no sólo Vetusta, sino también su compañero ya de siglos, Titán, supervivientes del tiempo, de la historia, de la industria, de los humanos y de lo salvaje.
-
-
-### Titán Germina
-
-*En algún momento posiblemente posterior al año 1846ad*
-
-*Autoría: Edheo*
-
-*Canon en re mayor — Kanon Orchestre de Chambre*
-
-Algo más joven, pero no por ello, ha necesitado menos fortuna que Vetusta para seguir aquí donde está.
-Obviamente, el paso del tiempo le fué dotando de una majestuosidad que desafiaba la de la propia Vetusta, quizás este Canon de colosos, este dueto poderoso que conformaban ambos.
-Para afrentar los retos, los cambios, los tiempos duros... fueron definiendo, tal vez, de algún modo, el territorio que quedaba custodiado a sus pies.
-No puede ser casual, me niego a creerlo que sus propias presencias, no conformaran de algún modo, lo que esta parcela, esta tierra, este pequeño reino, ha quedado configurado en buena parte, por lo que los humanos, en su momento, hemos considerado, que eran sus límites geográficos naturales.
-Y en cierto modo, aquellos que decidieron ese mapa cartográfico, delimitado de este que es Aetheon, de algún modo... ya dió voz a su identidad.
-Titán, los masqueperros, Pisa, Luperca, Láctea, Rómulo, Remo, Shiva y Shenlong... sin tener ni consciencia, ni voz, ni tan siquiera voluntad propia.. dieron a su modo, voz a Aetheon.
-Cumplieron su función, fueron los guardianes, y crearon las lindes, y al crearlas, empezaron a darle el verdadero cuerpo, que hoy dia Aetheon tiene.
-De ese modo, ellos fueron para Aetheon su costura, su linde, su forma, y Aetheon les dió sentido a lo que pudieron llamar, por fin, hogar.
-
-
-### Constitución catastral
-
-*En algún momento indeterminado de 1978*
-
-*Autoría: Edheo*
-
-Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fecha que me consta como edificación de la casa.
-
-
-### Compra anteriores propietarios
-
-*Martes, 23 de junio de 2015*
-
-*Autoría: Edheo*
-
-En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que aquí quedó, fué también gracias a su contribución.
-
-
-### Renuncias
-
-*Domingo, 21 de enero de 2024*
-
-*Autoría: Edheo*
-
-*Hasta la Raízz — Natalia Lafourcade*
-
-Todo se complica, mi padre se ha fracturado la cadera, ahora tanto él como mi madre la tienen fracturada.
-Y mi padre, no está poniendo voluntad, estoy en un infierno de turnos de hospital, dias y noches, sin parar.
-En Calderer, es imposible, no podemos vivir todos allí, la casa ni siquiera tiene agua potable, ni cédula de habitabilidad.
-Intenté plantearme una reforma, pero me pedián 120.000€... para tener sólo 2 habitaciones, y ni siquiera agua. Y arriesgarme a una multa del Seprona, porque la casa, pese ser legal, no le permiten reformas, por lindar con parque natural.
-No tiene agua potable, con ese dinero, prefiero comprar una casa, intentarlo al menos.
-Frank me apoya, no podemos hacer proyecto de vida tal y como estamos. Irnos a vivir a Sueca, es incluso peor.
-No hay habitaciones abajo para mis padres, arriba, esa casa no tiene ventilación alguna. 4 gatos, 2 perros, mis padres y nosotros.
-La única posibilidad es esa, comprar algo nuevo, algo con espacio, con parcela incluso, que esté en zona urbanizada, tranquila.
-Si nos vuelve a pillar una pandemia, no tener que estar encerrados entre 4 paredes, que mis niñas puedan correr, disfrutar.
-Que yo pueda iniciar mi proyecto en pareja ya por fin, tengo ya 51 años, y sigo atrapado por mis padres, y no voy a abandonarlos, pero tengo que intentar hacer mi vida ya.
-Frank tiene ya 60 años, no podemos estar esperando indefinidamente, necesitamos nuestro propio proyecto, no podemos esperar más, y la mejor opción es esa.
-Mis padres aceptan, ellos venden su casa, yo vendo mi piso, y entre todos, comprar algo donde poder vivir.
-Me cuesta de creer, mis padres adoran su casa, lo se, pero también yo adoro mi piso de catarroja, ha sido mi vida, mi paraíso. Pero las circunstancias me obligan.
-Por mi parte, sin dudar, pongo el piso en venta, y que sea lo que tenga que ser.
-
-
-### Contrato de Arras
-
-*Miércoles, 7 de febrero de 2024*
-
-*Autoría: Edheo*
-
-*Sin Documentos — Los Rodríguez*
-
-Han sido apenas dos semanas, el piso en venta en portales de internet, unas pocas visitas, y pronto ayer, la última interesada es rauda en su oferta, y yo, no lo pienso más.
-Acepté sus condiciones, y hoy me escapo, lo mínimo que puedo, del hospital donde estoy al cuidado de mi padre, una prima mia a regañadientes acepta a cuidar de él en mi ausencia.
-Voy presuroso hasta Catarroja, donde nos reunimos la interesada, la inmobiliaria y yo, me presentan el contrato de arras, lo firmamos todos, la compradora me ingresa la señalización en mi cuenta.
-A partir de ahora, si todo va bien, en unos 3 meses a lo sumo, se habrá hecho la venta del piso.
-Mi marcha es triste, siento que me desprendo de algo muy amado, pero, mis motivos, son mis motivos.
-
-
-### Se Vende
-
-*Martes, 23 de abril de 2024*
-
-*Autoría: Edheo*
-
-*Our House — Madness*
-
-Lo hablo varias veces, sobre todo con mi madre.
-También con mi padre claro, pero desde la fractura de cadera, está bastante inapetente de todo.
-Nos reunimos los tres, explico de nuevo la situación y si, parece claro, es la mejor opción, la más viable.
-Por tanto, con su aprobación, me decido, y publico el anuncio de la casa de mis padres en Sueca.
-Si todo marcha bien, si se llega a vender, podemos parchear la situación viviendo en Calderer, hasta que consigamos comprar una casa en condiciones, e irnos todos a vivir allí.
-Todos están de acuerdo, por tanto, anuncio publicado!!!
-Veamos si hay suerte!!! Parece que empieza todo de verdad, por una vez!!
-
-
-### El dia de la firma
-
-*Martes, 30 de abril de 2024*
-
-*Autoría: Edheo*
-
-*Sin Documentos — Los Rodríguez*
-
-El dia llegó, sentimientos encontrados. Si quiero un hogar para mis niñas, donde puedan tener espacio, donde en una futura pandemia o similar, pueda estar en algo más que entre 4 paredes sin ventilación, donde Frank y yo podamos vivir, este piso, no sirve, no es viable.
-Y lo cierto, es que he sido muy feliz aquí.
-Por años, fué mi palacio, donde viví sólo, con Taka y Shasa, pero feliz, hasta decir basta.
-Trabajando hasta el alba a veces, pero como realmente quise vivir.
-Pero llegó su fin. Los inquilinos actuales no llegan, sin ellos el banco no autorizará la operación a la compradora, y se irá todo al traste.
-Tienen que renunciar a su opción a compra, y verificar que su contrato de alquiler está efectivamente vencido. Sin su firma, no es posible.
-La chica, la inquilina llegó primero, y aunque sirve para unos minutos de pausa, pronto se impacientan tanto bancarios como la compradora, me trasladan sus miradas, su impaciencia, yo no puedo hacer nada.
-Me da entonces, de nuevo un episodio, me indispongo... la inquilina lo nota, me trae agua y me ofrece un caramelo. Piensa que estoy mareado, y no va muy desencaminada.
-Algo tarde, pero a tiempo, llega el chico, su pareja, el otro inquilino, y se empieza a formalizar toda la operación. Finalmente, con las transferencias ya a mi cuenta, y saldando lo pendiente de mi hipoteca, la operación queda finalmente zanjada.
-Por un lado, soy feliz, mis sueños pueden empezar ya definitivamente, si me alcanza el dinero claro. Pero por otro lado, la tristeza por vender algo tan preciado, se apodera de mi.
-Camino al coche, otro episodio, pero llego al fin, y de nuevo, camino a casa... otro nuevo episodio, esta vez si me deja bastante mal, que sean tan seguidos, no ayuda mucho.
-
-
-### Notario
-
-*Martes, 21 de mayo de 2024*
-
-*Autoría: Edheo*
-
-*Quién me ha robado el mes de abril — Joaquin Sabina*
-
-Una compradora se ofrece, a hacer el contrato de arras, para la casa de Sueca, si esto sale bien, por fin podemos optar.
-Un lugar, donde Frank y yo tener nuestro propio espacio, poder cuidar de mis padres, ya cada vez más incapaces, poder tener un lugar donde cuidar mis niñas.
-Pero justo en la notaria, para iniciar los trámites y aclarar las gestiones.
-Mi padre, lo dice claramente. Él, no quiere vender su casa.
-Es su casa, no la va a vender.
-Y mi madre, guarda silencio, ni se inmuta, en cierto modo, constata que opina igual que él.
-Y yo, he vendido mi tesoro, mi único y adorado bien, por una vida mejor, para mí si, pero para todos en realidad.
-Y se me parte el corazón, en ese preciso momento, viendo casi la escena como un espectador, para no sentir mi dolor.
-Todo se ha ido al traste, yo sólo, cómo voy a comprar una casa, yo sólo, con el poco dinero que tengo? 
-Vendí mi piso si, pero perdí parte cancelando la hipoteca, pagando plusvalias, y demás.
-Me queda dinero, pero no puedo pedir una gran hipoteca, con 51 años, no me dan ya más de 19 años de hipoteca para mí sólo.
-Nada de lo que vimos, bajaba de los 200K. Cómo voy a abordar yo, una hipoteca (teniendo en cuenta gastos, inmobiliaria, impuestos y demás), de más de 100k?
-Es imposible... acabo de arruinar mi vida, la de mis niñas, la de mi pareja... todo en un sólo instante.
-
-
-### Anuncio AETHEON en venta
-
-*Miércoles, 22 de mayo de 2024*
-
-*Autoría: Edheo*
-
-Vimos las fotos de la parcela y la casa. 
-Todo parecía maravilloso, incluso el precio. 
-Obviamente, la casa era pequeña para incluir a mis padres en ella, pero eso, ya dejó de ser ninguna prioridad.
-Era una casa habitable, con una gran parcela, en una zona urbanizada, sólo 3 habitaciones pequeñas y un baño.
-Perfecto, todo perfecto, Frank concertó la cita, el sueño, empezaba a ser posible.
-
-
-### Primera visita a Aetheon
-
-*Martes, 28 de mayo de 2024*
-
-*Autoría: Edheo*
-
-Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante. En aquel entonces, vivíamos aún en Calderer, un trayecto ansioso por conocer este lugar.
-TITÁN Ya se veia majestuoso al llegar a la parcela, incluso antes que él, podíamos ver a Luperca, Pisa, Amis, Pontos, Dogos y d'Artacán, pero ver su tronco, ya robaba todas las atenciones, fué inevitable quedarnos maravillados viéndolo.
-Una vez entramos, a unas pocas decenas de metros a la derecha, se puede ver también a Vetusta, junto a la parte trasera de la casa.
-Podemos ver la diferencianción de los 3 bancales escalonados que conforman la parcela, el bancal oeeste, el más elevado, donde hay unos cuantos árboles, y donde está en su límite la propia Vetusta, el bancal central en cuyo centro se encuentra la casa, y después el bancal este, el de mayor desnivel, donde se pueden ver los olivos y los almendros, y a su sur, se hay la explanada, donde se encuentran frutales como naranjos, un granado, un peral, y caqui y algún que otro olivo más.
-Cuando acabamos la visita, prácticamente delegué la formalización de la oferta, a hacer mi estudio económico, y al dia siguiente le confirmaría la reserva, presencialmente, si era necesario.
-Pero poco duró la ilusión, llegando ya a Calderer, recibo mensaje de la inmobiliaria.
-La vivienda, ya no estaba disponible... se había consolidado al parecer, ya una reserva.
-La desolación, fué... inenarrable.
-
-
-### No mueras posibilidad
-
-*Miércoles, 29 de mayo de 2024*
-
-*Autoría: Edheo*
-
-*No mueras posibilidad — Ole Ole*
-
-El dia, empezó con lágrimas, tanto Frank, como yo.
-Cuando Frank llegó al trabajo, me hizo una propuesta. Que subieramos la oferta, 5000 euros más, un poco más allá de nuestras posibilidades.
-Pero no podíamos renunciar... él mismo, me ayudaría a pagar la comisión inmobiliaria, que rondaba precisamente, esos 5000 euros.
-Dudé sólo medio segundo.. era esta ocasión o nunca. Así que sí.
-Contacté con la inmobiliaria, contraoferté.. y aceptaron, y de pronto, lo que empezó siendo un dia digno de funeral, pasó a ser un júbilo, sin descripción.
-
-
-### Alegría
-
-*Lunes, 15 de julio de 2024*
-
-*Autoría: Edheo*
-
-*Alegría — Cirque du Soleil*
-
-Por fin, el dia llegó, se firma en acta notarial, AETHEON es nuestra propiedad.
-Un lugar, donde vivir, donde poder vivir nuestras ilusiones.
-Donde nuestras niñas, podrán disfrutar de un amplio espacio.
-Será el lugar donde sembraremos tantas cosas, ilusiones, nuestro proyecto como família atípica, no tanto por Frank y por mi.
-Sino por todas nuestras peluditas, que vendrán a vivir aquí.
-Un nuevo comienzo, el fin de una etapa dura, una nueva ilusión, y mucho que descubrir, aquí en AETHEON.
-Un mundo singular empieza para nosotros, lleno de esfuerzos si, pero de inmensas satisfacciones, ya lo creo que si.
 
 
 ## Capítulo 05 · - Evolución
