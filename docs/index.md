@@ -63,6 +63,7 @@
 - [2026-08-24_Lo-que-se-contempla-en-el-umbral](04_Bitacora/2026-08-24_Lo-que-se-contempla-en-el-umbral.md)
 - [2026-08-25_Cuando-las-huellas-aprendieron-a-recordar](04_Bitacora/2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md)
 - [2026-08-27_Los-buenos-dias](04_Bitacora/2026-08-27_Los-buenos-dias.md)
+- [2026-08-28_Antes-de-llamarse-Aetheon](04_Bitacora/2026-08-28_Antes-de-llamarse-Aetheon.md)
 
 ## 05_Cartografia
 

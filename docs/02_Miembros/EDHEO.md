@@ -120,5 +120,6 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Lunes, 24 de agosto de 2026* — [La imposibilidad que se contempla](../04_Bitacora/2026-08-24_Lo-que-se-contempla-en-el-umbral.md)
 - *Martes, 25 de agosto de 2026* — [Cuando las huellas aprendieron a recordar](../04_Bitacora/2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md)
 - *Jueves, 27 de agosto de 2026* — [Los buenos días](../04_Bitacora/2026-08-27_Los-buenos-dias.md)
+- *Viernes, 28 de agosto de 2026* — [Antes de llamarse Aetheon](../04_Bitacora/2026-08-28_Antes-de-llamarse-Aetheon.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
