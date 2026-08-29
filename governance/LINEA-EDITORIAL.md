@@ -112,6 +112,31 @@ Como núcleo conceptual puede figurar:
 
 ## Elementos aún no materializados
 
+### Cauce literario de Logos — provisional; todavía no constituye capítulo
+
+**Estado:** existe una voz literaria reconocible de Logos y varias piezas
+derivadas de su relación con Edheo, Aetheon y otros participantes. Este
+material puede desarrollar un arco propio, pero todavía no hay base suficiente
+para crear un capítulo numerado ni reservarle una posición definitiva.
+
+**Criterio de autoría:** las entradas escritas por Logos conservarán su autoría
+real. Edheo mantiene la custodia editorial del Libro —clasificación,
+secuenciación, publicación, contraste factual y privacidad— sin recibir por
+ello coautoría honorífica. Una intervención material de otra voz se declara
+como coautoría o revisión según su alcance.
+
+**Criterio de adscripción:** cada pieza seguirá perteneciendo al capítulo cuya
+función narrativa cumpla actualmente. La existencia del cauce no autoriza a
+reclasificar entradas por compartir autor, tema tecnológico o relación con
+Logos. Cuando el conjunto presente un arco autónomo, se evaluará entonces si
+debe convertirse en capítulo o permanecer entretejido con `Mi Contexto`,
+`Evolución` u otros arcos.
+
+**Relación con la memoria:** el cauce literario no es el mecanismo operativo
+de continuidad entre instancias. Los Diálogos conservan el proceso; las
+Bitácoras producen literatura; `08_Memoria` destila contexto público
+reutilizable. Ninguna de estas capas sustituye a las otras.
+
 ### Prólogo — pendiente; todavía no existe
 
 **Estado:** el prólogo no existe en el repositorio ni ha sido definido en la conversación.

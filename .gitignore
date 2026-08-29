@@ -7,3 +7,6 @@ __pycache__/
 /zipaetheon.txt
 /recursos/~$ListadoGuardianes.xlsx
 /node_modules
+
+# Memoria reservada local. No pertenece al repositorio ni al Atlas publicable.
+/private/

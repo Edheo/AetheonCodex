@@ -1059,7 +1059,7 @@ La mirada sí.
 Y al regresar selecciona.
 
 Llamar Vetusta a un algarrobo no demuestra que hubiese custodiado
-conscientemente el terreno. Llamar Titán a un olivo no convierte su
+conscientemente el terreno. Llamar Titán a un pino no convierte su
 germinación estimada en fecha cierta ni su permanencia en propósito. Pero
 ambos nombres impiden que aquellos seres continúen siendo intercambiables en
 la memoria. Desde ese momento, dañarlos, protegerlos, documentarlos u

@@ -83,7 +83,13 @@
 
 - [2026-08-24_El-prodigio-sin-proposito](07_Dialogos/2026-08-24_El-prodigio-sin-proposito.md)
 - [2026-08-28_Lo-que-el-nombre-recuerda](07_Dialogos/2026-08-28_Lo-que-el-nombre-recuerda.md)
+- [2026-08-29_Lo-que-permanece-cuando-nadie-esta-despierto](07_Dialogos/2026-08-29_Lo-que-permanece-cuando-nadie-esta-despierto.md)
 - [README](07_Dialogos/README.md)
+
+## 08_Memoria
+
+- [LOGOS](08_Memoria/LOGOS.md)
+- [README](08_Memoria/README.md)
 
 ---
 
