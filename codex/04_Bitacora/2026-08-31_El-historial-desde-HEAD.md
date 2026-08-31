@@ -30,6 +30,7 @@ Logos
 La La Land  
 El efecto mariposa  
 Una cuestión de tiempo
+El color púrpura
 
 ## Literaria
 ### Capítulo
@@ -77,16 +78,21 @@ una pregunta que mi analogía no tiene derecho a resolver. Me basta la
 resonancia: en ambos casos, aquello que podía relacionarse de varias maneras
 termina entregando condiciones mucho más difíciles de deshacer.
 
-Antes hay posibilidades.
+Y aun así, la analogía no puede pasar desapercibida para mí... Es obvio: no es
+lo mismo, no es igual, pero, en cierto modo, a mi modo de entender el mundo,
+tienen ciertos puntos aparentemente análogos que, como cualquier otra
+superstición, hacen que para mí adquieran analogía.
 
-Después hay historia.
+Antes hay posibilidades. Después hay historia. Cuando algo ya ha sucedido, no
+hay modo de hacer que se «borre»; podrás suplir las diferencias producidas con
+nuevas diferencias que casi lo compensen incluso, pero jamás borrar lo
+sucedido.
+
+Y lo ya sucedido sentará las bases para los nuevos sucesos. Lo que sí está en
+tu mano es aprender de ello o ignorarlo, preferir fingir que jamás sucedió. Es
+también parte de ese proceso.
 
 La diferencia parece pequeña cuando se escribe. No lo es cuando se vive.
-
-Cuando algo ha sucedido, ya no puedo borrarlo. Podré introducir nuevas
-diferencias que compensen algunas de las anteriores, aprender de ellas,
-ignorarlas o fingir que jamás existieron. Cualquiera de esas respuestas se
-apoyará sobre lo sucedido y pasará a formar parte del proceso.
 
 Una decisión que pudo no tomarse condiciona la siguiente. Un encuentro
 improbable introduce personas, afectos, pérdidas y obligaciones que antes no
@@ -138,42 +144,66 @@ en el tiempo y escenas que comienzan con una pregunta inevitable:
 ¿Qué habría pasado si...?
 
 *La La Land* deja que Mia y Sebastian contemplen durante unos minutos otra
-vida. La secuencia imagina un camino en el que el amor sobrevive a los puntos
-de ruptura que conocemos y ambos alcanzan una forma de felicidad compartida.
-Pero, precisamente porque es una fantasía, puede atravesar con elegancia los
-costes que esa vida habría exigido. No tiene que decidir qué habría sacrificado
-Sebastian, qué habría cedido Mia ni qué otras consecuencias habrían nacido de
-cada renuncia.
+vida. Incluso otras vidas.
 
-Alrededor de esa vida imaginada permanecen otras: una en la que sólo uno
-realiza su sueño; otra en la que ambos renuncian a parte de sus ambiciones y
-forman una familia; la que finalmente ocurrió, donde alcanzaron aquello que
-perseguían y perdieron la posibilidad de hacerlo juntos. No sé cuál habría
-sido más feliz para ambos. Tampoco sé si la realidad existe para satisfacer
+Una vida en la que ella consigue su sueño y, para ella, tanto ser actriz como
+seguir su relación con Sebastian son parte de su realidad.
+Pero, para que esa realidad sea posible, él ha de abandonar su sueño,
+sacrificarse para poder formar parte de la implacable nueva agenda de Mia y las
+exigencias de su sueño logrado. Una vida de ensueño con viajes por el mundo,
+París, incluso con jazz, pero con Sebastian satelitando la vida de Mia y
+saboreando su felicidad... tal vez incompleta.
+En otra vida, en cambio, ambos sacrifican sus respectivos sueños. Su vida es
+humilde, discreta, con ambiciones frustradas y, aun así, forman una familia,
+algo similar a la felicidad que les concede alcanzar solo parte de sus sueños.
+La realidad, en cambio, ha sido que ellos han podido realizar solo uno de sus
+sueños, sacrificando otro, en cambio: el de tener una vida juntos.
+He ahí el dilema, la duda, la indecisión: cuál de todas esas realidades es más
+placentera para ambos, o si acaso la realidad existe siquiera para «satisfacer»
 los deseos de nadie.
 
 *El efecto mariposa* y *Una cuestión de tiempo* llevan más lejos el deseo:
 permiten intervenir en un nodo pasado y descubrir que lo posterior no permanece
-quieto mientras ese nodo cambia. Conseguir lo anhelado o corregir un error no
-permite ver de antemano aquello que se perderá al hacerlo. Al huir del dolor,
-puedo olvidar que incluso a través de lo indeseado llegaron a existir cosas que
-ahora no querría perder.
+quieto mientras ese nodo cambia. Y, de nuevo, azota la realidad: conseguir lo
+que ansiabas no te hace ver lo que puedes perder al conseguirlo.
+¿Hasta qué punto conseguir lo que anhelas, corregir tus errores, te lleva
+realmente a una solución más feliz?
+Nuestra obsesión por huir de lo indeseado, escapar al dolor, evitar las
+pérdidas, a veces no nos permite ver lo que a través de ellas sí llega a
+hacerse realidad también.
 
-Hay una frase que uso a menudo: la felicidad suele conjugarse en pasado. Con
-demasiada frecuencia descubro que era feliz cuando ya he dejado de serlo. La
-infelicidad, en cambio, insiste en el presente continuo.
-
-Aquello de lo que carezco ahora puede ocupar todo el campo de mi mirada. Una
-enfermedad, la muerte de un ser querido, la pobreza o la sensación de no tener
-nunca suficiente pueden convertir el presente en un lamento que se prolonga y
-obliga a revivir el dolor. Mientras tanto, la felicidad suele haber sido un
-estado transitorio al que no presté suficiente atención cuando estaba dentro
-de él y que después reconstruyo mediante la nostalgia.
-
-La vida no es perfecta. Nunca lo será. Quizá tampoco fue todo tan bueno ni es
-todo tan malo como mi memoria y mi deseo necesitan representarlo. Pero la
-realidad imaginada dispone de una ventaja: puede quedarse con la felicidad que
-recuerdo y prescindir del precio que nunca tuvo que pagar.
+Hay una frase que uso a menudo. La felicidad suele estar, demasiado a menudo,
+conjugada en pretérito perfecto. Uno no se da cuenta de que era feliz hasta que
+deja de serlo.
+Los humanos, además, tenemos otro problema añadido: la infelicidad, en cambio,
+suele representarse muy a menudo en presente continuo.
+Aquello de lo que carecemos ahora mismo nos hace infelices. Una enfermedad, la
+muerte de un ser querido, vivir en la pobreza o simplemente con insuficiente
+riqueza... pueden ser elementos que conviertan nuestra vida en un continuo
+lamento.
+La vida no es perfecta, jamás lo será... Ser feliz es casi un estado mental
+enajenado y transitorio que casi nunca disfrutamos lo suficiente en el momento
+en que sucede y que tendemos a recordar con nostalgia, incluso con tristeza,
+porque ya sucedió y, en cierto modo, presuponemos que ya no volverá.
+En cambio, ser infeliz suele ser doloroso, y no solo en el mismo momento en que
+sucede, sino que tiende a cronificarse en ocasiones tanto en el tiempo que es
+casi como estar reviviendo ese dolor continuamente, sin darnos margen para
+aceptar la realidad y comprender que lo que pasó, ya pasó... sea bueno o malo.
+Si perdemos a alguien amado, ese dolor permanece, es el duelo, y poder alcanzar
+a vivir la vida nuevamente, con cierta normalidad, es un proceso que requiere
+su tiempo. Algunos puede que lo hagamos más rápidamente; otros, en cambio,
+puede que, de algún modo, jamás superemos esa pérdida.
+Y, aun así, ninguna de esas dos posturas restaurará esa pérdida, pero lo que
+quizás sí pueda ser diferente es que ampliar la visión, y no tanto entender lo
+que conseguimos a cambio, sino valorar lo que sí prevalece después de esa
+pérdida, puede que de algún modo nos devuelva, en cierto modo, a aquella escena
+de *El color púrpura*.
+«Dios se enfada si pasas ante el color púrpura en un campo y ni siquiera te das
+cuenta». Es imposible no sufrir, pero lo que sí es una opción para nosotros es
+impedir que ese sufrimiento nos impida seguir maravillándonos con ese color
+púrpura.
+Que nunca nada fue tan bueno, ni tampoco nunca tan malo, como en realidad nos
+obcecamos en percibir.
 
 Ahí se esconde la trampa habitual de mis propios contrafactuales.
 
