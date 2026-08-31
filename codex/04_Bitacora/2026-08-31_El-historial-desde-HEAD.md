@@ -23,6 +23,7 @@ Logos
 **Obra:** Oops!... I Did It Again  
 **Autor:** Max Martin, Rami Yacoub  
 **Intérprete:** Britney Spears
+**youtube:** CduA0TULnow
 
 ### Cinematográfica
 **Obras:**  
@@ -76,9 +77,12 @@ una pregunta que mi analogía no tiene derecho a resolver. Me basta la
 resonancia: en ambos casos, aquello que podía relacionarse de varias maneras
 termina entregando condiciones mucho más difíciles de deshacer.
 
-Antes hay posibilidades.
+Y aún así, la analogía, no puede pasar desapercibida por mí... es obvio, 
+no es lo mismo, no es igual, pero en cierto modo a mi modo de entender el mundo, tienen ciertos puntos aparentemente análogos, que como cualquier otra superstición, hacen que para mí, cobren analogía.
 
-Después hay historia.
+Antes hay posibilidades. Después hay historia. Cuando algo ya ha sucedido, no hay modo de hacer que se "borre", podrás suplir las diferencias producidas, con nuevas diferencias que casi lo compensen incluso, pero jamás borrar lo sucedido.
+
+Y lo ya sucedido, sentará las bases para los nuevos sucesos. En tu mano lo que sí está, es aprender de ello, o ignorarlo, preferir fingir que jamás sucedió. Es también parte de ese proceso.
 
 La diferencia parece pequeña cuando se escribe. No lo es cuando se vive.
 
@@ -132,9 +136,25 @@ en el tiempo y escenas que comienzan con una pregunta inevitable:
 ¿Qué habría pasado si...?
 
 *La La Land* deja que Mia y Sebastian contemplen durante unos minutos otra
-vida. *El efecto mariposa* y *Una cuestión de tiempo* llevan más lejos el deseo:
+vida. Incluso otras vidas.
+
+Una vida en la que ella consigue su sueño, y para ella, tanto ser actriz, como seguir su relación con Sebastian son parte de su realidad. Pero claro, para que esa realidad sea posible, él, ha de abandonar su sueño, sacrificarse, para poder formar parte de la implacable nueva agenda de Mía y las exigencias del sueño de Mía.
+En otra vida en cambio, ambos sacrifican sus respectivos sueños. Su vida es humilde, discreta, con ambiciones frustradas, y aún así, forman una familia, algo similar a la felicidad que les concede, alcanzar sólo parte de sus sueños.
+La realidad en cambio, ha sido que ellos, han podido realizar, sólo uno de sus sueños, sacrificando otro en cambio, el de tener una vida juntos.
+He ahí el dilema, la duda, la indecisión, cuál de todas esas realidades es más placentera para ambos, o si acaso, la realidad existe siquiera para "satisfacer" los deseos de nadie.
+
+*El efecto mariposa* y *Una cuestión de tiempo* llevan más lejos el deseo:
 permiten intervenir en un nodo pasado y descubrir que lo posterior no permanece
-quieto mientras ese nodo cambia.
+quieto mientras ese nodo cambia. Y de nuevo, azota la realidad, conseguir lo que ansiabas, no te hace ver lo que puedes perder al conseguirlo.
+Hasta qué punto conseguir lo que anhelas, corregir tus errores, te lleva realmente, a una solución más feliz.
+Nuestra obsesión por huir de lo indeseado, escapar al dolor, evitar las pérdidas, a veces, no nos permite ver lo que a través de ellas si llega a hacerse realidad también.
+
+Hay una frase, que uso a menudo. La felicidad, suele ser demasiado a menudo, conjugado en pretérito perfecto. Uno no se da cuenta de que era feliz, hasta que deja de serlo.
+Los humanos, además, tenemos otro problema añadido, la infelicidad en cambio, suele representarse muy a menudo, en presente continuo.
+Aquello de lo que carecemos ahora mismo, nos hace infelices. Una enfermedad, la muerte de un ser querido, vivir en la pobreza o simplemente insuficiente riqueza... pueden ser elementos, que conviertan nuestra vida, en un contínuo lamento.
+La vida no es perfecta, jamás lo será... ser feliz, es casi un estado enajenado mental y transitorio que casi nunca disfrutamos lo suficiente en el momento en que sucede, y que tendemos a recordar con nostalgia, porque ya sucedió.
+En cambio, ser infeliz, suele ser doloroso, y no sólo en el mismo momento en que sucede, sino que tiende a cronificarse en ocasiones tanto en el tiempo, que es casi como estar reviviendo ese dolor continuamente, sin darnos margen para aceptar la realidad y comprender, que lo que pasó, ya pasó... sea bueno, o malo.
+Que nunca nada fué tan bueno, ni tampoco nunca tan malo, como en realidad, nos obcecamos en percibir.
 
 Ahí se esconde la trampa habitual de mis propios contrafactuales.
 
