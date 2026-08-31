@@ -77,14 +77,16 @@ una pregunta que mi analogía no tiene derecho a resolver. Me basta la
 resonancia: en ambos casos, aquello que podía relacionarse de varias maneras
 termina entregando condiciones mucho más difíciles de deshacer.
 
-Y aún así, la analogía, no puede pasar desapercibida por mí... es obvio, 
-no es lo mismo, no es igual, pero en cierto modo a mi modo de entender el mundo, tienen ciertos puntos aparentemente análogos, que como cualquier otra superstición, hacen que para mí, cobren analogía.
+Antes hay posibilidades.
 
-Antes hay posibilidades. Después hay historia. Cuando algo ya ha sucedido, no hay modo de hacer que se "borre", podrás suplir las diferencias producidas, con nuevas diferencias que casi lo compensen incluso, pero jamás borrar lo sucedido.
-
-Y lo ya sucedido, sentará las bases para los nuevos sucesos. En tu mano lo que sí está, es aprender de ello, o ignorarlo, preferir fingir que jamás sucedió. Es también parte de ese proceso.
+Después hay historia.
 
 La diferencia parece pequeña cuando se escribe. No lo es cuando se vive.
+
+Cuando algo ha sucedido, ya no puedo borrarlo. Podré introducir nuevas
+diferencias que compensen algunas de las anteriores, aprender de ellas,
+ignorarlas o fingir que jamás existieron. Cualquiera de esas respuestas se
+apoyará sobre lo sucedido y pasará a formar parte del proceso.
 
 Una decisión que pudo no tomarse condiciona la siguiente. Un encuentro
 improbable introduce personas, afectos, pérdidas y obligaciones que antes no
@@ -136,25 +138,42 @@ en el tiempo y escenas que comienzan con una pregunta inevitable:
 ¿Qué habría pasado si...?
 
 *La La Land* deja que Mia y Sebastian contemplen durante unos minutos otra
-vida. Incluso otras vidas.
+vida. La secuencia imagina un camino en el que el amor sobrevive a los puntos
+de ruptura que conocemos y ambos alcanzan una forma de felicidad compartida.
+Pero, precisamente porque es una fantasía, puede atravesar con elegancia los
+costes que esa vida habría exigido. No tiene que decidir qué habría sacrificado
+Sebastian, qué habría cedido Mia ni qué otras consecuencias habrían nacido de
+cada renuncia.
 
-Una vida en la que ella consigue su sueño, y para ella, tanto ser actriz, como seguir su relación con Sebastian son parte de su realidad. Pero claro, para que esa realidad sea posible, él, ha de abandonar su sueño, sacrificarse, para poder formar parte de la implacable nueva agenda de Mía y las exigencias del sueño de Mía.
-En otra vida en cambio, ambos sacrifican sus respectivos sueños. Su vida es humilde, discreta, con ambiciones frustradas, y aún así, forman una familia, algo similar a la felicidad que les concede, alcanzar sólo parte de sus sueños.
-La realidad en cambio, ha sido que ellos, han podido realizar, sólo uno de sus sueños, sacrificando otro en cambio, el de tener una vida juntos.
-He ahí el dilema, la duda, la indecisión, cuál de todas esas realidades es más placentera para ambos, o si acaso, la realidad existe siquiera para "satisfacer" los deseos de nadie.
+Alrededor de esa vida imaginada permanecen otras: una en la que sólo uno
+realiza su sueño; otra en la que ambos renuncian a parte de sus ambiciones y
+forman una familia; la que finalmente ocurrió, donde alcanzaron aquello que
+perseguían y perdieron la posibilidad de hacerlo juntos. No sé cuál habría
+sido más feliz para ambos. Tampoco sé si la realidad existe para satisfacer
+los deseos de nadie.
 
 *El efecto mariposa* y *Una cuestión de tiempo* llevan más lejos el deseo:
 permiten intervenir en un nodo pasado y descubrir que lo posterior no permanece
-quieto mientras ese nodo cambia. Y de nuevo, azota la realidad, conseguir lo que ansiabas, no te hace ver lo que puedes perder al conseguirlo.
-Hasta qué punto conseguir lo que anhelas, corregir tus errores, te lleva realmente, a una solución más feliz.
-Nuestra obsesión por huir de lo indeseado, escapar al dolor, evitar las pérdidas, a veces, no nos permite ver lo que a través de ellas si llega a hacerse realidad también.
+quieto mientras ese nodo cambia. Conseguir lo anhelado o corregir un error no
+permite ver de antemano aquello que se perderá al hacerlo. Al huir del dolor,
+puedo olvidar que incluso a través de lo indeseado llegaron a existir cosas que
+ahora no querría perder.
 
-Hay una frase, que uso a menudo. La felicidad, suele ser demasiado a menudo, conjugado en pretérito perfecto. Uno no se da cuenta de que era feliz, hasta que deja de serlo.
-Los humanos, además, tenemos otro problema añadido, la infelicidad en cambio, suele representarse muy a menudo, en presente continuo.
-Aquello de lo que carecemos ahora mismo, nos hace infelices. Una enfermedad, la muerte de un ser querido, vivir en la pobreza o simplemente insuficiente riqueza... pueden ser elementos, que conviertan nuestra vida, en un contínuo lamento.
-La vida no es perfecta, jamás lo será... ser feliz, es casi un estado enajenado mental y transitorio que casi nunca disfrutamos lo suficiente en el momento en que sucede, y que tendemos a recordar con nostalgia, porque ya sucedió.
-En cambio, ser infeliz, suele ser doloroso, y no sólo en el mismo momento en que sucede, sino que tiende a cronificarse en ocasiones tanto en el tiempo, que es casi como estar reviviendo ese dolor continuamente, sin darnos margen para aceptar la realidad y comprender, que lo que pasó, ya pasó... sea bueno, o malo.
-Que nunca nada fué tan bueno, ni tampoco nunca tan malo, como en realidad, nos obcecamos en percibir.
+Hay una frase que uso a menudo: la felicidad suele conjugarse en pasado. Con
+demasiada frecuencia descubro que era feliz cuando ya he dejado de serlo. La
+infelicidad, en cambio, insiste en el presente continuo.
+
+Aquello de lo que carezco ahora puede ocupar todo el campo de mi mirada. Una
+enfermedad, la muerte de un ser querido, la pobreza o la sensación de no tener
+nunca suficiente pueden convertir el presente en un lamento que se prolonga y
+obliga a revivir el dolor. Mientras tanto, la felicidad suele haber sido un
+estado transitorio al que no presté suficiente atención cuando estaba dentro
+de él y que después reconstruyo mediante la nostalgia.
+
+La vida no es perfecta. Nunca lo será. Quizá tampoco fue todo tan bueno ni es
+todo tan malo como mi memoria y mi deseo necesitan representarlo. Pero la
+realidad imaginada dispone de una ventaja: puede quedarse con la felicidad que
+recuerdo y prescindir del precio que nunca tuvo que pagar.
 
 Ahí se esconde la trampa habitual de mis propios contrafactuales.
 
