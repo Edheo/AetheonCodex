@@ -49,6 +49,11 @@ Después suceden.
 Y desde ese instante dejan de competir con todo cuanto podría haber ocurrido.
 Se convierten en el estado real sobre el que habrá de continuar lo siguiente.
 
+Git es una herramienta creada para conservar los cambios de un proyecto. En
+lugar de guardar únicamente su versión más reciente, permite registrar estados
+sucesivos —*commits*— y recorrer después el historial que los enlaza. Cada uno
+recibe lo anterior y deja una nueva base desde la que continuar.
+
 Hoy he pensado que se parecen a un *commit*.
 
 No porque el universo funcione como Git. Sería absurdo confundir una
@@ -56,6 +61,20 @@ herramienta humana con el mecanismo de la realidad sólo porque su vocabulario
 me permite contemplarla de otro modo. Pero la metáfora conserva algo que llevo
 tiempo intentando expresar: cada acontecimiento recibe un mundo ya modificado,
 actúa sobre él y entrega otro a cuanto venga después.
+
+Mi mente patronizadora encuentra incluso una resonancia más remota. En mecánica
+cuántica, mientras existe coherencia, distintas alternativas pueden conservar
+entre sí relaciones capaces de producir interferencia. La interacción con el
+entorno provoca decoherencia: esa interferencia deja de ser accesible y emerge
+para nosotros un mundo de estados mucho más estables, con apariencia clásica.
+Hay algo graciosamente parecido al paso de un archivo todavía vivo a un cambio
+que ya deja huella en el historial.
+
+Pero sólo parecido. La decoherencia no es un *commit*, ni explica por sí sola
+por qué experimentamos un único resultado definido. La física conserva ahí
+una pregunta que mi analogía no tiene derecho a resolver. Me basta la
+resonancia: en ambos casos, aquello que podía relacionarse de varias maneras
+termina entregando condiciones mucho más difíciles de deshacer.
 
 Antes hay posibilidades.
 
