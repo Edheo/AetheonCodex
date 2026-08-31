@@ -184,6 +184,32 @@ Pero eso no vuelve inútil la tirita.
 
 Impide confundir reparar con borrar.
 
+Quizá por eso, desde niño, me ha resultado extraño el nombre de los seguros.
+Un seguro de vida no impide la muerte. Uno de hogar no impide el incendio, la
+inundación ni el cristal roto. Uno de salud no conserva mágicamente el cuerpo
+fuera del alcance de la enfermedad. Nada de cuanto aseguran queda, en realidad,
+a salvo por haber firmado la póliza.
+
+Lo asegurado no es el estado anterior.
+
+Es cierta respuesta posterior a su pérdida.
+
+El seguro promete compensar, asistir, reparar o reemplazar dentro de unos
+límites acordados. Puede aliviar consecuencias materiales y hacer posible que
+la vida continúe. Pero el dinero entregado tras una muerte no devuelve a quien
+murió. La atención médica no garantiza que toda enfermedad pueda curarse. Y si
+un cristal al que yo atribuía un valor irrepetible se rompe, otro podrá ocupar
+su lugar sin convertirse por ello en aquel mismo cristal.
+
+No hay engaño necesariamente en el mecanismo. La extrañeza está en la palabra:
+llamamos seguro a algo que sólo puede actuar cuando la seguridad ya ha fallado.
+Otra herramienta humana construida alrededor del mismo deseo. No evita el
+*commit*. Añade recursos para responder al mundo que éste ha dejado.
+
+Compensar no es restituir.
+
+Pero tampoco es nada.
+
 Desde aquí, desde este presente, puedo recorrer el historial. Encuentro
 decisiones conscientes, coincidencias, errores, consecuencias emergentes y
 resultados que ningún participante habría podido anticipar. Algunas relaciones
