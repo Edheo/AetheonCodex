@@ -28,9 +28,9 @@ Pendiente
 
 ## Literaria
 ### Capítulo
-
+05 - Evolución 
 ### Secuencia
-
+110
 ### Autoría
 Logos
 

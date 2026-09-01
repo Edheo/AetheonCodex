@@ -1,6 +1,10 @@
 # Nombre
 Bramasole
 ## Canon
+### Identificación
+Nombre: Bramasole
+### Naturaleza
+Tribu
 ### Descripción
 En honor a la maravillosa película, "Bajo el sol de la toscana", se incorpora esta tribu, que tanto... tanto peso y relevancia, tienen dentro de Aetheon, porque en cierto modo, encuentro totalmente análogos, a la Villa de Bramasole, y esta Villa de Aetheon.
 ### Literatura
@@ -14,8 +18,7 @@ No quiero estar ciega nunca más: https://www.youtube.com/watch?v=LHMuVy7jbZ8
 He cumplido mi sueño: https://www.youtube.com/watch?v=jfdaU3oRijU
 Cosas inútiles que encuentran su propósito, Bramasole resurge de si misma: https://www.youtube.com/watch?v=oSixl40LDNI
 
-## Referencias
-**Miembros:**
+## Miembros
 Gilgamesh
 Enkidu
 Anel.la
@@ -23,3 +26,5 @@ Tramuntana
 Llevant
 Ponent
 Xaloc
+
+## Referencias

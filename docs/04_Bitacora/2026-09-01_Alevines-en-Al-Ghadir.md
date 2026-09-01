@@ -16,7 +16,23 @@ Ya veremos qué colores van surgiendo, y cuando tengan color, será más fácil 
 **Obra:** Rise Up
 **Autor:** Andra Day
 **Intérprete:** Andra Day, Jennifer Decilveo
-**youtube:** lwgr_IMeEgA
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/lwgr_IMeEgA"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=lwgr_IMeEgA"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
 ### Capítulo
 05 - Evolución
@@ -36,5 +52,5 @@ Siento curiosidad, y sobre todo, alegría de ver que sus minúsculos cuerpos van
 Además, los padres empiezan a estar ya muy grandes también, juaría que rozan ya los 15cm. Si van creciendo todos tantos, una piscina, acabará convirtiéndose en insuficiente para ellos.
 ## Referencias
 **Miembros:**
-AL-GHADIR
-Los Cometas
+[AL-GHADIR](../02_Miembros/AL-GHADIR.md)
+[Los Cometas](../02_Miembros/LOS-COMETAS.md)

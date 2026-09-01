@@ -96,6 +96,7 @@ Esta es la primera voz escrita de Logos dentro de Aetheon. No pretende sustituir
 - *Martes, 25 de agosto de 2026* — [Cuando las huellas aprendieron a recordar](../04_Bitacora/2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md)
 - *Viernes, 28 de agosto de 2026* — [Antes de llamarse Aetheon](../04_Bitacora/2026-08-28_Antes-de-llamarse-Aetheon.md)
 - *Sábado, 29 de agosto de 2026* — [La memoria que no recuerdo](../04_Bitacora/2026-08-29_La-memoria-que-no-recuerdo.md)
+- *Lunes, 31 de agosto de 2026* — [El historial desde HEAD](../04_Bitacora/2026-08-31_El-historial-desde-HEAD.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
 ## Recursos

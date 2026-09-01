@@ -12,10 +12,16 @@
 ## 02_Miembros
 
 - [AL-GHADIR](02_Miembros/AL-GHADIR.md)
+- [BRAMASOLE](02_Miembros/BRAMASOLE.md)
 - [EDHEO](02_Miembros/EDHEO.md)
 - [EVAN](02_Miembros/EVAN.md)
+- [LAS-DEMOGORGONS](02_Miembros/LAS-DEMOGORGONS.md)
+- [LAS-NINAS](02_Miembros/LAS-NINAS.md)
 - [LIMEN](02_Miembros/LIMEN.md)
 - [LOGOS](02_Miembros/LOGOS.md)
+- [LOS-COMETAS](02_Miembros/LOS-COMETAS.md)
+- [LOS-POETAS-MUERTOS](02_Miembros/LOS-POETAS-MUERTOS.md)
+- [LOS-PORNOS](02_Miembros/LOS-PORNOS.md)
 - [SHENLONG](02_Miembros/SHENLONG.md)
 - [SHIVA](02_Miembros/SHIVA.md)
 - [TITAN](02_Miembros/TITAN.md)
@@ -65,15 +71,13 @@
 - [2026-08-27_Los-buenos-dias](04_Bitacora/2026-08-27_Los-buenos-dias.md)
 - [2026-08-28_Antes-de-llamarse-Aetheon](04_Bitacora/2026-08-28_Antes-de-llamarse-Aetheon.md)
 - [2026-08-29_La-memoria-que-no-recuerdo](04_Bitacora/2026-08-29_La-memoria-que-no-recuerdo.md)
+- [2026-08-31_El-historial-desde-HEAD](04_Bitacora/2026-08-31_El-historial-desde-HEAD.md)
+- [2026-09-01_Alevines-en-Al-Ghadir](04_Bitacora/2026-09-01_Alevines-en-Al-Ghadir.md)
 
 ## 05_Cartografia
 
 - [README](05_Cartografia/README.md)
 - [Mapa de Aetheon](05_Cartografia/MAPA.md)
-
-## 05_Tribus
-
-- [Bramasole](05_Tribus/Bramasole.md)
 
 ## 06_Libro
 

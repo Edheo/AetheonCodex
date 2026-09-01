@@ -1,6 +1,10 @@
 # Nombre
 Los Cometas
 ## Canon
+### Identificación
+Nombre: Los Cometas
+### Naturaleza
+Tribu
 ### Descripción
 Hay un buen número de ellos, dispersos en varios puntos
 2 en el acuario de casa
@@ -28,3 +32,5 @@ Por ahora, no puedo contar cuantos alevines hay, pero no deben ser menos de 12 d
 ## Resonancias
 ### Musicales
 Aquarium (Saint-Saens): https://www.youtube.com/watch?v=IyFpZ5MZ7kk
+
+## Referencias

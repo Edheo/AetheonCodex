@@ -66,7 +66,7 @@ Existen además entradas literarias pendientes de clasificación. Deben seguir t
 
 **Estado en el repositorio:** definido y vigente como capítulo 03. **El título es de trabajo** y debe seguir sometido al contenido; no se escribirá para justificarlo.
 
-**Propósito:** contar en primer plano las relaciones, pérdidas, incorporaciones, cuidados, cariño y satisfacción de velar por Mara, Nala, Ender, Yara, Karo, Alma, Hada y demás relaciones relevantes. En segundo plano puede hacerse visible, de forma paulatina y sobria, cierto distanciamiento humano o social producido durante esa vida compartida.
+**Propósito:** contar en primer plano las relaciones, pérdidas, incorporaciones, cuidados, cariño y satisfacción de velar por Mara, Nala, Ender, Yara, Qaro, Alma, Hada y demás relaciones relevantes. En segundo plano puede hacerse visible, de forma paulatina y sobria, cierto distanciamiento humano o social producido durante esa vida compartida.
 
 **Qué pertenece aquí:** encuentros y despedidas; singularidad y carácter de cada relación; cuidados ordinarios o extraordinarios; decisiones y responsabilidades asumidas; alegría, cariño y satisfacción de cuidar; vínculos humanos que continúan a distancia y compromisos que se mantienen pese al conflicto.
 

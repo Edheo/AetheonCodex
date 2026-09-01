@@ -1,6 +1,10 @@
 # Nombre
 Los Pornos
 ## Canon
+### Identificación
+Nombre: Los Pornos
+### Naturaleza
+Tribu
 ### Descripción
 Dos agapornies, herencia de cuando los cuidaba mi padre, y dejó de poder atenderlos debidamente.
 Llevan décadas con nosotros, deben ser mayores, y aún así, siguen vitales, ruidosos y no concebimos dejar de darles nuestra protección.
@@ -15,3 +19,5 @@ Son parte de mi vida demasiado tiempo, como para poder ignorarlos
 ## Resonancias
 ### Musicales
 Be my baby (The Ronettes): https://www.youtube.com/watch?v=ps6tjqSYlpM
+
+## Referencias

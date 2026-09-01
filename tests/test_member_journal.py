@@ -3,6 +3,7 @@ import unittest
 from scripts.member_journal import (
     extract_references,
     materialize,
+    materialize_member_composition,
     materialize_member_references,
 )
 
@@ -62,6 +63,27 @@ class MemberJournalTests(unittest.TestCase):
             "**Miembros:** [TITAN](../02_Miembros/TITAN.md), DESCONOCIDO",
             result,
         )
+
+    def test_links_known_members_in_collective_composition(self):
+        member = {"path": type("PathStub", (), {"name": "EVAN.md"})()}
+        aliases = {"evan": member}
+
+        result = materialize_member_composition(
+            "## Miembros\nEvan\nLorca\n\n## Referencias\n",
+            aliases,
+        )
+
+        self.assertIn("[Evan](../02_Miembros/EVAN.md)", result)
+        self.assertIn("\nLorca\n", result)
+        self.assertIn("\n\n## Referencias\n", result)
+
+    def test_does_not_treat_general_references_as_composition(self):
+        result = materialize_member_composition(
+            "## Referencias\n**Miembros:** Evan\n",
+            {},
+        )
+
+        self.assertEqual("## Referencias\n**Miembros:** Evan\n", result)
 
 
 if __name__ == "__main__":

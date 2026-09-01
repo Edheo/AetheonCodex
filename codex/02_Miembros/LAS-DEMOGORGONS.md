@@ -1,6 +1,10 @@
 # Nombre
 Las Demogorgons
 ## Canon
+### Identificación
+Nombre: Las Demogorgons
+### Naturaleza
+Tribu
 ### Descripción
 Son las bebes de Mis Niñas, las hermanas intrépidas y traviesas, cuya peor maldad, ha sido robar nuestros corazones.
 
@@ -12,7 +16,8 @@ Adorables, irrenunciables, son ahora mismo, las más consentidas en Aetheon, aje
 ### Cinematográficas
 Stranger Things: https://www.youtube.com/shorts/pf7u5kNMwbQ
 
-## Referencias
-**Miembros:**
+## Miembros
 Hada
 Alma
+
+## Referencias

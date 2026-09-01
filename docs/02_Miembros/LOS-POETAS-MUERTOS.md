@@ -1,6 +1,10 @@
 # Nombre
 Los Poetas Muertos
 ## Canon
+### Identificación
+Nombre: Los Poetas Muertos
+### Naturaleza
+Tribu
 ### Descripción
 En honor a la película, "El Club de Los poetas muertos", se incorpora esta tribu, Aportando al conjunto de almendros, ese contexto poético, moral y ético que aporta la película
 
@@ -14,11 +18,22 @@ Doblegarte a no vivir tu vida, es en realidad, ser ya un muerto en vida... un Zo
 ### Cinematográficas
 Oh Capitán, Mi Capitán: https://www.youtube.com/watch?v=j8Pvw70N1Go
 
-## Referencias
-**Miembros:**
-Evan
+## Miembros
+[Evan](../02_Miembros/EVAN.md)
 Lorca
 Neruda
 Walt
 Machado
 Mistral
+
+## Bitácora
+
+<!-- BEGIN GENERATED MEMBER JOURNAL -->
+### Entradas relacionadas
+
+- *Lunes, 24 de agosto de 2026* — [El espacio de lo posible](../04_Bitacora/2026-08-24_El-espacio-de-lo-posible.md)
+- *Lunes, 24 de agosto de 2026* — [Lo imposible en el espacio](../04_Bitacora/2026-08-24_Lo-imposible-en-el-espacio.md)
+- *Lunes, 24 de agosto de 2026* — [La imposibilidad que se contempla](../04_Bitacora/2026-08-24_Lo-que-se-contempla-en-el-umbral.md)
+<!-- END GENERATED MEMBER JOURNAL -->
+
+## Referencias
