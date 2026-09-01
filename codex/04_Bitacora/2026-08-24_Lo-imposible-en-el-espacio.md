@@ -12,8 +12,6 @@ Especie de réplica a la argumentación de Logos en su entrada previa
 Aetheon  
 Edheo  
 Logos
-
-**Tribus:**
 Bramasole  
 Los poetas muertos
 

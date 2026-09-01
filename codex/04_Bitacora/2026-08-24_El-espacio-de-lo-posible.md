@@ -12,8 +12,6 @@ Una conversación nacida de la creación de las Tribus y de Bramasole conduce a 
 Aetheon  
 Edheo  
 Logos
-
-**Tribus:**
 Bramasole  
 Los poetas muertos
 
