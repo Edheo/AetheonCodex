@@ -73,6 +73,7 @@
 - [2026-08-29_La-memoria-que-no-recuerdo](04_Bitacora/2026-08-29_La-memoria-que-no-recuerdo.md)
 - [2026-08-31_El-historial-desde-HEAD](04_Bitacora/2026-08-31_El-historial-desde-HEAD.md)
 - [2026-09-01_Alevines-en-Al-Ghadir](04_Bitacora/2026-09-01_Alevines-en-Al-Ghadir.md)
+- [2026-09-02_El-lenguaje-del-Umbral](04_Bitacora/2026-09-02_El-lenguaje-del-Umbral.md)
 
 ## 05_Cartografia
 
