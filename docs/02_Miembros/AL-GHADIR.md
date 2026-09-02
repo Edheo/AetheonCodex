@@ -72,6 +72,7 @@ Palabra: Renovación
 
 - *Jueves, 13 de agosto de 2026* — [Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir](../04_Bitacora/2026-08-13_Alevines-en-Al-Ghadir.md)
 - *Jueves, 27 de agosto de 2026* — [Los buenos días](../04_Bitacora/2026-08-27_Los-buenos-dias.md)
+- *Martes, 1 de septiembre de 2026* — [Alevones en Al-Ghadir](../04_Bitacora/2026-09-01_Alevines-en-Al-Ghadir.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
 ## Recursos

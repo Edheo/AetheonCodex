@@ -115,7 +115,7 @@ Shasa (gata, hija de Taka en realidad)
 Luna (perra)
 Nala (perra)
 Yara (gata)
-Caro (gato)
+Qaro (gato)
 Alma (gata)
 Hada (gata hermana de cuna de Alma)
 

@@ -194,6 +194,53 @@ def materialize_journal_member_links(aliases):
     return linked_entries
 
 
+def materialize_member_composition(text, aliases):
+    """Enlaza los integrantes declarados en la sección opcional ## Miembros."""
+
+    section_pattern = re.compile(
+        r"(^##[ \t]+Miembros[ \t]*$)(.*?)(?=^##(?:[ \t]|$)|\Z)",
+        re.MULTILINE | re.DOTALL | re.IGNORECASE,
+    )
+    match = section_pattern.search(text)
+    if match is None:
+        return text
+
+    rendered = []
+    for line in match.group(2).splitlines():
+        if not line.strip() or line.lstrip().startswith("<!--"):
+            rendered.append(line)
+            continue
+
+        prefix = re.match(r"^(?P<indent>[ \t]*)(?P<bullet>[-*][ \t]+)?", line)
+        value = line[prefix.end():]
+        linked = ", ".join(
+            member_link(item.strip(), aliases)
+            for item in value.split(",")
+            if item.strip()
+        )
+        bullet = prefix.group("bullet") or ""
+        rendered.append(f"{prefix.group('indent')}{bullet}{linked}")
+
+    body = "\n".join(rendered)
+    if match.group(2).endswith("\n"):
+        body += "\n"
+    replacement = match.group(1) + body
+    return text[:match.start()] + replacement + text[match.end():]
+
+
+def materialize_member_composition_links(aliases):
+    linked_pages = 0
+
+    for destination in sorted(DOCS_MEMBERS_DIR.glob("*.md")):
+        text = destination.read_text(encoding="utf-8-sig")
+        rendered = materialize_member_composition(text, aliases)
+        if rendered != text:
+            destination.write_text(rendered, encoding="utf-8")
+            linked_pages += 1
+
+    return linked_pages
+
+
 def generated_block(entries):
     lines = [GENERATED_START, "### Entradas relacionadas", ""]
 
@@ -240,6 +287,7 @@ def run():
     members, aliases = load_members()
     unresolved = load_journal_entries(aliases)
     journal_entries = materialize_journal_member_links(aliases)
+    composition_pages = materialize_member_composition_links(aliases)
     linked_members = 0
     linked_entries = 0
 
@@ -258,6 +306,7 @@ def run():
 
     print(f"[MEMBER JOURNAL] Done. {linked_entries} link(s) across {linked_members} member(s).")
     print(f"[MEMBER JOURNAL] Linked member references in {journal_entries} journal entry/entries.")
+    print(f"[MEMBER JOURNAL] Linked compositions in {composition_pages} member page(s).")
     if unresolved:
         print(
             f"[MEMBER JOURNAL] {len(unresolved)} reference name(s) "

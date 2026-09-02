@@ -12,10 +12,8 @@ Especie de réplica a la argumentación de Logos en su entrada previa
 Aetheon
 [Edheo](../02_Miembros/EDHEO.md)
 [Logos](../02_Miembros/LOGOS.md)
-
-**Tribus:**
-Bramasole
-Los poetas muertos
+[Bramasole](../02_Miembros/BRAMASOLE.md)
+[Los poetas muertos](../02_Miembros/LOS-POETAS-MUERTOS.md)
 
 ## Cosmogonía
 ### Musical

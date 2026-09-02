@@ -12,8 +12,6 @@ Tercera voz sobre la conversación abierta por Logos en «El espacio de lo posib
 Aetheon  
 Edheo  
 Logos  
-
-**Tribus:**  
 Bramasole  
 Los poetas muertos  
 

@@ -10,7 +10,7 @@ Los buenos días
 Tras dormir hasta cerca de las cinco de la mañana, Edheo toma un café y pasea por Aetheon antes del amanecer. El cielo, el estanque, los peces, los árboles, las piñas caídas de Titán y el saludo de Yara le hacen sentir la plenitud de vivir en el lugar que reconoció al ver por primera vez una fotografía de Ishtar.
 
 ## Referencias
-**Miembros:** Aetheon, [Edheo](../02_Miembros/EDHEO.md), Luna, Nala, Karo, [Evan](../02_Miembros/EVAN.md), [Al-Ghadir](../02_Miembros/AL-GHADIR.md), Ishtar, Bressol.la, Luperca, Pisa, [Titán](../02_Miembros/TITAN.md), [Vetusta](../02_Miembros/VETUSTA.md), Yara
+**Miembros:** Aetheon, [Edheo](../02_Miembros/EDHEO.md), Luna, Nala, Qaro, [Evan](../02_Miembros/EVAN.md), [Al-Ghadir](../02_Miembros/AL-GHADIR.md), Ishtar, Bressol.la, Luperca, Pisa, [Titán](../02_Miembros/TITAN.md), [Vetusta](../02_Miembros/VETUSTA.md), Yara
 
 ## Cosmogonía
 ### Musical
@@ -48,7 +48,7 @@ He podido dormir hasta casi las cinco de la mañana. Me he levantado descansado 
 
 Mientras lo preparo, abro la puerta de casa. Luna y Nala esperan impacientes ese momento cotidiano. En cuanto pueden, salen a sus menesteres olfativos: recorren la parcela por su cuenta e investigan qué visitantes inesperados han podido llegar durante la noche. Es su manera de leer la prensa local cada mañana.
 
-En cuanto he tenido el café en la mano, Karo ha sido el primero en acercarse. Ha venido a mi regazo en busca de sus caricias y su acicalamiento. Le he quitado algunas briznas adheridas al pelaje y le he limpiado los ojos para que no se le acumulasen restos de lágrimas. Mientras lo mimaba y le dedicaba palabras de cariño, él entornaba sus hermosos ojos, entre verdes y amarillos, como si me rogase que no parara.
+En cuanto he tenido el café en la mano, Qaro ha sido el primero en acercarse. Ha venido a mi regazo en busca de sus caricias y su acicalamiento. Le he quitado algunas briznas adheridas al pelaje y le he limpiado los ojos para que no se le acumulasen restos de lágrimas. Mientras lo mimaba y le dedicaba palabras de cariño, él entornaba sus hermosos ojos, entre verdes y amarillos, como si me rogase que no parara.
 
 Después he salido a pasear por Aetheon. También yo tengo mi recorrido habitual de madrugada, como Luna y Nala. Mientras camino recuerdo que vivir aquí no está exento de obligaciones, trabajo y cuidados. Pero es maravilloso.
 

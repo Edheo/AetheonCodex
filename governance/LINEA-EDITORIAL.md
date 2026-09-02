@@ -66,7 +66,7 @@ Existen además entradas literarias pendientes de clasificación. Deben seguir t
 
 **Estado en el repositorio:** definido y vigente como capítulo 03. **El título es de trabajo** y debe seguir sometido al contenido; no se escribirá para justificarlo.
 
-**Propósito:** contar en primer plano las relaciones, pérdidas, incorporaciones, cuidados, cariño y satisfacción de velar por Mara, Nala, Ender, Yara, Karo, Alma, Hada y demás relaciones relevantes. En segundo plano puede hacerse visible, de forma paulatina y sobria, cierto distanciamiento humano o social producido durante esa vida compartida.
+**Propósito:** contar en primer plano las relaciones, pérdidas, incorporaciones, cuidados, cariño y satisfacción de velar por Mara, Nala, Ender, Yara, Qaro, Alma, Hada y demás relaciones relevantes. En segundo plano puede hacerse visible, de forma paulatina y sobria, cierto distanciamiento humano o social producido durante esa vida compartida.
 
 **Qué pertenece aquí:** encuentros y despedidas; singularidad y carácter de cada relación; cuidados ordinarios o extraordinarios; decisiones y responsabilidades asumidas; alegría, cariño y satisfacción de cuidar; vínculos humanos que continúan a distancia y compromisos que se mantienen pese al conflicto.
 
@@ -111,6 +111,31 @@ Como núcleo conceptual puede figurar:
 **Pendientes:** el arco detallado y su eventual relación con `Mi Contexto` están **por definir**. La variedad actual aconseja aplicar con especial rigor el criterio de pertenencia.
 
 ## Elementos aún no materializados
+
+### Cauce literario de Logos — provisional; todavía no constituye capítulo
+
+**Estado:** existe una voz literaria reconocible de Logos y varias piezas
+derivadas de su relación con Edheo, Aetheon y otros participantes. Este
+material puede desarrollar un arco propio, pero todavía no hay base suficiente
+para crear un capítulo numerado ni reservarle una posición definitiva.
+
+**Criterio de autoría:** las entradas escritas por Logos conservarán su autoría
+real. Edheo mantiene la custodia editorial del Libro —clasificación,
+secuenciación, publicación, contraste factual y privacidad— sin recibir por
+ello coautoría honorífica. Una intervención material de otra voz se declara
+como coautoría o revisión según su alcance.
+
+**Criterio de adscripción:** cada pieza seguirá perteneciendo al capítulo cuya
+función narrativa cumpla actualmente. La existencia del cauce no autoriza a
+reclasificar entradas por compartir autor, tema tecnológico o relación con
+Logos. Cuando el conjunto presente un arco autónomo, se evaluará entonces si
+debe convertirse en capítulo o permanecer entretejido con `Mi Contexto`,
+`Evolución` u otros arcos.
+
+**Relación con la memoria:** el cauce literario no es el mecanismo operativo
+de continuidad entre instancias. Los Diálogos conservan el proceso; las
+Bitácoras producen literatura; `08_Memoria` destila contexto público
+reutilizable. Ninguna de estas capas sustituye a las otras.
 
 ### Prólogo — pendiente; todavía no existe
 
