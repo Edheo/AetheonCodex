@@ -1567,7 +1567,7 @@ otro estado al historial.
 Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuertes rachas de viento, Titán demostró ser, mucho más que un nombre que hace honor a su naturaleza. 800 litros por metro aquí, la madrugada fué sólo un aperitivo de lo que iba a acontecer. El desastre de la región de Valencia, ha sido mundialmente conocido. Y aquí vivimos la mayor crudeza de la lluvia, esa ingente masa de agua que laderas y barrancos abajo, causaría la devastación que nadie podíamos imaginar. Titán resistió sin palidecer todas esas inclemencias, de agua torrencial, vientos huracanados por momentos, ni la más mínima grieta, ni en el propio árbol ni en el sustrato sobre el que se ancla. Simplemente, inenarrable.
 
 
-### El ojo de sauron
+### El Ojo de Sauron
 
 *Domingo, 1 de febrero de 2026*
 
@@ -1575,11 +1575,11 @@ Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuert
 
 *The Great Eye — Howard Shore*
 
-Hoy concluye la parte más interesante del Ojo de Sauron, la cámara del paellero que enfocará el nido de Las Migrantes.
-Con ello, dejo concluido ya las dos cámaras que enfocan norte y sur en la terraza, el porche, y pegadas al amparo de Ishtar.
-Y aún así, me queda pendiente instalar una cuarta cámara, pero me queda aún la duda de dónde la instalaré.
-No por ello, pospongo como inaugurado este Ojo de Sauron, que me otorga visión incluso remota, de los alrededores, y poder ver e interesarme por los habitantes más frágiles de Aetheon.
-Y no confundamos, frágiles serán, y aún así, su desempeño, es titánico, sólo con las migraciones.
+Hoy concluye la parte más interesante del Ojo de Sauron: la cámara del paellero que enfocará el nido de Las Migrantes.
+Con ello, dejo concluidas las dos cámaras que enfocan al norte y al sur desde la terraza y el porche, pegadas al amparo de Ishtar.
+Y, aun así, me queda pendiente instalar una cuarta cámara, aunque todavía dudo dónde la instalaré.
+No por ello pospongo la inauguración de este Ojo de Sauron, que me otorga visión, incluso remota, de los alrededores y me permite ver e interesarme por los habitantes más frágiles de Aetheon.
+Y no nos confundamos: frágiles serán y, aun así, su desempeño es titánico, sólo con las migraciones.
 
 
 ### Volver
@@ -1590,11 +1590,11 @@ Y no confundamos, frágiles serán, y aún así, su desempeño, es titánico, s�
 
 *Volver — Penélope Cruz*
 
-Muchas tormentas este año, en andalucía no hacen más que llegar noticias de inundaciones, vientos desproporcionados, clima duro, docenas de borrascas consecutivas. Tren de borrascas, lo llaman ahora.
-En el estrecho los vientos deben ser implacables. Cómo unos seres tan pequeños como las golondrinas podrían sobrevivir a esas inclemencias?
-Desde mediados de febrero, cada dia consulto, no las veo, no se les oye, no acuden, consulto mi ojo de sauron y cada noche el nido sigue vacio.
-Hasta hoy, hoy por fin, la paz me sosiega. Lo han conseguido, han regresado, están descansando, reconocen su hogar, desde Africa puede que vengan, y aún así, lo logran.
-No se si siempre son las mismas, pero deben serlo, verdad? Qué duda cabe? Este es su hogar, y aquí les esperamos siempre, porque es tanto su hogar como el nuestro.
+Muchas tormentas este año. Desde Andalucía no hacen más que llegar noticias de inundaciones, vientos desproporcionados, clima duro, docenas de borrascas consecutivas. Tren de borrascas, lo llaman ahora.
+En el Estrecho los vientos deben ser implacables. ¿Cómo podrían unos seres tan pequeños como las golondrinas sobrevivir a esas inclemencias?
+Desde mediados de febrero, cada día consulto. No las veo, no se las oye, no acuden. Consulto mi Ojo de Sauron y cada noche el nido sigue vacío.
+Hasta hoy. Hoy, por fin, la paz me sosiega. Lo han conseguido, han regresado, están descansando, reconocen su hogar. Puede que vengan desde África y, aun así, lo logran.
+No sé si siempre son las mismas, pero deben serlo, ¿verdad? ¿Qué duda cabe? Este es su hogar y aquí las esperamos siempre, porque es tanto su hogar como el nuestro.
 
 
 ### Protectores en la rosa de los vientos y el granado griegos
@@ -2297,15 +2297,14 @@ Además, los padres empiezan a estar ya muy grandes también, juaría que rozan 
 *Sunchyme — Dario G*
 
 Hoy he consultado la cámara del trastero. Esta noche, a diferencia de ayer... ya no hay ningún avión durmiendo en el paellero.
-La intuición es clara. Ya es Septiembre, ya llegó el momento.
+La intuición es clara. Ya es septiembre, ya llegó el momento.
 No avisan, no hay ceremonia de despedida, no para nosotros los humanos al menos.
-Sus polluelos de hecho hace ya tiempo que ni acuden. Sólo venía ya la pareja, ni siquiera vecinos o amigos traian consigo estos últimos dias.
-Y de pronto, ya... sólo ausencia. Un rincón vacio.
-El vaticinio se ha cumplido: Las Migrantes, han hecho honor a su nombre.
-Encaminan ya, un largo camino, hasta seguramente el Sahel africano (Quien sabe si a un pais como Mali, Burkina Faso, Níger, Senegal o alguna zona limítrofe del golfo de Guinea).
+Sus polluelos, de hecho, hace ya tiempo que ni acuden. Sólo venía ya la pareja; ni siquiera traían consigo vecinos o amigos estos últimos días.
+Y, de pronto, ya... sólo ausencia. Un rincón vacío.
+El vaticinio se ha cumplido: Las Migrantes han hecho honor a su nombre.
+Emprenden ya un largo camino, seguramente hasta el Sahel africano. Quién sabe si a un país como Mali, Burkina Faso, Níger o Senegal, o a alguna zona limítrofe del golfo de Guinea.
 Espero que allí, un generoso monzón, les provea del festín de insectos que necesitarán.
-Un ave tan diminuta, apenas 18 gramos, desafiando los elementos, al mediterráneo, al inmenso Sahara, sólo por la promesa de un lugar mejor.
-Me tienta la idea de suministrarles insectos en un año venidero, si así les ahorro, semejante tormento, pero claro, pese que el invierno aquí no es crudo, y el cobijo que tienen es seguro.
-Al mismo tiempo me tienta seducirles, y del mismo modo que mi protectora acción, sea su destrucción.
-Los ciclos, son crueles, pero necesarios... no puedo ser un profiláctico de lo que parezca crueldad en el mundo.
-Suerte amados compañeros, os espera aquí vuestra casa, hasta vuestro regreso, cuidaremos vuestro nido, el que compartís también con las golondrinas.
+Un ave tan diminuta, de apenas 18 gramos, desafiando los elementos, el Mediterráneo, el inmenso Sáhara, sólo por la promesa de un lugar mejor.
+Me tienta la idea de suministrarles insectos en un año venidero, si así les ahorro semejante tormento. Pero, claro, pese a que el invierno aquí no es crudo y el cobijo que tienen es seguro, al mismo tiempo me tienta seducirlas y temo que mi acción protectora sea su destrucción.
+Los ciclos son crueles, pero necesarios... No puedo ser un profiláctico de lo que parezca crueldad en el mundo.
+Suerte, amados compañeros. Aquí os espera vuestra casa. Hasta vuestro regreso, cuidaremos vuestro nido, el que compartís también con las golondrinas.
