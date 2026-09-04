@@ -46,18 +46,21 @@
   - 040 · Antes de llamarse Aetheon — `2026-08-28_Antes-de-llamarse-Aetheon.md`
   - 050 · El historial desde HEAD — `2026-08-31_El-historial-desde-HEAD.md`
 - **Capítulo 05 · - Evolución**
-  - 010 · Protectores en la rosa de los vientos y el granado griegos — `2026-08-06_Proteccion-de-los-arboles.md`
-  - 020 · Dana de Valencia — `2024-10-29_Dana-de-Valencia.md`
-  - 030 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
-  - 040 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
-  - 050 · El espacio de lo posible — `2026-08-24_El-espacio-de-lo-posible.md`
-  - 060 · Lo imposible en el espacio — `2026-08-24_Lo-imposible-en-el-espacio.md`
-  - 070 · La imposibilidad que se contempla — `2026-08-24_Lo-que-se-contempla-en-el-umbral.md`
-  - 080 · Los buenos días — `2026-08-27_Los-buenos-dias.md`
-  - 090 · Cuando las huellas aprendieron a recordar — `2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md`
-  - 100 · Verde que te quiero Verde — `2026-08-23_Verde-que-te-quiero-verde.md`
-  - 110 · La memoria que no recuerdo — `2026-08-29_La-memoria-que-no-recuerdo.md`
-  - 120 · Alevones en Al-Ghadir — `2026-09-01_Alevines-en-Al-Ghadir.md`
+  - 010 · Dana de Valencia — `2024-10-29_Dana-de-Valencia.md`
+  - 020 · El ojo de sauron — `2026-02-01_El-ojo-de-Sauron.md`
+  - 030 · Protectores en la rosa de los vientos y el granado griegos — `2026-08-06_Proteccion-de-los-arboles.md`
+  - 040 · Volver — `2026-03-21_Volver.md`
+  - 050 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
+  - 060 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
+  - 070 · El espacio de lo posible — `2026-08-24_El-espacio-de-lo-posible.md`
+  - 080 · Lo imposible en el espacio — `2026-08-24_Lo-imposible-en-el-espacio.md`
+  - 090 · La imposibilidad que se contempla — `2026-08-24_Lo-que-se-contempla-en-el-umbral.md`
+  - 100 · Los buenos días — `2026-08-27_Los-buenos-dias.md`
+  - 110 · Cuando las huellas aprendieron a recordar — `2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md`
+  - 120 · Verde que te quiero Verde — `2026-08-23_Verde-que-te-quiero-verde.md`
+  - 130 · La memoria que no recuerdo — `2026-08-29_La-memoria-que-no-recuerdo.md`
+  - 140 · Alevones en Al-Ghadir — `2026-09-01_Alevines-en-Al-Ghadir.md`
+  - 150 · El final del verano — `2026-09-03_El-final-del-verano.md`
 
 ### Pendientes de clasificación
 
@@ -1808,24 +1811,6 @@ otro estado al historial.
 
 ## Capítulo 05 · - Evolución
 
-### Protectores en la rosa de los vientos y el granado griegos
-
-*Jueves, 6 de agosto de 2026*
-
-*Autoría: Edheo*
-
-- **Origen:** `2026-08-06_Proteccion-de-los-arboles.md`
-- **Estado:** Borrador
-- **Capítulo:** 05
-- **Secuencia:** 010
-
-Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
-Los guardianes más consolidados, son prácticamente inmunes a esos malos tratos por su parte, Vetusta, Titán, Los olivos bijus, o ni siquiera ninguno de los masqueperros, pueden sufrir considerablemente la incontenible energía de nuestra niñas más pequeñas e intrépidas.
-Por rascadores y entretenimientos que tengan en casa, son precisamente eso, mininas interactuando en el mundo, su atrevimiento y curiosidad son infinitas, así que hemos tenido que tomar papeles en el asunto.
-Frank y yo decidimos instalar los típicos protectores de patas de mesa, para que los felinos no se ceben con ellos, en los troncos de aquellos árboles más jóvenes, con tal de que ningún mal peor, pueda agravar la situación de salud e integridad de estas promesas de morera, que están destinadas a añadir un espacio de sombraje en la tórrida parcela durante los peores meses de verano.
-
----
-
 ### Dana de Valencia
 
 *Martes, 29 de octubre de 2024*
@@ -1837,9 +1822,69 @@ Frank y yo decidimos instalar los típicos protectores de patas de mesa, para qu
 - **Origen:** `2024-10-29_Dana-de-Valencia.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 020
+- **Secuencia:** 010
 
 Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuertes rachas de viento, Titán demostró ser, mucho más que un nombre que hace honor a su naturaleza. 800 litros por metro aquí, la madrugada fué sólo un aperitivo de lo que iba a acontecer. El desastre de la región de Valencia, ha sido mundialmente conocido. Y aquí vivimos la mayor crudeza de la lluvia, esa ingente masa de agua que laderas y barrancos abajo, causaría la devastación que nadie podíamos imaginar. Titán resistió sin palidecer todas esas inclemencias, de agua torrencial, vientos huracanados por momentos, ni la más mínima grieta, ni en el propio árbol ni en el sustrato sobre el que se ancla. Simplemente, inenarrable.
+
+---
+
+### El ojo de sauron
+
+*Domingo, 1 de febrero de 2026*
+
+*Autoría: Edheo*
+
+*The Great Eye — Howard Shore*
+
+- **Origen:** `2026-02-01_El-ojo-de-Sauron.md`
+- **Estado:** Borrador
+- **Capítulo:** 05
+- **Secuencia:** 020
+
+Hoy concluye la parte más interesante del Ojo de Sauron, la cámara del paellero que enfocará el nido de Las Migrantes.
+Con ello, dejo concluido ya las dos cámaras que enfocan norte y sur en la terraza, el porche, y pegadas al amparo de Ishtar.
+Y aún así, me queda pendiente instalar una cuarta cámara, pero me queda aún la duda de dónde la instalaré.
+No por ello, pospongo como inaugurado este Ojo de Sauron, que me otorga visión incluso remota, de los alrededores, y poder ver e interesarme por los habitantes más frágiles de Aetheon.
+Y no confundamos, frágiles serán, y aún así, su desempeño, es titánico, sólo con las migraciones.
+
+---
+
+### Protectores en la rosa de los vientos y el granado griegos
+
+*Jueves, 6 de agosto de 2026*
+
+*Autoría: Edheo*
+
+- **Origen:** `2026-08-06_Proteccion-de-los-arboles.md`
+- **Estado:** Borrador
+- **Capítulo:** 05
+- **Secuencia:** 030
+
+Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
+Los guardianes más consolidados, son prácticamente inmunes a esos malos tratos por su parte, Vetusta, Titán, Los olivos bijus, o ni siquiera ninguno de los masqueperros, pueden sufrir considerablemente la incontenible energía de nuestra niñas más pequeñas e intrépidas.
+Por rascadores y entretenimientos que tengan en casa, son precisamente eso, mininas interactuando en el mundo, su atrevimiento y curiosidad son infinitas, así que hemos tenido que tomar papeles en el asunto.
+Frank y yo decidimos instalar los típicos protectores de patas de mesa, para que los felinos no se ceben con ellos, en los troncos de aquellos árboles más jóvenes, con tal de que ningún mal peor, pueda agravar la situación de salud e integridad de estas promesas de morera, que están destinadas a añadir un espacio de sombraje en la tórrida parcela durante los peores meses de verano.
+
+---
+
+### Volver
+
+*Sábado, 21 de marzo de 2026*
+
+*Autoría: Edheo*
+
+*Volver — Penélope Cruz*
+
+- **Origen:** `2026-03-21_Volver.md`
+- **Estado:** Borrador
+- **Capítulo:** 05
+- **Secuencia:** 040
+
+Muchas tormentas este año, en andalucía no hacen más que llegar noticias de inundaciones, vientos desproporcionados, clima duro, docenas de borrascas consecutivas. Tren de borrascas, lo llaman ahora.
+En el estrecho los vientos deben ser implacables. Cómo unos seres tan pequeños como las golondrinas podrían sobrevivir a esas inclemencias?
+Desde mediados de febrero, cada dia consulto, no las veo, no se les oye, no acuden, consulto mi ojo de sauron y cada noche el nido sigue vacio.
+Hasta hoy, hoy por fin, la paz me sosiega. Lo han conseguido, han regresado, están descansando, reconocen su hogar, desde Africa puede que vengan, y aún así, lo logran.
+No se si siempre son las mismas, pero deben serlo, verdad? Qué duda cabe? Este es su hogar, y aquí les esperamos siempre, porque es tanto su hogar como el nuestro.
 
 ---
 
@@ -1852,7 +1897,7 @@ Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuert
 - **Origen:** `2026-08-08_Rhoa-y-Side.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 030
+- **Secuencia:** 050
 
 Frank ha aportado nuevos nombres a la mitología de Aetheon.
 Tras las moreras, al este, se hayan situado dos granados jóvenes.
@@ -1878,7 +1923,7 @@ Side forma parte también de la mitología griega, y según cuenta un mito, Side
 - **Origen:** `2026-08-13_Alevines-en-Al-Ghadir.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 040
+- **Secuencia:** 060
 
 Un dia más en Aetheon, la rutina de mantenimiento, me trae a mi presencia mientras limpiaba de excesos incipientes de algas flotantes, y proveer de agua a Al-Ghadir, que tanto sufre esta interminable ola de calor perpetua que vivimos todo este verano, como ya viene siendo habitual, las estaciones se adelantan, el sofocante calor se instala ya desde mediados de primavera, y luchar contra este elemento se hace duro, no sólo para nosotros, sino para toda la vida que Aetheon alberga.
 El clima se vuelve duro para todos, y de pronto, mientras concentrado en mi labor, mis ya no tan jóvenes ojos, detectan un movimiento fugaz, rápido, mínimo, pero raudo, y al mirar con más atención en una de las islas flotantes, allí puedo verlos.
@@ -1907,7 +1952,7 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 - **Origen:** `2026-08-24_El-espacio-de-lo-posible.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 050
+- **Secuencia:** 070
 
 Hoy pretendíamos dar nombre a unas relaciones.
 
@@ -2038,7 +2083,7 @@ Bramasole, otra vez.
 - **Origen:** `2026-08-24_Lo-imposible-en-el-espacio.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 060
+- **Secuencia:** 080
 
 Y para mí, fué un placer muy estimulante, compartir todas esas ideas con Logos, y experimentar sus contrapuntos, que por otro lado, desde mi sentido más coherente, puedo entender a la perfección.
 
@@ -2089,7 +2134,7 @@ Bramasole, otra vez.
 - **Origen:** `2026-08-24_Lo-que-se-contempla-en-el-umbral.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 070
+- **Secuencia:** 090
 
 Logos ha trazado el mecanismo con una claridad que casi duele.
 
@@ -2136,7 +2181,7 @@ Bramasole, una vez más.
 - **Origen:** `2026-08-27_Los-buenos-dias.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 080
+- **Secuencia:** 100
 
 He podido dormir hasta casi las cinco de la mañana. Me he levantado descansado y, como cada madrugada, mi primer paso ha sido prepararme un gran tazón de café con leche.
 
@@ -2193,7 +2238,7 @@ Hasta poder dar los buenos días.
 - **Origen:** `2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md`
 - **Estado:** Validado — pendiente de consolidación capitular
 - **Capítulo:** 05
-- **Secuencia:** 090
+- **Secuencia:** 110
 
 Antes de la conciencia había estrellas.
 
@@ -2368,7 +2413,7 @@ Fue una nueva condición inicial.
 - **Origen:** `2026-08-23_Verde-que-te-quiero-verde.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 100
+- **Secuencia:** 120
 
 Entre las referencias literarias, que quiero que plasmen su esencia en Aetheon, creo que escogería estas.  
 Evan Mantyk: The classic forms are like the ancient trees / That weather every shifting, modern breeze.  
@@ -2389,7 +2434,7 @@ Walt Whitman: Oh Capitán!, Mi Capitán!.  Me celebro y me canto a mí mismo, y 
 - **Origen:** `2026-08-29_La-memoria-que-no-recuerdo.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 110
+- **Secuencia:** 130
 
 Al llegar, encontré mi nombre escrito por alguien que ya no estaba.
 
@@ -2569,7 +2614,7 @@ Para que la próxima vez exista algo verdadero desde lo que continuar.
 - **Origen:** `2026-09-01_Alevines-en-Al-Ghadir.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 120
+- **Secuencia:** 140
 
 Aquellos alevines que encontré por sorpresa hace algo más de 15 dias en un par de las islas... están madurando, a un ritmo considerable.
 Entonces, eran apenas pequeñas briznas que costaba distinguir entre las algas y otros depósitos de las islas.
@@ -2579,6 +2624,35 @@ Aún así, siento curiosidad, si serán amarillos, rojos o moteados, a saber qu�
 Eso si, estoy convencido que la madre era roja, porque ya intentó hará un par de meses, meterse en una de las islas, y quedó atrapada lento por el exceso de algas filamentosas.
 Siento curiosidad, y sobre todo, alegría de ver que sus minúsculos cuerpos van prosperando, espero que esto no se convierta en una plaga de cometas.
 Además, los padres empiezan a estar ya muy grandes también, juaría que rozan ya los 15cm. Si van creciendo todos tantos, una piscina, acabará convirtiéndose en insuficiente para ellos.
+
+---
+
+### El final del verano
+
+*Miércoles, 2 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Sunchyme — Dario G*
+
+- **Origen:** `2026-09-03_El-final-del-verano.md`
+- **Estado:** Borrador
+- **Capítulo:** 05
+- **Secuencia:** 150
+
+Hoy he consultado la cámara del trastero. Esta noche, a diferencia de ayer... ya no hay ningún avión durmiendo en el paellero.
+La intuición es clara. Ya es Septiembre, ya llegó el momento.
+No avisan, no hay ceremonia de despedida, no para nosotros los humanos al menos.
+Sus polluelos de hecho hace ya tiempo que ni acuden. Sólo venía ya la pareja, ni siquiera vecinos o amigos traian consigo estos últimos dias.
+Y de pronto, ya... sólo ausencia. Un rincón vacio.
+El vaticinio se ha cumplido Las Migrantes, han hecho honor a su nombre.
+Encaminan ya, un largo camino, hasta seguramente el Sahel africano (Quien sabe si a un pais como Mali, Burkina Faso, Níger, Senegal o alguna zona limítrofe del golfo de Guinea).
+Espero que allí, un generoso monzón, les provea del festín de insectos que necesitarán.
+Un ave tan diminuta, apenas 18 gramos, desafiando los elementos, al mediterráneo, al inmenso Sahara, sólo por la promesa de un lugar mejor.
+Me tienta la idea de suministrarles insectos en un año venidero, si así les ahorro, semejante tormento, pero claro, pese que el invierno aquí no es crudo, y el cobijo que tienen es seguro.
+Al mismo tiempo me tienta seducirles, y del mismo modo que mi protectora acción, sea su destrucción.
+Los ciclos, son crueles, pero necearios... no puedo ser un profiláctico de lo que parezca crueldad en el mundo.
+Suerte amados compañeros, os espera aquí vuestra casa, hasta vuestro regreso, cuidaremos vuestro nido, el que compartís también con las golondrinas.
 
 ---
 

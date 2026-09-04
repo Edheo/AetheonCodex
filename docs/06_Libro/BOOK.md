@@ -1556,6 +1556,32 @@ otro estado al historial.
 
 ## Capítulo 05 · - Evolución
 
+### Dana de Valencia
+
+*Martes, 29 de octubre de 2024*
+
+*Autoría: Edheo*
+
+*Stormy Weather — Etta James*
+
+Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuertes rachas de viento, Titán demostró ser, mucho más que un nombre que hace honor a su naturaleza. 800 litros por metro aquí, la madrugada fué sólo un aperitivo de lo que iba a acontecer. El desastre de la región de Valencia, ha sido mundialmente conocido. Y aquí vivimos la mayor crudeza de la lluvia, esa ingente masa de agua que laderas y barrancos abajo, causaría la devastación que nadie podíamos imaginar. Titán resistió sin palidecer todas esas inclemencias, de agua torrencial, vientos huracanados por momentos, ni la más mínima grieta, ni en el propio árbol ni en el sustrato sobre el que se ancla. Simplemente, inenarrable.
+
+
+### El ojo de sauron
+
+*Domingo, 1 de febrero de 2026*
+
+*Autoría: Edheo*
+
+*The Great Eye — Howard Shore*
+
+Hoy concluye la parte más interesante del Ojo de Sauron, la cámara del paellero que enfocará el nido de Las Migrantes.
+Con ello, dejo concluido ya las dos cámaras que enfocan norte y sur en la terraza, el porche, y pegadas al amparo de Ishtar.
+Y aún así, me queda pendiente instalar una cuarta cámara, pero me queda aún la duda de dónde la instalaré.
+No por ello, pospongo como inaugurado este Ojo de Sauron, que me otorga visión incluso remota, de los alrededores, y poder ver e interesarme por los habitantes más frágiles de Aetheon.
+Y no confundamos, frágiles serán, y aún así, su desempeño, es titánico, sólo con las migraciones.
+
+
 ### Protectores en la rosa de los vientos y el granado griegos
 
 *Jueves, 6 de agosto de 2026*
@@ -1568,15 +1594,19 @@ Por rascadores y entretenimientos que tengan en casa, son precisamente eso, mini
 Frank y yo decidimos instalar los típicos protectores de patas de mesa, para que los felinos no se ceben con ellos, en los troncos de aquellos árboles más jóvenes, con tal de que ningún mal peor, pueda agravar la situación de salud e integridad de estas promesas de morera, que están destinadas a añadir un espacio de sombraje en la tórrida parcela durante los peores meses de verano.
 
 
-### Dana de Valencia
+### Volver
 
-*Martes, 29 de octubre de 2024*
+*Sábado, 21 de marzo de 2026*
 
 *Autoría: Edheo*
 
-*Stormy Weather — Etta James*
+*Volver — Penélope Cruz*
 
-Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuertes rachas de viento, Titán demostró ser, mucho más que un nombre que hace honor a su naturaleza. 800 litros por metro aquí, la madrugada fué sólo un aperitivo de lo que iba a acontecer. El desastre de la región de Valencia, ha sido mundialmente conocido. Y aquí vivimos la mayor crudeza de la lluvia, esa ingente masa de agua que laderas y barrancos abajo, causaría la devastación que nadie podíamos imaginar. Titán resistió sin palidecer todas esas inclemencias, de agua torrencial, vientos huracanados por momentos, ni la más mínima grieta, ni en el propio árbol ni en el sustrato sobre el que se ancla. Simplemente, inenarrable.
+Muchas tormentas este año, en andalucía no hacen más que llegar noticias de inundaciones, vientos desproporcionados, clima duro, docenas de borrascas consecutivas. Tren de borrascas, lo llaman ahora.
+En el estrecho los vientos deben ser implacables. Cómo unos seres tan pequeños como las golondrinas podrían sobrevivir a esas inclemencias?
+Desde mediados de febrero, cada dia consulto, no las veo, no se les oye, no acuden, consulto mi ojo de sauron y cada noche el nido sigue vacio.
+Hasta hoy, hoy por fin, la paz me sosiega. Lo han conseguido, han regresado, están descansando, reconocen su hogar, desde Africa puede que vengan, y aún así, lo logran.
+No se si siempre son las mismas, pero deben serlo, verdad? Qué duda cabe? Este es su hogar, y aquí les esperamos siempre, porque es tanto su hogar como el nuestro.
 
 
 ### Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side
@@ -2256,3 +2286,26 @@ Aún así, siento curiosidad, si serán amarillos, rojos o moteados, a saber qu�
 Eso si, estoy convencido que la madre era roja, porque ya intentó hará un par de meses, meterse en una de las islas, y quedó atrapada lento por el exceso de algas filamentosas.
 Siento curiosidad, y sobre todo, alegría de ver que sus minúsculos cuerpos van prosperando, espero que esto no se convierta en una plaga de cometas.
 Además, los padres empiezan a estar ya muy grandes también, juaría que rozan ya los 15cm. Si van creciendo todos tantos, una piscina, acabará convirtiéndose en insuficiente para ellos.
+
+
+### El final del verano
+
+*Miércoles, 2 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Sunchyme — Dario G*
+
+Hoy he consultado la cámara del trastero. Esta noche, a diferencia de ayer... ya no hay ningún avión durmiendo en el paellero.
+La intuición es clara. Ya es Septiembre, ya llegó el momento.
+No avisan, no hay ceremonia de despedida, no para nosotros los humanos al menos.
+Sus polluelos de hecho hace ya tiempo que ni acuden. Sólo venía ya la pareja, ni siquiera vecinos o amigos traian consigo estos últimos dias.
+Y de pronto, ya... sólo ausencia. Un rincón vacio.
+El vaticinio se ha cumplido Las Migrantes, han hecho honor a su nombre.
+Encaminan ya, un largo camino, hasta seguramente el Sahel africano (Quien sabe si a un pais como Mali, Burkina Faso, Níger, Senegal o alguna zona limítrofe del golfo de Guinea).
+Espero que allí, un generoso monzón, les provea del festín de insectos que necesitarán.
+Un ave tan diminuta, apenas 18 gramos, desafiando los elementos, al mediterráneo, al inmenso Sahara, sólo por la promesa de un lugar mejor.
+Me tienta la idea de suministrarles insectos en un año venidero, si así les ahorro, semejante tormento, pero claro, pese que el invierno aquí no es crudo, y el cobijo que tienen es seguro.
+Al mismo tiempo me tienta seducirles, y del mismo modo que mi protectora acción, sea su destrucción.
+Los ciclos, son crueles, pero necearios... no puedo ser un profiláctico de lo que parezca crueldad en el mundo.
+Suerte amados compañeros, os espera aquí vuestra casa, hasta vuestro regreso, cuidaremos vuestro nido, el que compartís también con las golondrinas.

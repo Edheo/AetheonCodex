@@ -23,7 +23,7 @@ Tras dormir hasta cerca de las cinco de la mañana, Edheo toma un café y pasea 
 ### Capítulo
 05 - Evolución
 ### Secuencia
-080
+100
 ### Autoría
 Logos, Edheo
 

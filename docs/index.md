@@ -14,8 +14,10 @@
 - [AL-GHADIR](02_Miembros/AL-GHADIR.md)
 - [BRAMASOLE](02_Miembros/BRAMASOLE.md)
 - [EDHEO](02_Miembros/EDHEO.md)
+- [EL-OJO-DE-SAURON](02_Miembros/EL-OJO-DE-SAURON.md)
 - [EVAN](02_Miembros/EVAN.md)
 - [LAS-DEMOGORGONS](02_Miembros/LAS-DEMOGORGONS.md)
+- [LAS-MIGRANTES](02_Miembros/LAS-MIGRANTES.md)
 - [LAS-NINAS](02_Miembros/LAS-NINAS.md)
 - [LIMEN](02_Miembros/LIMEN.md)
 - [LOGOS](02_Miembros/LOGOS.md)
@@ -55,6 +57,8 @@
 - [2024-07-15_Alegria](04_Bitacora/2024-07-15_Alegria.md)
 - [2024-10-29_Dana-de-Valencia](04_Bitacora/2024-10-29_Dana-de-Valencia.md)
 - [2025-01-24_Neblina-mental](04_Bitacora/2025-01-24_Neblina-mental.md)
+- [2026-02-01_El-ojo-de-Sauron](04_Bitacora/2026-02-01_El-ojo-de-Sauron.md)
+- [2026-03-21_Volver](04_Bitacora/2026-03-21_Volver.md)
 - [2026-08-06_Proteccion-de-los-arboles](04_Bitacora/2026-08-06_Proteccion-de-los-arboles.md)
 - [2026-08-07_Escaneando-los-miedos](04_Bitacora/2026-08-07_Escaneando-los-miedos.md)
 - [2026-08-08_Rhoa-y-Side](04_Bitacora/2026-08-08_Rhoa-y-Side.md)
@@ -74,6 +78,7 @@
 - [2026-08-31_El-historial-desde-HEAD](04_Bitacora/2026-08-31_El-historial-desde-HEAD.md)
 - [2026-09-01_Alevines-en-Al-Ghadir](04_Bitacora/2026-09-01_Alevines-en-Al-Ghadir.md)
 - [2026-09-02_El-lenguaje-del-Umbral](04_Bitacora/2026-09-02_El-lenguaje-del-Umbral.md)
+- [2026-09-03_El-final-del-verano](04_Bitacora/2026-09-03_El-final-del-verano.md)
 
 ## 05_Cartografia
 

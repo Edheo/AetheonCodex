@@ -21,7 +21,7 @@ Ya veremos qué colores van surgiendo, y cuando tengan color, será más fácil 
 ### Capítulo
 05 - Evolución
 ### Secuencia
-120
+140
 ### Autoría
 Edheo
 
