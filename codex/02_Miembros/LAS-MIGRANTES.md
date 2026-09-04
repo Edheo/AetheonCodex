@@ -38,7 +38,7 @@ Trataré de estar pendiente el año que viene, para esclarecerlo.
 ## Resonancias
 ### Musicales
 Living in a Northern Town (Dream Academy): https://www.youtube.com/watch?v=5UXnulANF8g
-### Cinemmatrográficas
+### Cinematográficas
 Inception: "Una idea es como un virus. Resistente. Altamente contagiosa. Y la semilla más pequeña de una idea puede crecer. Puede crecer para definirte o destruirte"
 ### Literarias
 Gustavo Adolfo Bécquer:  

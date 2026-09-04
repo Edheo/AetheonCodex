@@ -9,7 +9,7 @@ El ojo de sauron
 ## Descripción
 Hoy acabé de instalar las cámaras de vigilancia. Dos de ellas vigilan el porche de entrada a casa, al cobijo de Ishtar.
 La última que instalé hoy, está destinada a poder observar el nido de Las Migrantes, y así poder saber cuando llegan, cuando emigran de nuevo, la evolución de sus nidadas.
-La cámara tiene visión infraroja, así no he de incomodarlas con luces, al querer verlas en la noche.
+La cámara tiene visión infrarroja, así no he de incomodarlas con luces, al querer verlas en la noche.
 
 ## Cosmogonía
 ### Musical

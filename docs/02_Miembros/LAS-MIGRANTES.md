@@ -38,7 +38,7 @@ Trataré de estar pendiente el año que viene, para esclarecerlo.
 ## Resonancias
 ### Musicales
 Living in a Northern Town (Dream Academy): https://www.youtube.com/watch?v=5UXnulANF8g
-### Cinemmatrográficas
+### Cinematográficas
 Inception: "Una idea es como un virus. Resistente. Altamente contagiosa. Y la semilla más pequeña de una idea puede crecer. Puede crecer para definirte o destruirte"
 ### Literarias
 Gustavo Adolfo Bécquer:  
@@ -53,7 +53,7 @@ Pero aquellas que el vuelo refrenaban / tu hermosura y mi dicha al contemplar / 
 
 - *Domingo, 1 de febrero de 2026* — [El ojo de sauron](../04_Bitacora/2026-02-01_El-ojo-de-Sauron.md)
 - *Sábado, 21 de marzo de 2026* — [Volver](../04_Bitacora/2026-03-21_Volver.md)
-- *Miércoles, 2 de septiembre de 2026* — [El final del verano](../04_Bitacora/2026-09-03_El-final-del-verano.md)
+- *Jueves, 3 de septiembre de 2026* — [El final del verano](../04_Bitacora/2026-09-03_El-final-del-verano.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
 ## Referencias

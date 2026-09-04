@@ -9,7 +9,7 @@ Guardián
 
 ### Descripción
 Un total de 4 cámaras, de momento sólo 3 de ellas instaladas.
-Son los ojos de Aetheon, contemplan lo que ha ce ser visto, no sólo como prevención, sino también como discreta observación.
+Son los ojos de Aetheon, contemplan lo que hace falta ser visto, no sólo como prevención, sino también como discreta observación.
 ### Simbologia
 Pretenden ser los ojos de Aetheon, de su custodio, incluso en su ausencia.
 Detectar la llegada de intrusos en su caso, poder vigilar las Niñas cuando proceda, así como a las Migrantes.
