@@ -7,15 +7,15 @@ Borrador
 Bressol·la se completa
 
 ## Descripción
-Antes de la operación, el tiempo se agota, el estanque debe estar preparado.
-Por fin llegó el macetón, destinado a ser el estanque que por fin comforme Bressol·la.
-Sólo queda un pequeño mantenimiento, proporcionarle sustrato, grava, áreas divididas... y todo estará a punto.
+Antes de la operación, el tiempo se agota: el estanque debe estar preparado.
+Por fin llegó el macetón, destinado a ser el estanque que por fin conforme Bressol·la.
+Solo queda un pequeño mantenimiento: proporcionarle sustrato, grava, áreas divididas... y todo estará a punto.
 
 ## Cosmogonía
 ### Musical
 **Obra:** Roses and Wine
-**Autor:** Diego Garcia
-**Intérprete:** Diego Garcia
+**Autor:** Diego García
+**Intérprete:** Diego García
 **youtube:** -4iV2ABShdg
 ## Literaria
 ### Capítulo
@@ -26,12 +26,12 @@ Sólo queda un pequeño mantenimiento, proporcionarle sustrato, grava, áreas di
 Edheo
 
 ### Contenido
-La llegada del macetero, es el comienzo del culmen de Bressol·la. Queda poco más de un mes para mi intervencion quirúrgica, y aún así... no veo el momento.
-No se qué sucederá después, todo es incertidumbre, y en parte, el tiempo me apremia a concluir, colocar cada cosa en su sitio.
-Conformar la disfribución del estanque, la puesta en marcha de la bomba conectada a la placa solar, ese agua debe circular... se debe sentir.
-Bressol·la debe tener su propio aliento particular, y ese aliento debe ser el sonido del agua correr.
-No es estrés, es la certeza de que puedo dejar esto resuelto, y cuando regrese de extirparme el tumor, ya veremos que tiempos va tomando todo.
-Pero para entonces, ya podré oir el agua correr, y en ese agua, podré ver peces nadas... eso si quiero estar seguro.
+La llegada del macetero es el comienzo del culmen de Bressol·la. Queda poco más de un mes para mi intervención quirúrgica y, aun así... no veo el momento.
+No sé qué sucederá después. Todo es incertidumbre y, en parte, el tiempo me apremia a concluir, a colocar cada cosa en su sitio.
+Conformar la distribución del estanque, poner en marcha la bomba conectada a la placa solar... Esa agua debe circular, se debe sentir.
+Bressol·la debe tener su propio aliento particular, y ese aliento debe ser el sonido del agua al correr.
+No es estrés; es la certeza de que puedo dejar esto resuelto y, cuando regrese de extirparme el tumor, ya veremos qué tiempos va tomando todo.
+Pero, para entonces, ya podré oír el agua correr y, en esa agua, podré ver peces nadar... Eso sí quiero tenerlo claro.
 
 ## Referencias
 **Miembros:**

@@ -1844,11 +1844,11 @@ Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuert
 - **Capítulo:** 05
 - **Secuencia:** 020
 
-Daurina no podía seguir así, no era viable para su nobleza, su espíritu, su poder. Así que por fin hoy, llegó su trono.
-Lo instalamos, justo en donde ella debía reinar, anclamos sus magulladas ramificaciones, cuidamos no dañarla el proceso.
-Fué casi como si siempre estuviese destinada a reinar desde ahí, en poco tiempo sus sarmientos coronaron la cúspide, fortaleció por si misma sus anclajes.
-En poco tiempo, empezó a cubrir su techo, y los racimos ese mismo verano, ya empezaron a colgar generosos, entre las ramificaciones, sin rozar ni uno solo el pernicioso suelo.
-Daurina fué restituida, al lugar que tanto tiempo, venía reclamando.
+Daurina no podía seguir así; no era viable para su nobleza, su espíritu, su poder. Así que, por fin, hoy llegó su trono.
+Lo instalamos justo donde ella debía reinar; anclamos sus magulladas ramificaciones, cuidando de no dañarla durante el proceso.
+Fue casi como si siempre hubiese estado destinada a reinar desde ahí. En poco tiempo, sus sarmientos coronaron la cúspide y fortaleció por sí misma sus anclajes.
+En poco tiempo empezó a cubrir su techo, y, ese mismo verano, los racimos comenzaron a colgar generosos entre las ramificaciones, sin rozar ni uno solo el pernicioso suelo.
+Daurina fue restituida al lugar que desde hacía tanto tiempo venía reclamando.
 
 ---
 
@@ -1858,19 +1858,19 @@ Daurina fué restituida, al lugar que tanto tiempo, venía reclamando.
 
 *Autoría: Edheo*
 
-*Roses and Wine — Diego Garcia*
+*Roses and Wine — Diego García*
 
 - **Origen:** `2025-08-15_Bressola-se-completa.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
 - **Secuencia:** 030
 
-La llegada del macetero, es el comienzo del culmen de Bressol·la. Queda poco más de un mes para mi intervencion quirúrgica, y aún así... no veo el momento.
-No se qué sucederá después, todo es incertidumbre, y en parte, el tiempo me apremia a concluir, colocar cada cosa en su sitio.
-Conformar la disfribución del estanque, la puesta en marcha de la bomba conectada a la placa solar, ese agua debe circular... se debe sentir.
-Bressol·la debe tener su propio aliento particular, y ese aliento debe ser el sonido del agua correr.
-No es estrés, es la certeza de que puedo dejar esto resuelto, y cuando regrese de extirparme el tumor, ya veremos que tiempos va tomando todo.
-Pero para entonces, ya podré oir el agua correr, y en ese agua, podré ver peces nadas... eso si quiero estar seguro.
+La llegada del macetero es el comienzo del culmen de Bressol·la. Queda poco más de un mes para mi intervención quirúrgica y, aun así... no veo el momento.
+No sé qué sucederá después. Todo es incertidumbre y, en parte, el tiempo me apremia a concluir, a colocar cada cosa en su sitio.
+Conformar la distribución del estanque, poner en marcha la bomba conectada a la placa solar... Esa agua debe circular, se debe sentir.
+Bressol·la debe tener su propio aliento particular, y ese aliento debe ser el sonido del agua al correr.
+No es estrés; es la certeza de que puedo dejar esto resuelto y, cuando regrese de extirparme el tumor, ya veremos qué tiempos va tomando todo.
+Pero, para entonces, ya podré oír el agua correr y, en esa agua, podré ver peces nadar... Eso sí quiero tenerlo claro.
 
 ---
 
@@ -2707,17 +2707,17 @@ Suerte, amados compañeros. Aquí os espera vuestra casa. Hasta vuestro regreso,
 
 *Autoría: Edheo*
 
-*Roses and Wine — Diego Garcia*
+*Roses and Wine — Diego García*
 
 - **Origen:** `2026-09-04_La-reina-mora.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
 - **Secuencia:** 180
 
-Frank vió la oportunidad, no dudó ante mi interés por añadir una parra 
-De este modo, sobre el mismo andamiaje, aparte de tupirse mucho más con dos proyecciones de hojas de parra, veremos cómo desde agosto, hasta octubre, van apareciendo los racimos, primero más bien dorado, para ir dando paso luego a otros racimos más bien morados.
-El colorido me resulta prometedor, entre el verde dorado de la Moscatel, y el intenso morado de la Autumn Royal, y también un aporte gratuito de fruta a la mesa, que por seguro sabemos disfrutar.
-En cuanto el clima profundice bien el otoño, o más bien ya invierno... procederemos a plantarla en su lugar definitivo, para que esta primavera, ya vaya compitiendo por su propio espacio en la estructura que sustenta a ambas.
+Frank vio la oportunidad y no dudó ante mi interés por añadir una parra.
+De este modo, sobre el mismo andamiaje, además de tupirse mucho más con dos proyecciones de hojas de parra, veremos cómo, desde agosto hasta octubre, van apareciendo los racimos: primero más bien dorados, para dar paso luego a otros más bien morados.
+El colorido me resulta prometedor: el verde dorado del moscatel, el intenso morado de la Autumn Royal y, además, un aporte gratuito de fruta a la mesa que, con seguridad, sabremos disfrutar.
+En cuanto el clima se adentre de lleno en el otoño, o más bien ya en el invierno, procederemos a plantarla en su lugar definitivo para que, la primavera siguiente, vaya compitiendo por su propio espacio en la estructura que sustenta a ambas.
 Con esto Bressol·la quedará oficialmente expandida en su función protectora del estanque.
 
 ---
