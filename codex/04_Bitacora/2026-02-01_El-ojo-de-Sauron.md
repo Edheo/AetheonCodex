@@ -39,6 +39,6 @@ Ishtar
 El Ojo de Sauron
 
 ## Media
-2025-12-23-06_El-Ojo-De-Sauron.jpg
-2025-12-23-09_El-Ojo-De-Sauron.jpg
-2026-02-01_El-Ojo-De-Sauron.jpg
+images/2025-12-23-06_El-Ojo-De-Sauron.jpg
+images/2025-12-23-09_El-Ojo-De-Sauron.jpg
+images/2026-02-01_El-Ojo-De-Sauron.jpg

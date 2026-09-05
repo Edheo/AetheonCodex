@@ -43,4 +43,4 @@ Suerte, amados compañeros. Aquí os espera vuestra casa. Hasta vuestro regreso,
 Las Migrantes
 
 ## Media
-2026-09-03-LasMigrantes.jpg
+images/2026-09-03-LasMigrantes.jpg

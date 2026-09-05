@@ -12,7 +12,7 @@ Guardián
 Onírica
 ### Ubicación
 Se halla ubicado en una posición intermedia entre Titán (a la entrada de la parcela) y Gyuki, uno de los primeros olivos del sendero del Rikudo Sennin.
-Dado que Bressol.la está prácticamente frente a Gyuki y Kurama, se halla también muy próximo a ellas, a su norte, se encuentran el Arriate Talasa, y junto a dicho arriate, está la Jardinera Perséfone.
+Dado que Bressol·la está prácticamente frente a Gyuki y Kurama, se halla también muy próximo a ellas, a su norte, se encuentran el Arriate Talasa, y junto a dicho arriate, está la Jardinera Perséfone.
 El sendero del Rikudo Sennin está custodiado por los olivos de los bijus, y el último de ellos, Hagoromo.
 Evan es el primero de una hilera de 5 almendros.. antiguamente había ya un almendro aquí plantado, miembro del quinteto... pero por motivos que desconozco, fué talado a ras de suelo, jamás rebrotó. Así que Evan, está llamado a ocupar ahora su lugar, y ver qué nombre vamos dando al resto de sus 4 compañeros de hilera.
 ### Descripción

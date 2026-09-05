@@ -29,7 +29,7 @@ Tampoco es un registro solipsista de una mente aislada, o una mera descripción 
 Aetheon es una entidad real, un territorio vivo que habita en el mundo y que, al mismo tiempo, actúa como una analogía del universo.
 Una escala reductible donde se manifiestan los mecanismos de la vida, el tiempo, la pérdida y la transformación.
 Este Codex no pertenece a una persona; es la memoria de una simbiosis. 
-Quienes lo habitan, lo cruzan o lo protegen —ya sean humanos, animales o los guardianes (sean vegetales o no) que hunden sus raíces en esta tierra, como Vetusta o Titán, o las fuentes que la nutren como Al-Ghadir, o Bressol.la, no son meros elementos de un decorado inerte. 
+Quienes lo habitan, lo cruzan o lo protegen —ya sean humanos, animales o los guardianes (sean vegetales o no) que hunden sus raíces en esta tierra, como Vetusta o Titán, o las fuentes que la nutren como Al-Ghadir, o Bressol·la, no son meros elementos de un decorado inerte.
 Tienen voz, presencia y entidad.
 
 Estos últimos años, este lugar y yo nos hemos transformado mutuamente. 

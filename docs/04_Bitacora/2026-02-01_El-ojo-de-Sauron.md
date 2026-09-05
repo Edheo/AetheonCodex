@@ -58,18 +58,18 @@ Ishtar
 
 <div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
   <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/2025-12-23-06_El-Ojo-De-Sauron.jpg" data-alt="2025 12 23 06_El Ojo De Sauron"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2025-12-23-06_El-Ojo-De-Sauron.jpg" data-alt="2025 12 23 06_El Ojo De Sauron"
           aria-label="Ampliar 2025 12 23 06_El Ojo De Sauron">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/2025-12-23-06_El-Ojo-De-Sauron.jpg" alt="2025 12 23 06_El Ojo De Sauron" loading="lazy">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2025-12-23-06_El-Ojo-De-Sauron.jpg" alt="2025 12 23 06_El Ojo De Sauron" loading="lazy">
   </button>
   <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/2025-12-23-09_El-Ojo-De-Sauron.jpg" data-alt="2025 12 23 09_El Ojo De Sauron"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2025-12-23-09_El-Ojo-De-Sauron.jpg" data-alt="2025 12 23 09_El Ojo De Sauron"
           aria-label="Ampliar 2025 12 23 09_El Ojo De Sauron">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/2025-12-23-09_El-Ojo-De-Sauron.jpg" alt="2025 12 23 09_El Ojo De Sauron" loading="lazy">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2025-12-23-09_El-Ojo-De-Sauron.jpg" alt="2025 12 23 09_El Ojo De Sauron" loading="lazy">
   </button>
   <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/2026-02-01_El-Ojo-De-Sauron.jpg" data-alt="2026 02 01_El Ojo De Sauron"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-02-01_El-Ojo-De-Sauron.jpg" data-alt="2026 02 01_El Ojo De Sauron"
           aria-label="Ampliar 2026 02 01_El Ojo De Sauron">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/2026-02-01_El-Ojo-De-Sauron.jpg" alt="2026 02 01_El Ojo De Sauron" loading="lazy">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-02-01_El-Ojo-De-Sauron.jpg" alt="2026 02 01_El Ojo De Sauron" loading="lazy">
   </button>
 </div>

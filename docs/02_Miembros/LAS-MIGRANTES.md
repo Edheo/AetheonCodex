@@ -64,8 +64,8 @@ Las Niñas
 
 <div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
   <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/2026-03-22-LasMigrantes.jpg" data-alt="2026 03 22 LasMigrantes"
-          aria-label="Ampliar 2026 03 22 LasMigrantes">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/2026-03-22-LasMigrantes.jpg" alt="2026 03 22 LasMigrantes" loading="lazy">
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-03-22_LasMigrantes.jpg" data-alt="2026 03 22_LasMigrantes"
+          aria-label="Ampliar 2026 03 22_LasMigrantes">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-03-22_LasMigrantes.jpg" alt="2026 03 22_LasMigrantes" loading="lazy">
   </button>
 </div>

@@ -51,4 +51,4 @@ Pero aquellas que el vuelo refrenaban / tu hermosura y mi dicha al contemplar / 
 Las Niñas
 
 ## Media
-2026-03-22-LasMigrantes.jpg
+images/2026-03-22_LasMigrantes.jpg

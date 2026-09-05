@@ -38,7 +38,7 @@ Pero para entonces, ya podré oir el agua correr, y en ese agua, podré ver pece
 Bressol·la
 
 ## Media
-Images/2025-08-05-Bressol·la-16-40-37.jpg
-Images/2025-08-05-Bressol·la-16-40-47.jpg
-Images/2025-08-15-Bressol·la-11-15-21.jpg
-Images/2025-09-13-Bressol·la-12-25-22.jpg
+images/2025-08-05-Bressol·la-16-40-37.jpg
+images/2025-08-05-Bressol·la-16-40-47.jpg
+images/2025-08-15-Bressol·la-11-15-21.jpg
+images/2025-09-13-Bressol·la-12-25-22.jpg

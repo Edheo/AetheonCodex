@@ -62,8 +62,8 @@ Suerte, amados compañeros. Aquí os espera vuestra casa. Hasta vuestro regreso,
 
 <div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
   <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/2026-09-03-LasMigrantes.jpg" data-alt="2026 09 03 LasMigrantes"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-09-03-LasMigrantes.jpg" data-alt="2026 09 03 LasMigrantes"
           aria-label="Ampliar 2026 09 03 LasMigrantes">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/2026-09-03-LasMigrantes.jpg" alt="2026 09 03 LasMigrantes" loading="lazy">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2026-09-03-LasMigrantes.jpg" alt="2026 09 03 LasMigrantes" loading="lazy">
   </button>
 </div>

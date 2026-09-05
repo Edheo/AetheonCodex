@@ -30,7 +30,7 @@ También al oeste, la avenida que comunica hacia el exterior de la urbanización
 Su orientación abierta le proporciona una amplia exposición solar y vistas despejadas sobre el entorno inmediato, pero sin ser destacable ninguna vista en particular.
 El horizonte este, queda literalmente sellado por los árboles de la parcela contigua, y el horizonte oeste, queda sellado por la vegetación de la propia parcela.
 A pesar de ello, los amaneceres al este, desde la terraza de la vivienda, coronada por los 4 jazmineros de Ishtar, son realmente espectaculares, donde se percibe el calado de los rayos de sol entre las hojas y flores del jazmín, y los atardeceres al oeste, lo son un poco menos, aunque en este caso, el sol se oculta tras la vegetación de la propia parcela y al ser la parte trasera de la parcela, no suelen requerir tanta atención.
-Varias fuentes de agua, enriquecen las armonías de los pájaros, el estanque que hay en Bressol.la, con un continuo chorro ruidoso, la piscina que tiene una pequeña cascada que el croar de las ranas campando en las islas flotantes con flora, a pesar del tono verdoso del agua, hace realmente placentero rondar sus proximidades.
+Varias fuentes de agua, enriquecen las armonías de los pájaros, el estanque que hay en Bressol·la, con un continuo chorro ruidoso, la piscina que tiene una pequeña cascada que el croar de las ranas campando en las islas flotantes con flora, a pesar del tono verdoso del agua, hace realmente placentero rondar sus proximidades.
 Y este verano, hemos inaugurado también una pequeña piscina perruna, para Luna y Nala, que aunque no es muy grande, les permite refrescarse y jugar con el agua, y a su vez, nos permite a nosotros, disfrutar de su alegría y entusiasmo, al son de otra fuente a chorro en su centro, destinada para refrescar el ambiente y amenizar también con el ruido del agua.
 ## Delimitación
 Linda al Este con la parcela contigua del vecino
@@ -43,7 +43,7 @@ La parcela presenta una configuración irregular adaptada a la topografía de la
 Su punto más elevado coincide aproximadamente con la vivienda, descendiendo progresivamente hacia distintas zonas ajardinadas y de cultivo.
 Se comprende claramente que la parcela consiste en tres grandes bancales en descenso, con una pendiente muy suave y regular, que permite un aprovechamiento eficiente del espacio y facilita el acceso a todas las áreas.
 El bancal más alto, está al oeste, donde están ubicados Rómulo, Remo, Láctea, Luperca, Madara, Hashirama, Pisa, y cómo no, la imponente Vetusta.
-El bancal central, es donde está ubicada la vivienda, el estanque bajo bressola, también al sur de la casa están la piscina, que queda separada de la casa por un amplio pasillo solarium, y pegada al sur de la piscina, está el trastero que en su entrada tiene el paellero. Es ahi donde alguna de nuestras aves inquilinas, suelen pasar los meses menos crudos del año, puesto que los meses más fríos, migran a tierras más cálidas.
+El bancal central, es donde está ubicada la vivienda, el estanque bajo Bressol·la, también al sur de la casa están la piscina, que queda separada de la casa por un amplio pasillo solarium, y pegada al sur de la piscina, está el trastero que en su entrada tiene el paellero. Es ahi donde alguna de nuestras aves inquilinas, suelen pasar los meses menos crudos del año, puesto que los meses más fríos, migran a tierras más cálidas.
 ## Climatología
 Primavera parcialmente húmeda, con clima cálido y agradable
 Veranos realmente tórridos y muy secos, con propensión a contínuas olas de calor
@@ -55,7 +55,7 @@ Si hay servicio de agua potable en la parcela, eso sí, que suministra a la vivi
 ## Ecosistema
 La vegetación combina especies ornamentales, frutales, coníferas y árboles de gran porte.
 La fauna está formada tanto por animales domésticos como por aves, insectos y fauna silvestre propia del entorno mediterráneo.
-Justo bajo Bressol.la, hay un estanque, que contiene 4 peces cometa, y en ocasiones, alguna rana nómada, se instala temporalmente, pero suelen migrar de nuevo a la piscina.
+Justo bajo Bressol·la, hay un estanque, que contiene 4 peces cometa, y en ocasiones, alguna rana nómada, se instala temporalmente, pero suelen migrar de nuevo a la piscina.
 La piscina en cambio, ha ido cambiando su función, a uno más orientado a suministrar entorno a la fauna local. Este último invierno, empezaron a colonizarla varias ranas vagabundas, y poco a poco, hemos prescindido del uso lúdico de la piscina, y destinarlo para que aves como Aviones, Golondrinas, Mirlos, Urracas, Abubillas, Tórtolas, Palomas, Gorriones, puedan disponer de agua potable no clorada.
 A su vez en la piscina, también viven actualmente 12 peces cometas más.
 En el trastero junto a la piscina, unas golondrinas decidieron que justo donde está el paellero, era el lugar ideal para sus crias, y así han ido usándolo desde que vivimos aquí, cada verano retornan, y tienen sus crias.
@@ -83,7 +83,7 @@ Xaloc
 Umbra
 Sapor
 Anel.la
-Bressol.la
+Bressol·la
 Láctea
 Pisa
 Logos
@@ -177,7 +177,7 @@ La primera fué un flechazo, como se puede inferir en la bitácora.
 Pero poco a poco, fuí familiarizándome. Titán fué Titán desde el primer dia que lo vi, no podía más que admirar esa belleza de pino.
 Vetusta también, fué rápidamente Vetusta, en cuanto entendí la envergadura de su sueca (tronco principal, yo me crié en un pueblo que se llama Sueca, y de hecho, el significado del nombre del pueblo, proviene de la palabra "Soca" en valenciano, que significa precisamente eso, el tronco principal de un árbol).
 Pero habían muchos más pinos, muchísimos olivos (no tantos, pero para mí, muchísimos, jejeje). El terreno era incluso excesivamente grande, era claro que nos iba a ocupar mucho tiempo y dar mucho trabajo, pero la fascinación podía más.
-Bressol.la, era prácticamente invisible, era una parra, sin ningún soporte o andamiaje que la soportase, estaba tierada en el suelo, pisoteada por humanos y animales. Su estado no era nada bueno, y para nada hacía inferirle siquiera un nombre, su estado era casi... invisible. Daba lástima ver una belleza así, depositada en el suelo.
+Bressol·la, era prácticamente invisible, era una parra, sin ningún soporte o andamiaje que la soportase, estaba tierada en el suelo, pisoteada por humanos y animales. Su estado no era nada bueno, y para nada hacía inferirle siquiera un nombre, su estado era casi... invisible. Daba lástima ver una belleza así, depositada en el suelo.
 La casa, era maravillosa, pequeña si, pero sin espacio desperdiciado... para 2 personas no necesitábamos más, y realmente no necesitabamos reformar nada, era pequeña, pero justa y funcional.
 
 # Referencias

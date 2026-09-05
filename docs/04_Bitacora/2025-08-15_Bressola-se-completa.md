@@ -57,23 +57,23 @@ Pero para entonces, ya podré oir el agua correr, y en ese agua, podré ver pece
 
 <div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
   <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/Images/2025-08-05-Bressol%C2%B7la-16-40-37.jpg" data-alt="2025 08 05 Bressol·la 16 40 37"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2025-08-05-Bressol%C2%B7la-16-40-37.jpg" data-alt="2025 08 05 Bressol·la 16 40 37"
           aria-label="Ampliar 2025 08 05 Bressol·la 16 40 37">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/Images/2025-08-05-Bressol%C2%B7la-16-40-37.jpg" alt="2025 08 05 Bressol·la 16 40 37" loading="lazy">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2025-08-05-Bressol%C2%B7la-16-40-37.jpg" alt="2025 08 05 Bressol·la 16 40 37" loading="lazy">
   </button>
   <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/Images/2025-08-05-Bressol%C2%B7la-16-40-47.jpg" data-alt="2025 08 05 Bressol·la 16 40 47"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2025-08-05-Bressol%C2%B7la-16-40-47.jpg" data-alt="2025 08 05 Bressol·la 16 40 47"
           aria-label="Ampliar 2025 08 05 Bressol·la 16 40 47">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/Images/2025-08-05-Bressol%C2%B7la-16-40-47.jpg" alt="2025 08 05 Bressol·la 16 40 47" loading="lazy">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2025-08-05-Bressol%C2%B7la-16-40-47.jpg" alt="2025 08 05 Bressol·la 16 40 47" loading="lazy">
   </button>
   <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/Images/2025-08-15-Bressol%C2%B7la-11-15-21.jpg" data-alt="2025 08 15 Bressol·la 11 15 21"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2025-08-15-Bressol%C2%B7la-11-15-21.jpg" data-alt="2025 08 15 Bressol·la 11 15 21"
           aria-label="Ampliar 2025 08 15 Bressol·la 11 15 21">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/Images/2025-08-15-Bressol%C2%B7la-11-15-21.jpg" alt="2025 08 15 Bressol·la 11 15 21" loading="lazy">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2025-08-15-Bressol%C2%B7la-11-15-21.jpg" alt="2025 08 15 Bressol·la 11 15 21" loading="lazy">
   </button>
   <button class="aetheon-gallery__item" type="button"
-          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/Images/2025-09-13-Bressol%C2%B7la-12-25-22.jpg" data-alt="2025 09 13 Bressol·la 12 25 22"
+          data-full="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2025-09-13-Bressol%C2%B7la-12-25-22.jpg" data-alt="2025 09 13 Bressol·la 12 25 22"
           aria-label="Ampliar 2025 09 13 Bressol·la 12 25 22">
-    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/Images/2025-09-13-Bressol%C2%B7la-12-25-22.jpg" alt="2025 09 13 Bressol·la 12 25 22" loading="lazy">
+    <img src="https://raw.githubusercontent.com/Edheo/Aetheon-Media/main/images/2025-09-13-Bressol%C2%B7la-12-25-22.jpg" alt="2025 09 13 Bressol·la 12 25 22" loading="lazy">
   </button>
 </div>

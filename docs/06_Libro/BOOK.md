@@ -26,7 +26,7 @@ Tampoco es un registro solipsista de una mente aislada, o una mera descripción 
 Aetheon es una entidad real, un territorio vivo que habita en el mundo y que, al mismo tiempo, actúa como una analogía del universo.
 Una escala reductible donde se manifiestan los mecanismos de la vida, el tiempo, la pérdida y la transformación.
 Este Codex no pertenece a una persona; es la memoria de una simbiosis. 
-Quienes lo habitan, lo cruzan o lo protegen —ya sean humanos, animales o los guardianes (sean vegetales o no) que hunden sus raíces en esta tierra, como Vetusta o Titán, o las fuentes que la nutren como Al-Ghadir, o Bressol.la, no son meros elementos de un decorado inerte. 
+Quienes lo habitan, lo cruzan o lo protegen —ya sean humanos, animales o los guardianes (sean vegetales o no) que hunden sus raíces en esta tierra, como Vetusta o Titán, o las fuentes que la nutren como Al-Ghadir, o Bressol·la, no son meros elementos de un decorado inerte.
 Tienen voz, presencia y entidad.
 
 Estos últimos años, este lugar y yo nos hemos transformado mutuamente. 
@@ -1916,9 +1916,9 @@ Hacía veinticuatro grados. La madrugada conservaba todavía algo del bochorno, 
 
 He continuado entre los olivos por el sendero del Rikudo Sennin, despacio, sin necesitar llegar a ninguna parte.
 
-Al llegar a Bressol.la he visto que su pequeño estanque necesitaba algo más de agua. El chorro salpica y dispersa gotas continuamente a su alrededor, de modo que se ha formado una especie de diminuto humedal que atrae aves, abejas y avispas. Algunos insectos caerán al agua y se convertirán en alimento para los peces cometa. Aun así, cada día, a las doce, ellos esperan su ración como si llevaran semanas sin comer. Sus caras parecen iluminarse cuando me acerco con el bote.
+Al llegar a Bressol·la he visto que su pequeño estanque necesitaba algo más de agua. El chorro salpica y dispersa gotas continuamente a su alrededor, de modo que se ha formado una especie de diminuto humedal que atrae aves, abejas y avispas. Algunos insectos caerán al agua y se convertirán en alimento para los peces cometa. Aun así, cada día, a las doce, ellos esperan su ración como si llevaran semanas sin comer. Sus caras parecen iluminarse cuando me acerco con el bote.
 
-Después de rellenar Bressol.la, he pensado en Al-Ghadir. Hacía ya bastantes días que no reponía su agua y el verano es tórrido aquí, así que también le ha llegado el turno. Es otro refugio, mucho mayor, para la fauna local que acude a beber y alimentarse, y que a cambio llena de vida este rincón que le ofrece sustento.
+Después de rellenar Bressol·la, he pensado en Al-Ghadir. Hacía ya bastantes días que no reponía su agua y el verano es tórrido aquí, así que también le ha llegado el turno. Es otro refugio, mucho mayor, para la fauna local que acude a beber y alimentarse, y que a cambio llena de vida este rincón que le ofrece sustento.
 
 Entonces ha venido Yara corriendo a mi encuentro para que le diera los buenos días. Mis niñas son siempre tan solícitas con los saludos.
 
@@ -2353,4 +2353,4 @@ Frank vió la oportunidad, no dudó ante mi interés por añadir una parra
 De este modo, sobre el mismo andamiaje, aparte de tupirse mucho más con dos proyecciones de hojas de parra, veremos cómo desde agosto, hasta octubre, van apareciendo los racimos, primero más bien dorado, para ir dando paso luego a otros racimos más bien morados.
 El colorido me resulta prometedor, entre el verde dorado de la Moscatel, y el intenso morado de la Autumn Royal, y también un aporte gratuito de fruta a la mesa, que por seguro sabemos disfrutar.
 En cuanto el clima profundice bien el otoño, o más bien ya invierno... procederemos a plantarla en su lugar definitivo, para que esta primavera, ya vaya compitiendo por su propio espacio en la estructura que sustenta a ambas.
-Con esto Bressol.la quedará oficialmente expandida en su función protectora del estanque.
+Con esto Bressol·la quedará oficialmente expandida en su función protectora del estanque.

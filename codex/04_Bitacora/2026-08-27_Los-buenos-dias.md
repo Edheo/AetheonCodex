@@ -10,7 +10,7 @@ Los buenos días
 Tras dormir hasta cerca de las cinco de la mañana, Edheo toma un café y pasea por Aetheon antes del amanecer. El cielo, el estanque, los peces, los árboles, las piñas caídas de Titán y el saludo de Yara le hacen sentir la plenitud de vivir en el lugar que reconoció al ver por primera vez una fotografía de Ishtar.
 
 ## Referencias
-**Miembros:** Aetheon, Edheo, Luna, Nala, Qaro, Evan, Al-Ghadir, Ishtar, Bressol.la, Luperca, Pisa, Titán, Vetusta, Yara
+**Miembros:** Aetheon, Edheo, Luna, Nala, Qaro, Evan, Al-Ghadir, Ishtar, Bressol·la, Luperca, Pisa, Titán, Vetusta, Yara
 
 ## Cosmogonía
 ### Musical
@@ -45,9 +45,9 @@ Hacía veinticuatro grados. La madrugada conservaba todavía algo del bochorno, 
 
 He continuado entre los olivos por el sendero del Rikudo Sennin, despacio, sin necesitar llegar a ninguna parte.
 
-Al llegar a Bressol.la he visto que su pequeño estanque necesitaba algo más de agua. El chorro salpica y dispersa gotas continuamente a su alrededor, de modo que se ha formado una especie de diminuto humedal que atrae aves, abejas y avispas. Algunos insectos caerán al agua y se convertirán en alimento para los peces cometa. Aun así, cada día, a las doce, ellos esperan su ración como si llevaran semanas sin comer. Sus caras parecen iluminarse cuando me acerco con el bote.
+Al llegar a Bressol·la he visto que su pequeño estanque necesitaba algo más de agua. El chorro salpica y dispersa gotas continuamente a su alrededor, de modo que se ha formado una especie de diminuto humedal que atrae aves, abejas y avispas. Algunos insectos caerán al agua y se convertirán en alimento para los peces cometa. Aun así, cada día, a las doce, ellos esperan su ración como si llevaran semanas sin comer. Sus caras parecen iluminarse cuando me acerco con el bote.
 
-Después de rellenar Bressol.la, he pensado en Al-Ghadir. Hacía ya bastantes días que no reponía su agua y el verano es tórrido aquí, así que también le ha llegado el turno. Es otro refugio, mucho mayor, para la fauna local que acude a beber y alimentarse, y que a cambio llena de vida este rincón que le ofrece sustento.
+Después de rellenar Bressol·la, he pensado en Al-Ghadir. Hacía ya bastantes días que no reponía su agua y el verano es tórrido aquí, así que también le ha llegado el turno. Es otro refugio, mucho mayor, para la fauna local que acude a beber y alimentarse, y que a cambio llena de vida este rincón que le ofrece sustento.
 
 Entonces ha venido Yara corriendo a mi encuentro para que le diera los buenos días. Mis niñas son siempre tan solícitas con los saludos.
 
