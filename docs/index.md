@@ -13,6 +13,7 @@
 
 - [AL-GHADIR](02_Miembros/AL-GHADIR.md)
 - [BRAMASOLE](02_Miembros/BRAMASOLE.md)
+- [BRESSOL·LA](02_Miembros/BRESSOL·LA.md)
 - [EDHEO](02_Miembros/EDHEO.md)
 - [EL-OJO-DE-SAURON](02_Miembros/EL-OJO-DE-SAURON.md)
 - [EVAN](02_Miembros/EVAN.md)
@@ -57,6 +58,8 @@
 - [2024-07-15_Alegria](04_Bitacora/2024-07-15_Alegria.md)
 - [2024-10-29_Dana-de-Valencia](04_Bitacora/2024-10-29_Dana-de-Valencia.md)
 - [2025-01-24_Neblina-mental](04_Bitacora/2025-01-24_Neblina-mental.md)
+- [2025-03-20_Alzate.Daurina](04_Bitacora/2025-03-20_Alzate.Daurina.md)
+- [2025-08-15_Bressola-se-completa](04_Bitacora/2025-08-15_Bressola-se-completa.md)
 - [2026-02-01_El-ojo-de-Sauron](04_Bitacora/2026-02-01_El-ojo-de-Sauron.md)
 - [2026-03-21_Volver](04_Bitacora/2026-03-21_Volver.md)
 - [2026-08-06_Proteccion-de-los-arboles](04_Bitacora/2026-08-06_Proteccion-de-los-arboles.md)
@@ -79,6 +82,7 @@
 - [2026-09-01_Alevines-en-Al-Ghadir](04_Bitacora/2026-09-01_Alevines-en-Al-Ghadir.md)
 - [2026-09-02_El-lenguaje-del-Umbral](04_Bitacora/2026-09-02_El-lenguaje-del-Umbral.md)
 - [2026-09-03_El-final-del-verano](04_Bitacora/2026-09-03_El-final-del-verano.md)
+- [2026-09-04_La-reina-mora](04_Bitacora/2026-09-04_La-reina-mora.md)
 
 ## 05_Cartografia
 

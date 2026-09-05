@@ -39,7 +39,7 @@ ovyfbirtPLs
 
 ## Literaria
 **Capítulo:**  05 - Evolución
-**Secuencia:**  120
+**Secuencia:**  140
 ### Autoría
 Edheo
 

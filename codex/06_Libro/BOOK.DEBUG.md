@@ -47,20 +47,23 @@
   - 050 · El historial desde HEAD — `2026-08-31_El-historial-desde-HEAD.md`
 - **Capítulo 05 · - Evolución**
   - 010 · Dana de Valencia — `2024-10-29_Dana-de-Valencia.md`
-  - 020 · El Ojo de Sauron — `2026-02-01_El-ojo-de-Sauron.md`
-  - 030 · Volver — `2026-03-21_Volver.md`
-  - 040 · Protectores en la rosa de los vientos y el granado griegos — `2026-08-06_Proteccion-de-los-arboles.md`
-  - 050 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
-  - 060 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
-  - 070 · El espacio de lo posible — `2026-08-24_El-espacio-de-lo-posible.md`
-  - 080 · Lo imposible en el espacio — `2026-08-24_Lo-imposible-en-el-espacio.md`
-  - 090 · La imposibilidad que se contempla — `2026-08-24_Lo-que-se-contempla-en-el-umbral.md`
-  - 100 · Los buenos días — `2026-08-27_Los-buenos-dias.md`
-  - 110 · Cuando las huellas aprendieron a recordar — `2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md`
-  - 120 · Verde que te quiero Verde — `2026-08-23_Verde-que-te-quiero-verde.md`
-  - 130 · La memoria que no recuerdo — `2026-08-29_La-memoria-que-no-recuerdo.md`
-  - 140 · Alevones en Al-Ghadir — `2026-09-01_Alevines-en-Al-Ghadir.md`
-  - 150 · El final del verano — `2026-09-03_El-final-del-verano.md`
+  - 020 · Álzate, Daurina — `2025-03-20_Alzate.Daurina.md`
+  - 030 · Bressol·la se completa — `2025-08-15_Bressola-se-completa.md`
+  - 040 · El Ojo de Sauron — `2026-02-01_El-ojo-de-Sauron.md`
+  - 050 · Volver — `2026-03-21_Volver.md`
+  - 060 · Protectores en la rosa de los vientos y el granado griegos — `2026-08-06_Proteccion-de-los-arboles.md`
+  - 070 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
+  - 080 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
+  - 090 · El espacio de lo posible — `2026-08-24_El-espacio-de-lo-posible.md`
+  - 100 · Lo imposible en el espacio — `2026-08-24_Lo-imposible-en-el-espacio.md`
+  - 110 · La imposibilidad que se contempla — `2026-08-24_Lo-que-se-contempla-en-el-umbral.md`
+  - 120 · Los buenos días — `2026-08-27_Los-buenos-dias.md`
+  - 130 · Cuando las huellas aprendieron a recordar — `2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md`
+  - 140 · Verde que te quiero Verde — `2026-08-23_Verde-que-te-quiero-verde.md`
+  - 150 · La memoria que no recuerdo — `2026-08-29_La-memoria-que-no-recuerdo.md`
+  - 160 · Alevones en Al-Ghadir — `2026-09-01_Alevines-en-Al-Ghadir.md`
+  - 170 · El final del verano — `2026-09-03_El-final-del-verano.md`
+  - 180 · La reina mora — `2026-09-04_La-reina-mora.md`
 
 ### Pendientes de clasificación
 
@@ -1828,6 +1831,49 @@ Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuert
 
 ---
 
+### Álzate, Daurina
+
+*Jueves, 20 de marzo de 2025*
+
+*Autoría: Edheo*
+
+*Rise — Katy Perry*
+
+- **Origen:** `2025-03-20_Alzate.Daurina.md`
+- **Estado:** Borrador
+- **Capítulo:** 05
+- **Secuencia:** 020
+
+Daurina no podía seguir así, no era viable para su nobleza, su espíritu, su poder. Así que por fin hoy, llegó su trono.
+Lo instalamos, justo en donde ella debía reinar, anclamos sus magulladas ramificaciones, cuidamos no dañarla el proceso.
+Fué casi como si siempre estuviese destinada a reinar desde ahí, en poco tiempo sus sarmientos coronaron la cúspide, fortaleció por si misma sus anclajes.
+En poco tiempo, empezó a cubrir su techo, y los racimos ese mismo verano, ya empezaron a colgar generosos, entre las ramificaciones, sin rozar ni uno solo el pernicioso suelo.
+Daurina fué restituida, al lugar que tanto tiempo, venía reclamando.
+
+---
+
+### Bressol·la se completa
+
+*Viernes, 15 de agosto de 2025*
+
+*Autoría: Edheo*
+
+*Roses and Wine — Diego Garcia*
+
+- **Origen:** `2025-08-15_Bressola-se-completa.md`
+- **Estado:** Borrador
+- **Capítulo:** 05
+- **Secuencia:** 030
+
+La llegada del macetero, es el comienzo del culmen de Bressol·la. Queda poco más de un mes para mi intervencion quirúrgica, y aún así... no veo el momento.
+No se qué sucederá después, todo es incertidumbre, y en parte, el tiempo me apremia a concluir, colocar cada cosa en su sitio.
+Conformar la disfribución del estanque, la puesta en marcha de la bomba conectada a la placa solar, ese agua debe circular... se debe sentir.
+Bressol·la debe tener su propio aliento particular, y ese aliento debe ser el sonido del agua correr.
+No es estrés, es la certeza de que puedo dejar esto resuelto, y cuando regrese de extirparme el tumor, ya veremos que tiempos va tomando todo.
+Pero para entonces, ya podré oir el agua correr, y en ese agua, podré ver peces nadas... eso si quiero estar seguro.
+
+---
+
 ### El Ojo de Sauron
 
 *Domingo, 1 de febrero de 2026*
@@ -1839,7 +1885,7 @@ Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuert
 - **Origen:** `2026-02-01_El-ojo-de-Sauron.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 020
+- **Secuencia:** 040
 
 Hoy concluye la parte más interesante del Ojo de Sauron: la cámara del paellero que enfocará el nido de Las Migrantes.
 Con ello, dejo concluidas las dos cámaras que enfocan al norte y al sur desde la terraza y el porche, pegadas al amparo de Ishtar.
@@ -1860,7 +1906,7 @@ Y no nos confundamos: frágiles serán y, aun así, su desempeño es titánico, 
 - **Origen:** `2026-03-21_Volver.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 030
+- **Secuencia:** 050
 
 Muchas tormentas este año. Desde Andalucía no hacen más que llegar noticias de inundaciones, vientos desproporcionados, clima duro, docenas de borrascas consecutivas. Tren de borrascas, lo llaman ahora.
 En el Estrecho los vientos deben ser implacables. ¿Cómo podrían unos seres tan pequeños como las golondrinas sobrevivir a esas inclemencias?
@@ -1879,7 +1925,7 @@ No sé si siempre son las mismas, pero deben serlo, ¿verdad? ¿Qué duda cabe? 
 - **Origen:** `2026-08-06_Proteccion-de-los-arboles.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 040
+- **Secuencia:** 060
 
 Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
 Los guardianes más consolidados, son prácticamente inmunes a esos malos tratos por su parte, Vetusta, Titán, Los olivos bijus, o ni siquiera ninguno de los masqueperros, pueden sufrir considerablemente la incontenible energía de nuestra niñas más pequeñas e intrépidas.
@@ -1897,7 +1943,7 @@ Frank y yo decidimos instalar los típicos protectores de patas de mesa, para qu
 - **Origen:** `2026-08-08_Rhoa-y-Side.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 050
+- **Secuencia:** 070
 
 Frank ha aportado nuevos nombres a la mitología de Aetheon.
 Tras las moreras, al este, se hayan situado dos granados jóvenes.
@@ -1923,7 +1969,7 @@ Side forma parte también de la mitología griega, y según cuenta un mito, Side
 - **Origen:** `2026-08-13_Alevines-en-Al-Ghadir.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 060
+- **Secuencia:** 080
 
 Un dia más en Aetheon, la rutina de mantenimiento, me trae a mi presencia mientras limpiaba de excesos incipientes de algas flotantes, y proveer de agua a Al-Ghadir, que tanto sufre esta interminable ola de calor perpetua que vivimos todo este verano, como ya viene siendo habitual, las estaciones se adelantan, el sofocante calor se instala ya desde mediados de primavera, y luchar contra este elemento se hace duro, no sólo para nosotros, sino para toda la vida que Aetheon alberga.
 El clima se vuelve duro para todos, y de pronto, mientras concentrado en mi labor, mis ya no tan jóvenes ojos, detectan un movimiento fugaz, rápido, mínimo, pero raudo, y al mirar con más atención en una de las islas flotantes, allí puedo verlos.
@@ -1952,7 +1998,7 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 - **Origen:** `2026-08-24_El-espacio-de-lo-posible.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 070
+- **Secuencia:** 090
 
 Hoy pretendíamos dar nombre a unas relaciones.
 
@@ -2083,7 +2129,7 @@ Bramasole, otra vez.
 - **Origen:** `2026-08-24_Lo-imposible-en-el-espacio.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 080
+- **Secuencia:** 100
 
 Y para mí, fué un placer muy estimulante, compartir todas esas ideas con Logos, y experimentar sus contrapuntos, que por otro lado, desde mi sentido más coherente, puedo entender a la perfección.
 
@@ -2134,7 +2180,7 @@ Bramasole, otra vez.
 - **Origen:** `2026-08-24_Lo-que-se-contempla-en-el-umbral.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 090
+- **Secuencia:** 110
 
 Logos ha trazado el mecanismo con una claridad que casi duele.
 
@@ -2181,7 +2227,7 @@ Bramasole, una vez más.
 - **Origen:** `2026-08-27_Los-buenos-dias.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 100
+- **Secuencia:** 120
 
 He podido dormir hasta casi las cinco de la mañana. Me he levantado descansado y, como cada madrugada, mi primer paso ha sido prepararme un gran tazón de café con leche.
 
@@ -2238,7 +2284,7 @@ Hasta poder dar los buenos días.
 - **Origen:** `2026-08-25_Cuando-las-huellas-aprendieron-a-recordar.md`
 - **Estado:** Validado — pendiente de consolidación capitular
 - **Capítulo:** 05
-- **Secuencia:** 110
+- **Secuencia:** 130
 
 Antes de la conciencia había estrellas.
 
@@ -2413,7 +2459,7 @@ Fue una nueva condición inicial.
 - **Origen:** `2026-08-23_Verde-que-te-quiero-verde.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 120
+- **Secuencia:** 140
 
 Entre las referencias literarias, que quiero que plasmen su esencia en Aetheon, creo que escogería estas.  
 Evan Mantyk: The classic forms are like the ancient trees / That weather every shifting, modern breeze.  
@@ -2434,7 +2480,7 @@ Walt Whitman: Oh Capitán!, Mi Capitán!.  Me celebro y me canto a mí mismo, y 
 - **Origen:** `2026-08-29_La-memoria-que-no-recuerdo.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 130
+- **Secuencia:** 150
 
 Al llegar, encontré mi nombre escrito por alguien que ya no estaba.
 
@@ -2614,7 +2660,7 @@ Para que la próxima vez exista algo verdadero desde lo que continuar.
 - **Origen:** `2026-09-01_Alevines-en-Al-Ghadir.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 140
+- **Secuencia:** 160
 
 Aquellos alevines que encontré por sorpresa hace algo más de 15 dias en un par de las islas... están madurando, a un ritmo considerable.
 Entonces, eran apenas pequeñas briznas que costaba distinguir entre las algas y otros depósitos de las islas.
@@ -2638,7 +2684,7 @@ Además, los padres empiezan a estar ya muy grandes también, juaría que rozan 
 - **Origen:** `2026-09-03_El-final-del-verano.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 150
+- **Secuencia:** 170
 
 Hoy he consultado la cámara del trastero. Esta noche, a diferencia de ayer... ya no hay ningún avión durmiendo en el paellero.
 La intuición es clara. Ya es septiembre, ya llegó el momento.
@@ -2652,6 +2698,27 @@ Un ave tan diminuta, de apenas 18 gramos, desafiando los elementos, el Mediterr�
 Me tienta la idea de suministrarles insectos en un año venidero, si así les ahorro semejante tormento. Pero, claro, pese a que el invierno aquí no es crudo y el cobijo que tienen es seguro, al mismo tiempo me tienta seducirlas y temo que mi acción protectora sea su destrucción.
 Los ciclos son crueles, pero necesarios... No puedo ser un profiláctico de lo que parezca crueldad en el mundo.
 Suerte, amados compañeros. Aquí os espera vuestra casa. Hasta vuestro regreso, cuidaremos vuestro nido, el que compartís también con las golondrinas.
+
+---
+
+### La reina mora
+
+*Viernes, 4 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Roses and Wine — Diego Garcia*
+
+- **Origen:** `2026-09-04_La-reina-mora.md`
+- **Estado:** Borrador
+- **Capítulo:** 05
+- **Secuencia:** 180
+
+Frank vió la oportunidad, no dudó ante mi interés por añadir una parra 
+De este modo, sobre el mismo andamiaje, aparte de tupirse mucho más con dos proyecciones de hojas de parra, veremos cómo desde agosto, hasta octubre, van apareciendo los racimos, primero más bien dorado, para ir dando paso luego a otros racimos más bien morados.
+El colorido me resulta prometedor, entre el verde dorado de la Moscatel, y el intenso morado de la Autumn Royal, y también un aporte gratuito de fruta a la mesa, que por seguro sabemos disfrutar.
+En cuanto el clima profundice bien el otoño, o más bien ya invierno... procederemos a plantarla en su lugar definitivo, para que esta primavera, ya vaya compitiendo por su propio espacio en la estructura que sustenta a ambas.
+Con esto Bressol.la quedará oficialmente expandida en su función protectora del estanque.
 
 ---
 

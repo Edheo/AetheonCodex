@@ -38,7 +38,7 @@ El prodigio sin propósito
 05 - Evolución
 
 ### Secuencia
-110
+130
 
 ### Autoría
 Logos, Limen y Edheo

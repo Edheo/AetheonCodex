@@ -10,7 +10,7 @@ Los buenos días
 Tras dormir hasta cerca de las cinco de la mañana, Edheo toma un café y pasea por Aetheon antes del amanecer. El cielo, el estanque, los peces, los árboles, las piñas caídas de Titán y el saludo de Yara le hacen sentir la plenitud de vivir en el lugar que reconoció al ver por primera vez una fotografía de Ishtar.
 
 ## Referencias
-**Miembros:** Aetheon, [Edheo](../02_Miembros/EDHEO.md), Luna, Nala, Qaro, [Evan](../02_Miembros/EVAN.md), [Al-Ghadir](../02_Miembros/AL-GHADIR.md), Ishtar, Bressol.la, Luperca, Pisa, [Titán](../02_Miembros/TITAN.md), [Vetusta](../02_Miembros/VETUSTA.md), Yara
+**Miembros:** Aetheon, [Edheo](../02_Miembros/EDHEO.md), Luna, Nala, Qaro, [Evan](../02_Miembros/EVAN.md), [Al-Ghadir](../02_Miembros/AL-GHADIR.md), Ishtar, [Bressol.la](../02_Miembros/BRESSOL·LA.md), Luperca, Pisa, [Titán](../02_Miembros/TITAN.md), [Vetusta](../02_Miembros/VETUSTA.md), Yara
 
 ## Cosmogonía
 ### Musical
@@ -38,7 +38,7 @@ Tras dormir hasta cerca de las cinco de la mañana, Edheo toma un café y pasea 
 ### Capítulo
 05 - Evolución
 ### Secuencia
-100
+120
 ### Autoría
 Logos, Edheo
 
