@@ -16,15 +16,15 @@ Al salir a la carretera, un gato, blanco y negro, aplastado en la carretera, jun
 Las lagrimas brotaron, me sentí hundido, Ender, nos había dejado.
 
 ## Referencias
-**Miembros**
-Frank,
-Edheo,
-Ender,
-Luna,
-Nala,
-Taka,
-Shasa,
-Yara,
+**Miembros:**
+Frank
+[Edheo](../02_Miembros/EDHEO.md)
+Ender
+Luna
+Nala
+Taka
+Shasa
+Yara
 Qaro
 
 ## Cosmogonía

@@ -90,6 +90,8 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Lunes, 29 de abril de 2019* — [Mara nos deja](../04_Bitacora/2019-04-29_Mara-nos-deja.md)
 - *Domingo, 19 de mayo de 2019* — [Una ilusión se desvanece](../04_Bitacora/2019-05-19_Una-ilusion-se-desvanece.md)
 - *Lunes, 3 de junio de 2019* — [Bienvenida a casa, Nala](../04_Bitacora/2019-06-03_Bienvenida-a-casa-Nala.md)
+- *Jueves, 15 de julio de 2021* — [Ender me llama](../04_Bitacora/2021-07-15_Ender-me-llama.md)
+- *Domingo, 8 de agosto de 2021* — [Ender el imparable](../04_Bitacora/2021-08-08_Ender-el-imparable.md)
 - *Jueves, 23 de septiembre de 2021* — [Temblores](../04_Bitacora/2021-09-23_Temblores.md)
 - *Domingo, 24 de octubre de 2021* — [Yara nos impide el paso](../04_Bitacora/2021-10-24_Yara-nos-impide-el-paso.md)
 - *Domingo, 26 de febrero de 2023* — [Felices 50](../04_Bitacora/2023-02-26_Felices-50.md)

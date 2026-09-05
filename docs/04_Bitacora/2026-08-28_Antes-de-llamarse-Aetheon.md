@@ -21,7 +21,7 @@ Aetheon
 [Vetusta](../02_Miembros/VETUSTA.md)
 [Titán](../02_Miembros/TITAN.md)
 
-**Diálogos:**
+**Diálogos:**  
 Lo que el nombre recuerda
 
 ## Cosmogonía

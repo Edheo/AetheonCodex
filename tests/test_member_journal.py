@@ -9,15 +9,23 @@ from scripts.member_journal import (
 
 
 class MemberJournalTests(unittest.TestCase):
-    def test_extracts_plain_and_inline_member_references(self):
-        self.assertEqual(
-            ["TITAN", "VETUSTA"],
-            extract_references("## Referencias\nTITAN\nVETUSTA\n"),
-        )
+    def test_requires_explicit_member_field(self):
+        with self.assertRaisesRegex(ValueError, r"\*\*Miembros:\*\*"):
+            extract_references("## Referencias\nTITAN\nVETUSTA\n")
         self.assertEqual(
             ["Aetheon", "Edheo", "Logos"],
             extract_references("## Referencias\n**Miembros:** Aetheon, Edheo, Logos\n"),
         )
+
+    def test_extracts_only_members_from_mixed_reference_fields(self):
+        source = (
+            "## Referencias\n"
+            "**Miembros:**\nAetheon\nEdheo\n\n"
+            "**Bitácoras:**\nEl día del eclipse\n\n"
+            "**Diálogos:**\nEl prodigio sin propósito\n"
+        )
+
+        self.assertEqual(["Aetheon", "Edheo"], extract_references(source))
 
     def test_preserves_authored_journal_content(self):
         source = "## Bitácora\nUna memoria manual.\n\n## Recursos\n"
@@ -63,6 +71,19 @@ class MemberJournalTests(unittest.TestCase):
             "**Miembros:** [TITAN](../02_Miembros/TITAN.md), DESCONOCIDO",
             result,
         )
+
+    def test_does_not_link_other_reference_fields_as_members(self):
+        member = {"path": type("PathStub", (), {"name": "EDHEO.md"})()}
+        aliases = {"edheo": member}
+        source = (
+            "## Referencias\n**Miembros:**\nEdheo\n\n"
+            "**Diálogos:**\nEdheo\n"
+        )
+
+        result = materialize_member_references(source, aliases)
+
+        self.assertIn("\n[Edheo](../02_Miembros/EDHEO.md)\n", result)
+        self.assertIn("**Diálogos:**\nEdheo\n", result)
 
     def test_links_known_members_in_collective_composition(self):
         member = {"path": type("PathStub", (), {"name": "EVAN.md"})()}

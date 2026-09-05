@@ -11,7 +11,7 @@ Durante la mudanza, ibamos con la furgoneta alquilada llena, dispuestos a irnos 
 Llenamos combustible, y al salir, la puerta trasera mal cerrada se desplazó, nos detuvimos, y de pronto. Justo delante del morro de la furgoneta, un minino, un pardo carey. Una parda carey más bien.
 Tuvimos que recogerla, lloviznaba, ella justo encima de un desague, la cogí y cargamos con ella, sin dudar yo un momento, Frank tuvo su reticencia, pero tampoco fué capaz de negarse al rescate.
 ## Referencias
-**Miembros**Frank, Edheo, Yara
+**Miembros:** Frank, Edheo, Yara
 ## Cosmogonía
 ### Musical
 **Obra:**Stop! In The Name Of Love

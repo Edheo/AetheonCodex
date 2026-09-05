@@ -19,7 +19,7 @@ Aetheon
 [Edheo](../02_Miembros/EDHEO.md)
 [Logos](../02_Miembros/LOGOS.md)
 
-**Diálogos:**
+**Diálogos:**  
 Lo que permanece cuando nadie está despierto
 
 ## Cosmogonía

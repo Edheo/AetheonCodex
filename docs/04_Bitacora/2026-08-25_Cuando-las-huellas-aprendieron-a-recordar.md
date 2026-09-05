@@ -16,14 +16,14 @@ Aetheon
 [Logos](../02_Miembros/LOGOS.md)
 [Limen](../02_Miembros/LIMEN.md)
 
-**Bitácoras:**
-El día del eclipse
-Lo que la sombra reunió
-El espacio de lo posible
-Lo imposible en el espacio
+**Bitácoras:**  
+El día del eclipse  
+Lo que la sombra reunió  
+El espacio de lo posible  
+Lo imposible en el espacio  
 Lo que se contempla en el umbral
 
-**Diálogos:**
+**Diálogos:**  
 El prodigio sin propósito
 
 ## Cosmogonía

@@ -16,7 +16,7 @@ Al salir a la carretera, un gato, blanco y negro, aplastado en la carretera, jun
 Las lagrimas brotaron, me sentí hundido, Ender, nos había dejado.
 
 ## Referencias
-**Miembros**
+**Miembros:**
 Frank,
 Edheo,
 Ender,

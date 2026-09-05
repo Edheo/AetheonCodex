@@ -47,24 +47,38 @@ def extract_member_name(text, fallback):
 
 
 def extract_references(text):
-    """Admite referencias en líneas simples y mediante **Miembros:**."""
+    """Extrae exclusivamente las referencias declaradas mediante **Miembros:**."""
 
     section = extract_section(text, "Referencias")
     if section is None:
         return []
 
+    lines = section.splitlines()
+    member_field = re.compile(r"^\*\*Miembros:\*\*[ \t]*(.*)$", re.IGNORECASE)
+    if not any(member_field.match(line.strip()) for line in lines):
+        raise ValueError(
+            "La sección Referencias debe declarar el campo **Miembros:**."
+        )
+
     references = []
-    for line in section.splitlines():
+    in_members = False
+    for line in lines:
         value = line.strip()
         if not value:
             continue
 
         value = re.sub(r"^[-*][ \t]+", "", value)
-        field = re.match(r"^\*\*Miembros:\*\*[ \t]*(.*)$", value, re.IGNORECASE)
+        field = member_field.match(value)
         if field:
+            in_members = True
             values = field.group(1).split(",")
-        else:
+        elif re.match(r"^\*\*[^*]+:\*\*", value):
+            in_members = False
+            continue
+        elif in_members:
             values = value.split(",")
+        else:
+            continue
 
         references.extend(item.strip() for item in values if item.strip())
 
@@ -92,7 +106,7 @@ def load_members():
 
 
 def load_journal_entries(aliases):
-    unresolved = set()
+    unresolved = {}
 
     for path in sorted(CODEX_JOURNAL_DIR.glob("*.md")):
         text = path.read_text(encoding="utf-8-sig")
@@ -106,14 +120,14 @@ def load_journal_entries(aliases):
         for reference in extract_references(text):
             member = aliases.get(normalize(reference))
             if member is None:
-                unresolved.add(reference)
+                unresolved.setdefault(normalize(reference), reference)
                 continue
             identity = member["path"].stem
             if identity not in linked:
                 member["entries"].append(entry)
                 linked.add(identity)
 
-    return unresolved
+    return set(unresolved.values())
 
 
 def member_link(reference, aliases):
@@ -159,6 +173,11 @@ def materialize_member_references(text, aliases):
                 rendered.append(f"{field.group('indent')}**Miembros:** {linked}")
             else:
                 rendered.append(line)
+            continue
+
+        if re.match(r"^[ \t]*\*\*[^*]+:\*\*", line):
+            in_members = False
+            rendered.append(line)
             continue
 
         if in_members and line.strip():

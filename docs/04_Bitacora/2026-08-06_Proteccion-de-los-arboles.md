@@ -38,7 +38,7 @@ ALMA
 FRANK
 [EDHEO](../02_Miembros/EDHEO.md)
 
-##Media
+## Media
 
 <div class="aetheon-gallery" role="group" aria-label="Galería de imágenes">
   <button class="aetheon-gallery__item" type="button"

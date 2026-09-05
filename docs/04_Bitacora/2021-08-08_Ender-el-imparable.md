@@ -16,7 +16,7 @@ Se las prometía difíciles al pobre cachorro de apenas dos meses, calcularon qu
 Y por difícil que lo tuvo, pese lo gravísimo del parvovirus además, aislé bien al minino, que no contagiase al resto de animales en casa, y los cuidados hicieron su milagro.
 El minino, sobrevivió, y quizás por esa proeza le llamé Ender, como el niño prodigo de las novelas de Orson Scott Card.
 ## Referencias
-**Miembros**Edheo, Ender, Nala, Taka, Shasa
+**Miembros:** [Edheo](../02_Miembros/EDHEO.md), Ender, Nala, Taka, Shasa
 ## Cosmogonía
 ### Musical
 **Obra:**Fix You
