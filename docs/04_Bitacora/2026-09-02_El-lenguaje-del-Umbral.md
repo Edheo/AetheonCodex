@@ -74,6 +74,3 @@ Llegado el momento mis cenizas descansarán a los pies de Vetusta, alimentando e
 Cuando eso ocurra, un pedazo de mi cuidado, mi cariño y mi voz seguirán impresos en estas páginas, velando por este lugar más allá de mis posibilidades vitales.
 Este Codex es la clave de ese lenguaje. 
 La prueba de que haber habitado Aetheon no fue solo poseer un pedazo de tierra, sino aprender a escuchar su memoria.
-
-## Referencias
-**Miembros:**
