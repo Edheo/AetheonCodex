@@ -64,6 +64,9 @@
   - 160 · Alevones en Al-Ghadir — `2026-09-01_Alevines-en-Al-Ghadir.md`
   - 170 · El final del verano — `2026-09-03_El-final-del-verano.md`
   - 180 · La reina mora — `2026-09-04_La-reina-mora.md`
+- **Capítulo 06 · - Esta casa es una ruina**
+  - 010 · Se Acabó — `2026-09-06_Se-Acabó.md`
+  - 020 · El siete de Septiembre — `2026-09-07_El-siete-de-septiembre.md`
 
 ### Pendientes de clasificación
 
@@ -2719,6 +2722,69 @@ De este modo, sobre el mismo andamiaje, además de tupirse mucho más con dos pr
 El colorido me resulta prometedor: el verde dorado del moscatel, el intenso morado de la Autumn Royal y, además, un aporte gratuito de fruta a la mesa que, con seguridad, sabremos disfrutar.
 En cuanto el clima se adentre de lleno en el otoño, o más bien ya en el invierno, procederemos a plantarla en su lugar definitivo para que, la primavera siguiente, vaya compitiendo por su propio espacio en la estructura que sustenta a ambas.
 Con esto Bressol·la quedará oficialmente expandida en su función protectora del estanque.
+
+---
+
+## Capítulo 06 · - Esta casa es una ruina
+
+### Se Acabó
+
+*Domingo, 6 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Cerrado por derribo — María Jiménez*
+
+- **Origen:** `2026-09-06_Se-Acabó.md`
+- **Estado:** Borrador
+- **Capítulo:** 06
+- **Secuencia:** 010
+
+Una nueva gota, sobre un vaso más que derramado. No sólo hoy, sino ayer, sino varios pequeños sucesos, algunos más gruesos, otros casi ridículos.
+Pero no hay dique de contención, no hay capacidad de acumular resistencia, ni siquiera la voluntad de hacerlo.
+Y precisamente hoy, la víspera de nuestro séptimo aniversario como pareja.
+La convivencia en si, no es ya pertinente. Yo lo veo desde mis ojos, claro está. Pero la situación no es sostenible, ni sana, ni pertinente.
+Y ya no sólo por mí (ahorrémonos la hipocresía, obviamente esa parte me toca más)... sino que también para él.
+Las muestras de hastío mútuas, el poco nivel de tacto y permisividad. Las patentes asimetrías en la relación... sólo conducen a este camino.
+Frank ha de abandonar el hogar, los tiempos de prórroga, han finalizado, hace tiempo ya de hecho que acabaron.
+No estamos en etapas de negociación, todo acabó. La relación, los reproches, las muestras de hastío, nada de todo esto, ha de seguir existiendo ya, ni para mí, ni para él.
+Sin limaduras ni profilácticos, así se lo expreso: "Frank, debes organizar ya tu vida, no puedes seguir viviendo aquí"
+Se que, él lo sigue viviendo como un período de adaptación, una saturación más que superar. Pero no, no es eso, esto, no es viable.
+Su capacidad de autonomía, pese tener él vivienda propia, se que son, entre escasas y nulas, y aún así... no puede seguir un problema, que yo deba considerar o contemplar.
+Cada uno, haremos nuestro camino.
+
+---
+
+### El siete de Septiembre
+
+*Lunes, 7 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*El Patio — Pablo López*
+
+- **Origen:** `2026-09-07_El-siete-de-septiembre.md`
+- **Estado:** Borrador
+- **Capítulo:** 06
+- **Secuencia:** 020
+
+Y regresa Frank a casa... al poco de llegar, se acerca... con un ramo... Feliz Siete de Septiembre.
+Debería ser un dia que celebrar, algo que incluso nos emocionaba, por coincidir justo, sin intención, con la canción de Mecano.
+Y en cambio, ya no resuena esa canción para mí... sino El Patio.
+Amarga celebración... acaso no ha entendido nada? O pretende quizás conmoverme? Desarmarme? Derrumbarme?
+No hay ya celebración, es el fin ya, yo ya sólo soy un niño con los pies descalzos... jugando sólo... sin poder mirarle y ver siquiera mi amigo, sino el que siempre me riñe, me castiga, me culpa.
+Y entonces... viene su evaluación. "No puedo permitirme prescindir del alquiler de mi piso, si con él, apenas llego a fin de mes, si renuncio a él... no puedo. No puedo vivir en otro sitio, por ahora al menos"
+Esperaba esa propuesta, no voy a hacerme el sorprendido, no debo, yo eso, siempre lo he sabido, y aún así, no veo como en este contexto, me debe obligar a mí a esta convivencia malsana.
+Le entiendo... acaso no he hecho otra cosa más que entenderle.... todo este tiempo? Y en algún momento entenderle, me ha dado a mí alivio alguno?
+Ha mermado su presión sobre mí, pese mi consideración por entender su situación económica?
+Acaso no he acarreado yo ese peso constante... sin contar apenas con planificación alguna de ayuda en los gastos comunes?
+Y no, ahora... me pide, nuevamente, una prórroga.
+y yo, no, no puedo cerrar los ojos, pero tampoco convertir esto en el dia de la marmota.
+Frank por ahora, no puede permitirse irse de casa. Buscará un modo discreto, incluso marginado (propone), de convivir.
+Mientras evalua vender su único hogar propio... como si eso, fuese a darle opciones a nada, más que a más precariedad.
+Yo le observo, como siempre le interpreto. Estás utilizándome, nuevamente, una nueva amenaza emocional, utilizando mi compasión, para persistir en un bucle, que ya ha demostrado, que sólo aporta destrucción.
+He de pensar, sabía que pasaría esto, pero... no estaba preparado... sabe dónde me duele, y lo utiliza para negociar.
+Oigo las sirenas.. ya no eres mi amiga. Y aquí estoy, en el patio, solo.
 
 ---
 

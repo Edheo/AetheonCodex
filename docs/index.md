@@ -83,6 +83,8 @@
 - [2026-09-02_El-lenguaje-del-Umbral](04_Bitacora/2026-09-02_El-lenguaje-del-Umbral.md)
 - [2026-09-03_El-final-del-verano](04_Bitacora/2026-09-03_El-final-del-verano.md)
 - [2026-09-04_La-reina-mora](04_Bitacora/2026-09-04_La-reina-mora.md)
+- [2026-09-06_Se-Acabó](04_Bitacora/2026-09-06_Se-Acabó.md)
+- [2026-09-07_El-siete-de-septiembre](04_Bitacora/2026-09-07_El-siete-de-septiembre.md)
 
 ## 05_Cartografia
 

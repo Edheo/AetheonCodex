@@ -125,5 +125,7 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Viernes, 28 de agosto de 2026* — [Antes de llamarse Aetheon](../04_Bitacora/2026-08-28_Antes-de-llamarse-Aetheon.md)
 - *Sábado, 29 de agosto de 2026* — [La memoria que no recuerdo](../04_Bitacora/2026-08-29_La-memoria-que-no-recuerdo.md)
 - *Lunes, 31 de agosto de 2026* — [El historial desde HEAD](../04_Bitacora/2026-08-31_El-historial-desde-HEAD.md)
+- *Domingo, 6 de septiembre de 2026* — [Se Acabó](../04_Bitacora/2026-09-06_Se-Acabó.md)
+- *Lunes, 7 de septiembre de 2026* — [El siete de Septiembre](../04_Bitacora/2026-09-07_El-siete-de-septiembre.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
