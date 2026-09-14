@@ -127,5 +127,6 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Lunes, 31 de agosto de 2026* — [El historial desde HEAD](../04_Bitacora/2026-08-31_El-historial-desde-HEAD.md)
 - *Domingo, 6 de septiembre de 2026* — [Se Acabó](../04_Bitacora/2026-09-06_Se-Acabó.md)
 - *Lunes, 7 de septiembre de 2026* — [El siete de Septiembre](../04_Bitacora/2026-09-07_El-siete-de-septiembre.md)
+- *Lunes, 14 de septiembre de 2026* — [Vete](../04_Bitacora/2026-09-14_Vete.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 

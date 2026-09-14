@@ -85,6 +85,7 @@
 - [2026-09-04_La-reina-mora](04_Bitacora/2026-09-04_La-reina-mora.md)
 - [2026-09-06_Se-Acabó](04_Bitacora/2026-09-06_Se-Acabó.md)
 - [2026-09-07_El-siete-de-septiembre](04_Bitacora/2026-09-07_El-siete-de-septiembre.md)
+- [2026-09-14_Vete](04_Bitacora/2026-09-14_Vete.md)
 
 ## 05_Cartografia
 

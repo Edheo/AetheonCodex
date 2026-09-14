@@ -67,6 +67,7 @@
 - **Capítulo 06 · - Esta casa es una ruina**
   - 010 · Se Acabó — `2026-09-06_Se-Acabó.md`
   - 020 · El siete de Septiembre — `2026-09-07_El-siete-de-septiembre.md`
+  - 030 · Vete — `2026-09-14_Vete.md`
 
 ### Pendientes de clasificación
 
@@ -2785,6 +2786,27 @@ Mientras evalua vender su único hogar propio... como si eso, fuese a darle opci
 Yo le observo, como siempre le interpreto. Estás utilizándome, nuevamente, una nueva amenaza emocional, utilizando mi compasión, para persistir en un bucle, que ya ha demostrado, que sólo aporta destrucción.
 He de pensar, sabía que pasaría esto, pero... no estaba preparado... sabe dónde me duele, y lo utiliza para negociar.
 Oigo las sirenas.. ya no eres mi amiga. Y aquí estoy, en el patio, solo.
+
+---
+
+### Vete
+
+*Lunes, 14 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Flowers — Miley Cyrus*
+
+- **Origen:** `2026-09-14_Vete.md`
+- **Estado:** Borrador
+- **Capítulo:** 06
+- **Secuencia:** 030
+
+Llevo noches sin dormir, la situación me reconcome.
+Mi situación financiera es penosa. El cúmulo de resentimientos con él es insaldable.
+Explicaciones como... "no ves como te pones?", u otras como "insultar no debe molestarte si no lo digo en serio", han superado todo umbral de comprensión para mi.
+Si es su modo de ver la vida, yo ya he alcanzado lo más profundo de mi falta de autoestima... y sólo queda, lo que hay.
+Hasta el sábado, tiene de plazo para irse, no es negociable, si para entonces no se ha ido, tomaré las medidas oportunas.
 
 ---
 
