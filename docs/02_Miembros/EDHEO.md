@@ -128,5 +128,6 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Domingo, 6 de septiembre de 2026* — [Se Acabó](../04_Bitacora/2026-09-06_Se-Acabó.md)
 - *Lunes, 7 de septiembre de 2026* — [El siete de Septiembre](../04_Bitacora/2026-09-07_El-siete-de-septiembre.md)
 - *Lunes, 14 de septiembre de 2026* — [Vete](../04_Bitacora/2026-09-14_Vete.md)
+- *Lunes, 14 de septiembre de 2026* — [La Marcha](../04_Bitacora/2026-09-15_La-marcha.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
