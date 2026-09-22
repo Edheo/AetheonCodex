@@ -27,4 +27,12 @@ Yara
 Luna
 Nala
 
+## Bitácora
+
+<!-- BEGIN GENERATED MEMBER JOURNAL -->
+### Entradas relacionadas
+
+- *Jueves, 17 de septiembre de 2026* — [Suma y Sigue](../04_Bitacora/2026-09-17_Suma-Y-Sigue.md)
+<!-- END GENERATED MEMBER JOURNAL -->
+
 ## Referencias

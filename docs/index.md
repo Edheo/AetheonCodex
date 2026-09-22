@@ -86,7 +86,9 @@
 - [2026-09-06_Se-Acabó](04_Bitacora/2026-09-06_Se-Acabó.md)
 - [2026-09-07_El-siete-de-septiembre](04_Bitacora/2026-09-07_El-siete-de-septiembre.md)
 - [2026-09-14_Vete](04_Bitacora/2026-09-14_Vete.md)
-- [2026-09-15_La-marcha](04_Bitacora/2026-09-15_La-marcha.md)
+- [2026-09-14_Vete-La-marcha](04_Bitacora/2026-09-14_Vete-La-marcha.md)
+- [2026-09-15_Elastic-Heart](04_Bitacora/2026-09-15_Elastic-Heart.md)
+- [2026-09-17_Suma-Y-Sigue](04_Bitacora/2026-09-17_Suma-Y-Sigue.md)
 
 ## 05_Cartografia
 

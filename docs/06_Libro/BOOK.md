@@ -2449,3 +2449,50 @@ Y pienso que quizás Calderer, pero, pensándolo bien, no puede ser allí, no co
 Como sea, donde sea... salió de mi vida. Tengo mucho que recomponer. Mi economía, mi hogar, mi autoestima.
 Para él, comprendo que es un trago amargo... pero yo llevo tiempo ya, arrastrando amargura, cerrando banners en las IA que me exigen que pida ayuda psicológica.
 Mi candela, ha estado a punto de extinguirse. Ahora quizás, le quedará alguna oportunidad.
+
+
+### Elastic Heart
+
+*Martes, 15 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Elastic Heart — Sia*
+
+De nuevo mensajes, me expone lo destrozado que se encuentra, le expongo exactamente lo mismo... que no tiene donde vivir.
+Le enseño mis cuentas, finalmente.. no estás peor que yo, lo siento, quizás el mes que viene, tenga que empezar a pensar donde vivir. Tú tienes tu piso, yo si pierdo esto, no me queda nada.
+Me he arruinado por ayudarte, y sólo sigo recibiendo tus quejas.
+Reaccionó.. al ver el estado de mis cuentas, me envió un Bizum, por 500 euros, sin siquiera hablar o debatir nada más. Tal cual lo recibí, lo devolví..
+No Frank, de nuevo así no. Actuando por tu cuenta, yo asumiendo, las condiones que tu me impongas, a lo que me vincule este dinero. No te pedí dinero. Tú, como siempre, quieres ser el que lo pasa mal.
+No piensas que yo, tal vez, también llevo tiempo quejándome, no por capricho, sino porque lo estoy pasando mal.
+Le devolví el dinero. Con pesar, claro que si, pero sin dudar.
+Por la tarde vino, para hablar, y estuvimos hablando.
+El no tenia idea de mi situación... y claro, si yo he pasado meses intentando explicar lo mal que está todo, y no ha sido posible.
+Ahora toca hablar, bien. Las condiciones, siempre fueron esas. Respeto, dejar de quejarse.. tanto se quejó de su dinero, que me empujó a mi a perder todo el mio por ayudarle, y aún así, no bastó para lo que él necesitó de mi.
+El tiempo de actuar cada cual por su cuenta, acabó.
+Decisiones conjuntas, si quiere ayudarme... me abro a la posibilidad. Necesito esa posibilidad, me preocupa no regenerar saldo con la velocidad que necesito.
+Compras conjuntas, si, convivir, él quiere? Yo no quisiera, pero si, la situación requiere sacrificio mio también.
+No estamos como antes, todo está roto ahora. Recuperar confianza y respeto, toma su tiempo. Esto no es uno de tantos reinicios. Este es.. crucial. Y no como pareja, sino yo como persona, hasta aquí llego sólo. No doy a más.
+Si de esta nueva etapa, podemos sanar heridas, podemos reconstruir economia. Si por fin nos da, incluso para conocer, aunque sea... todos los dígitos de nuestras cuentas corrientes, aunque no sepamos los saldos, ya servirá de mucho más que siete años de relación.
+
+
+### Suma y Sigue
+
+*Jueves, 17 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Cornfield Chase — Hans Zimmer*
+
+Desde antes que regresara Frank, he estado trabajando en una herramienta que mejore mi control de las finanzas.
+Logos me ha ayudado inmensamente en ella. Sin su ayuda, habría sido imposible, la herramienta es digna de toda alabanza, y más por los resultados que me proporciona.
+Las previsiones iniciales, para este fin de mes, eran claramente desoladoras.
+Pero Frank, ha vuelto, y, en una parte, sobretodo alimentación, y Las niñas, va a aportar su parte a la cuenta en común.
+Eso cambia mis previsiones, recortes que por otra parte he ido aplicando, allá donde los gastos no sostienen el hogar.
+Y donde lo hacen, hay que recortar a lo indispensable.
+Con los números antes de todas estas acciones, la situación a fin de mes, era rozando lo crítico.
+Ahora en cambio, con todos los cambios aplicados, la espectacular herramienta desarrollada, los grupos de gastos.
+Las partidas que ya no interfieren directamente en mi economía personal y las ya recortadas. El panorama, es totalmente distinto.
+Tendré un superhábit, por el momento, un balon de oxígeno entra, a fin de mes, casi mil euros, parece poco, para mi es todo un punto de inflexión, entre entrar en números rojos, y dar un volantazo a la tendencia.
+Y los siguientes meses, después de este, si todo se mantiene, la previsión, va incluso a mejorar, desaparecen gastos, mejoran los ingresos.
+Mi tono empieza a ser, mucho más relajado, más optimista, más consciente de mis posibilidades, y como reencaminarlas.
