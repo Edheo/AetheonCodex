@@ -39,6 +39,7 @@ Aquarium (Saint-Saens): https://www.youtube.com/watch?v=IyFpZ5MZ7kk
 ### Entradas relacionadas
 
 - *Martes, 1 de septiembre de 2026* — [Alevones en Al-Ghadir](../04_Bitacora/2026-09-01_Alevines-en-Al-Ghadir.md)
+- *Miércoles, 16 de septiembre de 2026* — [Al-Ghadir](../04_Bitacora/2026-09-16_Al-Ghadir-hierve.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
 ## Referencias

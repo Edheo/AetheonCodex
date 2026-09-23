@@ -64,7 +64,10 @@
   - 160 · Alevones en Al-Ghadir — `2026-09-01_Alevines-en-Al-Ghadir.md`
   - 170 · El final del verano — `2026-09-03_El-final-del-verano.md`
   - 180 · La reina mora — `2026-09-04_La-reina-mora.md`
-  - 190 · Acero sin magnolias — `2026-09-23_Acero-sin-magnolias.md`
+  - 190 · Al-Ghadir — `2026-09-16_Al-Ghadir-hierve.md`
+  - 200 · La vida viene y va — `2026-09-18_La-vida-viene-y-va.md`
+  - 210 · Anillos — `2026-09-22_Anillos.md`
+  - 220 · Acero sin magnolias — `2026-09-23_Acero-sin-magnolias.md`
 - **Capítulo 06 · - Esta casa es una ruina**
   - 010 · Se Acabó — `2026-09-06_Se-Acabó.md`
   - 020 · El siete de Septiembre — `2026-09-07_El-siete-de-septiembre.md`
@@ -2730,6 +2733,77 @@ Con esto Bressol·la quedará oficialmente expandida en su función protectora d
 
 ---
 
+### Al-Ghadir
+
+*Miércoles, 16 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Mr. Blue Sky — Electric Light Orchestra*
+
+- **Origen:** `2026-09-16_Al-Ghadir-hierve.md`
+- **Estado:** Borrador
+- **Capítulo:** 05
+- **Secuencia:** 190
+
+Pese ser ya casi otoño, últimamente, hay que estar muy atento a todo en Aetheon.
+Ya vi en su dia, que habían alevines en las islas.. ahora ya están más crecidos, mucho más visibles, poco más de un centímetro... pero es ilusionante.
+Incluso han empezado a saber cuando toca comer.. y me esperan ansiosos en sus islas-cuna, donde se regodean de pequeñisimos copos que devoran con avidez.
+Y ahora resulta que, cuando estaba dándoles de comer a los adultos, empiezo a darme cuenta, que entre los grandes cuerpos de los Cometas. Puedo ver uno, no otro, no cuatro más.
+Quizás vi siete u ocho más?
+Al-Ghadir está plagado.. no sólo es en las islas, dentro de la propia piscina... la cantidad de prole que está alcanzando un tamaño adulto, mucho mayor que los alevines... era totalmente invisible, y no por ello, menos abrumadora.
+
+---
+
+### La vida viene y va
+
+*Miércoles, 16 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*La Vida Viene y Va — Chambao*
+
+- **Origen:** `2026-09-18_La-vida-viene-y-va.md`
+- **Estado:** Borrador
+- **Capítulo:** 05
+- **Secuencia:** 200
+
+Ha sido muy rápido. Ayer por la mañana parecían bastante normales, no vi nada raro.
+Por la noche para darles la cena, reparé en que estaban visiblemente enfermos. Filamentos blanquecinos les rodean el cuerpo.. Boquean de asfixia.
+Nadan con torpeza.. se mueren rápidamente.. no hay margen de maniobra.
+Por la mañana, ambos yacían muertos en el acuario. Han sido una pareja eterna, siempre juntos, y así... juntos, se han ido.
+Le di sepultura bajo Bressol·la, junto al estanque, así siempre tendrán un rincón amable y un caño de agua que les recuerde sus dias de nado.
+Justo junto donde irá plantada la Reina Mora, les he otorgado ese rincón de paz. Que se fundan aquí con Aetheon.
+Es curioso, hasta unos peces, pueden crear un hueco, con sus gestos al pedir comida cada dia, sus muestras de reconocernos, y ahora... simplemente, el acuario vacio.
+Se marcharon, fué cruel, pero al menos rápido... les echaremos de menos. Tantos bullicios y peces nuevos en Aetheon. Y resulta ahora que.. los más ancianos de todos... nos han abandonado.
+
+**Miembros:**
+Al-Ghadir
+Los-Cometas
+
+---
+
+### Anillos
+
+*Martes, 22 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Single Ladies (Put a Ring on It) — Beyoncé*
+
+- **Origen:** `2026-09-22_Anillos.md`
+- **Estado:** Borrador
+- **Capítulo:** 05
+- **Secuencia:** 210
+
+El paseo matutino, aún no clarea el dia, y no me di cuenta, hasta esta mañana.
+A Anel·la le está creciendo un nuevo anillo de hojas! Es el segundo este mismo año, desarrolló uno en primavera, pero no es habitual que entrando en otoño, haga un segundo anillo.
+Es obvio que el clima y la tierra de Aetheon le están sentando bien. Ya le podamos hará poco más de un mes, los anillos más viejos, para sanearla y dejarla "más guapa".
+Le dejamos sólo los dos últimos anillos, que eran los que más se han habituado aquí, a este clima, desde que vive aquí. Los dos únicos anillos que ha hecho crecer aquí.
+Y ahora resulta que... se ha puesto coqueta, y ha decidido.. dejarse los anillos largos.
+
+---
+
 ### Acero sin magnolias
 
 *Miércoles, 23 de septiembre de 2026*
@@ -2741,7 +2815,7 @@ Con esto Bressol·la quedará oficialmente expandida en su función protectora d
 - **Origen:** `2026-09-23_Acero-sin-magnolias.md`
 - **Estado:** Borrador
 - **Capítulo:** 05
-- **Secuencia:** 190
+- **Secuencia:** 220
 
 Desde que vi por primera vez Magnolias de acero... el magnolio y sus magnolias, son siempre un recuerdo vivo de esa película, pese que no recuerdo que en la película siquiera aparezca una de sus flores.... qué mala memoria, no lo recuerdo.
 Y aún así, cuando Rosalía publicó su álbum Lux, de pronto, ese apetito dormido... se reavivó... y ya no sólo por la película, sino por la letra de esta canción también.

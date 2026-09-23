@@ -88,7 +88,10 @@
 - [2026-09-14_Vete](04_Bitacora/2026-09-14_Vete.md)
 - [2026-09-14_Vete-La-marcha](04_Bitacora/2026-09-14_Vete-La-marcha.md)
 - [2026-09-15_Elastic-Heart](04_Bitacora/2026-09-15_Elastic-Heart.md)
+- [2026-09-16_Al-Ghadir-hierve](04_Bitacora/2026-09-16_Al-Ghadir-hierve.md)
 - [2026-09-17_Suma-Y-Sigue](04_Bitacora/2026-09-17_Suma-Y-Sigue.md)
+- [2026-09-18_La-vida-viene-y-va](04_Bitacora/2026-09-18_La-vida-viene-y-va.md)
+- [2026-09-22_Anillos](04_Bitacora/2026-09-22_Anillos.md)
 - [2026-09-23_Acero-sin-magnolias](04_Bitacora/2026-09-23_Acero-sin-magnolias.md)
 
 ## 05_Cartografia

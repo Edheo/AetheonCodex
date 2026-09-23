@@ -2357,6 +2357,59 @@ En cuanto el clima se adentre de lleno en el otoño, o más bien ya en el invier
 Con esto Bressol·la quedará oficialmente expandida en su función protectora del estanque.
 
 
+### Al-Ghadir
+
+*Miércoles, 16 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Mr. Blue Sky — Electric Light Orchestra*
+
+Pese ser ya casi otoño, últimamente, hay que estar muy atento a todo en Aetheon.
+Ya vi en su dia, que habían alevines en las islas.. ahora ya están más crecidos, mucho más visibles, poco más de un centímetro... pero es ilusionante.
+Incluso han empezado a saber cuando toca comer.. y me esperan ansiosos en sus islas-cuna, donde se regodean de pequeñisimos copos que devoran con avidez.
+Y ahora resulta que, cuando estaba dándoles de comer a los adultos, empiezo a darme cuenta, que entre los grandes cuerpos de los Cometas. Puedo ver uno, no otro, no cuatro más.
+Quizás vi siete u ocho más?
+Al-Ghadir está plagado.. no sólo es en las islas, dentro de la propia piscina... la cantidad de prole que está alcanzando un tamaño adulto, mucho mayor que los alevines... era totalmente invisible, y no por ello, menos abrumadora.
+
+
+### La vida viene y va
+
+*Miércoles, 16 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*La Vida Viene y Va — Chambao*
+
+Ha sido muy rápido. Ayer por la mañana parecían bastante normales, no vi nada raro.
+Por la noche para darles la cena, reparé en que estaban visiblemente enfermos. Filamentos blanquecinos les rodean el cuerpo.. Boquean de asfixia.
+Nadan con torpeza.. se mueren rápidamente.. no hay margen de maniobra.
+Por la mañana, ambos yacían muertos en el acuario. Han sido una pareja eterna, siempre juntos, y así... juntos, se han ido.
+Le di sepultura bajo Bressol·la, junto al estanque, así siempre tendrán un rincón amable y un caño de agua que les recuerde sus dias de nado.
+Justo junto donde irá plantada la Reina Mora, les he otorgado ese rincón de paz. Que se fundan aquí con Aetheon.
+Es curioso, hasta unos peces, pueden crear un hueco, con sus gestos al pedir comida cada dia, sus muestras de reconocernos, y ahora... simplemente, el acuario vacio.
+Se marcharon, fué cruel, pero al menos rápido... les echaremos de menos. Tantos bullicios y peces nuevos en Aetheon. Y resulta ahora que.. los más ancianos de todos... nos han abandonado.
+
+**Miembros:**
+Al-Ghadir
+Los-Cometas
+
+
+### Anillos
+
+*Martes, 22 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Single Ladies (Put a Ring on It) — Beyoncé*
+
+El paseo matutino, aún no clarea el dia, y no me di cuenta, hasta esta mañana.
+A Anel·la le está creciendo un nuevo anillo de hojas! Es el segundo este mismo año, desarrolló uno en primavera, pero no es habitual que entrando en otoño, haga un segundo anillo.
+Es obvio que el clima y la tierra de Aetheon le están sentando bien. Ya le podamos hará poco más de un mes, los anillos más viejos, para sanearla y dejarla "más guapa".
+Le dejamos sólo los dos últimos anillos, que eran los que más se han habituado aquí, a este clima, desde que vive aquí. Los dos únicos anillos que ha hecho crecer aquí.
+Y ahora resulta que... se ha puesto coqueta, y ha decidido.. dejarse los anillos largos.
+
+
 ### Acero sin magnolias
 
 *Miércoles, 23 de septiembre de 2026*
