@@ -89,6 +89,7 @@
 - [2026-09-14_Vete-La-marcha](04_Bitacora/2026-09-14_Vete-La-marcha.md)
 - [2026-09-15_Elastic-Heart](04_Bitacora/2026-09-15_Elastic-Heart.md)
 - [2026-09-17_Suma-Y-Sigue](04_Bitacora/2026-09-17_Suma-Y-Sigue.md)
+- [2026-09-23_Acero-sin-magnolias](04_Bitacora/2026-09-23_Acero-sin-magnolias.md)
 
 ## 05_Cartografia
 

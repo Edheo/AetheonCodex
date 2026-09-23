@@ -131,5 +131,6 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Lunes, 14 de septiembre de 2026* — [Vete](../04_Bitacora/2026-09-14_Vete.md)
 - *Martes, 15 de septiembre de 2026* — [Elastic Heart](../04_Bitacora/2026-09-15_Elastic-Heart.md)
 - *Jueves, 17 de septiembre de 2026* — [Suma y Sigue](../04_Bitacora/2026-09-17_Suma-Y-Sigue.md)
+- *Miércoles, 23 de septiembre de 2026* — [Acero sin magnolias](../04_Bitacora/2026-09-23_Acero-sin-magnolias.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 

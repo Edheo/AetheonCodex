@@ -64,6 +64,7 @@
   - 160 · Alevones en Al-Ghadir — `2026-09-01_Alevines-en-Al-Ghadir.md`
   - 170 · El final del verano — `2026-09-03_El-final-del-verano.md`
   - 180 · La reina mora — `2026-09-04_La-reina-mora.md`
+  - 190 · Acero sin magnolias — `2026-09-23_Acero-sin-magnolias.md`
 - **Capítulo 06 · - Esta casa es una ruina**
   - 010 · Se Acabó — `2026-09-06_Se-Acabó.md`
   - 020 · El siete de Septiembre — `2026-09-07_El-siete-de-septiembre.md`
@@ -2726,6 +2727,39 @@ De este modo, sobre el mismo andamiaje, además de tupirse mucho más con dos pr
 El colorido me resulta prometedor: el verde dorado del moscatel, el intenso morado de la Autumn Royal y, además, un aporte gratuito de fruta a la mesa que, con seguridad, sabremos disfrutar.
 En cuanto el clima se adentre de lleno en el otoño, o más bien ya en el invierno, procederemos a plantarla en su lugar definitivo para que, la primavera siguiente, vaya compitiendo por su propio espacio en la estructura que sustenta a ambas.
 Con esto Bressol·la quedará oficialmente expandida en su función protectora del estanque.
+
+---
+
+### Acero sin magnolias
+
+*Miércoles, 23 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Magnolias — Rosalía*
+
+- **Origen:** `2026-09-23_Acero-sin-magnolias.md`
+- **Estado:** Borrador
+- **Capítulo:** 05
+- **Secuencia:** 190
+
+Desde que vi por primera vez Magnolias de acero... el magnolio y sus magnolias, son siempre un recuerdo vivo de esa película, pese que no recuerdo que en la película siquiera aparezca una de sus flores.... qué mala memoria, no lo recuerdo.
+Y aún así, cuando Rosalía publicó su álbum Lux, de pronto, ese apetito dormido... se reavivó... y ya no sólo por la película, sino por la letra de esta canción también.
+He de admitir que ni siquiera su flor me atrae especialmente, si en cambio el porte del arbol, cuando alcanza su majestuosidad.
+Viviendo en Aetheon... cada vez late más ese impulso, casi como una tarea pendiente urgente por realizar.
+Pero... vivo en Turís, Valencia, tierra calcárea, agua calcárea, por doquier las señales son, que un magnolio estaría condenado a vivir penurias, incluso morir sin constantes cuidados, que sólo paliarian su sufrimiento.
+Mi sueño será mi sueño... pero mi realidad manda, siempre manda, y es lo primero a tener en cuenta siempre.
+Un sueño que no se sustenta en lo real... está condenado a pudrirse.. y no hay peor destino que ese, para un sueño.
+Si tu sueño sólo aporta tormento... adáptalo, ajústalo a tu realidad, o incluso valora, hasta cuánto puedes sacrificar por alcanzarlo.
+Un sueño ha de ser una ilusión, no una condena, no algo que te aporte lo contrario que el propio sueño te inspira a alcanzar.
+Así que... pese que ya tenía decididos posibles nombres para un Magnolio... por seguro se llamaría, o bien Dolly, o bien Sally, y me cuesta muchísimo escoger.
+Dos de las actrices que más admiro, por cualidades tan distintas, de la película Magnolias de Acero. Dolly Parton, y Sally Field.
+Así que tras analizar posibilidades... no plantar un supuesto magnolio, empieza a ser una idea que... no deseo abandonar.
+Por tanto, me he decidido por... una alternativa. Tendré un falso magnolio... un Acero sin magnolias.
+De las posibles opciones... me decantaré por un Brachychiton populneus (muy conocido aquí como Árbol Botella).
+Está prácticamente diseñado para crecer aquí en Turís, casi como su lugar indicado.
+No, no es un magnolio, lo sé. Pero si será mi Magnolio particular. No me dará magnolias, lo se... pero se llamará Sally, quien sabe si Dolly.
+Y cada vez que lo vea crecer con ese porte igual de majestuoso que un magnolio... me recordará la canción, su letra, lo mucho que significa para mí... y los maravillosos momentos que todo el Casting de Magnolias de Acero, me hizo vivir.
 
 ---
 
