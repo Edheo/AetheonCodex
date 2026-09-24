@@ -93,6 +93,7 @@
 - [2026-09-18_La-vida-viene-y-va](04_Bitacora/2026-09-18_La-vida-viene-y-va.md)
 - [2026-09-22_Anillos](04_Bitacora/2026-09-22_Anillos.md)
 - [2026-09-23_Acero-sin-magnolias](04_Bitacora/2026-09-23_Acero-sin-magnolias.md)
+- [2026-09-24_Walking-in-my-sleep](04_Bitacora/2026-09-24_Walking-in-my-sleep.md)
 
 ## 05_Cartografia
 

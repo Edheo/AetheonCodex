@@ -133,5 +133,6 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Jueves, 17 de septiembre de 2026* — [Suma y Sigue](../04_Bitacora/2026-09-17_Suma-Y-Sigue.md)
 - *Martes, 22 de septiembre de 2026* — [Anillos](../04_Bitacora/2026-09-22_Anillos.md)
 - *Miércoles, 23 de septiembre de 2026* — [Acero sin magnolias](../04_Bitacora/2026-09-23_Acero-sin-magnolias.md)
+- *Jueves, 24 de septiembre de 2026* — [Walking in my sleep](../04_Bitacora/2026-09-24_Walking-in-my-sleep.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
