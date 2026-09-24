@@ -19,9 +19,9 @@ Ya veremos qué colores van surgiendo, y cuando tengan color, será más fácil 
 **youtube:** lwgr_IMeEgA
 ## Literaria
 ### Capítulo
-05 - Evolución
+08 - Aetheon Respira
 ### Secuencia
-160
+050
 ### Autoría
 Edheo
 

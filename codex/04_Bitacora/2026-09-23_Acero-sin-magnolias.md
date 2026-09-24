@@ -19,9 +19,9 @@ Una necesidad imperiosa de plantar un magnolio. Pero en Turís, plantar un magno
 
 ## Literaria
 ### Capítulo
-05 - Evolución
+08 - Aetheon Respira
 ### Secuencia
-220
+110
 ### Autoría
 Edheo
 

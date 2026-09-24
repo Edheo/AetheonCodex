@@ -14,8 +14,8 @@ La cámara tiene visión infrarroja, así no he de incomodarlas con luces cuando
 ## Cosmogonía
 ### Musical
 **Obra:** The Great Eye
-**Autor:** Howard Shore
 **Intérprete:** Howard Shore
+**Autor:** Howard Shore
 **youtube:** 0sxTNzz2jdI
 ## Literaria
 ### Capítulo

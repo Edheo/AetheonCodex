@@ -39,10 +39,10 @@ Aetheon
 </div>
 ## Literaria
 ### Capítulo
-05 - Evolución
+06 - Hazme un Codex de Aetheon
 
 ### Secuencia
-110
+030
 
 ### Autoría
 Limen

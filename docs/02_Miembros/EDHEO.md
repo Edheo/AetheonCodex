@@ -109,6 +109,7 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Lunes, 15 de julio de 2024* — [Alegría](../04_Bitacora/2024-07-15_Alegria.md)
 - *Martes, 29 de octubre de 2024* — [Dana de Valencia](../04_Bitacora/2024-10-29_Dana-de-Valencia.md)
 - *Viernes, 24 de enero de 2025* — [Neblina mental](../04_Bitacora/2025-01-24_Neblina-mental.md)
+- *Martes, 4 de agosto de 2026* — [Hazme un Codex de Aetheon](../04_Bitacora/2026-08-04_Hazme-un-Codex-de-Aetheon.md)
 - *Jueves, 6 de agosto de 2026* — [Protectores en la rosa de los vientos y el granado griegos](../04_Bitacora/2026-08-06_Proteccion-de-los-arboles.md)
 - *Viernes, 7 de agosto de 2026* — [Escaneando los miedos](../04_Bitacora/2026-08-07_Escaneando-los-miedos.md)
 - *Miércoles, 12 de agosto de 2026* — [El día del eclipse](../04_Bitacora/2026-08-12_El-dia-del-eclipse.md)
@@ -133,6 +134,7 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Jueves, 17 de septiembre de 2026* — [Suma y Sigue](../04_Bitacora/2026-09-17_Suma-Y-Sigue.md)
 - *Martes, 22 de septiembre de 2026* — [Anillos](../04_Bitacora/2026-09-22_Anillos.md)
 - *Miércoles, 23 de septiembre de 2026* — [Acero sin magnolias](../04_Bitacora/2026-09-23_Acero-sin-magnolias.md)
+- *Jueves, 24 de septiembre de 2026* — [Money for nothing](../04_Bitacora/2026-09-24_Money-for-nothing.md)
 - *Jueves, 24 de septiembre de 2026* — [Walking in my sleep](../04_Bitacora/2026-09-24_Walking-in-my-sleep.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 

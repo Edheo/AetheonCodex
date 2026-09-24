@@ -12,9 +12,9 @@ Tras las moreras, al este, se hayan situado dos granados jóvenes, para uno de e
 El otro, que ya acompaña a Frank durante años, ha recibido el nombre de Side.
 ## Literaria
 ### Capítulo
-05 - Evolución
+08 - Aetheon Respira
 ### Secuencia
-070
+010
 ### Autoría
 Edheo
 

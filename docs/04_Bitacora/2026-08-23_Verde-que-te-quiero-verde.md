@@ -28,12 +28,9 @@ Walt
 
 ## Cosmogonía
 ### Musical
-**Obra:**
-Carpe Diem
-**Autor:**
-Maurice Jarre
-**Intérprete:**
-Maurice Jarre
+**Obra:** Carpe Diem
+**Intérprete:** Maurice Jarre
+**Autor:** Maurice Jarre
 <div class="aetheon-youtube">
   <iframe
     src="https://www.youtube-nocookie.com/embed/ovyfbirtPLs"
@@ -52,8 +49,10 @@ Maurice Jarre
   </a>
 </div>
 ## Literaria
-**Capítulo:**  05 - Evolución
-**Secuencia:**  140
+**Capítulo:**
+07 - Aetheon Respira
+**Secuencia:**
+060
 ### Autoría
 Edheo
 

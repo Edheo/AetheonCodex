@@ -37,7 +37,7 @@ Y lo mejor es, que las previsiones para los próximos 3 meses, no hacen más que
 </div>
 ## Literaria
 ### Capítulo
-06 - Esta casa es una ruina
+07 - Esta casa es una ruina
 ### Secuencia
 060
 ### Autoría

@@ -4,7 +4,7 @@
 Borrador
 
 ## Evento
-Al-Ghadir
+Al-Ghadir Hierve
 
 ## Descripción
 Es casi otoño y aún así, la vida en Aetheon, no para un momento.
@@ -19,9 +19,9 @@ Docenas de ellos, diría yo.
 
 ## Literaria
 ### Capítulo
-05 - Evolución
+08 - Aetheon Respira
 ### Secuencia
-190
+080
 ### Autoría
 Edheo
 

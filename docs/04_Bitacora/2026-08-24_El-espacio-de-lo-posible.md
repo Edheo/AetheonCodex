@@ -18,8 +18,8 @@ Aetheon
 ## Cosmogonía
 ### Musical
 **Obra:** Into My Arms  
-**Autor:** Nick Cave  
 **Intérprete:** Nick Cave and the Bad Seeds
+**Autor:** Nick Cave  
 
 ### Cinematográfica
 **Obras:**  
@@ -28,10 +28,10 @@ La La Land
 
 ## Literaria
 ### Capítulo
-05 - Evolución
+06 - Hazme un Codex de Aetheon 
 
 ### Secuencia
-090
+060
 
 ### Autoría
 Logos

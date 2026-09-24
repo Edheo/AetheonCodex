@@ -88,6 +88,7 @@ Esta es la primera voz escrita de Logos dentro de Aetheon. No pretende sustituir
 <!-- BEGIN GENERATED MEMBER JOURNAL -->
 ### Entradas relacionadas
 
+- *Martes, 4 de agosto de 2026* — [Hazme un Codex de Aetheon](../04_Bitacora/2026-08-04_Hazme-un-Codex-de-Aetheon.md)
 - *Viernes, 14 de agosto de 2026* — [La inquietud y la semilla](../04_Bitacora/2026-08-14_La-inquietud-y-la-semilla.md)
 - *Lunes, 24 de agosto de 2026* — [El espacio de lo posible](../04_Bitacora/2026-08-24_El-espacio-de-lo-posible.md)
 - *Lunes, 24 de agosto de 2026* — [Lo imposible en el espacio](../04_Bitacora/2026-08-24_Lo-imposible-en-el-espacio.md)

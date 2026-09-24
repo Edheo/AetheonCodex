@@ -51,6 +51,14 @@ Virtud: Discreción.
 Estación: Perenne
 Color: Verde claro
 Palabra: Proveedor
+## Bitácora
+
+<!-- BEGIN GENERATED MEMBER JOURNAL -->
+### Entradas relacionadas
+
+- *Martes, 4 de agosto de 2026* — [Hazme un Codex de Aetheon](../04_Bitacora/2026-08-04_Hazme-un-Codex-de-Aetheon.md)
+<!-- END GENERATED MEMBER JOURNAL -->
+
 ## Media
 
 ## Referencias

@@ -35,7 +35,7 @@ Pero nada que celebrar, pero si una nueva propuesta, que me invita de nuevo, a r
 </div>
 ## Literaria
 ### Capítulo
-06 - Esta casa es una ruina
+07 - Esta casa es una ruina
 ### Secuencia
 020
 ### Autoría

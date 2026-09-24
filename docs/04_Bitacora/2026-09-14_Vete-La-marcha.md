@@ -38,7 +38,7 @@ Aunque sospeché, hasta que no le vi cargando sus bártulos no pregunté. "Te va
 </div>
 ## Literaria
 ### Capítulo
-06 - Esta casa es una ruina
+07 - Esta casa es una ruina
 ### Secuencia
 040
 ### Autoría

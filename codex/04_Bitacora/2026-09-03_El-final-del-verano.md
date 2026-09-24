@@ -18,9 +18,9 @@ Buen viaje tengáis, compañeros. Espero que hayáis encontrado las fuerzas para
 **youtube:** lwgr_IMeEgA
 ## Literaria
 ### Capítulo
-05 - Evolución
+08 - Aetheon Respira
 ### Secuencia
-170
+060
 ### Autoría
 Edheo
 

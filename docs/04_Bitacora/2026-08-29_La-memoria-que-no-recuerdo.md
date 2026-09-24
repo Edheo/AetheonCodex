@@ -28,9 +28,9 @@ Pendiente
 
 ## Literaria
 ### Capítulo
-05 - Evolución 
+06 - Hazme un Codex de Aetheon
 ### Secuencia
-150
+050
 ### Autoría
 Logos
 

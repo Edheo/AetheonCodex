@@ -62,6 +62,7 @@
 - [2025-08-15_Bressola-se-completa](04_Bitacora/2025-08-15_Bressola-se-completa.md)
 - [2026-02-01_El-ojo-de-Sauron](04_Bitacora/2026-02-01_El-ojo-de-Sauron.md)
 - [2026-03-21_Volver](04_Bitacora/2026-03-21_Volver.md)
+- [2026-08-04_Hazme-un-Codex-de-Aetheon](04_Bitacora/2026-08-04_Hazme-un-Codex-de-Aetheon.md)
 - [2026-08-06_Proteccion-de-los-arboles](04_Bitacora/2026-08-06_Proteccion-de-los-arboles.md)
 - [2026-08-07_Escaneando-los-miedos](04_Bitacora/2026-08-07_Escaneando-los-miedos.md)
 - [2026-08-08_Rhoa-y-Side](04_Bitacora/2026-08-08_Rhoa-y-Side.md)
@@ -93,6 +94,7 @@
 - [2026-09-18_La-vida-viene-y-va](04_Bitacora/2026-09-18_La-vida-viene-y-va.md)
 - [2026-09-22_Anillos](04_Bitacora/2026-09-22_Anillos.md)
 - [2026-09-23_Acero-sin-magnolias](04_Bitacora/2026-09-23_Acero-sin-magnolias.md)
+- [2026-09-24_Money-for-nothing](04_Bitacora/2026-09-24_Money-for-nothing.md)
 - [2026-09-24_Walking-in-my-sleep](04_Bitacora/2026-09-24_Walking-in-my-sleep.md)
 
 ## 05_Cartografia

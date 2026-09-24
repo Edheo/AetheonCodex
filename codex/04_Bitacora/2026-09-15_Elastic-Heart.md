@@ -22,7 +22,7 @@ Si de verdad ayudar quiere, hablar es el camino.
 **youtube:** KWZGAExj-es
 ## Literaria
 ### Capítulo
-06 - Esta casa es una ruina
+07 - Esta casa es una ruina
 ### Secuencia
 050
 ### Autoría

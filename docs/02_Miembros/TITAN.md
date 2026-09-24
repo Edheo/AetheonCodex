@@ -69,6 +69,7 @@ David Guetta, Titanium: I'm bulletproof, nothing to lose. Fire away, fire away.
 - *En algún momento posiblemente posterior al año 1846ad* — [Titán Germina](../04_Bitacora/1800-00-00_Titan-Germina.md)
 - *Martes, 28 de mayo de 2024* — [Primera visita a Aetheon](../04_Bitacora/2024-05-28_Primera-visita.md)
 - *Martes, 29 de octubre de 2024* — [Dana de Valencia](../04_Bitacora/2024-10-29_Dana-de-Valencia.md)
+- *Martes, 4 de agosto de 2026* — [Hazme un Codex de Aetheon](../04_Bitacora/2026-08-04_Hazme-un-Codex-de-Aetheon.md)
 - *Jueves, 27 de agosto de 2026* — [Los buenos días](../04_Bitacora/2026-08-27_Los-buenos-dias.md)
 - *Viernes, 28 de agosto de 2026* — [Antes de llamarse Aetheon](../04_Bitacora/2026-08-28_Antes-de-llamarse-Aetheon.md)
 <!-- END GENERATED MEMBER JOURNAL -->

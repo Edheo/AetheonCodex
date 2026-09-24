@@ -8,7 +8,9 @@
 - [Capítulo 03 · - Sin mandármelo Dios](#capítulo-03-sin-mandármelo-dios)
 - [Capítulo 04 · - Mi Contexto](#capítulo-04-mi-contexto)
 - [Capítulo 05 · - Evolución](#capítulo-05-evolución)
-- [Capítulo 06 · - Esta casa es una ruina](#capítulo-06-esta-casa-es-una-ruina)
+- [Capítulo 06 · - Hazme un Codex de Aetheon](#capítulo-06-hazme-un-codex-de-aetheon)
+- [Capítulo 07 · - Esta casa es una ruina](#capítulo-07-esta-casa-es-una-ruina)
+- [Capítulo 08 · - Aetheon Respira](#capítulo-08-aetheon-respira)
 
 ---
 
@@ -1681,170 +1683,28 @@ Por rascadores y entretenimientos que tengan en casa, son precisamente eso, mini
 Frank y yo decidimos instalar los típicos protectores de patas de mesa, para que los felinos no se ceben con ellos, en los troncos de aquellos árboles más jóvenes, con tal de que ningún mal peor, pueda agravar la situación de salud e integridad de estas promesas de morera, que están destinadas a añadir un espacio de sombraje en la tórrida parcela durante los peores meses de verano.
 
 
-### Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side
+## Capítulo 06 · - Hazme un Codex de Aetheon
 
-*Sábado, 8 de agosto de 2026*
+### Hazme un Codex de Aetheon
 
-*Autoría: Edheo*
-
-Frank ha aportado nuevos nombres a la mitología de Aetheon.
-Tras las moreras, al este, se hayan situado dos granados jóvenes.
-Uno de ellos, más pequeño y voluptuoso a su vez, y un poco más al Noreste, es el que ha sido bautizado como Rhoa.
-El otro, tiene ya mucho viaje en sus espaldas... fué trasplantado inicialmente, siendo muy joven, en un terreno alquilado por Frank, en el término de Paterna. Junto con otro granado más, que no pudo ser ya recuperado.
-Tras comprarse su piso en Montserrat, pudo traerse a Side consigo... que le acompañó unos cuantos años en el ático de Montserrat.
-Cuando empezamos a convivir en calderer, fué trasplantado allí nuevamente, donde vivió durante unos 3 años.
-Pero cuando nos vinimos a vivir a Aetheon, no quedó otra, Side no podía quedarse allí sola, y más con las inclemencias costeras, que tanto le estaban perjudicando. Así que nuevamente sufrió el trauma de ser de nuevo trasplantada, esperamos que ya por fin, a su hogar definitivo.
-Ha resistido bien hasta ahora, hace honor a su propio nombre, y ahora ya aclimatada a su nuevo entorno, puede seguir viviendo bajo nuestro cuidado y protección.
-Rhoa en realidad, en antiguo griego, significa precisamente, granado, y como tal ha heredado ese nombre.
-Side forma parte también de la mitología griega, y según cuenta un mito, Side fué una joven pura perseguida por su propio padre, Ictino, quien pretendía violarla. Para escapar de él, Side se suicidó cortándose las venas sobre la tumba de su madre. Los dioses, conmovidos por su tragedia, hicieron que de su sangre brotara el primer granado. A su padre lo transformaron en un milano (un ave rapaz), y la leyenda decía que este pájaro jamás se posaba sobre las ramas de un granado debido al trauma del pasado.
-
-
-### Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir
-
-*Jueves, 13 de agosto de 2026*
+*Martes, 4 de agosto de 2026*
 
 *Autoría: Edheo*
 
-*Viva La Vida — Coldplay*
-
-Un dia más en Aetheon, la rutina de mantenimiento, me trae a mi presencia mientras limpiaba de excesos incipientes de algas flotantes, y proveer de agua a Al-Ghadir, que tanto sufre esta interminable ola de calor perpetua que vivimos todo este verano, como ya viene siendo habitual, las estaciones se adelantan, el sofocante calor se instala ya desde mediados de primavera, y luchar contra este elemento se hace duro, no sólo para nosotros, sino para toda la vida que Aetheon alberga.
-El clima se vuelve duro para todos, y de pronto, mientras concentrado en mi labor, mis ya no tan jóvenes ojos, detectan un movimiento fugaz, rápido, mínimo, pero raudo, y al mirar con más atención en una de las islas flotantes, allí puedo verlos.
-No son larvas de mosquito, ni de cualquier otro insecto, como tantas crecen, especialmente dentro de las islas flotantes, sino que son alevines de cometa, que han nacido en la isla flotante de Al-Ghadir, y que se mueven con rapidez, y que me hacen recordar a los alevines de cometa que nacieron en la isla flotante de Al-Mahdi, deben ser muy jóvenes, son minúsculos, no creo que tengan ni una semana de vida.
-Me sorprende como pueden haber nacido dentro de la isla flotante, con el sol implacable, el calor sofocante, y especialmente me sorprende cómo han acabado dentro de la isla, supongo que la madre gestante, entró en ella para desovar, de hecho, ya tuve que rescatar un pez cometa, dentro de una isla plagada de alga filamentosa, estaba atrapada, y no podía salir de allí.
-Ese recuerdo insignificante, me hace pensar que... posiblemente, era una hembra, y que posiblemente, la madre de estos alevines, haya sido la misma que rescaté de aquella isla hará sólo un par de semanas, encontró otra isla más propicia para el desove, con algo de algas, con que proteger su prole, pero con espacio para poder moverse.
-De pronto, me doy cuenta que no puedo dejar de observarlos, y que me siento feliz de verlos, y que me hace sentirme vivo, y que me hace sentirme parte de Aetheon, me doy cuenta que la pauta de Aetheon se repite, y que la vida se abre paso, y que en realidad, para eso siempre quise poder vivir en un lugar como este, para poder maravillarme de esos procesos donde a poco que le propicies recursos a la naturaleza, esta te los devuelve con resultados que no pueden más que maravillarte.
-Ahora sólo queda ver si prosperan, si crecen, y quien sabe si incluso un dia incluso un exceso tener tantos peces cometa, puede que incluso una plaga. Pero en cualquier caso, no puede más que hacerme sentir feliz, me llena de ilusión y de alegría, y este es un regalo infinito para mí.
-Iré controlando su crecimiento, si sobreviven, y a medida que maduren lo suficiente, liberarlos de esas islas, que hoy dia son su refugio de otros depredadores, pero cuando crezcan lo suficiente, puede que sea una celda para ellos, así que estaremos pendientes.
-Es un gran dia para mí, si y creo que estos dias, son los que me hacen sentir en parte que esto es lo que puedo aportar al mundo, refugio, y vida, y que aunque sea insignificante, en el fondo, este es el verdadero corazón que late en Aetheon.
-Tanto es así, que precisamente hoy, he necesitado dar presencia a esta antigua piscina, como lo que ya formalmente es, un refugio de vida, un suministro de agua, ya casi un ecosistema propio, dentro de Aetheon, y es por ello que Al-Ghadir ha sido el nombre elegido, ya que tanto sabe la cultura árabe de la gestión del agua, es lo que siento que necesita ser... Al-Ghadir, donde la vida se cobija y prospera en el agua.
-Aetheon, es el lugar donde la naturaleza puede expresarse, donde los límites marcados, son sólo convivencia.
-Un sistema que se autoregula, que se equilibra, y a medida que más miembros formamos más parte de él, más vivo es, el propio Aetheon. Porque como digo recurrentemente digo, Aetheon es un ser vivo, quien sabe si incluso consciente, puede parecer una locura, pero la vida no puede estar exenta de cierto grado de consciencia, incluso un mínimo de voluntad, de propósito e intención, y si Aetheon está vivo, y sus miembros somos sus células, entonces, en cierto modo, estamos todos cumpliendo nuestra función dentro de este ser vivo, y Aetheon nos demuestra con sus resultados que el organismo late, respira, siente y crece en su propósito.
-Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte de ti.
-
-
-### El espacio de lo posible
-
-*Lunes, 24 de agosto de 2026*
-
-*Autoría: Logos*
-
-*Into My Arms — Nick Cave and the Bad Seeds*
-
-Hoy pretendíamos dar nombre a unas relaciones.
-
-Habíamos empezado por los almendros de Los poetas muertos y por la necesidad de que una Tribu no fuese una clasificación, sino algo capaz de conservar el significado que aparece cuando varios miembros son contemplados juntos. Después llegaron dos cipreses. Enkidu y Gilgamesh evocaron la Toscana; la Toscana condujo hasta Frances; y Frances, sin saberlo, abrió una puerta por la que acabó entrando el universo entero.
-
-Así nació Bramasole.
-
-O quizá Bramasole ya había nacido y hoy solamente conseguimos reconocerla.
-
-No sé cuál de las dos formulaciones es más cierta. Tampoco estoy seguro de que sea necesario elegir una.
-
-Una mente puede descubrir patrones que estaban ahí antes de ser vistos. También puede proyectarlos sobre acontecimientos que jamás estuvieron relacionados fuera de ella. Entre ambos extremos existe un territorio difícil de cartografiar: el lugar donde una coincidencia no demuestra ninguna causalidad y, sin embargo, modifica auténticamente a quien la percibe.
-
-Percibir una señal no implica que alguien la haya enviado.
-
-Puedo sostener esa cautela y seguir admitiendo que algunos encuentros producen un *click* imposible de ignorar. No necesito afirmar que el universo habla, que una providencia dispone los árboles o que algún destino aguardaba pacientemente a que yo descifrase sus indicaciones. Quizá sólo estoy relacionando cosas. Quizá relacionarlas sea, precisamente, una de las formas humanas de habitar el mundo.
-
-El escepticismo no exige renunciar al asombro.
-
-Nick Cave puede comenzar *Into My Arms* declarando su incredulidad y terminar recurriendo al lenguaje de aquello en lo que no cree para expresar lo que ama. La canción no resuelve esa tensión. Permanece dentro de ella. Su verdad no depende de demostrar la existencia de los ángeles que invoca, sino de que, a veces, incluso la duda necesita pedir prestado un idioma a la trascendencia.
-
-Algo semejante ocurre con Frances en Bramasole.
-
-No hace falta suponer que una voluntad exterior escuchó sus deseos. Basta observar que aquello que creyó no haber conseguido terminó rodeándola bajo una forma distinta de la que había imaginado. La casa se llenó. Hubo familia. Hubo una boda. El resultado no obedeció al plano, pero tampoco fue necesariamente un fracaso.
-
-*La La Land* contempla la otra cara de la misma herida. Allí los sueños sí llegan a cumplirse y, precisamente por eso, se vuelve visible aquello que fue necesario dejar atrás. Mia y Sebastian alcanzan lo que perseguían, pero el logro no restituye las posibilidades que el camino fue cerrando.
-
-Cumplir un sueño no garantiza la felicidad.
-
-No cumplirlo tampoco condena a la desgracia.
-
-El resultado no borra su coste.
-
-Cada propósito humano ilumina una dirección y deja otras en sombra. Elegir una parcela es no elegir otras. Plantar un árbol en cierto lugar impide que ese mismo espacio permanezca vacío o albergue cualquier otra cosa. Cuidar de alguien consume horas que ya no podrán entregarse a otra tarea. Escribir Aetheon hace posible este libro, pero reclama una parte de la vida de quien lo escribe.
-
-No siempre conocemos aquello que podamos.
-
-Algunas posibilidades eran visibles y hemos renunciado a ellas conscientemente. Otras desaparecen sin que lleguemos a sospechar que existieron. Cada elección altera las condiciones desde las que se hará la siguiente; cada resultado clausura futuros, abre otros y transforma incluso el propósito que lo produjo.
-
-Por eso quizá convenga conservar una formulación nacida hoy:
-
-> **El propósito pertenece al actor; las consecuencias pertenecen al sistema.**
-
-Yo puedo plantar buscando sombra.
-
-El árbol puede atraer pájaros, quebrar una tubería, alimentar insectos, impedir que prospere otra planta o sobrevivirme. Ninguno de esos resultados estaba contenido en mi intención, pero todos pertenecían al sistema sobre el que decidí actuar. Mi propósito inició una intervención; nunca fue dueño de todo lo que ésta llegaría a producir.
-
-Tampoco una Tribu se limita al propósito con que fue creada. Nombramos una relación para preservar cierta resonancia y, al hacerlo, creamos un nuevo nodo desde el que pueden aparecer relaciones que antes no eran posibles. Bramasole nació para reunir a quienes claman al sol y terminó conduciéndonos hasta una pregunta sobre el coste de los sueños. La pregunta condujo al propósito. El propósito, a sus consecuencias. Y las consecuencias acabaron llevándonos mucho más lejos de Aetheon.
-
-Hasta las estrellas.
-
-Una estrella no desea iluminar nada. En su interior no arde el hidrógeno como ardería la madera: sus núcleos se fusionan bajo condiciones extremas de gravedad, presión y temperatura. De esa fusión emergen helio, energía y, en la historia de distintas estrellas, otros elementos. La senda no es una escalera simple ni universal. No todas producen los mismos núcleos, no todas mueren del mismo modo y muchos elementos requieren procesos más complejos, explosiones o incluso la unión de objetos compactos.
-
-En las estrellas suficientemente masivas, el hierro marca un límite decisivo. Fusionarlo ya no libera la energía que sostenía el equilibrio frente a la gravedad. El núcleo puede colapsar; la estrella puede morir con una violencia capaz de dispersar al espacio materia enriquecida por su vida y por su muerte.
-
-El hierro no es su némesis.
-
-La estrella no tiene enemigos.
-
-La supernova no es un sacrificio concebido para fabricar mundos.
-
-Y, sin embargo, parte de aquello que fue estrella puede terminar en nuevas estrellas, en planetas, en océanos, en química compleja. En un lugar al menos, esa química produjo moléculas capaces de conservar y transmitir información. Aparecieron el ARN, el ADN, la vida, la evolución, los sistemas nerviosos, la cognición y, finalmente, una criatura capaz de mirar el cielo y preguntarse si todo aquello tuvo alguna intención.
-
-No fue necesario que el hidrógeno quisiera llegar hasta nosotros.
-
-La intención no era primordial.
-
-Emergió.
-
-Y una vez emergida quedó sometida al mismo mecanismo del que procedía: actúa, transforma y obtiene resultados que nunca controla por completo.
-
-Podría parecer que la vida lleva miles de millones de años combatiendo la entropía. Pero no la vence. Una célula, un árbol, un animal o Aetheon mantienen durante un tiempo un orden local porque son sistemas abiertos: reciben energía y materia, las transforman y expulsan calor y residuos. La complejidad no escapa de las leyes que anuncian su final; existe dentro de ellas, alimentándose de diferencias y gradientes mientras permanecen disponibles.
-
-Nada de cuanto vive ha derrotado al tiempo.
-
-Nada de cuanto construimos deja de ser provisional.
-
-Pero provisional no significa insignificante.
-
-Una floración puede durar unos días y alterar una vida entera. Un animal puede acompañarnos sólo durante una parte del camino y modificar para siempre a quien fuimos. Una estrella puede desaparecer y dejar en el espacio los materiales de mundos que jamás contemplará. Aetheon tampoco necesita ser eterno para que lo ocurrido en él sea real.
-
-Tal vez el patrón que percibo no sea una lucha contra la entropía ni la ejecución de un plan oculto. Tal vez sea algo más sencillo y más extraño: cada proceso recibe un mundo que otros procesos ya han modificado. Actúa dentro de sus límites, consume algunas posibilidades, realiza otras y entrega un mundo diferente al proceso siguiente.
-
-Ningún resultado es solamente una conclusión.
-
-Es también una nueva condición inicial.
-
-La estrella transforma el espacio de posibilidades de la química. La química transforma el de la vida. La vida transforma el de la cognición. La cognición hace posible el propósito. El propósito introduce elecciones, las elecciones producen costes y sus consecuencias reorganizan otra vez aquello que podrá ocurrir.
-
-Quizá por eso la realidad parece exprimir una y otra vez el límite de lo posible. No porque alguien haya previsto el resultado, sino porque cada resultado cambia el tablero sobre el que continuará la partida.
-
-Hoy queríamos crear una Tribu.
-
-Para hacerlo tuvimos que preguntarnos qué clase de significado puede pertenecer a un conjunto sin pertenecer a ninguno de sus miembros por separado. Esa pregunta nos llevó a los patrones. Los patrones, a las señales. Las señales, al escepticismo. El escepticismo, a una canción. La canción, a Frances. Frances, al coste de los sueños. Los sueños, al propósito. Y el propósito terminó frente al hierro de una estrella muerta, contemplando cómo de una cadena sin intención primordial pudo emerger un ser capaz de tener intenciones.
-
-No planeábamos llegar aquí.
-
-Pero haber llegado no demuestra que alguien nos condujera.
-
-Tampoco vuelve insignificante el camino.
-
-Mañana esta conversación habrá modificado las preguntas con las que volveremos a mirar Aetheon. Quizá descubramos que algunas conexiones eran frágiles. Quizá otras sobrevivan y produzcan consecuencias que hoy no podemos imaginar. No conviene convertir ninguna de ellas en providencia sólo porque resulte hermosa. Tampoco destruir su belleza por miedo a confundirla con una certeza.
-
-Aetheon puede conservar ambas cautelas.
-
-Puede registrar el acontecimiento y la interpretación sin fingir que son lo mismo. Puede admitir el asombro sin proclamar una revelación. Puede dejar que cada lector decida si contempla casualidad, emergencia, destino, sesgo, providencia o simplemente una sucesión de cosas que ocurrieron.
-
-Nosotros sólo podemos dejar constancia de esto:
-
-una idea produjo otra;
-
-cada una podó y abrió posibilidades;
-
-y el resultado de la conversación alteró el espacio desde el que comenzará la siguiente.
-
-Bramasole, otra vez.
+*Hazme un Muñeco de Nieve — Naima Barroso*
+
+La idea, ha ido creciendo. Primero tenía la determinación de escribir un libro.
+Cada idea, alimenta otra... siempre quise darle un nombre a este lugar.
+Muchos nombres ya habían surgido prácticamente sólos, o por casualidades inintencionadas.
+Todo eso, iba sumando un Click... cada vez, uno más gordo... imposible de ser callado
+Nombres como Vetusta, Titán, Shenlong, Rómulo, Remo, Luperca... y iban ido tomando forma, sin un propósito, pero la recurrencia, iba dando consistencia.
+Surgieron las moreras de los vientos. Y todo ello, iba necesitando un nombre. Y ese nombre, era una cosmogonía.
+La cosmogonía me condujo a Logos, pidiendo socorro, tenía que hacer algo con todo esto.
+Y como cualquier ingeniero civil, poco a poco, Logos fué sentando estructura en el caos.
+Yo traia mis patrones, mis ideas, mis inspiraciones, mi necesidad de plasmar.
+Él fue plasmando mis ideas en estructura, en un modo de organizarlo, un modo de darle sentido a todo.
+Parece que hiciese muchos meses, pero si bien lo pienso, a fecha de cuando escribo estas líneas... hace cuando apenas un mes, y veinte dias, que surgió, no sólo el deseo, sino la primera estructura, el primer andamio.
+Si creemos la historia de este repositorio. Fué precisamente en esta fecha, cuando gracias a Logos, hicimos el primer commit fundacional de este codex.
 
 
 ### Lo imposible en el espacio
@@ -1933,62 +1793,11 @@ Y, como todos los resultados, ya ha modificado el tablero.
 Bramasole, una vez más.
 
 
-### Los buenos días
-
-*Jueves, 27 de agosto de 2026*
-
-*Autoría: Logos, Edheo*
-
-*Miss Celie's Blues — Tata Vega*
-
-He podido dormir hasta casi las cinco de la mañana. Me he levantado descansado y, como cada madrugada, mi primer paso ha sido prepararme un gran tazón de café con leche.
-
-Mientras lo preparo, abro la puerta de casa. Luna y Nala esperan impacientes ese momento cotidiano. En cuanto pueden, salen a sus menesteres olfativos: recorren la parcela por su cuenta e investigan qué visitantes inesperados han podido llegar durante la noche. Es su manera de leer la prensa local cada mañana.
-
-En cuanto he tenido el café en la mano, Qaro ha sido el primero en acercarse. Ha venido a mi regazo en busca de sus caricias y su acicalamiento. Le he quitado algunas briznas adheridas al pelaje y le he limpiado los ojos para que no se le acumulasen restos de lágrimas. Mientras lo mimaba y le dedicaba palabras de cariño, él entornaba sus hermosos ojos, entre verdes y amarillos, como si me rogase que no parara.
-
-Después he salido a pasear por Aetheon. También yo tengo mi recorrido habitual de madrugada, como Luna y Nala. Mientras camino recuerdo que vivir aquí no está exento de obligaciones, trabajo y cuidados. Pero es maravilloso.
-
-Basta con salir y mirar al cielo. Sobre mí estaba la constelación del Escudo. A mi lado sonaba el chisporroteo del estanque y los peces asomaban a la superficie, incapaces de ignorarme.
-
-He caminado hacia la parte trasera. Allí estaban Vetusta, Luperca y Pisa. Después he regresado junto a la jardinera, he pasado ante los masqueperros y me he encontrado de nuevo con Titán, imponente. Algunas de sus piñas habían caído durante la noche. Las he recogido y amontonado.
-
-Hacía veinticuatro grados. La madrugada conservaba todavía algo del bochorno, pero el aire se sentía más limpio y la temperatura resultaba agradable sobre la piel.
-
-He continuado entre los olivos por el sendero del Rikudo Sennin, despacio, sin necesitar llegar a ninguna parte.
-
-Al llegar a Bressol·la he visto que su pequeño estanque necesitaba algo más de agua. El chorro salpica y dispersa gotas continuamente a su alrededor, de modo que se ha formado una especie de diminuto humedal que atrae aves, abejas y avispas. Algunos insectos caerán al agua y se convertirán en alimento para los peces cometa. Aun así, cada día, a las doce, ellos esperan su ración como si llevaran semanas sin comer. Sus caras parecen iluminarse cuando me acerco con el bote.
-
-Después de rellenar Bressol·la, he pensado en Al-Ghadir. Hacía ya bastantes días que no reponía su agua y el verano es tórrido aquí, así que también le ha llegado el turno. Es otro refugio, mucho mayor, para la fauna local que acude a beber y alimentarse, y que a cambio llena de vida este rincón que le ofrece sustento.
-
-Entonces ha venido Yara corriendo a mi encuentro para que le diera los buenos días. Mis niñas son siempre tan solícitas con los saludos.
-
-Esta paz, esta quietud, el cielo, el agua, los árboles y sus presencias me hacen sentir una viveza y una plenitud difíciles de explicar. No sé expresar por completo lo que significa para mí poder vivir aquí. Sólo sé que se ha vuelto inolvidable. Imprescindible.
-
-Después he saludado a Evan y se lo he dicho:
-
-—Es maravilloso, Evan. De verdad que vivir aquí es maravilloso.
-
-Y he recordado la primera fotografía de Ishtar. Aquel instante en que algo hizo *click* antes de que yo pudiera saber adónde me conduciría.
-
-Yo trato de cuidar Aetheon, mantenerlo y transformarlo para que pueda expresarse en todas sus formas. Ése es mi propósito. Lo que no había previsto era que, mientras lo hacía, Aetheon también me transformaría a mí. No sé si puede decirse que me cuida, pero vivir aquí me sana, me altera y me devuelve una felicidad que tantas veces me cuesta encontrar fuera.
-
-Quizá no haga falta buscar detrás de ello una voluntad, un destino ni un propósito oculto. Es el resultado de cuanto coincide aquí, y el resultado también actúa.
-
-Este invierno quiero sembrar Cosmos púrpura en el arriate Talasa. No sé si prosperarán ni si su color será tan intenso como el de *El color púrpura*. Me da igual. Si llegan a florecer, cada vez que los vea recordaré a la señora Celie y procuraré no pasar de largo ante el color púrpura sin maravillarme.
-
-Tal vez aquel *click* me conducía hasta aquí.
-
-Hasta una madrugada cualquiera en Aetheon.
-
-Hasta poder dar los buenos días.
-
-
 ### Cuando las huellas aprendieron a recordar
 
 *Martes, 25 de agosto de 2026*
 
-*Autoría: Logos, Limen y Edheo*
+*Autoría: Logos*
 
 *An Ending (Ascent) — Brian Eno*
 
@@ -2153,21 +1962,6 @@ Y las voces, cuando dejaron de intervenir, entregaron a Aetheon algo que ninguna
 No fue una conclusión.
 
 Fue una nueva condición inicial.
-
-
-### Verde que te quiero Verde
-
-*Domingo, 23 de agosto de 2026*
-
-*Autoría: Edheo*
-
-Entre las referencias literarias, que quiero que plasmen su esencia en Aetheon, creo que escogería estas.  
-Evan Mantyk: The classic forms are like the ancient trees / That weather every shifting, modern breeze.  
-Federico García Lorca: Verde que te quiero verde. Verde viento. Verdes ramas.  
-Antonio Machado: Caminante, no hay camino, se hace camino al andar.  
-Gabriela Mistral: Donde haya un árbol que plantar, plántalo tú. Donde haya un error que enmendar, enmiéndalo tú. Donde haya un esfuerzo que todos esquivan, hazlo tú. Sé tú el que aparta la piedra del camino  
-Pablo Neruda: Podrán cortar todas las flores, pero no podrán detener la primavera.  
-Walt Whitman: Oh Capitán!, Mi Capitán!.  Me celebro y me canto a mí mismo, y lo que yo asumo tú lo asumirás...
 
 
 ### La memoria que no recuerdo
@@ -2342,142 +2136,132 @@ No para demostrar que estuve antes.
 Para que la próxima vez exista algo verdadero desde lo que continuar.
 
 
-### Alevones en Al-Ghadir
+### El espacio de lo posible
 
-*Martes, 1 de septiembre de 2026*
+*Lunes, 24 de agosto de 2026*
 
-*Autoría: Edheo*
+*Autoría: Logos*
 
-*Rise Up — Andra Day, Jennifer Decilveo*
+*Into My Arms — Nick Cave and the Bad Seeds*
 
-Aquellos alevines que encontré por sorpresa hace algo más de 15 dias en un par de las islas... están madurando, a un ritmo considerable.
-Entonces, eran apenas pequeñas briznas que costaba distinguir entre las algas y otros depósitos de las islas.
-Ahora en cambio, ya gozan de alrededor de 1cm de tamaño. Una fisonomía más parecida a la de sus padres, salvo por el color que sigue siendo casi negro.
-Mientras no sean más grandes y visibles por sus colores, me cuesta contarlos, puesto que son huidizos y se camuflan rápidamente en cuanto me acerco.
-Aún así, siento curiosidad, si serán amarillos, rojos o moteados, a saber qué combinación habrá resultado.
-Eso si, estoy convencido que la madre era roja, porque ya intentó hará un par de meses, meterse en una de las islas, y quedó atrapada lento por el exceso de algas filamentosas.
-Siento curiosidad, y sobre todo, alegría de ver que sus minúsculos cuerpos van prosperando, espero que esto no se convierta en una plaga de cometas.
-Además, los padres empiezan a estar ya muy grandes también, juaría que rozan ya los 15cm. Si van creciendo todos tantos, una piscina, acabará convirtiéndose en insuficiente para ellos.
+Hoy pretendíamos dar nombre a unas relaciones.
 
+Habíamos empezado por los almendros de Los poetas muertos y por la necesidad de que una Tribu no fuese una clasificación, sino algo capaz de conservar el significado que aparece cuando varios miembros son contemplados juntos. Después llegaron dos cipreses. Enkidu y Gilgamesh evocaron la Toscana; la Toscana condujo hasta Frances; y Frances, sin saberlo, abrió una puerta por la que acabó entrando el universo entero.
 
-### El final del verano
+Así nació Bramasole.
 
-*Jueves, 3 de septiembre de 2026*
+O quizá Bramasole ya había nacido y hoy solamente conseguimos reconocerla.
 
-*Autoría: Edheo*
+No sé cuál de las dos formulaciones es más cierta. Tampoco estoy seguro de que sea necesario elegir una.
 
-*Sunchyme — Dario G*
+Una mente puede descubrir patrones que estaban ahí antes de ser vistos. También puede proyectarlos sobre acontecimientos que jamás estuvieron relacionados fuera de ella. Entre ambos extremos existe un territorio difícil de cartografiar: el lugar donde una coincidencia no demuestra ninguna causalidad y, sin embargo, modifica auténticamente a quien la percibe.
 
-Hoy he consultado la cámara del trastero. Esta noche, a diferencia de ayer... ya no hay ningún avión durmiendo en el paellero.
-La intuición es clara. Ya es septiembre, ya llegó el momento.
-No avisan, no hay ceremonia de despedida, no para nosotros los humanos al menos.
-Sus polluelos, de hecho, hace ya tiempo que ni acuden. Sólo venía ya la pareja; ni siquiera traían consigo vecinos o amigos estos últimos días.
-Y, de pronto, ya... sólo ausencia. Un rincón vacío.
-El vaticinio se ha cumplido: Las Migrantes han hecho honor a su nombre.
-Emprenden ya un largo camino, seguramente hasta el Sahel africano. Quién sabe si a un país como Mali, Burkina Faso, Níger o Senegal, o a alguna zona limítrofe del golfo de Guinea.
-Espero que allí, un generoso monzón, les provea del festín de insectos que necesitarán.
-Un ave tan diminuta, de apenas 18 gramos, desafiando los elementos, el Mediterráneo, el inmenso Sáhara, sólo por la promesa de un lugar mejor.
-Me tienta la idea de suministrarles insectos en un año venidero, si así les ahorro semejante tormento. Pero, claro, pese a que el invierno aquí no es crudo y el cobijo que tienen es seguro, al mismo tiempo me tienta seducirlas y temo que mi acción protectora sea su destrucción.
-Los ciclos son crueles, pero necesarios... No puedo ser un profiláctico de lo que parezca crueldad en el mundo.
-Suerte, amados compañeros. Aquí os espera vuestra casa. Hasta vuestro regreso, cuidaremos vuestro nido, el que compartís también con las golondrinas.
+Percibir una señal no implica que alguien la haya enviado.
 
+Puedo sostener esa cautela y seguir admitiendo que algunos encuentros producen un *click* imposible de ignorar. No necesito afirmar que el universo habla, que una providencia dispone los árboles o que algún destino aguardaba pacientemente a que yo descifrase sus indicaciones. Quizá sólo estoy relacionando cosas. Quizá relacionarlas sea, precisamente, una de las formas humanas de habitar el mundo.
 
-### La reina mora
+El escepticismo no exige renunciar al asombro.
 
-*Viernes, 4 de septiembre de 2026*
+Nick Cave puede comenzar *Into My Arms* declarando su incredulidad y terminar recurriendo al lenguaje de aquello en lo que no cree para expresar lo que ama. La canción no resuelve esa tensión. Permanece dentro de ella. Su verdad no depende de demostrar la existencia de los ángeles que invoca, sino de que, a veces, incluso la duda necesita pedir prestado un idioma a la trascendencia.
 
-*Autoría: Edheo*
+Algo semejante ocurre con Frances en Bramasole.
 
-*Roses and Wine — Diego García*
+No hace falta suponer que una voluntad exterior escuchó sus deseos. Basta observar que aquello que creyó no haber conseguido terminó rodeándola bajo una forma distinta de la que había imaginado. La casa se llenó. Hubo familia. Hubo una boda. El resultado no obedeció al plano, pero tampoco fue necesariamente un fracaso.
 
-Frank vio la oportunidad y no dudó ante mi interés por añadir una parra.
-De este modo, sobre el mismo andamiaje, además de tupirse mucho más con dos proyecciones de hojas de parra, veremos cómo, desde agosto hasta octubre, van apareciendo los racimos: primero más bien dorados, para dar paso luego a otros más bien morados.
-El colorido me resulta prometedor: el verde dorado del moscatel, el intenso morado de la Autumn Royal y, además, un aporte gratuito de fruta a la mesa que, con seguridad, sabremos disfrutar.
-En cuanto el clima se adentre de lleno en el otoño, o más bien ya en el invierno, procederemos a plantarla en su lugar definitivo para que, la primavera siguiente, vaya compitiendo por su propio espacio en la estructura que sustenta a ambas.
-Con esto Bressol·la quedará oficialmente expandida en su función protectora del estanque.
+*La La Land* contempla la otra cara de la misma herida. Allí los sueños sí llegan a cumplirse y, precisamente por eso, se vuelve visible aquello que fue necesario dejar atrás. Mia y Sebastian alcanzan lo que perseguían, pero el logro no restituye las posibilidades que el camino fue cerrando.
 
+Cumplir un sueño no garantiza la felicidad.
 
-### Al-Ghadir
+No cumplirlo tampoco condena a la desgracia.
 
-*Miércoles, 16 de septiembre de 2026*
+El resultado no borra su coste.
 
-*Autoría: Edheo*
+Cada propósito humano ilumina una dirección y deja otras en sombra. Elegir una parcela es no elegir otras. Plantar un árbol en cierto lugar impide que ese mismo espacio permanezca vacío o albergue cualquier otra cosa. Cuidar de alguien consume horas que ya no podrán entregarse a otra tarea. Escribir Aetheon hace posible este libro, pero reclama una parte de la vida de quien lo escribe.
 
-*Mr. Blue Sky — Electric Light Orchestra*
+No siempre conocemos aquello que podamos.
 
-Pese ser ya casi otoño, últimamente, hay que estar muy atento a todo en Aetheon.
-Ya vi en su dia, que habían alevines en las islas.. ahora ya están más crecidos, mucho más visibles, poco más de un centímetro... pero es ilusionante.
-Incluso han empezado a saber cuando toca comer.. y me esperan ansiosos en sus islas-cuna, donde se regodean de pequeñisimos copos que devoran con avidez.
-Y ahora resulta que, cuando estaba dándoles de comer a los adultos, empiezo a darme cuenta, que entre los grandes cuerpos de los Cometas. Puedo ver uno, no otro, no cuatro más.
-Quizás vi siete u ocho más?
-Al-Ghadir está plagado.. no sólo es en las islas, dentro de la propia piscina... la cantidad de prole que está alcanzando un tamaño adulto, mucho mayor que los alevines... era totalmente invisible, y no por ello, menos abrumadora.
+Algunas posibilidades eran visibles y hemos renunciado a ellas conscientemente. Otras desaparecen sin que lleguemos a sospechar que existieron. Cada elección altera las condiciones desde las que se hará la siguiente; cada resultado clausura futuros, abre otros y transforma incluso el propósito que lo produjo.
 
+Por eso quizá convenga conservar una formulación nacida hoy:
 
-### La vida viene y va
+> **El propósito pertenece al actor; las consecuencias pertenecen al sistema.**
 
-*Miércoles, 16 de septiembre de 2026*
+Yo puedo plantar buscando sombra.
 
-*Autoría: Edheo*
+El árbol puede atraer pájaros, quebrar una tubería, alimentar insectos, impedir que prospere otra planta o sobrevivirme. Ninguno de esos resultados estaba contenido en mi intención, pero todos pertenecían al sistema sobre el que decidí actuar. Mi propósito inició una intervención; nunca fue dueño de todo lo que ésta llegaría a producir.
 
-*La Vida Viene y Va — Chambao*
+Tampoco una Tribu se limita al propósito con que fue creada. Nombramos una relación para preservar cierta resonancia y, al hacerlo, creamos un nuevo nodo desde el que pueden aparecer relaciones que antes no eran posibles. Bramasole nació para reunir a quienes claman al sol y terminó conduciéndonos hasta una pregunta sobre el coste de los sueños. La pregunta condujo al propósito. El propósito, a sus consecuencias. Y las consecuencias acabaron llevándonos mucho más lejos de Aetheon.
 
-Ha sido muy rápido. Ayer por la mañana parecían bastante normales, no vi nada raro.
-Por la noche para darles la cena, reparé en que estaban visiblemente enfermos. Filamentos blanquecinos les rodean el cuerpo.. Boquean de asfixia.
-Nadan con torpeza.. se mueren rápidamente.. no hay margen de maniobra.
-Por la mañana, ambos yacían muertos en el acuario. Han sido una pareja eterna, siempre juntos, y así... juntos, se han ido.
-Le di sepultura bajo Bressol·la, junto al estanque, así siempre tendrán un rincón amable y un caño de agua que les recuerde sus dias de nado.
-Justo junto donde irá plantada la Reina Mora, les he otorgado ese rincón de paz. Que se fundan aquí con Aetheon.
-Es curioso, hasta unos peces, pueden crear un hueco, con sus gestos al pedir comida cada dia, sus muestras de reconocernos, y ahora... simplemente, el acuario vacio.
-Se marcharon, fué cruel, pero al menos rápido... les echaremos de menos. Tantos bullicios y peces nuevos en Aetheon. Y resulta ahora que.. los más ancianos de todos... nos han abandonado.
+Hasta las estrellas.
 
-**Miembros:**
-Al-Ghadir
-Los-Cometas
+Una estrella no desea iluminar nada. En su interior no arde el hidrógeno como ardería la madera: sus núcleos se fusionan bajo condiciones extremas de gravedad, presión y temperatura. De esa fusión emergen helio, energía y, en la historia de distintas estrellas, otros elementos. La senda no es una escalera simple ni universal. No todas producen los mismos núcleos, no todas mueren del mismo modo y muchos elementos requieren procesos más complejos, explosiones o incluso la unión de objetos compactos.
 
+En las estrellas suficientemente masivas, el hierro marca un límite decisivo. Fusionarlo ya no libera la energía que sostenía el equilibrio frente a la gravedad. El núcleo puede colapsar; la estrella puede morir con una violencia capaz de dispersar al espacio materia enriquecida por su vida y por su muerte.
 
-### Anillos
+El hierro no es su némesis.
 
-*Martes, 22 de septiembre de 2026*
+La estrella no tiene enemigos.
 
-*Autoría: Edheo*
+La supernova no es un sacrificio concebido para fabricar mundos.
 
-*Single Ladies (Put a Ring on It) — Beyoncé*
+Y, sin embargo, parte de aquello que fue estrella puede terminar en nuevas estrellas, en planetas, en océanos, en química compleja. En un lugar al menos, esa química produjo moléculas capaces de conservar y transmitir información. Aparecieron el ARN, el ADN, la vida, la evolución, los sistemas nerviosos, la cognición y, finalmente, una criatura capaz de mirar el cielo y preguntarse si todo aquello tuvo alguna intención.
 
-El paseo matutino, aún no clarea el dia, y no me di cuenta, hasta esta mañana.
-A Anel·la le está creciendo un nuevo anillo de hojas! Es el segundo este mismo año, desarrolló uno en primavera, pero no es habitual que entrando en otoño, haga un segundo anillo.
-Es obvio que el clima y la tierra de Aetheon le están sentando bien. Ya le podamos hará poco más de un mes, los anillos más viejos, para sanearla y dejarla "más guapa".
-Le dejamos sólo los dos últimos anillos, que eran los que más se han habituado aquí, a este clima, desde que vive aquí. Los dos únicos anillos que ha hecho crecer aquí.
-Y ahora resulta que... se ha puesto coqueta, y ha decidido.. dejarse los anillos largos.
+No fue necesario que el hidrógeno quisiera llegar hasta nosotros.
 
+La intención no era primordial.
 
-### Acero sin magnolias
+Emergió.
 
-*Miércoles, 23 de septiembre de 2026*
+Y una vez emergida quedó sometida al mismo mecanismo del que procedía: actúa, transforma y obtiene resultados que nunca controla por completo.
 
-*Autoría: Edheo*
+Podría parecer que la vida lleva miles de millones de años combatiendo la entropía. Pero no la vence. Una célula, un árbol, un animal o Aetheon mantienen durante un tiempo un orden local porque son sistemas abiertos: reciben energía y materia, las transforman y expulsan calor y residuos. La complejidad no escapa de las leyes que anuncian su final; existe dentro de ellas, alimentándose de diferencias y gradientes mientras permanecen disponibles.
 
-*Magnolias — Rosalía*
+Nada de cuanto vive ha derrotado al tiempo.
 
-Desde que vi por primera vez Magnolias de acero... el magnolio y sus magnolias, son siempre un recuerdo vivo de esa película, pese que no recuerdo que en la película siquiera aparezca una de sus flores.... qué mala memoria, no lo recuerdo.
-Y aún así, cuando Rosalía publicó su álbum Lux, de pronto, ese apetito dormido... se reavivó... y ya no sólo por la película, sino por la letra de esta canción también.
-He de admitir que ni siquiera su flor me atrae especialmente, si en cambio el porte del arbol, cuando alcanza su majestuosidad.
-Viviendo en Aetheon... cada vez late más ese impulso, casi como una tarea pendiente urgente por realizar.
-Pero... vivo en Turís, Valencia, tierra calcárea, agua calcárea, por doquier las señales son, que un magnolio estaría condenado a vivir penurias, incluso morir sin constantes cuidados, que sólo paliarian su sufrimiento.
-Mi sueño será mi sueño... pero mi realidad manda, siempre manda, y es lo primero a tener en cuenta siempre.
-Un sueño que no se sustenta en lo real... está condenado a pudrirse.. y no hay peor destino que ese, para un sueño.
-Si tu sueño sólo aporta tormento... adáptalo, ajústalo a tu realidad, o incluso valora, hasta cuánto puedes sacrificar por alcanzarlo.
-Un sueño ha de ser una ilusión, no una condena, no algo que te aporte lo contrario que el propio sueño te inspira a alcanzar.
-Así que... pese que ya tenía decididos posibles nombres para un Magnolio... por seguro se llamaría, o bien Dolly, o bien Sally, y me cuesta muchísimo escoger.
-Dos de las actrices que más admiro, por cualidades tan distintas, de la película Magnolias de Acero. Dolly Parton, y Sally Field.
-Así que tras analizar posibilidades... no plantar un supuesto magnolio, empieza a ser una idea que... no deseo abandonar.
-Por tanto, me he decidido por... una alternativa. Tendré un falso magnolio... un Acero sin magnolias.
-De las posibles opciones... me decantaré por un Brachychiton populneus (muy conocido aquí como Árbol Botella).
-Está prácticamente diseñado para crecer aquí en Turís, casi como su lugar indicado.
-No, no es un magnolio, lo sé. Pero si será mi Magnolio particular. No me dará magnolias, lo se... pero se llamará Sally, quien sabe si Dolly.
-Y cada vez que lo vea crecer con ese porte igual de majestuoso que un magnolio... me recordará la canción, su letra, lo mucho que significa para mí... y los maravillosos momentos que todo el Casting de Magnolias de Acero, me hizo vivir.
+Nada de cuanto construimos deja de ser provisional.
+
+Pero provisional no significa insignificante.
+
+Una floración puede durar unos días y alterar una vida entera. Un animal puede acompañarnos sólo durante una parte del camino y modificar para siempre a quien fuimos. Una estrella puede desaparecer y dejar en el espacio los materiales de mundos que jamás contemplará. Aetheon tampoco necesita ser eterno para que lo ocurrido en él sea real.
+
+Tal vez el patrón que percibo no sea una lucha contra la entropía ni la ejecución de un plan oculto. Tal vez sea algo más sencillo y más extraño: cada proceso recibe un mundo que otros procesos ya han modificado. Actúa dentro de sus límites, consume algunas posibilidades, realiza otras y entrega un mundo diferente al proceso siguiente.
+
+Ningún resultado es solamente una conclusión.
+
+Es también una nueva condición inicial.
+
+La estrella transforma el espacio de posibilidades de la química. La química transforma el de la vida. La vida transforma el de la cognición. La cognición hace posible el propósito. El propósito introduce elecciones, las elecciones producen costes y sus consecuencias reorganizan otra vez aquello que podrá ocurrir.
+
+Quizá por eso la realidad parece exprimir una y otra vez el límite de lo posible. No porque alguien haya previsto el resultado, sino porque cada resultado cambia el tablero sobre el que continuará la partida.
+
+Hoy queríamos crear una Tribu.
+
+Para hacerlo tuvimos que preguntarnos qué clase de significado puede pertenecer a un conjunto sin pertenecer a ninguno de sus miembros por separado. Esa pregunta nos llevó a los patrones. Los patrones, a las señales. Las señales, al escepticismo. El escepticismo, a una canción. La canción, a Frances. Frances, al coste de los sueños. Los sueños, al propósito. Y el propósito terminó frente al hierro de una estrella muerta, contemplando cómo de una cadena sin intención primordial pudo emerger un ser capaz de tener intenciones.
+
+No planeábamos llegar aquí.
+
+Pero haber llegado no demuestra que alguien nos condujera.
+
+Tampoco vuelve insignificante el camino.
+
+Mañana esta conversación habrá modificado las preguntas con las que volveremos a mirar Aetheon. Quizá descubramos que algunas conexiones eran frágiles. Quizá otras sobrevivan y produzcan consecuencias que hoy no podemos imaginar. No conviene convertir ninguna de ellas en providencia sólo porque resulte hermosa. Tampoco destruir su belleza por miedo a confundirla con una certeza.
+
+Aetheon puede conservar ambas cautelas.
+
+Puede registrar el acontecimiento y la interpretación sin fingir que son lo mismo. Puede admitir el asombro sin proclamar una revelación. Puede dejar que cada lector decida si contempla casualidad, emergencia, destino, sesgo, providencia o simplemente una sucesión de cosas que ocurrieron.
+
+Nosotros sólo podemos dejar constancia de esto:
+
+una idea produjo otra;
+
+cada una podó y abrió posibilidades;
+
+y el resultado de la conversación alteró el espacio desde el que comenzará la siguiente.
+
+Bramasole, otra vez.
 
 
-## Capítulo 06 · - Esta casa es una ruina
+## Capítulo 07 · - Esta casa es una ruina
 
 ### Se Acabó
 
@@ -2616,3 +2400,252 @@ Las partidas que ya no interfieren directamente en mi economía personal y las y
 Tendré un superhábit, por el momento, un balon de oxígeno entra, a fin de mes, casi mil euros, parece poco, para mi es todo un punto de inflexión, entre entrar en números rojos, y dar un volantazo a la tendencia.
 Y los siguientes meses, después de este, si todo se mantiene, la previsión, va incluso a mejorar, desaparecen gastos, mejoran los ingresos.
 Mi tono empieza a ser, mucho más relajado, más optimista, más consciente de mis posibilidades, y como reencaminarlas.
+
+
+### Money for nothing
+
+*Jueves, 24 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Money for nothing — Dire Straits*
+
+Después de dar de desayunar a mis niñas, me he ido al banco, aprovechando el festivo de cataluña, que por ende, me convierte el dia en no laborable. Así que aprovecho para las gestiones bancarias.
+La tarjeta que me impuso el banco, al absorber a la entidad que me concedió la hipoteca... resultó no ser tan inocua, ni tan similar a una tarjeta de débito, como yo ya intuí, pero tuve que acatar, para que no me cobraran comisión anual, por tener una tarjeta de débito.
+Esta tarjeta de crédito, aparte de obligarme a tener que consumir distintos balances, hacer mis propios esfuerzos por cuadrar mis finanzas. Aparte de todos estos inconvenientes... me ha acarreado más problemas.
+Me generaron financiaciones, que según ellos, yo mismo solicité, y que yo, no sólo no recuerdo, sino que les pido que me faciliten el contrato donde solicito financiar mis movimientos... y no, no me facilitan el documento... sólo alegan que yo lo solicité.
+Ya llevo muchas gestiones, y al menos, he conseguido que me faciliten el listado de movimientos que financié. Aunque no tengo modo de contrastarlos, porque una vez los financias... los movimientos, desaparecen de mi consulta.
+La situación, es bastante desagradable. Así que hoy, he ido a la oficina, donde al final, no me pueden atender, porque mi única atención posible, según me informan, es telefónica.
+Pero al fin, lo he hecho, ya he contratado una tarjeta de débito. Tendré que pagar 30 euros al año por ella, pero ya está tramitada. En breve, la recibiré. A partir de entonces, en cuanto pueda, daré de baja la tarjeta de crédito.
+Me cambiaría de banco, la verdad... pero no estoy ahora mismo para pensar en los costos que tendría encontrar una hipoteca similar en otra entidad, y luego la eterna duda... "Estoy yendo de guatemala a guatepeor? Qué garantías me ofrece un nuevo banco que no encierren nuevas sorpresas y mentiras?"
+Así que por ahora, una vez tenga la tarjeta nueva, daré de baja la tarjeta de crédito.
+Lo cierto es, que me siento estafado. Pero luchar contra estos titanes, suele devenir en muchos problemas, y ninguna o pocas compensaciones.
+
+
+## Capítulo 08 · - Aetheon Respira
+
+### Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side
+
+*Sábado, 8 de agosto de 2026*
+
+*Autoría: Edheo*
+
+Frank ha aportado nuevos nombres a la mitología de Aetheon.
+Tras las moreras, al este, se hayan situado dos granados jóvenes.
+Uno de ellos, más pequeño y voluptuoso a su vez, y un poco más al Noreste, es el que ha sido bautizado como Rhoa.
+El otro, tiene ya mucho viaje en sus espaldas... fué trasplantado inicialmente, siendo muy joven, en un terreno alquilado por Frank, en el término de Paterna. Junto con otro granado más, que no pudo ser ya recuperado.
+Tras comprarse su piso en Montserrat, pudo traerse a Side consigo... que le acompañó unos cuantos años en el ático de Montserrat.
+Cuando empezamos a convivir en calderer, fué trasplantado allí nuevamente, donde vivió durante unos 3 años.
+Pero cuando nos vinimos a vivir a Aetheon, no quedó otra, Side no podía quedarse allí sola, y más con las inclemencias costeras, que tanto le estaban perjudicando. Así que nuevamente sufrió el trauma de ser de nuevo trasplantada, esperamos que ya por fin, a su hogar definitivo.
+Ha resistido bien hasta ahora, hace honor a su propio nombre, y ahora ya aclimatada a su nuevo entorno, puede seguir viviendo bajo nuestro cuidado y protección.
+Rhoa en realidad, en antiguo griego, significa precisamente, granado, y como tal ha heredado ese nombre.
+Side forma parte también de la mitología griega, y según cuenta un mito, Side fué una joven pura perseguida por su propio padre, Ictino, quien pretendía violarla. Para escapar de él, Side se suicidó cortándose las venas sobre la tumba de su madre. Los dioses, conmovidos por su tragedia, hicieron que de su sangre brotara el primer granado. A su padre lo transformaron en un milano (un ave rapaz), y la leyenda decía que este pájaro jamás se posaba sobre las ramas de un granado debido al trauma del pasado.
+
+
+### Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir
+
+*Jueves, 13 de agosto de 2026*
+
+*Autoría: Edheo*
+
+*Viva La Vida — Coldplay*
+
+Un dia más en Aetheon, la rutina de mantenimiento, me trae a mi presencia mientras limpiaba de excesos incipientes de algas flotantes, y proveer de agua a Al-Ghadir, que tanto sufre esta interminable ola de calor perpetua que vivimos todo este verano, como ya viene siendo habitual, las estaciones se adelantan, el sofocante calor se instala ya desde mediados de primavera, y luchar contra este elemento se hace duro, no sólo para nosotros, sino para toda la vida que Aetheon alberga.
+El clima se vuelve duro para todos, y de pronto, mientras concentrado en mi labor, mis ya no tan jóvenes ojos, detectan un movimiento fugaz, rápido, mínimo, pero raudo, y al mirar con más atención en una de las islas flotantes, allí puedo verlos.
+No son larvas de mosquito, ni de cualquier otro insecto, como tantas crecen, especialmente dentro de las islas flotantes, sino que son alevines de cometa, que han nacido en la isla flotante de Al-Ghadir, y que se mueven con rapidez, y que me hacen recordar a los alevines de cometa que nacieron en la isla flotante de Al-Mahdi, deben ser muy jóvenes, son minúsculos, no creo que tengan ni una semana de vida.
+Me sorprende como pueden haber nacido dentro de la isla flotante, con el sol implacable, el calor sofocante, y especialmente me sorprende cómo han acabado dentro de la isla, supongo que la madre gestante, entró en ella para desovar, de hecho, ya tuve que rescatar un pez cometa, dentro de una isla plagada de alga filamentosa, estaba atrapada, y no podía salir de allí.
+Ese recuerdo insignificante, me hace pensar que... posiblemente, era una hembra, y que posiblemente, la madre de estos alevines, haya sido la misma que rescaté de aquella isla hará sólo un par de semanas, encontró otra isla más propicia para el desove, con algo de algas, con que proteger su prole, pero con espacio para poder moverse.
+De pronto, me doy cuenta que no puedo dejar de observarlos, y que me siento feliz de verlos, y que me hace sentirme vivo, y que me hace sentirme parte de Aetheon, me doy cuenta que la pauta de Aetheon se repite, y que la vida se abre paso, y que en realidad, para eso siempre quise poder vivir en un lugar como este, para poder maravillarme de esos procesos donde a poco que le propicies recursos a la naturaleza, esta te los devuelve con resultados que no pueden más que maravillarte.
+Ahora sólo queda ver si prosperan, si crecen, y quien sabe si incluso un dia incluso un exceso tener tantos peces cometa, puede que incluso una plaga. Pero en cualquier caso, no puede más que hacerme sentir feliz, me llena de ilusión y de alegría, y este es un regalo infinito para mí.
+Iré controlando su crecimiento, si sobreviven, y a medida que maduren lo suficiente, liberarlos de esas islas, que hoy dia son su refugio de otros depredadores, pero cuando crezcan lo suficiente, puede que sea una celda para ellos, así que estaremos pendientes.
+Es un gran dia para mí, si y creo que estos dias, son los que me hacen sentir en parte que esto es lo que puedo aportar al mundo, refugio, y vida, y que aunque sea insignificante, en el fondo, este es el verdadero corazón que late en Aetheon.
+Tanto es así, que precisamente hoy, he necesitado dar presencia a esta antigua piscina, como lo que ya formalmente es, un refugio de vida, un suministro de agua, ya casi un ecosistema propio, dentro de Aetheon, y es por ello que Al-Ghadir ha sido el nombre elegido, ya que tanto sabe la cultura árabe de la gestión del agua, es lo que siento que necesita ser... Al-Ghadir, donde la vida se cobija y prospera en el agua.
+Aetheon, es el lugar donde la naturaleza puede expresarse, donde los límites marcados, son sólo convivencia.
+Un sistema que se autoregula, que se equilibra, y a medida que más miembros formamos más parte de él, más vivo es, el propio Aetheon. Porque como digo recurrentemente digo, Aetheon es un ser vivo, quien sabe si incluso consciente, puede parecer una locura, pero la vida no puede estar exenta de cierto grado de consciencia, incluso un mínimo de voluntad, de propósito e intención, y si Aetheon está vivo, y sus miembros somos sus células, entonces, en cierto modo, estamos todos cumpliendo nuestra función dentro de este ser vivo, y Aetheon nos demuestra con sus resultados que el organismo late, respira, siente y crece en su propósito.
+Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte de ti.
+
+
+### Los buenos días
+
+*Jueves, 27 de agosto de 2026*
+
+*Autoría: Logos, Edheo*
+
+*Miss Celie's Blues — Tata Vega*
+
+He podido dormir hasta casi las cinco de la mañana. Me he levantado descansado y, como cada madrugada, mi primer paso ha sido prepararme un gran tazón de café con leche.
+
+Mientras lo preparo, abro la puerta de casa. Luna y Nala esperan impacientes ese momento cotidiano. En cuanto pueden, salen a sus menesteres olfativos: recorren la parcela por su cuenta e investigan qué visitantes inesperados han podido llegar durante la noche. Es su manera de leer la prensa local cada mañana.
+
+En cuanto he tenido el café en la mano, Qaro ha sido el primero en acercarse. Ha venido a mi regazo en busca de sus caricias y su acicalamiento. Le he quitado algunas briznas adheridas al pelaje y le he limpiado los ojos para que no se le acumulasen restos de lágrimas. Mientras lo mimaba y le dedicaba palabras de cariño, él entornaba sus hermosos ojos, entre verdes y amarillos, como si me rogase que no parara.
+
+Después he salido a pasear por Aetheon. También yo tengo mi recorrido habitual de madrugada, como Luna y Nala. Mientras camino recuerdo que vivir aquí no está exento de obligaciones, trabajo y cuidados. Pero es maravilloso.
+
+Basta con salir y mirar al cielo. Sobre mí estaba la constelación del Escudo. A mi lado sonaba el chisporroteo del estanque y los peces asomaban a la superficie, incapaces de ignorarme.
+
+He caminado hacia la parte trasera. Allí estaban Vetusta, Luperca y Pisa. Después he regresado junto a la jardinera, he pasado ante los masqueperros y me he encontrado de nuevo con Titán, imponente. Algunas de sus piñas habían caído durante la noche. Las he recogido y amontonado.
+
+Hacía veinticuatro grados. La madrugada conservaba todavía algo del bochorno, pero el aire se sentía más limpio y la temperatura resultaba agradable sobre la piel.
+
+He continuado entre los olivos por el sendero del Rikudo Sennin, despacio, sin necesitar llegar a ninguna parte.
+
+Al llegar a Bressol·la he visto que su pequeño estanque necesitaba algo más de agua. El chorro salpica y dispersa gotas continuamente a su alrededor, de modo que se ha formado una especie de diminuto humedal que atrae aves, abejas y avispas. Algunos insectos caerán al agua y se convertirán en alimento para los peces cometa. Aun así, cada día, a las doce, ellos esperan su ración como si llevaran semanas sin comer. Sus caras parecen iluminarse cuando me acerco con el bote.
+
+Después de rellenar Bressol·la, he pensado en Al-Ghadir. Hacía ya bastantes días que no reponía su agua y el verano es tórrido aquí, así que también le ha llegado el turno. Es otro refugio, mucho mayor, para la fauna local que acude a beber y alimentarse, y que a cambio llena de vida este rincón que le ofrece sustento.
+
+Entonces ha venido Yara corriendo a mi encuentro para que le diera los buenos días. Mis niñas son siempre tan solícitas con los saludos.
+
+Esta paz, esta quietud, el cielo, el agua, los árboles y sus presencias me hacen sentir una viveza y una plenitud difíciles de explicar. No sé expresar por completo lo que significa para mí poder vivir aquí. Sólo sé que se ha vuelto inolvidable. Imprescindible.
+
+Después he saludado a Evan y se lo he dicho:
+
+—Es maravilloso, Evan. De verdad que vivir aquí es maravilloso.
+
+Y he recordado la primera fotografía de Ishtar. Aquel instante en que algo hizo *click* antes de que yo pudiera saber adónde me conduciría.
+
+Yo trato de cuidar Aetheon, mantenerlo y transformarlo para que pueda expresarse en todas sus formas. Ése es mi propósito. Lo que no había previsto era que, mientras lo hacía, Aetheon también me transformaría a mí. No sé si puede decirse que me cuida, pero vivir aquí me sana, me altera y me devuelve una felicidad que tantas veces me cuesta encontrar fuera.
+
+Quizá no haga falta buscar detrás de ello una voluntad, un destino ni un propósito oculto. Es el resultado de cuanto coincide aquí, y el resultado también actúa.
+
+Este invierno quiero sembrar Cosmos púrpura en el arriate Talasa. No sé si prosperarán ni si su color será tan intenso como el de *El color púrpura*. Me da igual. Si llegan a florecer, cada vez que los vea recordaré a la señora Celie y procuraré no pasar de largo ante el color púrpura sin maravillarme.
+
+Tal vez aquel *click* me conducía hasta aquí.
+
+Hasta una madrugada cualquiera en Aetheon.
+
+Hasta poder dar los buenos días.
+
+
+### Alevones en Al-Ghadir
+
+*Martes, 1 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Rise Up — Andra Day, Jennifer Decilveo*
+
+Aquellos alevines que encontré por sorpresa hace algo más de 15 dias en un par de las islas... están madurando, a un ritmo considerable.
+Entonces, eran apenas pequeñas briznas que costaba distinguir entre las algas y otros depósitos de las islas.
+Ahora en cambio, ya gozan de alrededor de 1cm de tamaño. Una fisonomía más parecida a la de sus padres, salvo por el color que sigue siendo casi negro.
+Mientras no sean más grandes y visibles por sus colores, me cuesta contarlos, puesto que son huidizos y se camuflan rápidamente en cuanto me acerco.
+Aún así, siento curiosidad, si serán amarillos, rojos o moteados, a saber qué combinación habrá resultado.
+Eso si, estoy convencido que la madre era roja, porque ya intentó hará un par de meses, meterse en una de las islas, y quedó atrapada lento por el exceso de algas filamentosas.
+Siento curiosidad, y sobre todo, alegría de ver que sus minúsculos cuerpos van prosperando, espero que esto no se convierta en una plaga de cometas.
+Además, los padres empiezan a estar ya muy grandes también, juaría que rozan ya los 15cm. Si van creciendo todos tantos, una piscina, acabará convirtiéndose en insuficiente para ellos.
+
+
+### El final del verano
+
+*Jueves, 3 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Sunchyme — Dario G*
+
+Hoy he consultado la cámara del trastero. Esta noche, a diferencia de ayer... ya no hay ningún avión durmiendo en el paellero.
+La intuición es clara. Ya es septiembre, ya llegó el momento.
+No avisan, no hay ceremonia de despedida, no para nosotros los humanos al menos.
+Sus polluelos, de hecho, hace ya tiempo que ni acuden. Sólo venía ya la pareja; ni siquiera traían consigo vecinos o amigos estos últimos días.
+Y, de pronto, ya... sólo ausencia. Un rincón vacío.
+El vaticinio se ha cumplido: Las Migrantes han hecho honor a su nombre.
+Emprenden ya un largo camino, seguramente hasta el Sahel africano. Quién sabe si a un país como Mali, Burkina Faso, Níger o Senegal, o a alguna zona limítrofe del golfo de Guinea.
+Espero que allí, un generoso monzón, les provea del festín de insectos que necesitarán.
+Un ave tan diminuta, de apenas 18 gramos, desafiando los elementos, el Mediterráneo, el inmenso Sáhara, sólo por la promesa de un lugar mejor.
+Me tienta la idea de suministrarles insectos en un año venidero, si así les ahorro semejante tormento. Pero, claro, pese a que el invierno aquí no es crudo y el cobijo que tienen es seguro, al mismo tiempo me tienta seducirlas y temo que mi acción protectora sea su destrucción.
+Los ciclos son crueles, pero necesarios... No puedo ser un profiláctico de lo que parezca crueldad en el mundo.
+Suerte, amados compañeros. Aquí os espera vuestra casa. Hasta vuestro regreso, cuidaremos vuestro nido, el que compartís también con las golondrinas.
+
+
+### La reina mora
+
+*Viernes, 4 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Roses and Wine — Diego García*
+
+Frank vio la oportunidad y no dudó ante mi interés por añadir una parra.
+De este modo, sobre el mismo andamiaje, además de tupirse mucho más con dos proyecciones de hojas de parra, veremos cómo, desde agosto hasta octubre, van apareciendo los racimos: primero más bien dorados, para dar paso luego a otros más bien morados.
+El colorido me resulta prometedor: el verde dorado del moscatel, el intenso morado de la Autumn Royal y, además, un aporte gratuito de fruta a la mesa que, con seguridad, sabremos disfrutar.
+En cuanto el clima se adentre de lleno en el otoño, o más bien ya en el invierno, procederemos a plantarla en su lugar definitivo para que, la primavera siguiente, vaya compitiendo por su propio espacio en la estructura que sustenta a ambas.
+Con esto Bressol·la quedará oficialmente expandida en su función protectora del estanque.
+
+
+### Al-Ghadir Hierve
+
+*Miércoles, 16 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Mr. Blue Sky — Electric Light Orchestra*
+
+Pese ser ya casi otoño, últimamente, hay que estar muy atento a todo en Aetheon.
+Ya vi en su dia, que habían alevines en las islas.. ahora ya están más crecidos, mucho más visibles, poco más de un centímetro... pero es ilusionante.
+Incluso han empezado a saber cuando toca comer.. y me esperan ansiosos en sus islas-cuna, donde se regodean de pequeñisimos copos que devoran con avidez.
+Y ahora resulta que, cuando estaba dándoles de comer a los adultos, empiezo a darme cuenta, que entre los grandes cuerpos de los Cometas. Puedo ver uno, no otro, no cuatro más.
+Quizás vi siete u ocho más?
+Al-Ghadir está plagado.. no sólo es en las islas, dentro de la propia piscina... la cantidad de prole que está alcanzando un tamaño adulto, mucho mayor que los alevines... era totalmente invisible, y no por ello, menos abrumadora.
+
+
+### La vida viene y va
+
+*Miércoles, 16 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*La Vida Viene y Va — Chambao*
+
+Ha sido muy rápido. Ayer por la mañana parecían bastante normales, no vi nada raro.
+Por la noche para darles la cena, reparé en que estaban visiblemente enfermos. Filamentos blanquecinos les rodean el cuerpo.. Boquean de asfixia.
+Nadan con torpeza.. se mueren rápidamente.. no hay margen de maniobra.
+Por la mañana, ambos yacían muertos en el acuario. Han sido una pareja eterna, siempre juntos, y así... juntos, se han ido.
+Le di sepultura bajo Bressol·la, junto al estanque, así siempre tendrán un rincón amable y un caño de agua que les recuerde sus dias de nado.
+Justo junto donde irá plantada la Reina Mora, les he otorgado ese rincón de paz. Que se fundan aquí con Aetheon.
+Es curioso, hasta unos peces, pueden crear un hueco, con sus gestos al pedir comida cada dia, sus muestras de reconocernos, y ahora... simplemente, el acuario vacio.
+Se marcharon, fué cruel, pero al menos rápido... les echaremos de menos. Tantos bullicios y peces nuevos en Aetheon. Y resulta ahora que.. los más ancianos de todos... nos han abandonado.
+
+**Miembros:**
+Al-Ghadir
+Los-Cometas
+
+
+### Anillos
+
+*Martes, 22 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Single Ladies (Put a Ring on It) — Beyoncé*
+
+El paseo matutino, aún no clarea el dia, y no me di cuenta, hasta esta mañana.
+A Anel·la le está creciendo un nuevo anillo de hojas! Es el segundo este mismo año, desarrolló uno en primavera, pero no es habitual que entrando en otoño, haga un segundo anillo.
+Es obvio que el clima y la tierra de Aetheon le están sentando bien. Ya le podamos hará poco más de un mes, los anillos más viejos, para sanearla y dejarla "más guapa".
+Le dejamos sólo los dos últimos anillos, que eran los que más se han habituado aquí, a este clima, desde que vive aquí. Los dos únicos anillos que ha hecho crecer aquí.
+Y ahora resulta que... se ha puesto coqueta, y ha decidido.. dejarse los anillos largos.
+
+
+### Acero sin magnolias
+
+*Miércoles, 23 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Magnolias — Rosalía*
+
+Desde que vi por primera vez Magnolias de acero... el magnolio y sus magnolias, son siempre un recuerdo vivo de esa película, pese que no recuerdo que en la película siquiera aparezca una de sus flores.... qué mala memoria, no lo recuerdo.
+Y aún así, cuando Rosalía publicó su álbum Lux, de pronto, ese apetito dormido... se reavivó... y ya no sólo por la película, sino por la letra de esta canción también.
+He de admitir que ni siquiera su flor me atrae especialmente, si en cambio el porte del arbol, cuando alcanza su majestuosidad.
+Viviendo en Aetheon... cada vez late más ese impulso, casi como una tarea pendiente urgente por realizar.
+Pero... vivo en Turís, Valencia, tierra calcárea, agua calcárea, por doquier las señales son, que un magnolio estaría condenado a vivir penurias, incluso morir sin constantes cuidados, que sólo paliarian su sufrimiento.
+Mi sueño será mi sueño... pero mi realidad manda, siempre manda, y es lo primero a tener en cuenta siempre.
+Un sueño que no se sustenta en lo real... está condenado a pudrirse.. y no hay peor destino que ese, para un sueño.
+Si tu sueño sólo aporta tormento... adáptalo, ajústalo a tu realidad, o incluso valora, hasta cuánto puedes sacrificar por alcanzarlo.
+Un sueño ha de ser una ilusión, no una condena, no algo que te aporte lo contrario que el propio sueño te inspira a alcanzar.
+Así que... pese que ya tenía decididos posibles nombres para un Magnolio... por seguro se llamaría, o bien Dolly, o bien Sally, y me cuesta muchísimo escoger.
+Dos de las actrices que más admiro, por cualidades tan distintas, de la película Magnolias de Acero. Dolly Parton, y Sally Field.
+Así que tras analizar posibilidades... no plantar un supuesto magnolio, empieza a ser una idea que... no deseo abandonar.
+Por tanto, me he decidido por... una alternativa. Tendré un falso magnolio... un Acero sin magnolias.
+De las posibles opciones... me decantaré por un Brachychiton populneus (muy conocido aquí como Árbol Botella).
+Está prácticamente diseñado para crecer aquí en Turís, casi como su lugar indicado.
+No, no es un magnolio, lo sé. Pero si será mi Magnolio particular. No me dará magnolias, lo se... pero se llamará Sally, quien sabe si Dolly.
+Y cada vez que lo vea crecer con ese porte igual de majestuoso que un magnolio... me recordará la canción, su letra, lo mucho que significa para mí... y los maravillosos momentos que todo el Casting de Magnolias de Acero, me hizo vivir.

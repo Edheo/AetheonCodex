@@ -35,13 +35,15 @@ El prodigio sin propósito
 
 ## Literaria
 ### Capítulo
-05 - Evolución
+06 - Hazme un Codex de Aetheon
 
 ### Secuencia
-130
+040
 
 ### Autoría
-Logos, Limen y Edheo
+Logos
+Limen
+Edheo
 
 ### Contenido
 
