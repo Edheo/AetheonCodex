@@ -36,7 +36,7 @@ Docenas de ellos, diría yo.
 ### Capítulo
 08 - Aetheon Respira
 ### Secuencia
-080
+070
 ### Autoría
 Edheo
 

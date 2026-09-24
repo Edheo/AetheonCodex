@@ -71,14 +71,14 @@
 - **Capítulo 08 · - Aetheon Respira**
   - 010 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
   - 020 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
-  - 040 · Los buenos días — `2026-08-27_Los-buenos-dias.md`
-  - 050 · Alevones en Al-Ghadir — `2026-09-01_Alevines-en-Al-Ghadir.md`
-  - 060 · El final del verano — `2026-09-03_El-final-del-verano.md`
-  - 070 · La reina mora — `2026-09-04_La-reina-mora.md`
-  - 080 · Al-Ghadir Hierve — `2026-09-16_Al-Ghadir-hierve.md`
-  - 090 · La vida viene y va — `2026-09-18_La-vida-viene-y-va.md`
-  - 100 · Anillos — `2026-09-22_Anillos.md`
-  - 110 · Acero sin magnolias — `2026-09-23_Acero-sin-magnolias.md`
+  - 030 · Los buenos días — `2026-08-27_Los-buenos-dias.md`
+  - 040 · Alevones en Al-Ghadir — `2026-09-01_Alevines-en-Al-Ghadir.md`
+  - 050 · El final del verano — `2026-09-03_El-final-del-verano.md`
+  - 060 · La reina mora — `2026-09-04_La-reina-mora.md`
+  - 070 · Al-Ghadir Hierve — `2026-09-16_Al-Ghadir-hierve.md`
+  - 080 · La vida viene y va — `2026-09-18_La-vida-viene-y-va.md`
+  - 090 · Anillos — `2026-09-22_Anillos.md`
+  - 100 · Acero sin magnolias — `2026-09-23_Acero-sin-magnolias.md`
 
 ### Pendientes de clasificación
 
@@ -2878,7 +2878,7 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 - **Origen:** `2026-08-27_Los-buenos-dias.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 040
+- **Secuencia:** 030
 
 He podido dormir hasta casi las cinco de la mañana. Me he levantado descansado y, como cada madrugada, mi primer paso ha sido prepararme un gran tazón de café con leche.
 
@@ -2935,7 +2935,7 @@ Hasta poder dar los buenos días.
 - **Origen:** `2026-09-01_Alevines-en-Al-Ghadir.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 050
+- **Secuencia:** 040
 
 Aquellos alevines que encontré por sorpresa hace algo más de 15 dias en un par de las islas... están madurando, a un ritmo considerable.
 Entonces, eran apenas pequeñas briznas que costaba distinguir entre las algas y otros depósitos de las islas.
@@ -2959,7 +2959,7 @@ Además, los padres empiezan a estar ya muy grandes también, juaría que rozan 
 - **Origen:** `2026-09-03_El-final-del-verano.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 060
+- **Secuencia:** 050
 
 Hoy he consultado la cámara del trastero. Esta noche, a diferencia de ayer... ya no hay ningún avión durmiendo en el paellero.
 La intuición es clara. Ya es septiembre, ya llegó el momento.
@@ -2987,7 +2987,7 @@ Suerte, amados compañeros. Aquí os espera vuestra casa. Hasta vuestro regreso,
 - **Origen:** `2026-09-04_La-reina-mora.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 070
+- **Secuencia:** 060
 
 Frank vio la oportunidad y no dudó ante mi interés por añadir una parra.
 De este modo, sobre el mismo andamiaje, además de tupirse mucho más con dos proyecciones de hojas de parra, veremos cómo, desde agosto hasta octubre, van apareciendo los racimos: primero más bien dorados, para dar paso luego a otros más bien morados.
@@ -3008,7 +3008,7 @@ Con esto Bressol·la quedará oficialmente expandida en su función protectora d
 - **Origen:** `2026-09-16_Al-Ghadir-hierve.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 080
+- **Secuencia:** 070
 
 Pese ser ya casi otoño, últimamente, hay que estar muy atento a todo en Aetheon.
 Ya vi en su dia, que habían alevines en las islas.. ahora ya están más crecidos, mucho más visibles, poco más de un centímetro... pero es ilusionante.
@@ -3030,7 +3030,7 @@ Al-Ghadir está plagado.. no sólo es en las islas, dentro de la propia piscina.
 - **Origen:** `2026-09-18_La-vida-viene-y-va.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 090
+- **Secuencia:** 080
 
 Ha sido muy rápido. Ayer por la mañana parecían bastante normales, no vi nada raro.
 Por la noche para darles la cena, reparé en que estaban visiblemente enfermos. Filamentos blanquecinos les rodean el cuerpo.. Boquean de asfixia.
@@ -3058,7 +3058,7 @@ Los-Cometas
 - **Origen:** `2026-09-22_Anillos.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 100
+- **Secuencia:** 090
 
 El paseo matutino, aún no clarea el dia, y no me di cuenta, hasta esta mañana.
 A Anel·la le está creciendo un nuevo anillo de hojas! Es el segundo este mismo año, desarrolló uno en primavera, pero no es habitual que entrando en otoño, haga un segundo anillo.
@@ -3079,7 +3079,7 @@ Y ahora resulta que... se ha puesto coqueta, y ha decidido.. dejarse los anillos
 - **Origen:** `2026-09-23_Acero-sin-magnolias.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 110
+- **Secuencia:** 100
 
 Desde que vi por primera vez Magnolias de acero... el magnolio y sus magnolias, son siempre un recuerdo vivo de esa película, pese que no recuerdo que en la película siquiera aparezca una de sus flores.... qué mala memoria, no lo recuerdo.
 Y aún así, cuando Rosalía publicó su álbum Lux, de pronto, ese apetito dormido... se reavivó... y ya no sólo por la película, sino por la letra de esta canción también.

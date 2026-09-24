@@ -35,7 +35,7 @@ Walt
 
 ## Literaria
 **Capítulo:**
-07 - Aetheon Respira
+08 - Aetheon Respira
 **Secuencia:**
 060
 ### Autoría

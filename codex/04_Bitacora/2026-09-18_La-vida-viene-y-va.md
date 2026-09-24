@@ -23,7 +23,7 @@ Según la IA, me indica que probablemente es una infección por Flavobacterium c
 ### Capítulo
 08 - Aetheon Respira
 ### Secuencia
-090
+080
 ### Autoría
 Edheo
 
