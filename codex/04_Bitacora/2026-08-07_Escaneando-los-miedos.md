@@ -20,7 +20,7 @@ Edheo
 ### Capítulo
 01 - No es la vida de Chuck
 ### Secuencia
-060
+070
 ### Autoría
 Edheo
 

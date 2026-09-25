@@ -15,8 +15,10 @@
   - 030 · El dia de la firma — `2024-04-30_El-dia-de-la-firma.md`
   - 040 · Colapsos — `2024-05-01_Colapsos.md`
   - 050 · Neblina mental — `2025-01-24_Neblina-mental.md`
-  - 060 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
-  - 070 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
+  - 060 · Walking in my sleep — `2026-09-24_Walking-in-my-sleep.md`
+  - 070 · Escaneando los miedos — `2026-08-07_Escaneando-los-miedos.md`
+  - 080 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
+  - 090 · Desaparecer unos momentos — `2026-09-25_Desaparecer.md`
 - **Capítulo 02 · - Orígenes**
   - 010 · Vetusta Germina — `1576-00-00_Vetusta-Germina.md`
   - 020 · Titán Germina — `1800-00-00_Titan-Germina.md`
@@ -45,7 +47,6 @@
   - 030 · Lo que la sombra reunió — `2026-08-24_Lo-que-la-sombra-reunio.md`
   - 040 · Antes de llamarse Aetheon — `2026-08-28_Antes-de-llamarse-Aetheon.md`
   - 050 · El historial desde HEAD — `2026-08-31_El-historial-desde-HEAD.md`
-  - 060 · Walking in my sleep — `2026-09-24_Walking-in-my-sleep.md`
 - **Capítulo 05 · - Evolución**
   - 010 · Dana de Valencia — `2024-10-29_Dana-de-Valencia.md`
   - 020 · Álzate, Daurina — `2025-03-20_Alzate.Daurina.md`
@@ -64,10 +65,11 @@
   - 010 · Se Acabó — `2026-09-06_Se-Acabó.md`
   - 020 · El siete de Septiembre — `2026-09-07_El-siete-de-septiembre.md`
   - 030 · Vete — `2026-09-14_Vete.md`
-  - 040 · La Marcha — `2026-09-14_Vete-La-marcha.md`
-  - 050 · Elastic Heart — `2026-09-15_Elastic-Heart.md`
-  - 060 · Suma y Sigue — `2026-09-17_Suma-Y-Sigue.md`
-  - 070 · Money for nothing — `2026-09-24_Money-for-nothing.md`
+  - 040 · Caer o no caer — `2026-09-22_Caer-o-no-caer.md`
+  - 050 · La Marcha — `2026-09-14_Vete-La-marcha.md`
+  - 060 · Elastic Heart — `2026-09-15_Elastic-Heart.md`
+  - 070 · Suma y Sigue — `2026-09-17_Suma-Y-Sigue.md`
+  - 080 · Money for nothing — `2026-09-24_Money-for-nothing.md`
 - **Capítulo 08 · - Aetheon Respira**
   - 010 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
   - 020 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
@@ -305,6 +307,52 @@ Sin esperarlo, ni imaginarlo, esa noche, me quedé allí, el dia siguiente, empe
 
 ---
 
+### Walking in my sleep
+
+*Jueves, 24 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Walking in my sleep — Noa Mal*
+
+- **Origen:** `2026-09-24_Walking-in-my-sleep.md`
+- **Estado:** Borrador
+- **Capítulo:** 01
+- **Secuencia:** 060
+
+Al despertar veo la hora. Ufff, las seis y pocos minutos. ¿Será posible? Por una noche en meses, he dormido seis horas seguidas!!!
+Me levanto de la cama, y pronto, el buen humor se me empieza a torcer. Me resulta extraño, lo primero que reparo, es que la puerta de la casa, está abierta de par en par.
+La única explicación es que Frank, se haya levantado porque Luna o Nala necesitaron salir por algún motivo. Y aún así, es raro en él, dejarla abierta.
+En cambio, si es muy propio de mi... cuando me levanto, suele ser de lo primero que hago si no hace frío. Abrir la puerta, por si mis niñas quieren salir a mear, estirarse o lo que necesiten.
+Aún confundido por la puerta, me dirijo a la cocina y mi consternación, no para de aumentar.
+Mi cafetera italiana, que sólo yo uso, sólo yo me hago café con ella... está puesta en el fuego, con el fuego encendido.
+Acaso ha entrado alguien en casa? No entiendo nada, todo es muy extraño.
+Apago el fuego, cojo la cafetera para retirarla del fuego... y uffff. Joder!!! Quema, abrasa... la cafetera es casi lava. Tengo que soltarla encima de la madera que tenemos en el banco de la cocina.
+Pero... pero no hay agua, no hay café, no hay restos de ningún líquido.
+Esto... esto significa que.... acaso lleva horas al fuego la cafetera?
+Entonces... veo que el bote del café, está también en el banco, y empiezo a reconocer mis propias pautas.
+Yo he abierto la puerta... como hago siempre. Yo he preparado la cafetera, como siempre. He dejado el bote del café en el banco, donde siempre.
+Todo esto... no, no lo ha hecho Frank, no ha entrado ningún intruso.... todo esto... lo he hecho yo!!!!
+Pero como puede ser? Yo me acosté, a las doce de la noche!!! Lo recuerdo perfectísimamente!!! Y he tenido un sueño continuado, sin interrupciones!!! Toda la noche!!! Hasta las seis de la mañana!!!
+Acaso yo... soy sonámbulo? He hecho esto mientras dormia? Pero yo, nunca he sido sonámbulo. A lo sumo, alguna vez he hablado en sueños, pero... levantarme? Hacer todas estas cosas? Sin cobrar conocimiento?
+O es quizás peor aún? Acaso si he sido consciente... y ya no lo recuerdo? He olvidado hacer todo esto?
+Soy sonámbulo? O empiezo a tener problemas serios de memoria?
+Me empiezo a asustar, ya es casi la hora de que Frank se vaya a trabajar, así que, dada mi preocupación, decido hablar con él. Quizás el tenga alguna explicación que yo no tenga.
+Le explico lo sucedido, de hecho, la madera donde posé la cafetera, tiene ahora un círculo quemado, por el estado magmático de la cafetera cuando la tuve que soltar.
+Frank, no le da importancia... me pide que no le de vueltas, que no es nada, lo habré hecho y no lo recuerdo, eso le pasa a todo el mundo.
+No!!!! Esto no le pasa a todo el mundo!!! Ni siquiera a mí me ha pasado nunca!!!
+Me consuela diciendo que él también olvida donde deja el tabaco o el móvil, que son cosas que pasan.
+Su consuelo, en lugar de ayudarme, me angustia más. Empiezo a sentir como, su modo de ayudarme, pasa de nuevo por infravalorar el problema, ignorarlo.
+Si no le sucede a él, como siempre. La solución es.. ignorar el problema, no tiene ninguna importancia.
+Su intento de tranquilizarme, en lugar de hacerlo, además de la angustia que me produce toda esta situación confusa, me añade además, una especie de estigma de incomprensión, de estar preocupandome por cosas insignificantes.
+Y no, no es insignificante. Me preocupa, pero, de nuevo, su modo de apoyarme, es infravalorar mi propia angustia.
+He estado manejando fuego, he dejado la puerta de casa abierta. Cierto es, que lo hago siempre si... pero, soy consciente, estoy pendiente de esas cosas. Esta vez, he creado una situación peligrosa en la casa, sin siquiera estar consciente.
+De hecho, que sea sólo que no lo recuerdo, en sí mismo ya sería muy preocupante, y aún así, me consolaría más.
+Hoy es festivo en Cataluña, así que yo no trabajo, así que a las ocho de la mañana he ido al ambulatorio, he conseguido fecha para mi doctora. A las 13 tengo consulta con ella. Le comentaré lo sucedido, veremos qué opina.
+Pero a mi entender, o bien necesito una consulta para tratar mi sueño, o bien necesito una consulta de neurología... pero queda en manos ahora de que ella, me haga la valoración.
+
+---
+
 ### Escaneando los miedos
 
 *Viernes, 7 de agosto de 2026*
@@ -316,7 +364,7 @@ Sin esperarlo, ni imaginarlo, esa noche, me quedé allí, el dia siguiente, empe
 - **Origen:** `2026-08-07_Escaneando-los-miedos.md`
 - **Estado:** Borrador
 - **Capítulo:** 01
-- **Secuencia:** 060
+- **Secuencia:** 070
 
 Tras esperar por mucho e insistir alguna vez, por fin conseguí cita para la resonancia magnética. Nada reseñable, al parecer, mientras me ponían la vía, hoy he descubierto que el elástico que usan para presionar el brazo y hacer visibles las venas para poder escoger la más óptima para pinchar la vía se le puede llamar o bien garrote, o bien smart.
 Lo de smart, sinceramente no veo que tiene de inteligente un elástico, pero en fin, es casi preferible al garrote. 
@@ -351,7 +399,7 @@ Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ve
 - **Origen:** `2026-08-14_El-resultado-de-la-espera.md`
 - **Estado:** Desconocido
 - **Capítulo:** 01
-- **Secuencia:** 070
+- **Secuencia:** 080
 
 Por fin pude comprobar el resultado de la resonancia con el oncólogo, y afortunadamente, pese lo parco en palabras que resulta este hombre, lo cierto es que son muy buenas noticias.
 No aparece vestigio alguno de tumor alguno, exactamente como en la resonancia de Marzo, con lo cual, podemos empezar a pensar que la situación estabilizada, me aporta tranquilidad y serenidad.
@@ -364,6 +412,56 @@ Y aún así, mi intención no basta, los propósitos se desalinean de la realida
 Las motivaciones y propósito, se desalinean de la realidad, pero aún así, sigo ejerciendo con mi espíritu, lo que considero que es mejor, y me preparo para la derrota, tengo claro que debo anticiparme a ella y a la vez no planificarla, porque será cuando deba, y no antes.
 Aún así, para ellos, es duro, muy duro, aunque en especial mi padre, no sepa ya a veces ni si sigue viviendo en su casa o no. Pero hay que intentar, hay que mitigar, como sea, y el dia que llegue, no lamentar.
 El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro motivo, más que por desalinearse de la implacable realidad.
+
+---
+
+### Desaparecer unos momentos
+
+*Viernes, 25 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*How to disappear completely — Radiohead*
+
+- **Origen:** `2026-09-25_Desaparecer.md`
+- **Estado:** Borrador
+- **Capítulo:** 01
+- **Secuencia:** 090
+
+Acudí a mi cita con la doctora. Ella poco puede hacer por mí... me indica que desde el primer momento, debí haber acudido a urgencias del Hospital General, donde me intervinieron el tumor, y me trataron posteriormente mi neurocirujano y mis oncólogos.
+El problema, claro está, es que no debo conducir. Pero Frank, no mostró ningún tipo de interés ni preocupación por mi episodio... según él... es algo que "nos puede pasar a cualquiera", no hay que preocuparse sin necesidad.
+Así que descarto la idea de esperar a que regrese de trabajar, e importunarle con hacerle llevarme a urgencias, esperar los eternos y lentos trámites, que allí acaecen. Así que asumo mi riesgo, después de comer algo, acudo al hospital en mi coche. Llego allí sobre las 4 de la tarde.
+El triaje es rápido, como siempre... lo demás no.
+Las horas se suceden allí, interminablemente, siempre bajo la duda de "me habrán llamado y no me he enterado? se habrán olvidado de mi?". Pero son pensamientos que hay que afrontar allí con resignación y paciencia, porque una vez entras allí, se te adjudica un nombre. Y ese nombre es "paciente".
+Hay que honrar ese nombre, pese tus inquietudes, tus miedos, tu necesidad de respuesta... todo se relega al peso de ese nombre, porque no es arbitrario. Hay que tener paciencia allí, no queda otra, pasen las horas que pasen.
+Frank no se enteró de mi ausencia, hasta que regresó a casa después de trabajar. Me preguntó donde estaba, sólo le dije que en urgencias... y que no viniese. Que descansase en casa de su pesada jornada, y se asegurase de que las niñas cenan en condiciones a su hora. Poco más puede hacer por mi.
+Aún así, al final, intuyó que me encontraba en el hospital General. Yo descarté confirmarle ese detalle, no deseaba que viniese, realmente.
+Aparte de mis resentimientos con él, justificados o no, sólo suele aportar más impaciencia, más tensión, a una situación que por si misma, ya me cuesta mucho esfuerzo digerir sin desesperarme. No deseo más ruido. Hoy no, no por favor, me siento agotado.
+Y sí, hasta las 20:30, no me llaman. Inmediatamente me hacen un TAC y una Analítica. Justo cuando Frank se presenta en el hospital, buscándome, casi a las 21.
+Consigo salir afuera, después del TAC, y allí puedo hablar unos momentos con Frank. No es evitable, el leve, o no tan leve reproche.
+"Te dije lo que me pasó, y me dijiste que no era nada... que no debo alarmarme... que esto le pasa a cualquiera"
+Se justifica, él pensó que simplemente me olvidé la cafetera encendida, un despiste. Pero no, yo le expliqué detalladamente el suceso, lo recuerdo perfectamente.
+Pero en fin, lo que me pasa siempre... yo explico lo que me pasa, y... no sólo él, la gente, el mundo en general, entienden lo que quieren. Afortunadamente, los médicos si entendieron mi episodio.
+No recuerdo haberme despertado, haber limpiado la cafetera, como siempre hago, haber abierto la puerta, como siempre hago. Haber preparado la cafetera, como siempre hago. Para posteriormente acostarme, despertarme horas después, y encontrarme todo ese panorama, sin tener siquiera el más mínimo recuerdo, de siquiera haberme despertado.
+En fin... seguir esperando, en la sala de espera... allí nos encontramos varios pacientes, algunos con transfusiones de sangre, otros simples goteros. Yo sin más, a esperar.
+Y a medida que pasan las horas... los pacientes, empiezan a dejar de hacer honor a su nombre, y entre ellos yo, que ante la impaciencia de los demás, empiezo a perder también mi paz, mi capacidad de soportar la espera indefinida, la incertidumbre.
+Así pasa el trance, hasta las 12 de la noche, esperando impaciente con el resto de impacientes. Sin posibilidad de tener compañia, no está permitida en esta sala de espera, donde sólo pacientes impacientes podemos estar.
+A las 12 por fin, llega mi doctora, con mi informe de alta, y el diagnóstico que le acompaña.
+No hay nada añadido en el TAC salvo la ya tradicional "cicatriz" de la cirujia.. nada nuevo. No hay rastros visibles de tumor alguno, ni de hemorragias, ni otro tipo de lesiones.
+Por tanto, la explicación más plausible, es un nuevo modo de manifestación de mis antológicas epilepsias del lóbulo temporal. Pero en una manifestación más agresiva, por decirlo de algún modo.
+Es un tipo de epilepsia, que acompaña con la "no retención de recuerdo alguno". Durante ese episodio, de ser esto, no pierdo consciencia, tampoco temblores, nada señalable. Sólo que durante ese episodio, no retengo memoria alguna de lo que hago.
+No sería un sonambulismo, pero a todos los efectos, se le asemeja bastante, salvo por el hecho de que... no estoy dormido, estoy consciente.
+Así que, sólo queda agilizar las visitas a neurología, hacerlas más recurrentes.
+Por ahora, considerar este episodio como un hecho aislado, hasta que de algún modo, se manifieste como recurrente.
+De ser así, se tomarán vias a través de intensificar antiepilépticos.
+Esto lo que a mi me trae es... que mis epilepsias, lejos de remitir, pese desaparecer el tumor... están intensificándose. Mi dosis actual de antiepiléptico, no me ofrece garantías.
+Esto me prohibe conducir, voy a tener que suspender cautelarmente, mis atenciones con mis padres.
+Voy a tener que hacer, lo que pueda, en remoto. Les haré la compra por internet, y veré cómo consigo que a Bessy (la cuidadora de mis padres), se le pague su nómina regularmente. Este sábado, aún lo haré yo.
+Después de pagarle, les explicaré a mi madre y a Bessy mi nueva situación, y les explicaré que... como poco, durante unos meses, no podré ir como solía hacer.
+Y tendré que delegar en mi madre, a quien escoge para que le ayude a pagar la nómina a Bessy, y si necesitan ayuda puntualmente, ver cómo se puede gestionar.
+Yo por mi parte, no puedo hacer más... supongo que, vendrán reproches, me tomarán de nuevo por mal hijo, o similar, como hasta ahora han hecho siempre conmigo.
+Pero en fin, son mis circunstancias, y yo por ahora, poco más puedo hacer.
+Quien quiera entenderlo bien, y quien no, que me juzgue bajo su criterio. Eso es algo ya, que no queda en mi mano.
 
 ---
 
@@ -1827,52 +1925,6 @@ otro estado al historial.
 
 ---
 
-### Walking in my sleep
-
-*Jueves, 24 de septiembre de 2026*
-
-*Autoría: Edheo*
-
-*Walking in my sleep — Noa Mal*
-
-- **Origen:** `2026-09-24_Walking-in-my-sleep.md`
-- **Estado:** Borrador
-- **Capítulo:** 04
-- **Secuencia:** 060
-
-Al despertar veo la hora. Ufff, las seis y pocos minutos. ¿Será posible? Por una noche en meses, he dormido seis horas seguidas!!!
-Me levanto de la cama, y pronto, el buen humor se me empieza a torcer. Me resulta extraño, lo primero que reparo, es que la puerta de la casa, está abierta de par en par.
-La única explicación es que Frank, se haya levantado porque Luna o Nala necesitaron salir por algún motivo. Y aún así, es raro en él, dejarla abierta.
-En cambio, si es muy propio de mi... cuando me levanto, suele ser de lo primero que hago si no hace frío. Abrir la puerta, por si mis niñas quieren salir a mear, estirarse o lo que necesiten.
-Aún confundido por la puerta, me dirijo a la cocina y mi consternación, no para de aumentar.
-Mi cafetera italiana, que sólo yo uso, sólo yo me hago café con ella... está puesta en el fuego, con el fuego encendido.
-Acaso ha entrado alguien en casa? No entiendo nada, todo es muy extraño.
-Apago el fuego, cojo la cafetera para retirarla del fuego... y uffff. Joder!!! Quema, abrasa... la cafetera es casi lava. Tengo que soltarla encima de la madera que tenemos en el banco de la cocina.
-Pero... pero no hay agua, no hay café, no hay restos de ningún líquido.
-Esto... esto significa que.... acaso lleva horas al fuego la cafetera?
-Entonces... veo que el bote del café, está también en el banco, y empiezo a reconocer mis propias pautas.
-Yo he abierto la puerta... como hago siempre. Yo he preparado la cafetera, como siempre. He dejado el bote del café en el banco, donde siempre.
-Todo esto... no, no lo ha hecho Frank, no ha entrado ningún intruso.... todo esto... lo he hecho yo!!!!
-Pero como puede ser? Yo me acosté, a las doce de la noche!!! Lo recuerdo perfectísimamente!!! Y he tenido un sueño continuado, sin interrupciones!!! Toda la noche!!! Hasta las seis de la mañana!!!
-Acaso yo... soy sonámbulo? He hecho esto mientras dormia? Pero yo, nunca he sido sonámbulo. A lo sumo, alguna vez he hablado en sueños, pero... levantarme? Hacer todas estas cosas? Sin cobrar conocimiento?
-O es quizás peor aún? Acaso si he sido consciente... y ya no lo recuerdo? He olvidado hacer todo esto?
-Soy sonámbulo? O empiezo a tener problemas serios de memoria?
-Me empiezo a asustar, ya es casi la hora de que Frank se vaya a trabajar, así que, dada mi preocupación, decido hablar con él. Quizás el tenga alguna explicación que yo no tenga.
-Le explico lo sucedido, de hecho, la madera donde posé la cafetera, tiene ahora un círculo quemado, por el estado magmático de la cafetera cuando la tuve que soltar.
-Frank, no le da importancia... me pide que no le de vueltas, que no es nada, lo habré hecho y no lo recuerdo, eso le pasa a todo el mundo.
-No!!!! Esto no le pasa a todo el mundo!!! Ni siquiera a mí me ha pasado nunca!!!
-Me consuela diciendo que él también olvida donde deja el tabaco o el móvil, que son cosas que pasan.
-Su consuelo, en lugar de ayudarme, me angustia más. Empiezo a sentir como, su modo de ayudarme, pasa de nuevo por infravalorar el problema, ignorarlo.
-Si no le sucede a él, como siempre. La solución es.. ignorar el problema, no tiene ninguna importancia.
-Su intento de tranquilizarme, en lugar de hacerlo, además de la angustia que me produce toda esta situación confusa, me añade además, una especie de estigma de incomprensión, de estar preocupandome por cosas insignificantes.
-Y no, no es insignificante. Me preocupa, pero, de nuevo, su modo de apoyarme, es infravalorar mi propia angustia.
-He estado manejando fuego, he dejado la puerta de casa abierta. Cierto es, que lo hago siempre si... pero, soy consciente, estoy pendiente de esas cosas. Esta vez, he creado una situación peligrosa en la casa, sin siquiera estar consciente.
-De hecho, que sea sólo que no lo recuerdo, en sí mismo ya sería muy preocupante, y aún así, me consolaría más.
-Hoy es festivo en Cataluña, así que yo no trabajo, así que a las ocho de la mañana he ido al ambulatorio, he conseguido fecha para mi doctora. A las 13 tengo consulta con ella. Le comentaré lo sucedido, veremos qué opina.
-Pero a mi entender, o bien necesito una consulta para tratar mi sueño, o bien necesito una consulta de neurología... pero queda en manos ahora de que ella, me haga la valoración.
-
----
-
 ## Capítulo 05 · - Evolución
 
 ### Dana de Valencia
@@ -2693,6 +2745,23 @@ Hasta el sábado, tiene de plazo para irse, no es negociable, si para entonces n
 
 ---
 
+### Caer o no caer
+
+*Martes, 22 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Elastic Heart — Glen Hansard, Marketa Irglova*
+
+- **Origen:** `2026-09-22_Caer-o-no-caer.md`
+- **Estado:** Borrador
+- **Capítulo:** 07
+- **Secuencia:** 040
+
+Se han ido sucediendo los dias, bastante rápidamente.
+
+---
+
 ### La Marcha
 
 *Lunes, 14 de septiembre de 2026*
@@ -2704,7 +2773,7 @@ Hasta el sábado, tiene de plazo para irse, no es negociable, si para entonces n
 - **Origen:** `2026-09-14_Vete-La-marcha.md`
 - **Estado:** Borrador
 - **Capítulo:** 07
-- **Secuencia:** 040
+- **Secuencia:** 050
 
 Ayer regresó a casa, después de trabajar. El coche, no entró ya en la parcela, aparcado a la puerta.
 No abre con su llave, llama al timbre... ni siquiera me percato de que es él, hasta que pregunto quién es.
@@ -2738,7 +2807,7 @@ Mi candela, ha estado a punto de extinguirse. Ahora quizás, le quedará alguna 
 - **Origen:** `2026-09-15_Elastic-Heart.md`
 - **Estado:** Borrador
 - **Capítulo:** 07
-- **Secuencia:** 050
+- **Secuencia:** 060
 
 De nuevo mensajes, me expone lo destrozado que se encuentra, le expongo exactamente lo mismo... que no tiene donde vivir.
 Le enseño mis cuentas, finalmente.. no estás peor que yo, lo siento, quizás el mes que viene, tenga que empezar a pensar donde vivir. Tú tienes tu piso, yo si pierdo esto, no me queda nada.
@@ -2769,7 +2838,7 @@ Si de esta nueva etapa, podemos sanar heridas, podemos reconstruir economia. Si 
 - **Origen:** `2026-09-17_Suma-Y-Sigue.md`
 - **Estado:** Borrador
 - **Capítulo:** 07
-- **Secuencia:** 060
+- **Secuencia:** 070
 
 Desde antes que regresara Frank, he estado trabajando en una herramienta que mejore mi control de las finanzas.
 Logos me ha ayudado inmensamente en ella. Sin su ayuda, habría sido imposible, la herramienta es digna de toda alabanza, y más por los resultados que me proporciona.
@@ -2797,7 +2866,7 @@ Mi tono empieza a ser, mucho más relajado, más optimista, más consciente de m
 - **Origen:** `2026-09-24_Money-for-nothing.md`
 - **Estado:** Borrador
 - **Capítulo:** 07
-- **Secuencia:** 070
+- **Secuencia:** 080
 
 Después de dar de desayunar a mis niñas, me he ido al banco, aprovechando el festivo de cataluña, que por ende, me convierte el dia en no laborable. Así que aprovecho para las gestiones bancarias.
 La tarjeta que me impuso el banco, al absorber a la entidad que me concedió la hipoteca... resultó no ser tan inocua, ni tan similar a una tarjeta de débito, como yo ya intuí, pero tuve que acatar, para que no me cobraran comisión anual, por tener una tarjeta de débito.

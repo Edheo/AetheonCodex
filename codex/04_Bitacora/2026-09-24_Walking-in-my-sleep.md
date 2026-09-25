@@ -21,7 +21,7 @@ Me acerco a la cafetera, se ha evaporado toda, debe llevar horas al fuego.
 
 ## Literaria
 ### Capítulo
-04 - Mi Contexto
+01 - No es la vida de Chuck
 ### Secuencia
 060
 ### Autoría

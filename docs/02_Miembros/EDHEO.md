@@ -133,8 +133,10 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Martes, 15 de septiembre de 2026* — [Elastic Heart](../04_Bitacora/2026-09-15_Elastic-Heart.md)
 - *Jueves, 17 de septiembre de 2026* — [Suma y Sigue](../04_Bitacora/2026-09-17_Suma-Y-Sigue.md)
 - *Martes, 22 de septiembre de 2026* — [Anillos](../04_Bitacora/2026-09-22_Anillos.md)
+- *Martes, 22 de septiembre de 2026* — [Caer o no caer](../04_Bitacora/2026-09-22_Caer-o-no-caer.md)
 - *Miércoles, 23 de septiembre de 2026* — [Acero sin magnolias](../04_Bitacora/2026-09-23_Acero-sin-magnolias.md)
 - *Jueves, 24 de septiembre de 2026* — [Money for nothing](../04_Bitacora/2026-09-24_Money-for-nothing.md)
 - *Jueves, 24 de septiembre de 2026* — [Walking in my sleep](../04_Bitacora/2026-09-24_Walking-in-my-sleep.md)
+- *Viernes, 25 de septiembre de 2026* — [Desaparecer unos momentos](../04_Bitacora/2026-09-25_Desaparecer.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 

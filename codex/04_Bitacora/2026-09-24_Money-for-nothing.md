@@ -21,7 +21,7 @@ Se acabaron los dias de tormento que esta tarjeta ha aportado a mi vida.
 ### Capítulo
 07 - Esta casa es una ruina 
 ### Secuencia
-070
+080
 ### Autoría
 Edheo
 

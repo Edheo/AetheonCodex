@@ -24,7 +24,7 @@ Aunque sospeché, hasta que no le vi cargando sus bártulos no pregunté. "Te va
 ### Capítulo
 07 - Esta casa es una ruina
 ### Secuencia
-040
+050
 ### Autoría
 Edheo
 

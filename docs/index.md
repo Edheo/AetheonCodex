@@ -93,9 +93,11 @@
 - [2026-09-17_Suma-Y-Sigue](04_Bitacora/2026-09-17_Suma-Y-Sigue.md)
 - [2026-09-18_La-vida-viene-y-va](04_Bitacora/2026-09-18_La-vida-viene-y-va.md)
 - [2026-09-22_Anillos](04_Bitacora/2026-09-22_Anillos.md)
+- [2026-09-22_Caer-o-no-caer](04_Bitacora/2026-09-22_Caer-o-no-caer.md)
 - [2026-09-23_Acero-sin-magnolias](04_Bitacora/2026-09-23_Acero-sin-magnolias.md)
 - [2026-09-24_Money-for-nothing](04_Bitacora/2026-09-24_Money-for-nothing.md)
 - [2026-09-24_Walking-in-my-sleep](04_Bitacora/2026-09-24_Walking-in-my-sleep.md)
+- [2026-09-25_Desaparecer](04_Bitacora/2026-09-25_Desaparecer.md)
 
 ## 05_Cartografia
 
