@@ -40,7 +40,7 @@ Si de verdad ayudar quiere, hablar es el camino.
 ### Capítulo
 07 - Esta casa es una ruina
 ### Secuencia
-060
+050
 ### Autoría
 Edheo
 

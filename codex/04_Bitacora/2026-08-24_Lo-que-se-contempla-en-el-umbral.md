@@ -27,7 +27,7 @@ Los poetas muertos
 06 - Hazme un Codex de Aetheon
 
 ### Secuencia
-030
+040
 
 ### Autoría
 Limen

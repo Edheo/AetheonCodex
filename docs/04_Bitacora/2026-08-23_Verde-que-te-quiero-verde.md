@@ -49,10 +49,10 @@ Walt
   </a>
 </div>
 ## Literaria
-**Capítulo:**
+### Capítulo
 08 - Aetheon Respira
-**Secuencia:**
-060
+### Secuencia
+030
 ### Autoría
 Edheo
 

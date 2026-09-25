@@ -31,7 +31,7 @@ La La Land
 06 - Hazme un Codex de Aetheon 
 
 ### Secuencia
-060
+020
 
 ### Autoría
 Logos

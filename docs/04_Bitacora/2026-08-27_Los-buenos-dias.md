@@ -38,7 +38,7 @@ Tras dormir hasta cerca de las cinco de la mañana, Edheo toma un café y pasea 
 ### Capítulo
 08 - Aetheon Respira
 ### Secuencia
-030
+040
 ### Autoría
 Logos, Edheo
 

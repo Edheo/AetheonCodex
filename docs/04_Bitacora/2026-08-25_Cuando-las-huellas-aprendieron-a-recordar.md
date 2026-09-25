@@ -53,12 +53,10 @@ El prodigio sin propósito
 06 - Hazme un Codex de Aetheon
 
 ### Secuencia
-040
+050
 
 ### Autoría
-Logos
-Limen
-Edheo
+Logos, Limen y Edheo
 
 ### Contenido
 

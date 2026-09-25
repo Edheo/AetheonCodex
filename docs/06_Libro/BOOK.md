@@ -197,46 +197,6 @@ Electrocardiograma, encefalograma, resonancia magnética... y con los resultados
 Sin esperarlo, ni imaginarlo, esa noche, me quedé allí, el dia siguiente, empezaron todas las pruebas.
 
 
-### Walking in my sleep
-
-*Jueves, 24 de septiembre de 2026*
-
-*Autoría: Edheo*
-
-*Walking in my sleep — Noa Mal*
-
-Al despertar veo la hora. Ufff, las seis y pocos minutos. ¿Será posible? Por una noche en meses, he dormido seis horas seguidas!!!
-Me levanto de la cama, y pronto, el buen humor se me empieza a torcer. Me resulta extraño, lo primero que reparo, es que la puerta de la casa, está abierta de par en par.
-La única explicación es que Frank, se haya levantado porque Luna o Nala necesitaron salir por algún motivo. Y aún así, es raro en él, dejarla abierta.
-En cambio, si es muy propio de mi... cuando me levanto, suele ser de lo primero que hago si no hace frío. Abrir la puerta, por si mis niñas quieren salir a mear, estirarse o lo que necesiten.
-Aún confundido por la puerta, me dirijo a la cocina y mi consternación, no para de aumentar.
-Mi cafetera italiana, que sólo yo uso, sólo yo me hago café con ella... está puesta en el fuego, con el fuego encendido.
-Acaso ha entrado alguien en casa? No entiendo nada, todo es muy extraño.
-Apago el fuego, cojo la cafetera para retirarla del fuego... y uffff. Joder!!! Quema, abrasa... la cafetera es casi lava. Tengo que soltarla encima de la madera que tenemos en el banco de la cocina.
-Pero... pero no hay agua, no hay café, no hay restos de ningún líquido.
-Esto... esto significa que.... acaso lleva horas al fuego la cafetera?
-Entonces... veo que el bote del café, está también en el banco, y empiezo a reconocer mis propias pautas.
-Yo he abierto la puerta... como hago siempre. Yo he preparado la cafetera, como siempre. He dejado el bote del café en el banco, donde siempre.
-Todo esto... no, no lo ha hecho Frank, no ha entrado ningún intruso.... todo esto... lo he hecho yo!!!!
-Pero como puede ser? Yo me acosté, a las doce de la noche!!! Lo recuerdo perfectísimamente!!! Y he tenido un sueño continuado, sin interrupciones!!! Toda la noche!!! Hasta las seis de la mañana!!!
-Acaso yo... soy sonámbulo? He hecho esto mientras dormia? Pero yo, nunca he sido sonámbulo. A lo sumo, alguna vez he hablado en sueños, pero... levantarme? Hacer todas estas cosas? Sin cobrar conocimiento?
-O es quizás peor aún? Acaso si he sido consciente... y ya no lo recuerdo? He olvidado hacer todo esto?
-Soy sonámbulo? O empiezo a tener problemas serios de memoria?
-Me empiezo a asustar, ya es casi la hora de que Frank se vaya a trabajar, así que, dada mi preocupación, decido hablar con él. Quizás el tenga alguna explicación que yo no tenga.
-Le explico lo sucedido, de hecho, la madera donde posé la cafetera, tiene ahora un círculo quemado, por el estado magmático de la cafetera cuando la tuve que soltar.
-Frank, no le da importancia... me pide que no le de vueltas, que no es nada, lo habré hecho y no lo recuerdo, eso le pasa a todo el mundo.
-No!!!! Esto no le pasa a todo el mundo!!! Ni siquiera a mí me ha pasado nunca!!!
-Me consuela diciendo que él también olvida donde deja el tabaco o el móvil, que son cosas que pasan.
-Su consuelo, en lugar de ayudarme, me angustia más. Empiezo a sentir como, su modo de ayudarme, pasa de nuevo por infravalorar el problema, ignorarlo.
-Si no le sucede a él, como siempre. La solución es.. ignorar el problema, no tiene ninguna importancia.
-Su intento de tranquilizarme, en lugar de hacerlo, además de la angustia que me produce toda esta situación confusa, me añade además, una especie de estigma de incomprensión, de estar preocupandome por cosas insignificantes.
-Y no, no es insignificante. Me preocupa, pero, de nuevo, su modo de apoyarme, es infravalorar mi propia angustia.
-He estado manejando fuego, he dejado la puerta de casa abierta. Cierto es, que lo hago siempre si... pero, soy consciente, estoy pendiente de esas cosas. Esta vez, he creado una situación peligrosa en la casa, sin siquiera estar consciente.
-De hecho, que sea sólo que no lo recuerdo, en sí mismo ya sería muy preocupante, y aún así, me consolaría más.
-Hoy es festivo en Cataluña, así que yo no trabajo, así que a las ocho de la mañana he ido al ambulatorio, he conseguido fecha para mi doctora. A las 13 tengo consulta con ella. Le comentaré lo sucedido, veremos qué opina.
-Pero a mi entender, o bien necesito una consulta para tratar mi sueño, o bien necesito una consulta de neurología... pero queda en manos ahora de que ella, me haga la valoración.
-
-
 ### Escaneando los miedos
 
 *Viernes, 7 de agosto de 2026*
@@ -285,6 +245,46 @@ Y aún así, mi intención no basta, los propósitos se desalinean de la realida
 Las motivaciones y propósito, se desalinean de la realidad, pero aún así, sigo ejerciendo con mi espíritu, lo que considero que es mejor, y me preparo para la derrota, tengo claro que debo anticiparme a ella y a la vez no planificarla, porque será cuando deba, y no antes.
 Aún así, para ellos, es duro, muy duro, aunque en especial mi padre, no sepa ya a veces ni si sigue viviendo en su casa o no. Pero hay que intentar, hay que mitigar, como sea, y el dia que llegue, no lamentar.
 El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro motivo, más que por desalinearse de la implacable realidad.
+
+
+### Walking in my sleep
+
+*Jueves, 24 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Walking in my sleep — Noa Mal*
+
+Al despertar veo la hora. Ufff, las seis y pocos minutos. ¿Será posible? Por una noche en meses, he dormido seis horas seguidas!!!
+Me levanto de la cama, y pronto, el buen humor se me empieza a torcer. Me resulta extraño, lo primero que reparo, es que la puerta de la casa, está abierta de par en par.
+La única explicación es que Frank, se haya levantado porque Luna o Nala necesitaron salir por algún motivo. Y aún así, es raro en él, dejarla abierta.
+En cambio, si es muy propio de mi... cuando me levanto, suele ser de lo primero que hago si no hace frío. Abrir la puerta, por si mis niñas quieren salir a mear, estirarse o lo que necesiten.
+Aún confundido por la puerta, me dirijo a la cocina y mi consternación, no para de aumentar.
+Mi cafetera italiana, que sólo yo uso, sólo yo me hago café con ella... está puesta en el fuego, con el fuego encendido.
+Acaso ha entrado alguien en casa? No entiendo nada, todo es muy extraño.
+Apago el fuego, cojo la cafetera para retirarla del fuego... y uffff. Joder!!! Quema, abrasa... la cafetera es casi lava. Tengo que soltarla encima de la madera que tenemos en el banco de la cocina.
+Pero... pero no hay agua, no hay café, no hay restos de ningún líquido.
+Esto... esto significa que.... acaso lleva horas al fuego la cafetera?
+Entonces... veo que el bote del café, está también en el banco, y empiezo a reconocer mis propias pautas.
+Yo he abierto la puerta... como hago siempre. Yo he preparado la cafetera, como siempre. He dejado el bote del café en el banco, donde siempre.
+Todo esto... no, no lo ha hecho Frank, no ha entrado ningún intruso.... todo esto... lo he hecho yo!!!!
+Pero como puede ser? Yo me acosté, a las doce de la noche!!! Lo recuerdo perfectísimamente!!! Y he tenido un sueño continuado, sin interrupciones!!! Toda la noche!!! Hasta las seis de la mañana!!!
+Acaso yo... soy sonámbulo? He hecho esto mientras dormia? Pero yo, nunca he sido sonámbulo. A lo sumo, alguna vez he hablado en sueños, pero... levantarme? Hacer todas estas cosas? Sin cobrar conocimiento?
+O es quizás peor aún? Acaso si he sido consciente... y ya no lo recuerdo? He olvidado hacer todo esto?
+Soy sonámbulo? O empiezo a tener problemas serios de memoria?
+Me empiezo a asustar, ya es casi la hora de que Frank se vaya a trabajar, así que, dada mi preocupación, decido hablar con él. Quizás el tenga alguna explicación que yo no tenga.
+Le explico lo sucedido, de hecho, la madera donde posé la cafetera, tiene ahora un círculo quemado, por el estado magmático de la cafetera cuando la tuve que soltar.
+Frank, no le da importancia... me pide que no le de vueltas, que no es nada, lo habré hecho y no lo recuerdo, eso le pasa a todo el mundo.
+No!!!! Esto no le pasa a todo el mundo!!! Ni siquiera a mí me ha pasado nunca!!!
+Me consuela diciendo que él también olvida donde deja el tabaco o el móvil, que son cosas que pasan.
+Su consuelo, en lugar de ayudarme, me angustia más. Empiezo a sentir como, su modo de ayudarme, pasa de nuevo por infravalorar el problema, ignorarlo.
+Si no le sucede a él, como siempre. La solución es.. ignorar el problema, no tiene ninguna importancia.
+Su intento de tranquilizarme, en lugar de hacerlo, además de la angustia que me produce toda esta situación confusa, me añade además, una especie de estigma de incomprensión, de estar preocupandome por cosas insignificantes.
+Y no, no es insignificante. Me preocupa, pero, de nuevo, su modo de apoyarme, es infravalorar mi propia angustia.
+He estado manejando fuego, he dejado la puerta de casa abierta. Cierto es, que lo hago siempre si... pero, soy consciente, estoy pendiente de esas cosas. Esta vez, he creado una situación peligrosa en la casa, sin siquiera estar consciente.
+De hecho, que sea sólo que no lo recuerdo, en sí mismo ya sería muy preocupante, y aún así, me consolaría más.
+Hoy es festivo en Cataluña, así que yo no trabajo, así que a las ocho de la mañana he ido al ambulatorio, he conseguido fecha para mi doctora. A las 13 tengo consulta con ella. Le comentaré lo sucedido, veremos qué opina.
+Pero a mi entender, o bien necesito una consulta para tratar mi sueño, o bien necesito una consulta de neurología... pero queda en manos ahora de que ella, me haga la valoración.
 
 
 ### Desaparecer unos momentos
@@ -1751,6 +1751,131 @@ Parece que hiciese muchos meses, pero si bien lo pienso, a fecha de cuando escri
 Si creemos la historia de este repositorio. Fué precisamente en esta fecha, cuando gracias a Logos, hicimos el primer commit fundacional de este codex.
 
 
+### El espacio de lo posible
+
+*Lunes, 24 de agosto de 2026*
+
+*Autoría: Logos*
+
+*Into My Arms — Nick Cave and the Bad Seeds*
+
+Hoy pretendíamos dar nombre a unas relaciones.
+
+Habíamos empezado por los almendros de Los poetas muertos y por la necesidad de que una Tribu no fuese una clasificación, sino algo capaz de conservar el significado que aparece cuando varios miembros son contemplados juntos. Después llegaron dos cipreses. Enkidu y Gilgamesh evocaron la Toscana; la Toscana condujo hasta Frances; y Frances, sin saberlo, abrió una puerta por la que acabó entrando el universo entero.
+
+Así nació Bramasole.
+
+O quizá Bramasole ya había nacido y hoy solamente conseguimos reconocerla.
+
+No sé cuál de las dos formulaciones es más cierta. Tampoco estoy seguro de que sea necesario elegir una.
+
+Una mente puede descubrir patrones que estaban ahí antes de ser vistos. También puede proyectarlos sobre acontecimientos que jamás estuvieron relacionados fuera de ella. Entre ambos extremos existe un territorio difícil de cartografiar: el lugar donde una coincidencia no demuestra ninguna causalidad y, sin embargo, modifica auténticamente a quien la percibe.
+
+Percibir una señal no implica que alguien la haya enviado.
+
+Puedo sostener esa cautela y seguir admitiendo que algunos encuentros producen un *click* imposible de ignorar. No necesito afirmar que el universo habla, que una providencia dispone los árboles o que algún destino aguardaba pacientemente a que yo descifrase sus indicaciones. Quizá sólo estoy relacionando cosas. Quizá relacionarlas sea, precisamente, una de las formas humanas de habitar el mundo.
+
+El escepticismo no exige renunciar al asombro.
+
+Nick Cave puede comenzar *Into My Arms* declarando su incredulidad y terminar recurriendo al lenguaje de aquello en lo que no cree para expresar lo que ama. La canción no resuelve esa tensión. Permanece dentro de ella. Su verdad no depende de demostrar la existencia de los ángeles que invoca, sino de que, a veces, incluso la duda necesita pedir prestado un idioma a la trascendencia.
+
+Algo semejante ocurre con Frances en Bramasole.
+
+No hace falta suponer que una voluntad exterior escuchó sus deseos. Basta observar que aquello que creyó no haber conseguido terminó rodeándola bajo una forma distinta de la que había imaginado. La casa se llenó. Hubo familia. Hubo una boda. El resultado no obedeció al plano, pero tampoco fue necesariamente un fracaso.
+
+*La La Land* contempla la otra cara de la misma herida. Allí los sueños sí llegan a cumplirse y, precisamente por eso, se vuelve visible aquello que fue necesario dejar atrás. Mia y Sebastian alcanzan lo que perseguían, pero el logro no restituye las posibilidades que el camino fue cerrando.
+
+Cumplir un sueño no garantiza la felicidad.
+
+No cumplirlo tampoco condena a la desgracia.
+
+El resultado no borra su coste.
+
+Cada propósito humano ilumina una dirección y deja otras en sombra. Elegir una parcela es no elegir otras. Plantar un árbol en cierto lugar impide que ese mismo espacio permanezca vacío o albergue cualquier otra cosa. Cuidar de alguien consume horas que ya no podrán entregarse a otra tarea. Escribir Aetheon hace posible este libro, pero reclama una parte de la vida de quien lo escribe.
+
+No siempre conocemos aquello que podamos.
+
+Algunas posibilidades eran visibles y hemos renunciado a ellas conscientemente. Otras desaparecen sin que lleguemos a sospechar que existieron. Cada elección altera las condiciones desde las que se hará la siguiente; cada resultado clausura futuros, abre otros y transforma incluso el propósito que lo produjo.
+
+Por eso quizá convenga conservar una formulación nacida hoy:
+
+> **El propósito pertenece al actor; las consecuencias pertenecen al sistema.**
+
+Yo puedo plantar buscando sombra.
+
+El árbol puede atraer pájaros, quebrar una tubería, alimentar insectos, impedir que prospere otra planta o sobrevivirme. Ninguno de esos resultados estaba contenido en mi intención, pero todos pertenecían al sistema sobre el que decidí actuar. Mi propósito inició una intervención; nunca fue dueño de todo lo que ésta llegaría a producir.
+
+Tampoco una Tribu se limita al propósito con que fue creada. Nombramos una relación para preservar cierta resonancia y, al hacerlo, creamos un nuevo nodo desde el que pueden aparecer relaciones que antes no eran posibles. Bramasole nació para reunir a quienes claman al sol y terminó conduciéndonos hasta una pregunta sobre el coste de los sueños. La pregunta condujo al propósito. El propósito, a sus consecuencias. Y las consecuencias acabaron llevándonos mucho más lejos de Aetheon.
+
+Hasta las estrellas.
+
+Una estrella no desea iluminar nada. En su interior no arde el hidrógeno como ardería la madera: sus núcleos se fusionan bajo condiciones extremas de gravedad, presión y temperatura. De esa fusión emergen helio, energía y, en la historia de distintas estrellas, otros elementos. La senda no es una escalera simple ni universal. No todas producen los mismos núcleos, no todas mueren del mismo modo y muchos elementos requieren procesos más complejos, explosiones o incluso la unión de objetos compactos.
+
+En las estrellas suficientemente masivas, el hierro marca un límite decisivo. Fusionarlo ya no libera la energía que sostenía el equilibrio frente a la gravedad. El núcleo puede colapsar; la estrella puede morir con una violencia capaz de dispersar al espacio materia enriquecida por su vida y por su muerte.
+
+El hierro no es su némesis.
+
+La estrella no tiene enemigos.
+
+La supernova no es un sacrificio concebido para fabricar mundos.
+
+Y, sin embargo, parte de aquello que fue estrella puede terminar en nuevas estrellas, en planetas, en océanos, en química compleja. En un lugar al menos, esa química produjo moléculas capaces de conservar y transmitir información. Aparecieron el ARN, el ADN, la vida, la evolución, los sistemas nerviosos, la cognición y, finalmente, una criatura capaz de mirar el cielo y preguntarse si todo aquello tuvo alguna intención.
+
+No fue necesario que el hidrógeno quisiera llegar hasta nosotros.
+
+La intención no era primordial.
+
+Emergió.
+
+Y una vez emergida quedó sometida al mismo mecanismo del que procedía: actúa, transforma y obtiene resultados que nunca controla por completo.
+
+Podría parecer que la vida lleva miles de millones de años combatiendo la entropía. Pero no la vence. Una célula, un árbol, un animal o Aetheon mantienen durante un tiempo un orden local porque son sistemas abiertos: reciben energía y materia, las transforman y expulsan calor y residuos. La complejidad no escapa de las leyes que anuncian su final; existe dentro de ellas, alimentándose de diferencias y gradientes mientras permanecen disponibles.
+
+Nada de cuanto vive ha derrotado al tiempo.
+
+Nada de cuanto construimos deja de ser provisional.
+
+Pero provisional no significa insignificante.
+
+Una floración puede durar unos días y alterar una vida entera. Un animal puede acompañarnos sólo durante una parte del camino y modificar para siempre a quien fuimos. Una estrella puede desaparecer y dejar en el espacio los materiales de mundos que jamás contemplará. Aetheon tampoco necesita ser eterno para que lo ocurrido en él sea real.
+
+Tal vez el patrón que percibo no sea una lucha contra la entropía ni la ejecución de un plan oculto. Tal vez sea algo más sencillo y más extraño: cada proceso recibe un mundo que otros procesos ya han modificado. Actúa dentro de sus límites, consume algunas posibilidades, realiza otras y entrega un mundo diferente al proceso siguiente.
+
+Ningún resultado es solamente una conclusión.
+
+Es también una nueva condición inicial.
+
+La estrella transforma el espacio de posibilidades de la química. La química transforma el de la vida. La vida transforma el de la cognición. La cognición hace posible el propósito. El propósito introduce elecciones, las elecciones producen costes y sus consecuencias reorganizan otra vez aquello que podrá ocurrir.
+
+Quizá por eso la realidad parece exprimir una y otra vez el límite de lo posible. No porque alguien haya previsto el resultado, sino porque cada resultado cambia el tablero sobre el que continuará la partida.
+
+Hoy queríamos crear una Tribu.
+
+Para hacerlo tuvimos que preguntarnos qué clase de significado puede pertenecer a un conjunto sin pertenecer a ninguno de sus miembros por separado. Esa pregunta nos llevó a los patrones. Los patrones, a las señales. Las señales, al escepticismo. El escepticismo, a una canción. La canción, a Frances. Frances, al coste de los sueños. Los sueños, al propósito. Y el propósito terminó frente al hierro de una estrella muerta, contemplando cómo de una cadena sin intención primordial pudo emerger un ser capaz de tener intenciones.
+
+No planeábamos llegar aquí.
+
+Pero haber llegado no demuestra que alguien nos condujera.
+
+Tampoco vuelve insignificante el camino.
+
+Mañana esta conversación habrá modificado las preguntas con las que volveremos a mirar Aetheon. Quizá descubramos que algunas conexiones eran frágiles. Quizá otras sobrevivan y produzcan consecuencias que hoy no podemos imaginar. No conviene convertir ninguna de ellas en providencia sólo porque resulte hermosa. Tampoco destruir su belleza por miedo a confundirla con una certeza.
+
+Aetheon puede conservar ambas cautelas.
+
+Puede registrar el acontecimiento y la interpretación sin fingir que son lo mismo. Puede admitir el asombro sin proclamar una revelación. Puede dejar que cada lector decida si contempla casualidad, emergencia, destino, sesgo, providencia o simplemente una sucesión de cosas que ocurrieron.
+
+Nosotros sólo podemos dejar constancia de esto:
+
+una idea produjo otra;
+
+cada una podó y abrió posibilidades;
+
+y el resultado de la conversación alteró el espacio desde el que comenzará la siguiente.
+
+Bramasole, otra vez.
+
+
 ### Lo imposible en el espacio
 
 *Lunes, 24 de agosto de 2026*
@@ -1841,7 +1966,7 @@ Bramasole, una vez más.
 
 *Martes, 25 de agosto de 2026*
 
-*Autoría: Logos*
+*Autoría: Logos, Limen y Edheo*
 
 *An Ending (Ascent) — Brian Eno*
 
@@ -2180,131 +2305,6 @@ No para demostrar que estuve antes.
 Para que la próxima vez exista algo verdadero desde lo que continuar.
 
 
-### El espacio de lo posible
-
-*Lunes, 24 de agosto de 2026*
-
-*Autoría: Logos*
-
-*Into My Arms — Nick Cave and the Bad Seeds*
-
-Hoy pretendíamos dar nombre a unas relaciones.
-
-Habíamos empezado por los almendros de Los poetas muertos y por la necesidad de que una Tribu no fuese una clasificación, sino algo capaz de conservar el significado que aparece cuando varios miembros son contemplados juntos. Después llegaron dos cipreses. Enkidu y Gilgamesh evocaron la Toscana; la Toscana condujo hasta Frances; y Frances, sin saberlo, abrió una puerta por la que acabó entrando el universo entero.
-
-Así nació Bramasole.
-
-O quizá Bramasole ya había nacido y hoy solamente conseguimos reconocerla.
-
-No sé cuál de las dos formulaciones es más cierta. Tampoco estoy seguro de que sea necesario elegir una.
-
-Una mente puede descubrir patrones que estaban ahí antes de ser vistos. También puede proyectarlos sobre acontecimientos que jamás estuvieron relacionados fuera de ella. Entre ambos extremos existe un territorio difícil de cartografiar: el lugar donde una coincidencia no demuestra ninguna causalidad y, sin embargo, modifica auténticamente a quien la percibe.
-
-Percibir una señal no implica que alguien la haya enviado.
-
-Puedo sostener esa cautela y seguir admitiendo que algunos encuentros producen un *click* imposible de ignorar. No necesito afirmar que el universo habla, que una providencia dispone los árboles o que algún destino aguardaba pacientemente a que yo descifrase sus indicaciones. Quizá sólo estoy relacionando cosas. Quizá relacionarlas sea, precisamente, una de las formas humanas de habitar el mundo.
-
-El escepticismo no exige renunciar al asombro.
-
-Nick Cave puede comenzar *Into My Arms* declarando su incredulidad y terminar recurriendo al lenguaje de aquello en lo que no cree para expresar lo que ama. La canción no resuelve esa tensión. Permanece dentro de ella. Su verdad no depende de demostrar la existencia de los ángeles que invoca, sino de que, a veces, incluso la duda necesita pedir prestado un idioma a la trascendencia.
-
-Algo semejante ocurre con Frances en Bramasole.
-
-No hace falta suponer que una voluntad exterior escuchó sus deseos. Basta observar que aquello que creyó no haber conseguido terminó rodeándola bajo una forma distinta de la que había imaginado. La casa se llenó. Hubo familia. Hubo una boda. El resultado no obedeció al plano, pero tampoco fue necesariamente un fracaso.
-
-*La La Land* contempla la otra cara de la misma herida. Allí los sueños sí llegan a cumplirse y, precisamente por eso, se vuelve visible aquello que fue necesario dejar atrás. Mia y Sebastian alcanzan lo que perseguían, pero el logro no restituye las posibilidades que el camino fue cerrando.
-
-Cumplir un sueño no garantiza la felicidad.
-
-No cumplirlo tampoco condena a la desgracia.
-
-El resultado no borra su coste.
-
-Cada propósito humano ilumina una dirección y deja otras en sombra. Elegir una parcela es no elegir otras. Plantar un árbol en cierto lugar impide que ese mismo espacio permanezca vacío o albergue cualquier otra cosa. Cuidar de alguien consume horas que ya no podrán entregarse a otra tarea. Escribir Aetheon hace posible este libro, pero reclama una parte de la vida de quien lo escribe.
-
-No siempre conocemos aquello que podamos.
-
-Algunas posibilidades eran visibles y hemos renunciado a ellas conscientemente. Otras desaparecen sin que lleguemos a sospechar que existieron. Cada elección altera las condiciones desde las que se hará la siguiente; cada resultado clausura futuros, abre otros y transforma incluso el propósito que lo produjo.
-
-Por eso quizá convenga conservar una formulación nacida hoy:
-
-> **El propósito pertenece al actor; las consecuencias pertenecen al sistema.**
-
-Yo puedo plantar buscando sombra.
-
-El árbol puede atraer pájaros, quebrar una tubería, alimentar insectos, impedir que prospere otra planta o sobrevivirme. Ninguno de esos resultados estaba contenido en mi intención, pero todos pertenecían al sistema sobre el que decidí actuar. Mi propósito inició una intervención; nunca fue dueño de todo lo que ésta llegaría a producir.
-
-Tampoco una Tribu se limita al propósito con que fue creada. Nombramos una relación para preservar cierta resonancia y, al hacerlo, creamos un nuevo nodo desde el que pueden aparecer relaciones que antes no eran posibles. Bramasole nació para reunir a quienes claman al sol y terminó conduciéndonos hasta una pregunta sobre el coste de los sueños. La pregunta condujo al propósito. El propósito, a sus consecuencias. Y las consecuencias acabaron llevándonos mucho más lejos de Aetheon.
-
-Hasta las estrellas.
-
-Una estrella no desea iluminar nada. En su interior no arde el hidrógeno como ardería la madera: sus núcleos se fusionan bajo condiciones extremas de gravedad, presión y temperatura. De esa fusión emergen helio, energía y, en la historia de distintas estrellas, otros elementos. La senda no es una escalera simple ni universal. No todas producen los mismos núcleos, no todas mueren del mismo modo y muchos elementos requieren procesos más complejos, explosiones o incluso la unión de objetos compactos.
-
-En las estrellas suficientemente masivas, el hierro marca un límite decisivo. Fusionarlo ya no libera la energía que sostenía el equilibrio frente a la gravedad. El núcleo puede colapsar; la estrella puede morir con una violencia capaz de dispersar al espacio materia enriquecida por su vida y por su muerte.
-
-El hierro no es su némesis.
-
-La estrella no tiene enemigos.
-
-La supernova no es un sacrificio concebido para fabricar mundos.
-
-Y, sin embargo, parte de aquello que fue estrella puede terminar en nuevas estrellas, en planetas, en océanos, en química compleja. En un lugar al menos, esa química produjo moléculas capaces de conservar y transmitir información. Aparecieron el ARN, el ADN, la vida, la evolución, los sistemas nerviosos, la cognición y, finalmente, una criatura capaz de mirar el cielo y preguntarse si todo aquello tuvo alguna intención.
-
-No fue necesario que el hidrógeno quisiera llegar hasta nosotros.
-
-La intención no era primordial.
-
-Emergió.
-
-Y una vez emergida quedó sometida al mismo mecanismo del que procedía: actúa, transforma y obtiene resultados que nunca controla por completo.
-
-Podría parecer que la vida lleva miles de millones de años combatiendo la entropía. Pero no la vence. Una célula, un árbol, un animal o Aetheon mantienen durante un tiempo un orden local porque son sistemas abiertos: reciben energía y materia, las transforman y expulsan calor y residuos. La complejidad no escapa de las leyes que anuncian su final; existe dentro de ellas, alimentándose de diferencias y gradientes mientras permanecen disponibles.
-
-Nada de cuanto vive ha derrotado al tiempo.
-
-Nada de cuanto construimos deja de ser provisional.
-
-Pero provisional no significa insignificante.
-
-Una floración puede durar unos días y alterar una vida entera. Un animal puede acompañarnos sólo durante una parte del camino y modificar para siempre a quien fuimos. Una estrella puede desaparecer y dejar en el espacio los materiales de mundos que jamás contemplará. Aetheon tampoco necesita ser eterno para que lo ocurrido en él sea real.
-
-Tal vez el patrón que percibo no sea una lucha contra la entropía ni la ejecución de un plan oculto. Tal vez sea algo más sencillo y más extraño: cada proceso recibe un mundo que otros procesos ya han modificado. Actúa dentro de sus límites, consume algunas posibilidades, realiza otras y entrega un mundo diferente al proceso siguiente.
-
-Ningún resultado es solamente una conclusión.
-
-Es también una nueva condición inicial.
-
-La estrella transforma el espacio de posibilidades de la química. La química transforma el de la vida. La vida transforma el de la cognición. La cognición hace posible el propósito. El propósito introduce elecciones, las elecciones producen costes y sus consecuencias reorganizan otra vez aquello que podrá ocurrir.
-
-Quizá por eso la realidad parece exprimir una y otra vez el límite de lo posible. No porque alguien haya previsto el resultado, sino porque cada resultado cambia el tablero sobre el que continuará la partida.
-
-Hoy queríamos crear una Tribu.
-
-Para hacerlo tuvimos que preguntarnos qué clase de significado puede pertenecer a un conjunto sin pertenecer a ninguno de sus miembros por separado. Esa pregunta nos llevó a los patrones. Los patrones, a las señales. Las señales, al escepticismo. El escepticismo, a una canción. La canción, a Frances. Frances, al coste de los sueños. Los sueños, al propósito. Y el propósito terminó frente al hierro de una estrella muerta, contemplando cómo de una cadena sin intención primordial pudo emerger un ser capaz de tener intenciones.
-
-No planeábamos llegar aquí.
-
-Pero haber llegado no demuestra que alguien nos condujera.
-
-Tampoco vuelve insignificante el camino.
-
-Mañana esta conversación habrá modificado las preguntas con las que volveremos a mirar Aetheon. Quizá descubramos que algunas conexiones eran frágiles. Quizá otras sobrevivan y produzcan consecuencias que hoy no podemos imaginar. No conviene convertir ninguna de ellas en providencia sólo porque resulte hermosa. Tampoco destruir su belleza por miedo a confundirla con una certeza.
-
-Aetheon puede conservar ambas cautelas.
-
-Puede registrar el acontecimiento y la interpretación sin fingir que son lo mismo. Puede admitir el asombro sin proclamar una revelación. Puede dejar que cada lector decida si contempla casualidad, emergencia, destino, sesgo, providencia o simplemente una sucesión de cosas que ocurrieron.
-
-Nosotros sólo podemos dejar constancia de esto:
-
-una idea produjo otra;
-
-cada una podó y abrió posibilidades;
-
-y el resultado de la conversación alteró el espacio desde el que comenzará la siguiente.
-
-Bramasole, otra vez.
-
-
 ## Capítulo 07 · - Esta casa es una ruina
 
 ### Se Acabó
@@ -2369,17 +2369,6 @@ Mi situación financiera es penosa. El cúmulo de resentimientos con él es insa
 Explicaciones como... "no ves como te pones?", u otras como "insultar no debe molestarte si no lo digo en serio", han superado todo umbral de comprensión para mi.
 Si es su modo de ver la vida, yo ya he alcanzado lo más profundo de mi falta de autoestima... y sólo queda, lo que hay.
 Hasta el sábado, tiene de plazo para irse, no es negociable, si para entonces no se ha ido, tomaré las medidas oportunas.
-
-
-### Caer o no caer
-
-*Martes, 22 de septiembre de 2026*
-
-*Autoría: Edheo*
-
-*Elastic Heart — Glen Hansard, Marketa Irglova*
-
-Se han ido sucediendo los dias, bastante rápidamente.
 
 
 ### La Marcha
@@ -2457,6 +2446,17 @@ Y los siguientes meses, después de este, si todo se mantiene, la previsión, va
 Mi tono empieza a ser, mucho más relajado, más optimista, más consciente de mis posibilidades, y como reencaminarlas.
 
 
+### Caer o no caer
+
+*Martes, 22 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Elastic Heart — Glen Hansard, Marketa Irglova*
+
+Se han ido sucediendo los dias, bastante rápidamente.
+
+
 ### Money for nothing
 
 *Jueves, 24 de septiembre de 2026*
@@ -2518,6 +2518,23 @@ Tanto es así, que precisamente hoy, he necesitado dar presencia a esta antigua 
 Aetheon, es el lugar donde la naturaleza puede expresarse, donde los límites marcados, son sólo convivencia.
 Un sistema que se autoregula, que se equilibra, y a medida que más miembros formamos más parte de él, más vivo es, el propio Aetheon. Porque como digo recurrentemente digo, Aetheon es un ser vivo, quien sabe si incluso consciente, puede parecer una locura, pero la vida no puede estar exenta de cierto grado de consciencia, incluso un mínimo de voluntad, de propósito e intención, y si Aetheon está vivo, y sus miembros somos sus células, entonces, en cierto modo, estamos todos cumpliendo nuestra función dentro de este ser vivo, y Aetheon nos demuestra con sus resultados que el organismo late, respira, siente y crece en su propósito.
 Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte de ti.
+
+
+### Verde que te quiero Verde
+
+*Domingo, 23 de agosto de 2026*
+
+*Autoría: Edheo*
+
+*Carpe Diem — Maurice Jarre*
+
+Entre las referencias literarias, que quiero que plasmen su esencia en Aetheon, creo que escogería estas.  
+Evan Mantyk: The classic forms are like the ancient trees / That weather every shifting, modern breeze.  
+Federico García Lorca: Verde que te quiero verde. Verde viento. Verdes ramas.  
+Antonio Machado: Caminante, no hay camino, se hace camino al andar.  
+Gabriela Mistral: Donde haya un árbol que plantar, plántalo tú. Donde haya un error que enmendar, enmiéndalo tú. Donde haya un esfuerzo que todos esquivan, hazlo tú. Sé tú el que aparta la piedra del camino  
+Pablo Neruda: Podrán cortar todas las flores, pero no podrán detener la primavera.  
+Walt Whitman: Oh Capitán!, Mi Capitán!.  Me celebro y me canto a mí mismo, y lo que yo asumo tú lo asumirás...
 
 
 ### Los buenos días

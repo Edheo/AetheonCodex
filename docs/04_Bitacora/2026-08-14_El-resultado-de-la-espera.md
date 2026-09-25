@@ -44,7 +44,7 @@ Wim Mertens
 ### Capítulo
 01 - No es la vida de Chuck
 ### Secuencia
-080
+070
 ### Autoría
 Edheo
 

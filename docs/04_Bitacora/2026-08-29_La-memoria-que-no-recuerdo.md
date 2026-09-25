@@ -30,7 +30,7 @@ Pendiente
 ### Capítulo
 06 - Hazme un Codex de Aetheon
 ### Secuencia
-050
+060
 ### Autoría
 Logos
 

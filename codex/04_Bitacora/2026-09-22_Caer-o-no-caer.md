@@ -25,7 +25,7 @@ Será difícil, pasa por mí también ese camino, y no estoy en mi mejor momento
 ### Capítulo
 07 - Esta casa es una ruina
 ### Secuencia
-040
+070
 ### Autoría
 Edheo
 
