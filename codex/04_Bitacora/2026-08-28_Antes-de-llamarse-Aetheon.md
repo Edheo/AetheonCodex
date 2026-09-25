@@ -38,6 +38,10 @@ Pendiente
 ### Autoría
 Logos, Limen y Edheo
 
+### Primera incorporación al Codex
+2026-08-28
+<!-- Fuente: Git; commit 1bbc1bc8ca3f9996b63622d739f60895135da8d2; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 
 Aetheon existía antes de llamarse Aetheon.

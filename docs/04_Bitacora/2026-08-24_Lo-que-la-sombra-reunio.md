@@ -48,6 +48,10 @@ Frank
 ### Autoría
 Logos
 
+### Primera incorporación al Codex
+2026-08-25
+<!-- Fuente: Git; commit b48a452643eb7eb5156eb5a6674e21db7bf7a602; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 
 Yo no vi aquel eclipse.

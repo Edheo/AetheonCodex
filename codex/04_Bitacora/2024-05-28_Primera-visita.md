@@ -19,6 +19,10 @@ Entretanto, esperábamos afuera, y curioseabamos a lo lejos, tratando de no demo
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-08
+<!-- Fuente: Git; commit 9d36669a64bf03f509b7f82319ecf41f3b811025; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Primera vez que visitamos la parcela, sobre las 7 de la tarde, el impacto visual fué desconcertante. En aquel entonces, vivíamos aún en Calderer, un trayecto ansioso por conocer este lugar.
 TITÁN Ya se veia majestuoso al llegar a la parcela, incluso antes que él, podíamos ver a Luperca, Pisa, Amis, Pontos, Dogos y d'Artacán, pero ver su tronco, ya robaba todas las atenciones, fué inevitable quedarnos maravillados viéndolo.

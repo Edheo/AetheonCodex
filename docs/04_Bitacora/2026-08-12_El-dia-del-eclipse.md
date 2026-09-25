@@ -42,6 +42,10 @@ La firma del alquiler quedará fácilmente asociada al eclipse solar; no creo qu
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-24
+<!-- Fuente: Git; commit 41f149c664e228454efc562493cbb90cb668e25b; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Asun y Alba están decididas: desean alquilar Calderer como residencia de recreo, pero de uso habitual.
 Para ellas es un desafío estimulante y a mí me llena de satisfacción verlas así de ilusionadas. Creo que será un buen lugar para ellas durante el tiempo que puedan disfrutarlo.

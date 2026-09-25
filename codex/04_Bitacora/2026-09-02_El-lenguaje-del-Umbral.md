@@ -23,6 +23,10 @@ Con esta entrada se trata de definir
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-02
+<!-- Fuente: Git; commit 58d3d67bd6a3500586d6759e2178895ff24cdff4; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Esta obra, no ha nacido como un ejercicio de ficción, ni como lore de un mundo imaginario.
 Tampoco es un registro solipsista de una mente aislada, o una mera descripción geolocalizada.

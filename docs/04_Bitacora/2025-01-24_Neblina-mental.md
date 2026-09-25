@@ -51,6 +51,10 @@ Wim Mertens
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-25
+<!-- Fuente: Git; commit a0362391c53551cd6771e575158151920fb499dd; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Hoy un nuevo episodio, donde se suceden entre deja-vus y jamais-vus, me ha acaecido durante el trabajo.
 Al principio sucedian muy esporádicamente, apenas era capaz de reconocerlos como episodios, ni entendía que eran.

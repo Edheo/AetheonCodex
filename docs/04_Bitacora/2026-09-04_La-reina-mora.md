@@ -42,6 +42,10 @@ Es una parra de la especie *Vitis vinifera*, variedad Autumn Royal. Es de espera
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-05
+<!-- Fuente: Git; commit c1a0e473fe2ea4184c4507d2df230420aa537191; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Frank vio la oportunidad y no dudó ante mi interés por añadir una parra.
 De este modo, sobre el mismo andamiaje, además de tupirse mucho más con dos proyecciones de hojas de parra, veremos cómo, desde agosto hasta octubre, van apareciendo los racimos: primero más bien dorados, para dar paso luego a otros más bien morados.

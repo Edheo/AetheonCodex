@@ -57,6 +57,10 @@ Qaro
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-17
+<!-- Fuente: Git; commit 995eb01d976448f9af0ebd48119f143c333ce71b; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Frank ayer, se encontró un cangrejo de rio, tirado en mitad de la calle privada de Calderer.
 Me mencionó que lo vió, y supuse que alguna gaviota lo soltó o perdió del pico, y fué a parar allí.

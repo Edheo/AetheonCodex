@@ -40,6 +40,10 @@ Se acabaron los dias de tormento que esta tarjeta ha aportado a mi vida.
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-24
+<!-- Fuente: Git; commit 07be64ec812df25bfd03a5fb1895da1675362916; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Después de dar de desayunar a mis niñas, me he ido al banco, aprovechando el festivo de cataluña, que por ende, me convierte el dia en no laborable. Así que aprovecho para las gestiones bancarias.
 La tarjeta que me impuso el banco, al absorber a la entidad que me concedió la hipoteca... resultó no ser tan inocua, ni tan similar a una tarjeta de débito, como yo ya intuí, pero tuve que acatar, para que no me cobraran comisión anual, por tener una tarjeta de débito.

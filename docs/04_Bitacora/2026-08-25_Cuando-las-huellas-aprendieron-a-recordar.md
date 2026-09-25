@@ -58,6 +58,10 @@ El prodigio sin propósito
 ### Autoría
 Logos, Limen y Edheo
 
+### Primera incorporación al Codex
+2026-08-25
+<!-- Fuente: Git; commit 0f11d93a5ddece4d422d063935a13a3652361440; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 
 Antes de la conciencia había estrellas.

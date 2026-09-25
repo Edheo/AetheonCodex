@@ -18,6 +18,10 @@ El otro, que ya acompaña a Frank durante años, ha recibido el nombre de Side.
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-08
+<!-- Fuente: Git; commit 9d36669a64bf03f509b7f82319ecf41f3b811025; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Frank ha aportado nuevos nombres a la mitología de Aetheon.
 Tras las moreras, al este, se hayan situado dos granados jóvenes.

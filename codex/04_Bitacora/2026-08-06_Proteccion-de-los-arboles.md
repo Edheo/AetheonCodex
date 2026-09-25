@@ -20,6 +20,10 @@ Así que tras consensuarlo, Frank y yo, hemos decidido instalar en sus troncos l
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-08
+<!-- Fuente: Git; commit 9d36669a64bf03f509b7f82319ecf41f3b811025; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Las pequeñas demogorgons, como las llamamos, siguen haciendo honor a su nombre, Hada y Alma, empiezan a ser el terror de algunos árboles, especialmente aquellos más jóvenes.
 Los guardianes más consolidados, son prácticamente inmunes a esos malos tratos por su parte, Vetusta, Titán, Los olivos bijus, o ni siquiera ninguno de los masqueperros, pueden sufrir considerablemente la incontenible energía de nuestra niñas más pequeñas e intrépidas.

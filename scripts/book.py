@@ -449,6 +449,12 @@ def entry_literary_header(entry):
         if entry["music_work"] and entry["music_performer"]:
             lines.append("")
 
+    if entry.get("incorporated"):
+        lines.append(
+            f"*Primera incorporación al Codex: {entry['incorporated']}*"
+        )
+        lines.append("")
+
     if entry["music_work"] and entry["music_performer"]:
         lines.append(
             f"*{entry['music_work']} — {entry['music_performer']}*"
@@ -551,6 +557,7 @@ def load_entries():
             "music_work": music_work,
             "music_performer": music_performer,
             "author": author,
+            "incorporated": extract_field(literary, "Primera incorporación al Codex"),
             "chapter_raw": chapter_value,
             "sequence_raw": sequence_value,
             "content": content,

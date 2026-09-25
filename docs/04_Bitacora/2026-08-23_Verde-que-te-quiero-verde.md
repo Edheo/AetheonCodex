@@ -56,6 +56,10 @@ Walt
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-24
+<!-- Fuente: Git; commit 84af95a47eb68c314942a815ba3c8080c8b0d437; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Entre las referencias literarias, que quiero que plasmen su esencia en Aetheon, creo que escogería estas.  
 Evan Mantyk: The classic forms are like the ancient trees / That weather every shifting, modern breeze.  

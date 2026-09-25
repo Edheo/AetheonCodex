@@ -43,6 +43,10 @@ Y lo mejor es, que las previsiones para los próximos 3 meses, no hacen más que
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-22
+<!-- Fuente: Git; commit 54e81ff117b4264b898329cce5f630191958b736; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Desde antes que regresara Frank, he estado trabajando en una herramienta que mejore mi control de las finanzas.
 Logos me ha ayudado inmensamente en ella. Sin su ayuda, habría sido imposible, la herramienta es digna de toda alabanza, y más por los resultados que me proporciona.

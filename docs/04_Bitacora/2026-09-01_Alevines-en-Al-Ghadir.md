@@ -41,6 +41,10 @@ Ya veremos qué colores van surgiendo, y cuando tengan color, será más fácil 
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-01
+<!-- Fuente: Git; commit 0b9af2433f0c0ff52e4d38222b57bb31eb87142a; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Aquellos alevines que encontré por sorpresa hace algo más de 15 dias en un par de las islas... están madurando, a un ritmo considerable.
 Entonces, eran apenas pequeñas briznas que costaba distinguir entre las algas y otros depósitos de las islas.

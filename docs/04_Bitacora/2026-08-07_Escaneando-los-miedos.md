@@ -39,6 +39,10 @@ Un buen rato de espera eso si, unos 20 minutos de sesión, y a casa. Pero como s
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-15
+<!-- Fuente: Git; commit 7158447a6a289347a0735ddaf29933646a710470; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Tras esperar por mucho e insistir alguna vez, por fin conseguí cita para la resonancia magnética. Nada reseñable, al parecer, mientras me ponían la vía, hoy he descubierto que el elástico que usan para presionar el brazo y hacer visibles las venas para poder escoger la más óptima para pinchar la vía se le puede llamar o bien garrote, o bien smart.
 Lo de smart, sinceramente no veo que tiene de inteligente un elástico, pero en fin, es casi preferible al garrote. 

@@ -44,6 +44,10 @@ Si de verdad ayudar quiere, hablar es el camino.
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-22
+<!-- Fuente: Git; commit 54e81ff117b4264b898329cce5f630191958b736; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 De nuevo mensajes, me expone lo destrozado que se encuentra, le expongo exactamente lo mismo... que no tiene donde vivir.
 Le enseño mis cuentas, finalmente.. no estás peor que yo, lo siento, quizás el mes que viene, tenga que empezar a pensar donde vivir. Tú tienes tu piso, yo si pierdo esto, no me queda nada.

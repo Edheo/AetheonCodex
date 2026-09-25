@@ -21,6 +21,10 @@ Este monumental pino, ha sido testigo de la revolución industrial, de la revolu
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-10
+<!-- Fuente: Git; commit c09dd6eee3f6496bc49164c2e34a0b7b8492912e; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Algo más joven, pero no por ello, ha necesitado menos fortuna que Vetusta para seguir aquí donde está.
 Obviamente, el paso del tiempo le fué dotando de una majestuosidad que desafiaba la de la propia Vetusta, quizás este Canon de colosos, este dueto poderoso que conformaban ambos.

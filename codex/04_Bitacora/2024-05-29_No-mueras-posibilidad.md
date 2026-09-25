@@ -20,6 +20,10 @@ Ese mismo dia, realizariamos las condicones del contrato de arras y la semana si
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-27
+<!-- Fuente: Git; commit 2bd518faf94a0839939b884dfc74311548c6aaa4; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 El dia, empezó con lágrimas, tanto Frank, como yo.
 Cuando Frank llegó al trabajo, me hizo una propuesta. Que subieramos la oferta, 5000 euros más, un poco más allá de nuestras posibilidades.

@@ -45,6 +45,10 @@ Será difícil, pasa por mí también ese camino, y no estoy en mi mejor momento
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-25
+<!-- Fuente: Git; commit b3a728803a601b3bae2c4a8307713c4a061b2afd; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Se han ido sucediendo los dias, bastante rápidamente.
 

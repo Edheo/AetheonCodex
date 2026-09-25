@@ -42,6 +42,10 @@ Así que tomo el coche, asumo mi riesgo, y me dirijo al hospital.
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-25
+<!-- Fuente: Git; commit b3a728803a601b3bae2c4a8307713c4a061b2afd; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Acudí a mi cita con la doctora. Ella poco puede hacer por mí... me indica que desde el primer momento, debí haber acudido a urgencias del Hospital General, donde me intervinieron el tumor, y me trataron posteriormente mi neurocirujano y mis oncólogos.
 El problema, claro está, es que no debo conducir. Pero Frank, no mostró ningún tipo de interés ni preocupación por mi episodio... según él... es algo que "nos puede pasar a cualquiera", no hay que preocuparse sin necesidad.

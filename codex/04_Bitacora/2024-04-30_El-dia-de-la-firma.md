@@ -22,6 +22,10 @@ Y de nuevo, conduciendo, otro episodio más...es realmente molesto, y más condu
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-26
+<!-- Fuente: Git; commit 329b7ff38b39b286461989ee595a639b276e9e63; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Llevo un par de meses moviditos. Fractura de cadera de mi padre, incontables noches y dias de cuidados en el hospital.
 Mi padre en cuanto llegó, empezó a desorientarse incluso delirar, rápidamente.

@@ -40,6 +40,10 @@ Docenas de ellos, diría yo.
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-23
+<!-- Fuente: Git; commit 8196ac09be165e88bc50e746eff6db2889749d57; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Pese ser ya casi otoño, últimamente, hay que estar muy atento a todo en Aetheon.
 Ya vi en su dia, que habían alevines en las islas.. ahora ya están más crecidos, mucho más visibles, poco más de un centímetro... pero es ilusionante.

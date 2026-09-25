@@ -27,6 +27,10 @@ Según la IA, me indica que probablemente es una infección por Flavobacterium c
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-23
+<!-- Fuente: Git; commit 8196ac09be165e88bc50e746eff6db2889749d57; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Ha sido muy rápido. Ayer por la mañana parecían bastante normales, no vi nada raro.
 Por la noche para darles la cena, reparé en que estaban visiblemente enfermos. Filamentos blanquecinos les rodean el cuerpo.. Boquean de asfixia.

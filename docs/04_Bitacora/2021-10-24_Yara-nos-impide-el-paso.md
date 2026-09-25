@@ -42,6 +42,10 @@ Tuvimos que recogerla, lloviznaba, ella justo encima de un desague, la cogí y c
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-17
+<!-- Fuente: Git; commit 995eb01d976448f9af0ebd48119f143c333ce71b; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Frank y yo, por fin, nos decidimos a vivir juntos, después de estar un par de años de relación y atravesar una pandemia separados con el aislamiento, decidimos no esperar más, y nos fuimos a vivir juntos a Calderer.
 Durante la mudanza, ibamos con la furgoneta alquilada llena de bártulos del piso de Frank, dispuestos a descargarlos en Calderer, pero nos detuvimos en la gasolinera en la carretera camino allí.

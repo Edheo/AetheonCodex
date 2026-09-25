@@ -25,6 +25,10 @@ Una necesidad imperiosa de plantar un magnolio. Pero en Turís, plantar un magno
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-23
+<!-- Fuente: Git; commit 8ae0a5df3a8a3465bea079cd8804a2beec162072; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Desde que vi por primera vez Magnolias de acero... el magnolio y sus magnolias, son siempre un recuerdo vivo de esa película, pese que no recuerdo que en la película siquiera aparezca una de sus flores.... qué mala memoria, no lo recuerdo.
 Y aún así, cuando Rosalía publicó su álbum Lux, de pronto, ese apetito dormido... se reavivó... y ya no sólo por la película, sino por la letra de esta canción también.

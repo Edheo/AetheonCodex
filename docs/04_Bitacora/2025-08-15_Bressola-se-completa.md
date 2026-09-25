@@ -41,6 +41,10 @@ Solo queda un pequeño mantenimiento: proporcionarle sustrato, grava, áreas div
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-05
+<!-- Fuente: Git; commit c1a0e473fe2ea4184c4507d2df230420aa537191; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 La llegada del macetero es el comienzo del culmen de Bressol·la. Queda poco más de un mes para mi intervención quirúrgica y, aun así... no veo el momento.
 No sé qué sucederá después. Todo es incertidumbre y, en parte, el tiempo me apremia a concluir, a colocar cada cosa en su sitio.

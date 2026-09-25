@@ -44,6 +44,10 @@ Aunque sospeché, hasta que no le vi cargando sus bártulos no pregunté. "Te va
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-15
+<!-- Fuente: Git; commit 164ed50560ea96ad39a8af73a2bc9ef25516cea3; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Ayer regresó a casa, después de trabajar. El coche, no entró ya en la parcela, aparcado a la puerta.
 No abre con su llave, llama al timbre... ni siquiera me percato de que es él, hasta que pregunto quién es.

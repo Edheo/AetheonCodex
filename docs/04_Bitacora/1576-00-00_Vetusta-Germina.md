@@ -16,6 +16,10 @@ Utilizando medidas de troncos, estatura y demás, se calcula datación sin poder
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-28
+<!-- Fuente: Git; commit 94005d6983bc227b69af347fd29938b79ed7fd45; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Desde que nació Vetusta... tantas cosas han acaecido en el mundo, en la humanidad.
 Quien sabe si presenció la revuelta de las Germanías o siquiera pudieron impedir que germinase.

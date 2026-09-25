@@ -41,6 +41,10 @@ Pero nada que celebrar, pero si una nueva propuesta, que me invita de nuevo, a r
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-08
+<!-- Fuente: Git; commit c152dda6980b04eec76ee5f85636e1bddbf061d7; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Y regresa Frank a casa... al poco de llegar, se acerca... con un ramo... Feliz Siete de Septiembre.
 Debería ser un dia que celebrar, algo que incluso nos emocionaba, por coincidir justo, sin intención, con la canción de Mecano.

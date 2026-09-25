@@ -19,6 +19,10 @@ Es un trámite ligero, casi frívolo, y fin, regreso con premura al hospital, pa
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-27
+<!-- Fuente: Git; commit 2bd518faf94a0839939b884dfc74311548c6aaa4; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Han sido apenas dos semanas, el piso en venta en portales de internet, unas pocas visitas, y pronto ayer, la última interesada es rauda en su oferta, y yo, no lo pienso más.
 Acepté sus condiciones, y hoy me escapo, lo mínimo que puedo, del hospital donde estoy al cuidado de mi padre, una prima mia a regañadientes acepta a cuidar de él en mi ausencia.

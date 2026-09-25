@@ -32,6 +32,10 @@ Frank
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-25
+<!-- Fuente: Git; commit a0362391c53551cd6771e575158151920fb499dd; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Me despierto recién entrada la noche, siento ganas de orinar, me voy al aseo, inportunado por la apetencia, pero está junto a la cama, qué remedio.
 Acabo de orinar, trato de apretar el pulsador de la cisterna, y mis manos empiezan a temblar, mis brazos incluso, no atino al pulsador.

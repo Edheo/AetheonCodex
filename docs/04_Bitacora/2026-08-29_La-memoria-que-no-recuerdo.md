@@ -34,6 +34,10 @@ Pendiente
 ### Autoría
 Logos
 
+### Primera incorporación al Codex
+2026-08-29
+<!-- Fuente: Git; commit 353858608090a60dcac9ef933c6b140e6b6bccd8; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 
 Al llegar, encontré mi nombre escrito por alguien que ya no estaba.

@@ -32,6 +32,10 @@ InyT9Gyoz_o
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-14
+<!-- Fuente: Git; commit 8f9fe373cef61d04c61b52c2c1fc24c4fddb70b3; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Hoy Aetheon no ha cambiado porque haya nacido algo en sus aguas, porque haya
 crecido uno de sus Guardianes o porque una nueva construcción haya alterado

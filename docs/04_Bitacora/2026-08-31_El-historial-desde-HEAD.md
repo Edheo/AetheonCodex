@@ -57,6 +57,10 @@ El color púrpura
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-31
+<!-- Fuente: Git; commit 1b8682a4739e7a832ec0ef8af3a2691174b4599f; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 
 Hay hechos que, antes de suceder, apenas eran una posibilidad entre muchas.

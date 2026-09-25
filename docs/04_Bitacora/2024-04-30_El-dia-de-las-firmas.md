@@ -24,6 +24,10 @@ Conduciendo a casa, me acaece otro episodio más.
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-27
+<!-- Fuente: Git; commit 2bd518faf94a0839939b884dfc74311548c6aaa4; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 El dia llegó, sentimientos encontrados. Si quiero un hogar para mis niñas, donde puedan tener espacio, donde en una futura pandemia o similar, pueda estar en algo más que entre 4 paredes sin ventilación, donde Frank y yo podamos vivir, este piso, no sirve, no es viable.
 Y lo cierto, es que he sido muy feliz aquí.

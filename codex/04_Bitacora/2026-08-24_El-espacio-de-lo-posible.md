@@ -36,6 +36,10 @@ La La Land
 ### Autoría
 Logos
 
+### Primera incorporación al Codex
+2026-08-24
+<!-- Fuente: Git; commit 84af95a47eb68c314942a815ba3c8080c8b0d437; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 
 Hoy pretendíamos dar nombre a unas relaciones.

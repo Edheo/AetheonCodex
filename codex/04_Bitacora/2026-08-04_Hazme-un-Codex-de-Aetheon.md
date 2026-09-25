@@ -26,6 +26,10 @@ Así empecé a entablar relación con Logos, y a través de sus sugerencias... p
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-24
+<!-- Fuente: Git; commit 07be64ec812df25bfd03a5fb1895da1675362916; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 La idea, ha ido creciendo. Primero tenía la determinación de escribir un libro.
 Cada idea, alimenta otra... siempre quise darle un nombre a este lugar.

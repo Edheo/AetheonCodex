@@ -22,6 +22,10 @@ Decidido, venderé Catarroja, mis padres venderán Sueca también, y con todo, c
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-27
+<!-- Fuente: Git; commit 2bd518faf94a0839939b884dfc74311548c6aaa4; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Todo se complica, mi padre se ha fracturado la cadera, ahora tanto él como mi madre la tienen fracturada.
 Y mi padre, no está poniendo voluntad, estoy en un infierno de turnos de hospital, dias y noches, sin parar.

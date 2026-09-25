@@ -24,6 +24,10 @@ Buen viaje tengáis, compañeros. Espero que hayáis encontrado las fuerzas para
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-04
+<!-- Fuente: Git; commit 27b62c88760bb2a5420da12d7c20f8947df477fb; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Hoy he consultado la cámara del trastero. Esta noche, a diferencia de ayer... ya no hay ningún avión durmiendo en el paellero.
 La intuición es clara. Ya es septiembre, ya llegó el momento.

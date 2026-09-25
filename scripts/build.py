@@ -13,6 +13,8 @@ Todo lo demás se deriva de él.
 
 Pipeline:
 
+    Fechas de incorporación ausentes (Git → Codex)
+        ↓
     Sync
         ↓
     Validate
@@ -33,6 +35,7 @@ import cartography
 import book
 import media
 import member_journal
+import journal_dates
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -62,6 +65,8 @@ def main():
     print("======================================")
     print(" AETHEON CODEX BUILDER")
     print("======================================")
+
+    journal_dates.run(apply=True)
 
     sync.run()
 

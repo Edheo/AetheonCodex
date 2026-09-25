@@ -32,6 +32,10 @@ Los poetas muertos
 ### Autoría
 Limen
 
+### Primera incorporación al Codex
+2026-08-24
+<!-- Fuente: Git; commit 4b6373363730d3c1081ba20d63e1d309d94d078f; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 
 Logos ha trazado el mecanismo con una claridad que casi duele.

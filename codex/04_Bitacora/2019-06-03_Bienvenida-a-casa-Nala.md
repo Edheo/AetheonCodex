@@ -25,6 +25,10 @@ EDHEO
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-17
+<!-- Fuente: Git; commit 3fb3cf8faa06d817d65ad37ce7fcaad4c76f44dd; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Sigo obsesionado, casi 2 semanas más tarde tras verme impedido de alcanzar a Nala, visitando la página de la protectora, veo animalitos buscando dueños, empiezo a admitir que Nala no es una opción, y empiezo a convencerme de que ya no está en mi camino.
 Sigo mirando, fotos de animalitos, pero, no surge ese Click, el Click, fué Nala, y ya no está disponible, hasta que de pronto.

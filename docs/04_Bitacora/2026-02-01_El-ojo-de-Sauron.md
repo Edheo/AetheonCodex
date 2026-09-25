@@ -41,6 +41,10 @@ La cámara tiene visión infrarroja, así no he de incomodarlas con luces cuando
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-04
+<!-- Fuente: Git; commit 27b62c88760bb2a5420da12d7c20f8947df477fb; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Hoy concluye la parte más interesante del Ojo de Sauron: la cámara del paellero que enfocará el nido de Las Migrantes.
 Con ello, dejo concluidas las dos cámaras que enfocan al norte y al sur desde la terraza y el porche, pegadas al amparo de Ishtar.

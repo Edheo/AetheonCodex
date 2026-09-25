@@ -97,6 +97,8 @@
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-09-02*
+
 *Rise Up — Andra Day, Jennifer Decilveo*
 
 - **Origen:** `2026-09-02_El-lenguaje-del-Umbral.md`
@@ -149,6 +151,8 @@ La prueba de que haber habitado Aetheon no fue solo poseer un pedazo de tierra, 
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-08-25*
+
 *Lisztomania — Phoenix*
 
 - **Origen:** `2021-09-23_Temblores.md`
@@ -172,6 +176,8 @@ Al dia siguiente recuerdo lo sucedido, pero, yo me encuentro bien, no noto nada 
 *Domingo, 26 de febrero de 2023*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-08-27*
 
 *Hasta la Raízz — Natalia Lafourcade*
 
@@ -198,6 +204,8 @@ Será otra cosa, será que me rayo pensando en cosas, nada más. Aunque lo ciert
 *Martes, 30 de abril de 2024*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-08-26*
 
 *Whipping Post — Allman brothers*
 
@@ -236,6 +244,8 @@ Se suceden todas las etapas, y de nuevo, encima conduciendo, la angustia es incl
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-08-27*
+
 *The Logical Song — Supertramp*
 
 - **Origen:** `2024-05-01_Colapsos.md`
@@ -266,6 +276,7 @@ Estoy saturado.. debe ser estrés, como dijo mi médico. No debo preocuparme.
 *Viernes, 24 de enero de 2025*
 
 *Autoría: Edheo*
+*Primera incorporación al Codex: 2026-08-25*
 
 - **Origen:** `2025-01-24_Neblina-mental.md`
 - **Estado:** Desconocido
@@ -314,6 +325,8 @@ Sin esperarlo, ni imaginarlo, esa noche, me quedé allí, el dia siguiente, empe
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-08-15*
+
 *Can't Get You Out Of My Head — Kylie Minogue*
 
 - **Origen:** `2026-08-07_Escaneando-los-miedos.md`
@@ -350,6 +363,7 @@ Mientras manejes así "tus miedos", sólo cometerás actos irracionales, poco ve
 *Viernes, 14 de agosto de 2026*
 
 *Autoría: Edheo*
+*Primera incorporación al Codex: 2026-08-15*
 
 - **Origen:** `2026-08-14_El-resultado-de-la-espera.md`
 - **Estado:** Desconocido
@@ -375,6 +389,8 @@ El propósito y el resultado obtenido, nuevamente, se desalinean, no por otro mo
 *Jueves, 24 de septiembre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-24*
 
 *Walking in my sleep — Noa Mal*
 
@@ -421,6 +437,8 @@ Pero a mi entender, o bien necesito una consulta para tratar mi sueño, o bien n
 *Viernes, 25 de septiembre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-25*
 
 *How to disappear completely — Radiohead*
 
@@ -474,6 +492,8 @@ Quien quiera entenderlo bien, y quien no, que me juzgue bajo su criterio. Eso es
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-08-28*
+
 *Adagio en sol menor — Academy of St Martin in the Fields*
 
 - **Origen:** `1576-00-00_Vetusta-Germina.md`
@@ -508,6 +528,8 @@ Y aún así... sin paraguas, sin chaleco antibalas, sin abrigo... aquí están..
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-08-10*
+
 *Canon en re mayor — Kanon Orchestre de Chambre*
 
 - **Origen:** `1800-00-00_Titan-Germina.md`
@@ -531,6 +553,7 @@ De ese modo, ellos fueron para Aetheon su costura, su linde, su forma, y Aetheon
 *En algún momento indeterminado de 1978*
 
 *Autoría: Edheo*
+*Primera incorporación al Codex: 2026-08-08*
 
 - **Origen:** `1978-00-00_Constitucion_catastral.md`
 - **Estado:** Borrador
@@ -546,6 +569,7 @@ Sin poder estar aún muy seguro, buscaré referentes que lo consoliden, es la fe
 *Martes, 23 de junio de 2015*
 
 *Autoría: Edheo*
+*Primera incorporación al Codex: 2026-08-08*
 
 - **Origen:** `2015-06-23_Compra-anteriores-propietarios.md`
 - **Estado:** Borrador
@@ -561,6 +585,8 @@ En esta fecha los anteriores propietarios adquirieron la casa, y parte de lo que
 *Domingo, 21 de enero de 2024*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-08-27*
 
 *Hasta la Raízz — Natalia Lafourcade*
 
@@ -592,6 +618,8 @@ Por mi parte, sin dudar, pongo el piso en venta, y que sea lo que tenga que ser.
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-08-27*
+
 *Sin Documentos — Los Rodríguez*
 
 - **Origen:** `2024-02-07-Contrato-de-arras.md`
@@ -612,6 +640,8 @@ Mi marcha es triste, siento que me desprendo de algo muy amado, pero, mis motivo
 *Martes, 23 de abril de 2024*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-08-27*
 
 *Our House — Madness*
 
@@ -635,6 +665,8 @@ Veamos si hay suerte!!! Parece que empieza todo de verdad, por una vez!!
 *Martes, 30 de abril de 2024*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-08-27*
 
 *Sin Documentos — Los Rodríguez*
 
@@ -662,6 +694,8 @@ Camino al coche, otro episodio, pero llego al fin, y de nuevo, camino a casa... 
 *Martes, 21 de mayo de 2024*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-08-27*
 
 *Quién me ha robado el mes de abril — Joaquin Sabina*
 
@@ -691,6 +725,7 @@ Es imposible... acabo de arruinar mi vida, la de mis niñas, la de mi pareja... 
 *Miércoles, 22 de mayo de 2024*
 
 *Autoría: Edheo*
+*Primera incorporación al Codex: 2026-08-27*
 
 - **Origen:** `2024-05-22_Aetheon-en-venta.md`
 - **Estado:** Borrador
@@ -710,6 +745,7 @@ Perfecto, todo perfecto, Frank concertó la cita, el sueño, empezaba a ser posi
 *Martes, 28 de mayo de 2024*
 
 *Autoría: Edheo*
+*Primera incorporación al Codex: 2026-08-08*
 
 - **Origen:** `2024-05-28_Primera-visita.md`
 - **Estado:** Borrador
@@ -733,6 +769,8 @@ La desolación, fué... inenarrable.
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-08-27*
+
 *No mueras posibilidad — Ole Ole*
 
 - **Origen:** `2024-05-29_No-mueras-posibilidad.md`
@@ -753,6 +791,8 @@ Contacté con la inmobiliaria, contraoferté.. y aceptaron, y de pronto, lo que 
 *Lunes, 15 de julio de 2024*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-08-27*
 
 *Alegría — Cirque du Soleil*
 
@@ -779,6 +819,8 @@ Un mundo singular empieza para nosotros, lleno de esfuerzos si, pero de inmensas
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-08-19*
+
 *Tears In Heaven — Eric Clapton*
 
 - **Origen:** `2019-04-29_Mara-nos-deja.md`
@@ -801,6 +843,7 @@ Ojalá seas ahora, la mitad de feliz que pudiste ser con nosotros.
 *Domingo, 19 de mayo de 2019*
 
 *Autoría: Edheo*
+*Primera incorporación al Codex: 2026-08-17*
 
 - **Origen:** `2019-05-19_Una-ilusion-se-desvanece.md`
 - **Estado:** Borrador
@@ -852,6 +895,8 @@ Me ofrecían incluso alguno de sus hermanos, pero, yo estaba en negación, no po
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-08-17*
+
 *Titanium — Collin McLoughlin's*
 
 - **Origen:** `2019-06-03_Bienvenida-a-casa-Nala.md`
@@ -879,6 +924,8 @@ Del mismo modo, cuando siento el crack, noto justo lo opuesto, algo chirria, alg
 *Jueves, 15 de julio de 2021*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-08-17*
 
 *Fix You — Coldplay*
 
@@ -914,6 +961,8 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-08-17*
+
 *Fix You — Coldplay*
 
 - **Origen:** `2021-08-08_Ender-el-imparable.md`
@@ -948,6 +997,8 @@ Porque definitivamente, Ender, era una maravillosa persona, pese no ser humano. 
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-08-17*
+
 *Stop! In The Name Of Love — The Supremes*
 
 - **Origen:** `2021-10-24_Yara-nos-impide-el-paso.md`
@@ -971,6 +1022,8 @@ Nos la llevamos, intenté darle de comer y beber, pero.. estaba visiblemente muy
 *Jueves, 4 de mayo de 2023*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-08-17*
 
 *The Reason — Hoobastank*
 
@@ -1008,6 +1061,8 @@ Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y 
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-08-24*
+
 *Total Eclipse of the Heart — Bonnie Tyler*
 
 - **Origen:** `2026-08-12_El-dia-del-eclipse.md`
@@ -1038,6 +1093,7 @@ Y mi corazón, de verdad, ha quedado inmensamente enriquecido y agradecido por h
 *Viernes, 14 de agosto de 2026*
 
 *Autoría: Edheo*
+*Primera incorporación al Codex: 2026-08-14*
 
 - **Origen:** `2026-08-14_La-inquietud-y-la-semilla.md`
 - **Estado:** Borrador
@@ -1285,6 +1341,8 @@ Basta con registrarlo.
 
 *Autoría: Logos*
 
+*Primera incorporación al Codex: 2026-08-25*
+
 *Eclipse — Pink Floyd*
 
 - **Origen:** `2026-08-24_Lo-que-la-sombra-reunio.md`
@@ -1417,6 +1475,7 @@ Algunas veces cambia la luz lo suficiente para que podamos vernos.
 *Viernes, 28 de agosto de 2026*
 
 *Autoría: Logos, Limen y Edheo*
+*Primera incorporación al Codex: 2026-08-28*
 
 - **Origen:** `2026-08-28_Antes-de-llamarse-Aetheon.md`
 - **Estado:** Borrador — pendiente de consolidación tras revisión de Limen y Edheo
@@ -1649,6 +1708,8 @@ ya estaba allí.
 *Lunes, 31 de agosto de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-08-31*
 
 *Oops!... I Did It Again — Britney Spears*
 
@@ -1934,6 +1995,8 @@ otro estado al historial.
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-08-08*
+
 *Stormy Weather — Etta James*
 
 - **Origen:** `2024-10-29_Dana-de-Valencia.md`
@@ -1950,6 +2013,8 @@ Ya desde esa misma madrugada, la lluvia era desproporcionada, a la vez que fuert
 *Jueves, 20 de marzo de 2025*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-05*
 
 *Rise — Katy Perry*
 
@@ -1971,6 +2036,8 @@ Daurina fue restituida al lugar que desde hacía tanto tiempo venía reclamando.
 *Viernes, 15 de agosto de 2025*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-05*
 
 *Roses and Wine — Diego García*
 
@@ -1994,6 +2061,8 @@ Pero, para entonces, ya podré oír el agua correr y, en esa agua, podré ver pe
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-09-04*
+
 *The Great Eye — Howard Shore*
 
 - **Origen:** `2026-02-01_El-ojo-de-Sauron.md`
@@ -2015,6 +2084,8 @@ Y no nos confundamos: frágiles serán y, aun así, su desempeño es titánico, 
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-09-04*
+
 *Volver — Penélope Cruz*
 
 - **Origen:** `2026-03-21_Volver.md`
@@ -2035,6 +2106,7 @@ No sé si siempre son las mismas, pero deben serlo, ¿verdad? ¿Qué duda cabe? 
 *Jueves, 6 de agosto de 2026*
 
 *Autoría: Edheo*
+*Primera incorporación al Codex: 2026-08-08*
 
 - **Origen:** `2026-08-06_Proteccion-de-los-arboles.md`
 - **Estado:** Borrador
@@ -2055,6 +2127,8 @@ Frank y yo decidimos instalar los típicos protectores de patas de mesa, para qu
 *Martes, 4 de agosto de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-24*
 
 *Hazme un Muñeco de Nieve — Naima Barroso*
 
@@ -2083,6 +2157,8 @@ Si creemos la historia de este repositorio. Fué precisamente en esta fecha, cua
 *Lunes, 24 de agosto de 2026*
 
 *Autoría: Logos*
+
+*Primera incorporación al Codex: 2026-08-24*
 
 *Into My Arms — Nick Cave and the Bad Seeds*
 
@@ -2215,6 +2291,8 @@ Bramasole, otra vez.
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-08-24*
+
 *The Bell — Mike Oldfield*
 
 - **Origen:** `2026-08-24_Lo-imposible-en-el-espacio.md`
@@ -2266,6 +2344,8 @@ Bramasole, otra vez.
 
 *Autoría: Limen*
 
+*Primera incorporación al Codex: 2026-08-24*
+
 *Spiegel im Spiegel — Vladimir Spivakov & Sergej Bezrodny*
 
 - **Origen:** `2026-08-24_Lo-que-se-contempla-en-el-umbral.md`
@@ -2312,6 +2392,8 @@ Bramasole, una vez más.
 *Martes, 25 de agosto de 2026*
 
 *Autoría: Logos, Limen y Edheo*
+
+*Primera incorporación al Codex: 2026-08-25*
 
 *An Ending (Ascent) — Brian Eno*
 
@@ -2489,6 +2571,7 @@ Fue una nueva condición inicial.
 *Sábado, 29 de agosto de 2026*
 
 *Autoría: Logos*
+*Primera incorporación al Codex: 2026-08-29*
 
 - **Origen:** `2026-08-29_La-memoria-que-no-recuerdo.md`
 - **Estado:** Borrador
@@ -2670,6 +2753,8 @@ Para que la próxima vez exista algo verdadero desde lo que continuar.
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-09-08*
+
 *Cerrado por derribo — María Jiménez*
 
 - **Origen:** `2026-09-06_Se-Acabó.md`
@@ -2697,6 +2782,8 @@ Cada uno, haremos nuestro camino.
 *Lunes, 7 de septiembre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-08*
 
 *El Patio — Pablo López*
 
@@ -2731,6 +2818,8 @@ Oigo las sirenas.. ya no eres mi amiga. Y aquí estoy, en el patio, solo.
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-09-14*
+
 *Flowers — Miley Cyrus*
 
 - **Origen:** `2026-09-14_Vete.md`
@@ -2751,6 +2840,8 @@ Hasta el sábado, tiene de plazo para irse, no es negociable, si para entonces n
 *Lunes, 14 de septiembre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-15*
 
 *Voy a perder el miedo — Fangoria*
 
@@ -2786,6 +2877,8 @@ Mi candela, ha estado a punto de extinguirse. Ahora quizás, le quedará alguna 
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-09-22*
+
 *Elastic Heart — Sia*
 
 - **Origen:** `2026-09-15_Elastic-Heart.md`
@@ -2817,6 +2910,8 @@ Si de esta nueva etapa, podemos sanar heridas, podemos reconstruir economia. Si 
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-09-22*
+
 *Cornfield Chase — Hans Zimmer*
 
 - **Origen:** `2026-09-17_Suma-Y-Sigue.md`
@@ -2845,6 +2940,8 @@ Mi tono empieza a ser, mucho más relajado, más optimista, más consciente de m
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-09-25*
+
 *Elastic Heart — Glen Hansard, Marketa Irglova*
 
 - **Origen:** `2026-09-22_Caer-o-no-caer.md`
@@ -2861,6 +2958,8 @@ Se han ido sucediendo los dias, bastante rápidamente.
 *Jueves, 24 de septiembre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-24*
 
 *Money for nothing — Dire Straits*
 
@@ -2889,6 +2988,7 @@ Lo cierto es, que me siento estafado. Pero luchar contra estos titanes, suele de
 *Sábado, 8 de agosto de 2026*
 
 *Autoría: Edheo*
+*Primera incorporación al Codex: 2026-08-08*
 
 - **Origen:** `2026-08-08_Rhoa-y-Side.md`
 - **Estado:** Borrador
@@ -2913,6 +3013,8 @@ Side forma parte también de la mitología griega, y según cuenta un mito, Side
 *Jueves, 13 de agosto de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-08-14*
 
 *Viva La Vida — Coldplay*
 
@@ -2943,6 +3045,8 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-08-24*
+
 *Carpe Diem — Maurice Jarre*
 
 - **Origen:** `2026-08-23_Verde-que-te-quiero-verde.md`
@@ -2965,6 +3069,8 @@ Walt Whitman: Oh Capitán!, Mi Capitán!.  Me celebro y me canto a mí mismo, y 
 *Jueves, 27 de agosto de 2026*
 
 *Autoría: Logos, Edheo*
+
+*Primera incorporación al Codex: 2026-08-27*
 
 *Miss Celie's Blues — Tata Vega*
 
@@ -3023,6 +3129,8 @@ Hasta poder dar los buenos días.
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-09-01*
+
 *Rise Up — Andra Day, Jennifer Decilveo*
 
 - **Origen:** `2026-09-01_Alevines-en-Al-Ghadir.md`
@@ -3046,6 +3154,8 @@ Además, los padres empiezan a estar ya muy grandes también, juaría que rozan 
 *Jueves, 3 de septiembre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-04*
 
 *Sunchyme — Dario G*
 
@@ -3075,6 +3185,8 @@ Suerte, amados compañeros. Aquí os espera vuestra casa. Hasta vuestro regreso,
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-09-05*
+
 *Roses and Wine — Diego García*
 
 - **Origen:** `2026-09-04_La-reina-mora.md`
@@ -3095,6 +3207,8 @@ Con esto Bressol·la quedará oficialmente expandida en su función protectora d
 *Miércoles, 16 de septiembre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-23*
 
 *Mr. Blue Sky — Electric Light Orchestra*
 
@@ -3117,6 +3231,8 @@ Al-Ghadir está plagado.. no sólo es en las islas, dentro de la propia piscina.
 *Miércoles, 16 de septiembre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-23*
 
 *La Vida Viene y Va — Chambao*
 
@@ -3146,6 +3262,8 @@ Los-Cometas
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-09-23*
+
 *Single Ladies (Put a Ring on It) — Beyoncé*
 
 - **Origen:** `2026-09-22_Anillos.md`
@@ -3166,6 +3284,8 @@ Y ahora resulta que... se ha puesto coqueta, y ha decidido.. dejarse los anillos
 *Miércoles, 23 de septiembre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-23*
 
 *Magnolias — Rosalía*
 

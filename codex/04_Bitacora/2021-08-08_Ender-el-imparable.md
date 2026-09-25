@@ -31,6 +31,10 @@ El minino, sobrevivió, y quizás por esa proeza le llamé Ender, como el niño 
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-17
+<!-- Fuente: Git; commit 995eb01d976448f9af0ebd48119f143c333ce71b; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Estaba en Calderer en aquel entonces... ya casi anocheciendo, y mi obsesión gatuna, llamaba a mis oidos.
 Un quejido, un lamento, casi junto a la carretera, un minino lloraba desconsolado, casi a la puerta de mi casa, no habrían más de 20 metros hasta la procedencia del lastimoso maullido.

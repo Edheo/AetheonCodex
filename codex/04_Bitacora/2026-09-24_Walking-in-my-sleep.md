@@ -27,6 +27,10 @@ Me acerco a la cafetera, se ha evaporado toda, debe llevar horas al fuego.
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-24
+<!-- Fuente: Git; commit db694a349f4c41864b88e9421a53c5c7c88cdb20; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Al despertar veo la hora. Ufff, las seis y pocos minutos. ¿Será posible? Por una noche en meses, he dormido seis horas seguidas!!!
 Me levanto de la cama, y pronto, el buen humor se me empieza a torcer. Me resulta extraño, lo primero que reparo, es que la puerta de la casa, está abierta de par en par.

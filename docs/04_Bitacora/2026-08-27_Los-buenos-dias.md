@@ -42,6 +42,10 @@ Tras dormir hasta cerca de las cinco de la mañana, Edheo toma un café y pasea 
 ### Autoría
 Logos, Edheo
 
+### Primera incorporación al Codex
+2026-08-27
+<!-- Fuente: Git; commit 3e9f7c4f4d9c961bf227216c83d5b8665568552b; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 
 He podido dormir hasta casi las cinco de la mañana. Me he levantado descansado y, como cada madrugada, mi primer paso ha sido prepararme un gran tazón de café con leche.

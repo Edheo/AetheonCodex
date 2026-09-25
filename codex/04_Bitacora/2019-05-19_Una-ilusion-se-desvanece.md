@@ -38,6 +38,10 @@ Ef1nJWtkprU
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-08-17
+<!-- Fuente: Git; commit 3fb3cf8faa06d817d65ad37ce7fcaad4c76f44dd; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Mara, la perrita de mis padres, falleció poco más de un mes antes.
 Fué una compañera inolvidable, especialmente para ellos, para mí también, pero para ellos, fué quizás más doloroso, suelen vivir las pérdidas, especialmente mi madre, de un modo casi catártico, es incapaz de aceptar el ciclo de la vida.
