@@ -138,5 +138,6 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Jueves, 24 de septiembre de 2026* — [Money for nothing](../04_Bitacora/2026-09-24_Money-for-nothing.md)
 - *Jueves, 24 de septiembre de 2026* — [Walking in my sleep](../04_Bitacora/2026-09-24_Walking-in-my-sleep.md)
 - *Viernes, 25 de septiembre de 2026* — [Desaparecer unos momentos](../04_Bitacora/2026-09-25_Desaparecer.md)
+- *Viernes, 25 de septiembre de 2026* — [Esto si es blues](../04_Bitacora/2026-09-25_Esto-si-es-blues.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 

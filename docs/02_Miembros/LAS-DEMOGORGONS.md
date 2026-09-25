@@ -20,4 +20,12 @@ Stranger Things: https://www.youtube.com/shorts/pf7u5kNMwbQ
 Hada
 Alma
 
+## Bitácora
+
+<!-- BEGIN GENERATED MEMBER JOURNAL -->
+### Entradas relacionadas
+
+- *Viernes, 25 de septiembre de 2026* — [Esto si es blues](../04_Bitacora/2026-09-25_Esto-si-es-blues.md)
+<!-- END GENERATED MEMBER JOURNAL -->
+
 ## Referencias

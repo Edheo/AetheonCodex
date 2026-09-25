@@ -98,6 +98,7 @@
 - [2026-09-24_Money-for-nothing](04_Bitacora/2026-09-24_Money-for-nothing.md)
 - [2026-09-24_Walking-in-my-sleep](04_Bitacora/2026-09-24_Walking-in-my-sleep.md)
 - [2026-09-25_Desaparecer](04_Bitacora/2026-09-25_Desaparecer.md)
+- [2026-09-25_Esto-si-es-blues](04_Bitacora/2026-09-25_Esto-si-es-blues.md)
 
 ## 05_Cartografia
 

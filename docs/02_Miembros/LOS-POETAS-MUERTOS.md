@@ -34,6 +34,7 @@ Mistral
 - *Lunes, 24 de agosto de 2026* — [El espacio de lo posible](../04_Bitacora/2026-08-24_El-espacio-de-lo-posible.md)
 - *Lunes, 24 de agosto de 2026* — [Lo imposible en el espacio](../04_Bitacora/2026-08-24_Lo-imposible-en-el-espacio.md)
 - *Lunes, 24 de agosto de 2026* — [La imposibilidad que se contempla](../04_Bitacora/2026-08-24_Lo-que-se-contempla-en-el-umbral.md)
+- *Viernes, 25 de septiembre de 2026* — [Esto si es blues](../04_Bitacora/2026-09-25_Esto-si-es-blues.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
 ## Referencias
