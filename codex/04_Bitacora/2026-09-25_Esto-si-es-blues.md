@@ -21,9 +21,13 @@ Me siento de vuelta en mi hogar, un gratificante paseo de madrugada, me hace pal
 ### Capítulo
 09 - Los paseos por Aetheon
 ### Secuencia
-010
+020
 ### Autoría
 Edheo
+
+### Primera incorporación al Codex
+2026-09-25
+<!-- Fuente: Git; commit 9dfb18d9ffa56bb12bf7a00b82ededb8b9f278d0; fecha de incorporación documentada, no de escritura. -->
 
 ### Contenido
 Me levanto, me preparo café... abro la puerta de la casa, para que Luna y Nala puedan salir a pasear, si lo desean.

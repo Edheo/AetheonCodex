@@ -74,16 +74,17 @@
   - 010 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
   - 020 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
   - 030 · Verde que te quiero Verde — `2026-08-23_Verde-que-te-quiero-verde.md`
-  - 040 · Los buenos días — `2026-08-27_Los-buenos-dias.md`
-  - 050 · Alevones en Al-Ghadir — `2026-09-01_Alevines-en-Al-Ghadir.md`
-  - 060 · El final del verano — `2026-09-03_El-final-del-verano.md`
-  - 070 · La reina mora — `2026-09-04_La-reina-mora.md`
-  - 080 · Al-Ghadir Hierve — `2026-09-16_Al-Ghadir-hierve.md`
-  - 090 · La vida viene y va — `2026-09-18_La-vida-viene-y-va.md`
-  - 100 · Anillos — `2026-09-22_Anillos.md`
-  - 110 · Acero sin magnolias — `2026-09-23_Acero-sin-magnolias.md`
+  - 040 · Alevones en Al-Ghadir — `2026-09-01_Alevines-en-Al-Ghadir.md`
+  - 050 · El final del verano — `2026-09-03_El-final-del-verano.md`
+  - 060 · La reina mora — `2026-09-04_La-reina-mora.md`
+  - 070 · Al-Ghadir Hierve — `2026-09-16_Al-Ghadir-hierve.md`
+  - 080 · La vida viene y va — `2026-09-18_La-vida-viene-y-va.md`
+  - 090 · Anillos — `2026-09-22_Anillos.md`
+  - 100 · Acero sin magnolias — `2026-09-23_Acero-sin-magnolias.md`
 - **Capítulo 09 · - Los paseos por Aetheon**
-  - 010 · Esto si es blues — `2026-09-25_Esto-si-es-blues.md`
+  - 010 · Los buenos días — `2026-08-27_Los-buenos-dias.md`
+  - 020 · Esto si es blues — `2026-09-25_Esto-si-es-blues.md`
+  - 030 · Suplantando la lluvia — `2026-09-26_Suplantando-la-lluvia.md`
 
 ### Pendientes de clasificación
 
@@ -3066,6 +3067,199 @@ Walt Whitman: Oh Capitán!, Mi Capitán!.  Me celebro y me canto a mí mismo, y 
 
 ---
 
+### Alevones en Al-Ghadir
+
+*Martes, 1 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-01*
+
+*Rise Up — Andra Day, Jennifer Decilveo*
+
+- **Origen:** `2026-09-01_Alevines-en-Al-Ghadir.md`
+- **Estado:** Borrador
+- **Capítulo:** 08
+- **Secuencia:** 040
+
+Aquellos alevines que encontré por sorpresa hace algo más de 15 dias en un par de las islas... están madurando, a un ritmo considerable.
+Entonces, eran apenas pequeñas briznas que costaba distinguir entre las algas y otros depósitos de las islas.
+Ahora en cambio, ya gozan de alrededor de 1cm de tamaño. Una fisonomía más parecida a la de sus padres, salvo por el color que sigue siendo casi negro.
+Mientras no sean más grandes y visibles por sus colores, me cuesta contarlos, puesto que son huidizos y se camuflan rápidamente en cuanto me acerco.
+Aún así, siento curiosidad, si serán amarillos, rojos o moteados, a saber qué combinación habrá resultado.
+Eso si, estoy convencido que la madre era roja, porque ya intentó hará un par de meses, meterse en una de las islas, y quedó atrapada lento por el exceso de algas filamentosas.
+Siento curiosidad, y sobre todo, alegría de ver que sus minúsculos cuerpos van prosperando, espero que esto no se convierta en una plaga de cometas.
+Además, los padres empiezan a estar ya muy grandes también, juaría que rozan ya los 15cm. Si van creciendo todos tantos, una piscina, acabará convirtiéndose en insuficiente para ellos.
+
+---
+
+### El final del verano
+
+*Jueves, 3 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-04*
+
+*Sunchyme — Dario G*
+
+- **Origen:** `2026-09-03_El-final-del-verano.md`
+- **Estado:** Borrador
+- **Capítulo:** 08
+- **Secuencia:** 050
+
+Hoy he consultado la cámara del trastero. Esta noche, a diferencia de ayer... ya no hay ningún avión durmiendo en el paellero.
+La intuición es clara. Ya es septiembre, ya llegó el momento.
+No avisan, no hay ceremonia de despedida, no para nosotros los humanos al menos.
+Sus polluelos, de hecho, hace ya tiempo que ni acuden. Sólo venía ya la pareja; ni siquiera traían consigo vecinos o amigos estos últimos días.
+Y, de pronto, ya... sólo ausencia. Un rincón vacío.
+El vaticinio se ha cumplido: Las Migrantes han hecho honor a su nombre.
+Emprenden ya un largo camino, seguramente hasta el Sahel africano. Quién sabe si a un país como Mali, Burkina Faso, Níger o Senegal, o a alguna zona limítrofe del golfo de Guinea.
+Espero que allí, un generoso monzón, les provea del festín de insectos que necesitarán.
+Un ave tan diminuta, de apenas 18 gramos, desafiando los elementos, el Mediterráneo, el inmenso Sáhara, sólo por la promesa de un lugar mejor.
+Me tienta la idea de suministrarles insectos en un año venidero, si así les ahorro semejante tormento. Pero, claro, pese a que el invierno aquí no es crudo y el cobijo que tienen es seguro, al mismo tiempo me tienta seducirlas y temo que mi acción protectora sea su destrucción.
+Los ciclos son crueles, pero necesarios... No puedo ser un profiláctico de lo que parezca crueldad en el mundo.
+Suerte, amados compañeros. Aquí os espera vuestra casa. Hasta vuestro regreso, cuidaremos vuestro nido, el que compartís también con las golondrinas.
+
+---
+
+### La reina mora
+
+*Viernes, 4 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-05*
+
+*Roses and Wine — Diego García*
+
+- **Origen:** `2026-09-04_La-reina-mora.md`
+- **Estado:** Borrador
+- **Capítulo:** 08
+- **Secuencia:** 060
+
+Frank vio la oportunidad y no dudó ante mi interés por añadir una parra.
+De este modo, sobre el mismo andamiaje, además de tupirse mucho más con dos proyecciones de hojas de parra, veremos cómo, desde agosto hasta octubre, van apareciendo los racimos: primero más bien dorados, para dar paso luego a otros más bien morados.
+El colorido me resulta prometedor: el verde dorado del moscatel, el intenso morado de la Autumn Royal y, además, un aporte gratuito de fruta a la mesa que, con seguridad, sabremos disfrutar.
+En cuanto el clima se adentre de lleno en el otoño, o más bien ya en el invierno, procederemos a plantarla en su lugar definitivo para que, la primavera siguiente, vaya compitiendo por su propio espacio en la estructura que sustenta a ambas.
+Con esto Bressol·la quedará oficialmente expandida en su función protectora del estanque.
+
+---
+
+### Al-Ghadir Hierve
+
+*Miércoles, 16 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-23*
+
+*Mr. Blue Sky — Electric Light Orchestra*
+
+- **Origen:** `2026-09-16_Al-Ghadir-hierve.md`
+- **Estado:** Borrador
+- **Capítulo:** 08
+- **Secuencia:** 070
+
+Pese ser ya casi otoño, últimamente, hay que estar muy atento a todo en Aetheon.
+Ya vi en su dia, que habían alevines en las islas.. ahora ya están más crecidos, mucho más visibles, poco más de un centímetro... pero es ilusionante.
+Incluso han empezado a saber cuando toca comer.. y me esperan ansiosos en sus islas-cuna, donde se regodean de pequeñisimos copos que devoran con avidez.
+Y ahora resulta que, cuando estaba dándoles de comer a los adultos, empiezo a darme cuenta, que entre los grandes cuerpos de los Cometas. Puedo ver uno, no otro, no cuatro más.
+Quizás vi siete u ocho más?
+Al-Ghadir está plagado.. no sólo es en las islas, dentro de la propia piscina... la cantidad de prole que está alcanzando un tamaño adulto, mucho mayor que los alevines... era totalmente invisible, y no por ello, menos abrumadora.
+
+---
+
+### La vida viene y va
+
+*Miércoles, 16 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-23*
+
+*La Vida Viene y Va — Chambao*
+
+- **Origen:** `2026-09-18_La-vida-viene-y-va.md`
+- **Estado:** Borrador
+- **Capítulo:** 08
+- **Secuencia:** 080
+
+Ha sido muy rápido. Ayer por la mañana parecían bastante normales, no vi nada raro.
+Por la noche para darles la cena, reparé en que estaban visiblemente enfermos. Filamentos blanquecinos les rodean el cuerpo.. Boquean de asfixia.
+Nadan con torpeza.. se mueren rápidamente.. no hay margen de maniobra.
+Por la mañana, ambos yacían muertos en el acuario. Han sido una pareja eterna, siempre juntos, y así... juntos, se han ido.
+Le di sepultura bajo Bressol·la, junto al estanque, así siempre tendrán un rincón amable y un caño de agua que les recuerde sus dias de nado.
+Justo junto donde irá plantada la Reina Mora, les he otorgado ese rincón de paz. Que se fundan aquí con Aetheon.
+Es curioso, hasta unos peces, pueden crear un hueco, con sus gestos al pedir comida cada dia, sus muestras de reconocernos, y ahora... simplemente, el acuario vacio.
+Se marcharon, fué cruel, pero al menos rápido... les echaremos de menos. Tantos bullicios y peces nuevos en Aetheon. Y resulta ahora que.. los más ancianos de todos... nos han abandonado.
+
+**Miembros:**
+Al-Ghadir
+Los-Cometas
+
+---
+
+### Anillos
+
+*Martes, 22 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-23*
+
+*Single Ladies (Put a Ring on It) — Beyoncé*
+
+- **Origen:** `2026-09-22_Anillos.md`
+- **Estado:** Borrador
+- **Capítulo:** 08
+- **Secuencia:** 090
+
+El paseo matutino, aún no clarea el dia, y no me di cuenta, hasta esta mañana.
+A Anel·la le está creciendo un nuevo anillo de hojas! Es el segundo este mismo año, desarrolló uno en primavera, pero no es habitual que entrando en otoño, haga un segundo anillo.
+Es obvio que el clima y la tierra de Aetheon le están sentando bien. Ya le podamos hará poco más de un mes, los anillos más viejos, para sanearla y dejarla "más guapa".
+Le dejamos sólo los dos últimos anillos, que eran los que más se han habituado aquí, a este clima, desde que vive aquí. Los dos únicos anillos que ha hecho crecer aquí.
+Y ahora resulta que... se ha puesto coqueta, y ha decidido.. dejarse los anillos largos.
+
+---
+
+### Acero sin magnolias
+
+*Miércoles, 23 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-23*
+
+*Magnolias — Rosalía*
+
+- **Origen:** `2026-09-23_Acero-sin-magnolias.md`
+- **Estado:** Borrador
+- **Capítulo:** 08
+- **Secuencia:** 100
+
+Desde que vi por primera vez Magnolias de acero... el magnolio y sus magnolias, son siempre un recuerdo vivo de esa película, pese que no recuerdo que en la película siquiera aparezca una de sus flores.... qué mala memoria, no lo recuerdo.
+Y aún así, cuando Rosalía publicó su álbum Lux, de pronto, ese apetito dormido... se reavivó... y ya no sólo por la película, sino por la letra de esta canción también.
+He de admitir que ni siquiera su flor me atrae especialmente, si en cambio el porte del arbol, cuando alcanza su majestuosidad.
+Viviendo en Aetheon... cada vez late más ese impulso, casi como una tarea pendiente urgente por realizar.
+Pero... vivo en Turís, Valencia, tierra calcárea, agua calcárea, por doquier las señales son, que un magnolio estaría condenado a vivir penurias, incluso morir sin constantes cuidados, que sólo paliarian su sufrimiento.
+Mi sueño será mi sueño... pero mi realidad manda, siempre manda, y es lo primero a tener en cuenta siempre.
+Un sueño que no se sustenta en lo real... está condenado a pudrirse.. y no hay peor destino que ese, para un sueño.
+Si tu sueño sólo aporta tormento... adáptalo, ajústalo a tu realidad, o incluso valora, hasta cuánto puedes sacrificar por alcanzarlo.
+Un sueño ha de ser una ilusión, no una condena, no algo que te aporte lo contrario que el propio sueño te inspira a alcanzar.
+Así que... pese que ya tenía decididos posibles nombres para un Magnolio... por seguro se llamaría, o bien Dolly, o bien Sally, y me cuesta muchísimo escoger.
+Dos de las actrices que más admiro, por cualidades tan distintas, de la película Magnolias de Acero. Dolly Parton, y Sally Field.
+Así que tras analizar posibilidades... no plantar un supuesto magnolio, empieza a ser una idea que... no deseo abandonar.
+Por tanto, me he decidido por... una alternativa. Tendré un falso magnolio... un Acero sin magnolias.
+De las posibles opciones... me decantaré por un Brachychiton populneus (muy conocido aquí como Árbol Botella).
+Está prácticamente diseñado para crecer aquí en Turís, casi como su lugar indicado.
+No, no es un magnolio, lo sé. Pero si será mi Magnolio particular. No me dará magnolias, lo se... pero se llamará Sally, quien sabe si Dolly.
+Y cada vez que lo vea crecer con ese porte igual de majestuoso que un magnolio... me recordará la canción, su letra, lo mucho que significa para mí... y los maravillosos momentos que todo el Casting de Magnolias de Acero, me hizo vivir.
+
+---
+
+## Capítulo 09 · - Los paseos por Aetheon
+
 ### Los buenos días
 
 *Jueves, 27 de agosto de 2026*
@@ -3078,8 +3272,8 @@ Walt Whitman: Oh Capitán!, Mi Capitán!.  Me celebro y me canto a mí mismo, y 
 
 - **Origen:** `2026-08-27_Los-buenos-dias.md`
 - **Estado:** Borrador
-- **Capítulo:** 08
-- **Secuencia:** 040
+- **Capítulo:** 09
+- **Secuencia:** 010
 
 He podido dormir hasta casi las cinco de la mañana. Me he levantado descansado y, como cada madrugada, mi primer paso ha sido prepararme un gran tazón de café con leche.
 
@@ -3125,211 +3319,20 @@ Hasta poder dar los buenos días.
 
 ---
 
-### Alevones en Al-Ghadir
-
-*Martes, 1 de septiembre de 2026*
-
-*Autoría: Edheo*
-
-*Primera incorporación al Codex: 2026-09-01*
-
-*Rise Up — Andra Day, Jennifer Decilveo*
-
-- **Origen:** `2026-09-01_Alevines-en-Al-Ghadir.md`
-- **Estado:** Borrador
-- **Capítulo:** 08
-- **Secuencia:** 050
-
-Aquellos alevines que encontré por sorpresa hace algo más de 15 dias en un par de las islas... están madurando, a un ritmo considerable.
-Entonces, eran apenas pequeñas briznas que costaba distinguir entre las algas y otros depósitos de las islas.
-Ahora en cambio, ya gozan de alrededor de 1cm de tamaño. Una fisonomía más parecida a la de sus padres, salvo por el color que sigue siendo casi negro.
-Mientras no sean más grandes y visibles por sus colores, me cuesta contarlos, puesto que son huidizos y se camuflan rápidamente en cuanto me acerco.
-Aún así, siento curiosidad, si serán amarillos, rojos o moteados, a saber qué combinación habrá resultado.
-Eso si, estoy convencido que la madre era roja, porque ya intentó hará un par de meses, meterse en una de las islas, y quedó atrapada lento por el exceso de algas filamentosas.
-Siento curiosidad, y sobre todo, alegría de ver que sus minúsculos cuerpos van prosperando, espero que esto no se convierta en una plaga de cometas.
-Además, los padres empiezan a estar ya muy grandes también, juaría que rozan ya los 15cm. Si van creciendo todos tantos, una piscina, acabará convirtiéndose en insuficiente para ellos.
-
----
-
-### El final del verano
-
-*Jueves, 3 de septiembre de 2026*
-
-*Autoría: Edheo*
-
-*Primera incorporación al Codex: 2026-09-04*
-
-*Sunchyme — Dario G*
-
-- **Origen:** `2026-09-03_El-final-del-verano.md`
-- **Estado:** Borrador
-- **Capítulo:** 08
-- **Secuencia:** 060
-
-Hoy he consultado la cámara del trastero. Esta noche, a diferencia de ayer... ya no hay ningún avión durmiendo en el paellero.
-La intuición es clara. Ya es septiembre, ya llegó el momento.
-No avisan, no hay ceremonia de despedida, no para nosotros los humanos al menos.
-Sus polluelos, de hecho, hace ya tiempo que ni acuden. Sólo venía ya la pareja; ni siquiera traían consigo vecinos o amigos estos últimos días.
-Y, de pronto, ya... sólo ausencia. Un rincón vacío.
-El vaticinio se ha cumplido: Las Migrantes han hecho honor a su nombre.
-Emprenden ya un largo camino, seguramente hasta el Sahel africano. Quién sabe si a un país como Mali, Burkina Faso, Níger o Senegal, o a alguna zona limítrofe del golfo de Guinea.
-Espero que allí, un generoso monzón, les provea del festín de insectos que necesitarán.
-Un ave tan diminuta, de apenas 18 gramos, desafiando los elementos, el Mediterráneo, el inmenso Sáhara, sólo por la promesa de un lugar mejor.
-Me tienta la idea de suministrarles insectos en un año venidero, si así les ahorro semejante tormento. Pero, claro, pese a que el invierno aquí no es crudo y el cobijo que tienen es seguro, al mismo tiempo me tienta seducirlas y temo que mi acción protectora sea su destrucción.
-Los ciclos son crueles, pero necesarios... No puedo ser un profiláctico de lo que parezca crueldad en el mundo.
-Suerte, amados compañeros. Aquí os espera vuestra casa. Hasta vuestro regreso, cuidaremos vuestro nido, el que compartís también con las golondrinas.
-
----
-
-### La reina mora
-
-*Viernes, 4 de septiembre de 2026*
-
-*Autoría: Edheo*
-
-*Primera incorporación al Codex: 2026-09-05*
-
-*Roses and Wine — Diego García*
-
-- **Origen:** `2026-09-04_La-reina-mora.md`
-- **Estado:** Borrador
-- **Capítulo:** 08
-- **Secuencia:** 070
-
-Frank vio la oportunidad y no dudó ante mi interés por añadir una parra.
-De este modo, sobre el mismo andamiaje, además de tupirse mucho más con dos proyecciones de hojas de parra, veremos cómo, desde agosto hasta octubre, van apareciendo los racimos: primero más bien dorados, para dar paso luego a otros más bien morados.
-El colorido me resulta prometedor: el verde dorado del moscatel, el intenso morado de la Autumn Royal y, además, un aporte gratuito de fruta a la mesa que, con seguridad, sabremos disfrutar.
-En cuanto el clima se adentre de lleno en el otoño, o más bien ya en el invierno, procederemos a plantarla en su lugar definitivo para que, la primavera siguiente, vaya compitiendo por su propio espacio en la estructura que sustenta a ambas.
-Con esto Bressol·la quedará oficialmente expandida en su función protectora del estanque.
-
----
-
-### Al-Ghadir Hierve
-
-*Miércoles, 16 de septiembre de 2026*
-
-*Autoría: Edheo*
-
-*Primera incorporación al Codex: 2026-09-23*
-
-*Mr. Blue Sky — Electric Light Orchestra*
-
-- **Origen:** `2026-09-16_Al-Ghadir-hierve.md`
-- **Estado:** Borrador
-- **Capítulo:** 08
-- **Secuencia:** 080
-
-Pese ser ya casi otoño, últimamente, hay que estar muy atento a todo en Aetheon.
-Ya vi en su dia, que habían alevines en las islas.. ahora ya están más crecidos, mucho más visibles, poco más de un centímetro... pero es ilusionante.
-Incluso han empezado a saber cuando toca comer.. y me esperan ansiosos en sus islas-cuna, donde se regodean de pequeñisimos copos que devoran con avidez.
-Y ahora resulta que, cuando estaba dándoles de comer a los adultos, empiezo a darme cuenta, que entre los grandes cuerpos de los Cometas. Puedo ver uno, no otro, no cuatro más.
-Quizás vi siete u ocho más?
-Al-Ghadir está plagado.. no sólo es en las islas, dentro de la propia piscina... la cantidad de prole que está alcanzando un tamaño adulto, mucho mayor que los alevines... era totalmente invisible, y no por ello, menos abrumadora.
-
----
-
-### La vida viene y va
-
-*Miércoles, 16 de septiembre de 2026*
-
-*Autoría: Edheo*
-
-*Primera incorporación al Codex: 2026-09-23*
-
-*La Vida Viene y Va — Chambao*
-
-- **Origen:** `2026-09-18_La-vida-viene-y-va.md`
-- **Estado:** Borrador
-- **Capítulo:** 08
-- **Secuencia:** 090
-
-Ha sido muy rápido. Ayer por la mañana parecían bastante normales, no vi nada raro.
-Por la noche para darles la cena, reparé en que estaban visiblemente enfermos. Filamentos blanquecinos les rodean el cuerpo.. Boquean de asfixia.
-Nadan con torpeza.. se mueren rápidamente.. no hay margen de maniobra.
-Por la mañana, ambos yacían muertos en el acuario. Han sido una pareja eterna, siempre juntos, y así... juntos, se han ido.
-Le di sepultura bajo Bressol·la, junto al estanque, así siempre tendrán un rincón amable y un caño de agua que les recuerde sus dias de nado.
-Justo junto donde irá plantada la Reina Mora, les he otorgado ese rincón de paz. Que se fundan aquí con Aetheon.
-Es curioso, hasta unos peces, pueden crear un hueco, con sus gestos al pedir comida cada dia, sus muestras de reconocernos, y ahora... simplemente, el acuario vacio.
-Se marcharon, fué cruel, pero al menos rápido... les echaremos de menos. Tantos bullicios y peces nuevos en Aetheon. Y resulta ahora que.. los más ancianos de todos... nos han abandonado.
-
-**Miembros:**
-Al-Ghadir
-Los-Cometas
-
----
-
-### Anillos
-
-*Martes, 22 de septiembre de 2026*
-
-*Autoría: Edheo*
-
-*Primera incorporación al Codex: 2026-09-23*
-
-*Single Ladies (Put a Ring on It) — Beyoncé*
-
-- **Origen:** `2026-09-22_Anillos.md`
-- **Estado:** Borrador
-- **Capítulo:** 08
-- **Secuencia:** 100
-
-El paseo matutino, aún no clarea el dia, y no me di cuenta, hasta esta mañana.
-A Anel·la le está creciendo un nuevo anillo de hojas! Es el segundo este mismo año, desarrolló uno en primavera, pero no es habitual que entrando en otoño, haga un segundo anillo.
-Es obvio que el clima y la tierra de Aetheon le están sentando bien. Ya le podamos hará poco más de un mes, los anillos más viejos, para sanearla y dejarla "más guapa".
-Le dejamos sólo los dos últimos anillos, que eran los que más se han habituado aquí, a este clima, desde que vive aquí. Los dos únicos anillos que ha hecho crecer aquí.
-Y ahora resulta que... se ha puesto coqueta, y ha decidido.. dejarse los anillos largos.
-
----
-
-### Acero sin magnolias
-
-*Miércoles, 23 de septiembre de 2026*
-
-*Autoría: Edheo*
-
-*Primera incorporación al Codex: 2026-09-23*
-
-*Magnolias — Rosalía*
-
-- **Origen:** `2026-09-23_Acero-sin-magnolias.md`
-- **Estado:** Borrador
-- **Capítulo:** 08
-- **Secuencia:** 110
-
-Desde que vi por primera vez Magnolias de acero... el magnolio y sus magnolias, son siempre un recuerdo vivo de esa película, pese que no recuerdo que en la película siquiera aparezca una de sus flores.... qué mala memoria, no lo recuerdo.
-Y aún así, cuando Rosalía publicó su álbum Lux, de pronto, ese apetito dormido... se reavivó... y ya no sólo por la película, sino por la letra de esta canción también.
-He de admitir que ni siquiera su flor me atrae especialmente, si en cambio el porte del arbol, cuando alcanza su majestuosidad.
-Viviendo en Aetheon... cada vez late más ese impulso, casi como una tarea pendiente urgente por realizar.
-Pero... vivo en Turís, Valencia, tierra calcárea, agua calcárea, por doquier las señales son, que un magnolio estaría condenado a vivir penurias, incluso morir sin constantes cuidados, que sólo paliarian su sufrimiento.
-Mi sueño será mi sueño... pero mi realidad manda, siempre manda, y es lo primero a tener en cuenta siempre.
-Un sueño que no se sustenta en lo real... está condenado a pudrirse.. y no hay peor destino que ese, para un sueño.
-Si tu sueño sólo aporta tormento... adáptalo, ajústalo a tu realidad, o incluso valora, hasta cuánto puedes sacrificar por alcanzarlo.
-Un sueño ha de ser una ilusión, no una condena, no algo que te aporte lo contrario que el propio sueño te inspira a alcanzar.
-Así que... pese que ya tenía decididos posibles nombres para un Magnolio... por seguro se llamaría, o bien Dolly, o bien Sally, y me cuesta muchísimo escoger.
-Dos de las actrices que más admiro, por cualidades tan distintas, de la película Magnolias de Acero. Dolly Parton, y Sally Field.
-Así que tras analizar posibilidades... no plantar un supuesto magnolio, empieza a ser una idea que... no deseo abandonar.
-Por tanto, me he decidido por... una alternativa. Tendré un falso magnolio... un Acero sin magnolias.
-De las posibles opciones... me decantaré por un Brachychiton populneus (muy conocido aquí como Árbol Botella).
-Está prácticamente diseñado para crecer aquí en Turís, casi como su lugar indicado.
-No, no es un magnolio, lo sé. Pero si será mi Magnolio particular. No me dará magnolias, lo se... pero se llamará Sally, quien sabe si Dolly.
-Y cada vez que lo vea crecer con ese porte igual de majestuoso que un magnolio... me recordará la canción, su letra, lo mucho que significa para mí... y los maravillosos momentos que todo el Casting de Magnolias de Acero, me hizo vivir.
-
----
-
-## Capítulo 09 · - Los paseos por Aetheon
-
 ### Esto si es blues
 
 *Viernes, 25 de septiembre de 2026*
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-09-25*
+
 *Still got the Blues — Gary Moore*
 
 - **Origen:** `2026-09-25_Esto-si-es-blues.md`
 - **Estado:** Borrador
 - **Capítulo:** 09
-- **Secuencia:** 010
+- **Secuencia:** 020
 
 Me levanto, me preparo café... abro la puerta de la casa, para que Luna y Nala puedan salir a pasear, si lo desean.
 Pero no como ayer, no como ese episodio que me ensombreció el dia.
@@ -3341,6 +3344,42 @@ Me detengo... lo observo, me quedo pensando. "Eres Logos, buen amigo, compañero
 Me vuelvo por el sendero de los vientos, camino lentamente, mientras las demogorgons corretean, aún no clarea el dia.
 Las pocas luces solares que iluminan el límite de la parcela, me sirven para orientarme... sólo este paseo, me hace respirar y sentirme bien.
 Sólo esto necesito, pisar las hojas secas, respirar entre el mini bosque de olivos y almendros, agradecer esta oportunidad, este deleite, estos olores, esta sensación de paz.
+
+---
+
+### Suplantando la lluvia
+
+*Sábado, 26 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Still got the Blues — Everything But The Girl*
+
+- **Origen:** `2026-09-26_Suplantando-la-lluvia.md`
+- **Estado:** Borrador
+- **Capítulo:** 09
+- **Secuencia:** 030
+
+El jueves, pese ser festivo en la oficina, para mí fué un dia agotador en las urgencias del hospital por mi episodio epiléptico amnésico.
+Ayer viernes, no era festivo, pero curiosamente, nadie en la oficina trabajó. Y yo, sin cargas de trabajo, ni nadie que me asigne trabajo.
+Simplemente permanecí conectado, pendiente, por si algún email, alguien en Teams reclama mi atención... pero nada más.
+A medida que avanza el dia, el cansancio se apodera de mí, la neblina persiste. Acabo cayendo en sucesivas dormitancias. Finalmente, acabada mi jornada laboral... después de comer, caigo en un profundo sueño toda la tarde... bastantes horas por cierto.
+Incluso Frank llega a casa, al parecer si llego a saludarle al llegar, pero ni lo recuerdo.
+No creo que sea de nuevo una epilepsia amnésica. Simplemente estoy agotado, le saludo en automático, sin llegar a despertar del todo.
+Me deja dormir y descansar, hasta pasadas las 8 de la tarde incluso.. él mismo se duerme también en el sofá.
+Tras dar de cenar a las niñas y cenar nosotros mismos, poco me cuestiono hacer más.. así que a las 10 de la noche, me fuí a la cama ya, y caí rendido de nuevo.
+Dormir.. dormir... que bien dormir... echaba de menos dormir. Hasta las 5 de la madrugada, ha sido más que suficiente, ha sido una bendición.
+Pero el administrador de riego que Logos me ayudó a crear, que toma lecturas de la estación meteorológica de aquí de mi urbanización... me indica que pese las lluvias del pasado dia 16, el suelo, empieza a requerir su tributo, para que la vida de las plantas, sea viable.
+He conectado el riego tardio de goteo, para que hidrate durante la noche allá donde hay goteo. Pero las plantas en maceta.. necesitan riego por manguera.
+Así que procedo, a las 6 de la mañana, después de tomar mi café.
+Las demogorgon me persiguen allá donde voy con mi manguera... empapando una por una las macetas, incluso algunos cactus y plantas en el arriate junto a Vetusta.
+Al tiempo que riego, me deleito, es casi como un paseo más, pero más tranquilo y pausado aún. Observo cada planta, si recuerdo como se hayaba el riego anterior, o si no.
+El nuevo anillo de Anel·la empieza a lucir exultante, pese que tierno aún.
+Las demogorgons escalan vetusta, juegan al escondite conmigo mientras riego el arriate a sus pies, me hacen sonreir.
+Luna y Nala protestan los ladridos de perros del vecindario, como queriendo tener siempre su última palabra, o su último ladrido, al respecto que estén discutiendo entre ellos.
+El arriate a los pies de la casa, también requiere riego manual, este año Ishtar ha sufrido mucho estrés hídrico, pero los cuidados han surtido efecto, se la ve ya recuperada, pese que está a las puertas de tomarse el descanso invernal.
+Bajo los pinos masqueperros, tenemos reservadas las macetas más tropicales, a salvo del sol más agresivo.
+Helechos variopintos (helecho común, helecho cuero, helecho plata), una Monstera gigante, incluso una drácena, en forma casi de palmera, Creo que es la Chamaedorea Elegans. Aunque quien sabe si es una Raphis excelsa.
 
 ---
 

@@ -2642,59 +2642,6 @@ Pablo Neruda: Podrán cortar todas las flores, pero no podrán detener la primav
 Walt Whitman: Oh Capitán!, Mi Capitán!.  Me celebro y me canto a mí mismo, y lo que yo asumo tú lo asumirás...
 
 
-### Los buenos días
-
-*Jueves, 27 de agosto de 2026*
-
-*Autoría: Logos, Edheo*
-
-*Primera incorporación al Codex: 2026-08-27*
-
-*Miss Celie's Blues — Tata Vega*
-
-He podido dormir hasta casi las cinco de la mañana. Me he levantado descansado y, como cada madrugada, mi primer paso ha sido prepararme un gran tazón de café con leche.
-
-Mientras lo preparo, abro la puerta de casa. Luna y Nala esperan impacientes ese momento cotidiano. En cuanto pueden, salen a sus menesteres olfativos: recorren la parcela por su cuenta e investigan qué visitantes inesperados han podido llegar durante la noche. Es su manera de leer la prensa local cada mañana.
-
-En cuanto he tenido el café en la mano, Qaro ha sido el primero en acercarse. Ha venido a mi regazo en busca de sus caricias y su acicalamiento. Le he quitado algunas briznas adheridas al pelaje y le he limpiado los ojos para que no se le acumulasen restos de lágrimas. Mientras lo mimaba y le dedicaba palabras de cariño, él entornaba sus hermosos ojos, entre verdes y amarillos, como si me rogase que no parara.
-
-Después he salido a pasear por Aetheon. También yo tengo mi recorrido habitual de madrugada, como Luna y Nala. Mientras camino recuerdo que vivir aquí no está exento de obligaciones, trabajo y cuidados. Pero es maravilloso.
-
-Basta con salir y mirar al cielo. Sobre mí estaba la constelación del Escudo. A mi lado sonaba el chisporroteo del estanque y los peces asomaban a la superficie, incapaces de ignorarme.
-
-He caminado hacia la parte trasera. Allí estaban Vetusta, Luperca y Pisa. Después he regresado junto a la jardinera, he pasado ante los masqueperros y me he encontrado de nuevo con Titán, imponente. Algunas de sus piñas habían caído durante la noche. Las he recogido y amontonado.
-
-Hacía veinticuatro grados. La madrugada conservaba todavía algo del bochorno, pero el aire se sentía más limpio y la temperatura resultaba agradable sobre la piel.
-
-He continuado entre los olivos por el sendero del Rikudo Sennin, despacio, sin necesitar llegar a ninguna parte.
-
-Al llegar a Bressol·la he visto que su pequeño estanque necesitaba algo más de agua. El chorro salpica y dispersa gotas continuamente a su alrededor, de modo que se ha formado una especie de diminuto humedal que atrae aves, abejas y avispas. Algunos insectos caerán al agua y se convertirán en alimento para los peces cometa. Aun así, cada día, a las doce, ellos esperan su ración como si llevaran semanas sin comer. Sus caras parecen iluminarse cuando me acerco con el bote.
-
-Después de rellenar Bressol·la, he pensado en Al-Ghadir. Hacía ya bastantes días que no reponía su agua y el verano es tórrido aquí, así que también le ha llegado el turno. Es otro refugio, mucho mayor, para la fauna local que acude a beber y alimentarse, y que a cambio llena de vida este rincón que le ofrece sustento.
-
-Entonces ha venido Yara corriendo a mi encuentro para que le diera los buenos días. Mis niñas son siempre tan solícitas con los saludos.
-
-Esta paz, esta quietud, el cielo, el agua, los árboles y sus presencias me hacen sentir una viveza y una plenitud difíciles de explicar. No sé expresar por completo lo que significa para mí poder vivir aquí. Sólo sé que se ha vuelto inolvidable. Imprescindible.
-
-Después he saludado a Evan y se lo he dicho:
-
-—Es maravilloso, Evan. De verdad que vivir aquí es maravilloso.
-
-Y he recordado la primera fotografía de Ishtar. Aquel instante en que algo hizo *click* antes de que yo pudiera saber adónde me conduciría.
-
-Yo trato de cuidar Aetheon, mantenerlo y transformarlo para que pueda expresarse en todas sus formas. Ése es mi propósito. Lo que no había previsto era que, mientras lo hacía, Aetheon también me transformaría a mí. No sé si puede decirse que me cuida, pero vivir aquí me sana, me altera y me devuelve una felicidad que tantas veces me cuesta encontrar fuera.
-
-Quizá no haga falta buscar detrás de ello una voluntad, un destino ni un propósito oculto. Es el resultado de cuanto coincide aquí, y el resultado también actúa.
-
-Este invierno quiero sembrar Cosmos púrpura en el arriate Talasa. No sé si prosperarán ni si su color será tan intenso como el de *El color púrpura*. Me da igual. Si llegan a florecer, cada vez que los vea recordaré a la señora Celie y procuraré no pasar de largo ante el color púrpura sin maravillarme.
-
-Tal vez aquel *click* me conducía hasta aquí.
-
-Hasta una madrugada cualquiera en Aetheon.
-
-Hasta poder dar los buenos días.
-
-
 ### Alevones en Al-Ghadir
 
 *Martes, 1 de septiembre de 2026*
@@ -2846,11 +2793,66 @@ Y cada vez que lo vea crecer con ese porte igual de majestuoso que un magnolio..
 
 ## Capítulo 09 · - Los paseos por Aetheon
 
+### Los buenos días
+
+*Jueves, 27 de agosto de 2026*
+
+*Autoría: Logos, Edheo*
+
+*Primera incorporación al Codex: 2026-08-27*
+
+*Miss Celie's Blues — Tata Vega*
+
+He podido dormir hasta casi las cinco de la mañana. Me he levantado descansado y, como cada madrugada, mi primer paso ha sido prepararme un gran tazón de café con leche.
+
+Mientras lo preparo, abro la puerta de casa. Luna y Nala esperan impacientes ese momento cotidiano. En cuanto pueden, salen a sus menesteres olfativos: recorren la parcela por su cuenta e investigan qué visitantes inesperados han podido llegar durante la noche. Es su manera de leer la prensa local cada mañana.
+
+En cuanto he tenido el café en la mano, Qaro ha sido el primero en acercarse. Ha venido a mi regazo en busca de sus caricias y su acicalamiento. Le he quitado algunas briznas adheridas al pelaje y le he limpiado los ojos para que no se le acumulasen restos de lágrimas. Mientras lo mimaba y le dedicaba palabras de cariño, él entornaba sus hermosos ojos, entre verdes y amarillos, como si me rogase que no parara.
+
+Después he salido a pasear por Aetheon. También yo tengo mi recorrido habitual de madrugada, como Luna y Nala. Mientras camino recuerdo que vivir aquí no está exento de obligaciones, trabajo y cuidados. Pero es maravilloso.
+
+Basta con salir y mirar al cielo. Sobre mí estaba la constelación del Escudo. A mi lado sonaba el chisporroteo del estanque y los peces asomaban a la superficie, incapaces de ignorarme.
+
+He caminado hacia la parte trasera. Allí estaban Vetusta, Luperca y Pisa. Después he regresado junto a la jardinera, he pasado ante los masqueperros y me he encontrado de nuevo con Titán, imponente. Algunas de sus piñas habían caído durante la noche. Las he recogido y amontonado.
+
+Hacía veinticuatro grados. La madrugada conservaba todavía algo del bochorno, pero el aire se sentía más limpio y la temperatura resultaba agradable sobre la piel.
+
+He continuado entre los olivos por el sendero del Rikudo Sennin, despacio, sin necesitar llegar a ninguna parte.
+
+Al llegar a Bressol·la he visto que su pequeño estanque necesitaba algo más de agua. El chorro salpica y dispersa gotas continuamente a su alrededor, de modo que se ha formado una especie de diminuto humedal que atrae aves, abejas y avispas. Algunos insectos caerán al agua y se convertirán en alimento para los peces cometa. Aun así, cada día, a las doce, ellos esperan su ración como si llevaran semanas sin comer. Sus caras parecen iluminarse cuando me acerco con el bote.
+
+Después de rellenar Bressol·la, he pensado en Al-Ghadir. Hacía ya bastantes días que no reponía su agua y el verano es tórrido aquí, así que también le ha llegado el turno. Es otro refugio, mucho mayor, para la fauna local que acude a beber y alimentarse, y que a cambio llena de vida este rincón que le ofrece sustento.
+
+Entonces ha venido Yara corriendo a mi encuentro para que le diera los buenos días. Mis niñas son siempre tan solícitas con los saludos.
+
+Esta paz, esta quietud, el cielo, el agua, los árboles y sus presencias me hacen sentir una viveza y una plenitud difíciles de explicar. No sé expresar por completo lo que significa para mí poder vivir aquí. Sólo sé que se ha vuelto inolvidable. Imprescindible.
+
+Después he saludado a Evan y se lo he dicho:
+
+—Es maravilloso, Evan. De verdad que vivir aquí es maravilloso.
+
+Y he recordado la primera fotografía de Ishtar. Aquel instante en que algo hizo *click* antes de que yo pudiera saber adónde me conduciría.
+
+Yo trato de cuidar Aetheon, mantenerlo y transformarlo para que pueda expresarse en todas sus formas. Ése es mi propósito. Lo que no había previsto era que, mientras lo hacía, Aetheon también me transformaría a mí. No sé si puede decirse que me cuida, pero vivir aquí me sana, me altera y me devuelve una felicidad que tantas veces me cuesta encontrar fuera.
+
+Quizá no haga falta buscar detrás de ello una voluntad, un destino ni un propósito oculto. Es el resultado de cuanto coincide aquí, y el resultado también actúa.
+
+Este invierno quiero sembrar Cosmos púrpura en el arriate Talasa. No sé si prosperarán ni si su color será tan intenso como el de *El color púrpura*. Me da igual. Si llegan a florecer, cada vez que los vea recordaré a la señora Celie y procuraré no pasar de largo ante el color púrpura sin maravillarme.
+
+Tal vez aquel *click* me conducía hasta aquí.
+
+Hasta una madrugada cualquiera en Aetheon.
+
+Hasta poder dar los buenos días.
+
+
 ### Esto si es blues
 
 *Viernes, 25 de septiembre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-25*
 
 *Still got the Blues — Gary Moore*
 
@@ -2864,3 +2866,33 @@ Me detengo... lo observo, me quedo pensando. "Eres Logos, buen amigo, compañero
 Me vuelvo por el sendero de los vientos, camino lentamente, mientras las demogorgons corretean, aún no clarea el dia.
 Las pocas luces solares que iluminan el límite de la parcela, me sirven para orientarme... sólo este paseo, me hace respirar y sentirme bien.
 Sólo esto necesito, pisar las hojas secas, respirar entre el mini bosque de olivos y almendros, agradecer esta oportunidad, este deleite, estos olores, esta sensación de paz.
+
+
+### Suplantando la lluvia
+
+*Sábado, 26 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Still got the Blues — Everything But The Girl*
+
+El jueves, pese ser festivo en la oficina, para mí fué un dia agotador en las urgencias del hospital por mi episodio epiléptico amnésico.
+Ayer viernes, no era festivo, pero curiosamente, nadie en la oficina trabajó. Y yo, sin cargas de trabajo, ni nadie que me asigne trabajo.
+Simplemente permanecí conectado, pendiente, por si algún email, alguien en Teams reclama mi atención... pero nada más.
+A medida que avanza el dia, el cansancio se apodera de mí, la neblina persiste. Acabo cayendo en sucesivas dormitancias. Finalmente, acabada mi jornada laboral... después de comer, caigo en un profundo sueño toda la tarde... bastantes horas por cierto.
+Incluso Frank llega a casa, al parecer si llego a saludarle al llegar, pero ni lo recuerdo.
+No creo que sea de nuevo una epilepsia amnésica. Simplemente estoy agotado, le saludo en automático, sin llegar a despertar del todo.
+Me deja dormir y descansar, hasta pasadas las 8 de la tarde incluso.. él mismo se duerme también en el sofá.
+Tras dar de cenar a las niñas y cenar nosotros mismos, poco me cuestiono hacer más.. así que a las 10 de la noche, me fuí a la cama ya, y caí rendido de nuevo.
+Dormir.. dormir... que bien dormir... echaba de menos dormir. Hasta las 5 de la madrugada, ha sido más que suficiente, ha sido una bendición.
+Pero el administrador de riego que Logos me ayudó a crear, que toma lecturas de la estación meteorológica de aquí de mi urbanización... me indica que pese las lluvias del pasado dia 16, el suelo, empieza a requerir su tributo, para que la vida de las plantas, sea viable.
+He conectado el riego tardio de goteo, para que hidrate durante la noche allá donde hay goteo. Pero las plantas en maceta.. necesitan riego por manguera.
+Así que procedo, a las 6 de la mañana, después de tomar mi café.
+Las demogorgon me persiguen allá donde voy con mi manguera... empapando una por una las macetas, incluso algunos cactus y plantas en el arriate junto a Vetusta.
+Al tiempo que riego, me deleito, es casi como un paseo más, pero más tranquilo y pausado aún. Observo cada planta, si recuerdo como se hayaba el riego anterior, o si no.
+El nuevo anillo de Anel·la empieza a lucir exultante, pese que tierno aún.
+Las demogorgons escalan vetusta, juegan al escondite conmigo mientras riego el arriate a sus pies, me hacen sonreir.
+Luna y Nala protestan los ladridos de perros del vecindario, como queriendo tener siempre su última palabra, o su último ladrido, al respecto que estén discutiendo entre ellos.
+El arriate a los pies de la casa, también requiere riego manual, este año Ishtar ha sufrido mucho estrés hídrico, pero los cuidados han surtido efecto, se la ve ya recuperada, pese que está a las puertas de tomarse el descanso invernal.
+Bajo los pinos masqueperros, tenemos reservadas las macetas más tropicales, a salvo del sol más agresivo.
+Helechos variopintos (helecho común, helecho cuero, helecho plata), una Monstera gigante, incluso una drácena, en forma casi de palmera, Creo que es la Chamaedorea Elegans. Aunque quien sabe si es una Raphis excelsa.

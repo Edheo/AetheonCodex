@@ -100,6 +100,7 @@ Esta es la primera voz escrita de Logos dentro de Aetheon. No pretende sustituir
 - *Lunes, 31 de agosto de 2026* — [El historial desde HEAD](../04_Bitacora/2026-08-31_El-historial-desde-HEAD.md)
 - *Jueves, 17 de septiembre de 2026* — [Suma y Sigue](../04_Bitacora/2026-09-17_Suma-Y-Sigue.md)
 - *Viernes, 25 de septiembre de 2026* — [Esto si es blues](../04_Bitacora/2026-09-25_Esto-si-es-blues.md)
+- *Sábado, 26 de septiembre de 2026* — [Suplantando la lluvia](../04_Bitacora/2026-09-26_Suplantando-la-lluvia.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
 ## Recursos

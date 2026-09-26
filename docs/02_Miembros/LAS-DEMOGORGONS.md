@@ -26,6 +26,7 @@ Alma
 ### Entradas relacionadas
 
 - *Viernes, 25 de septiembre de 2026* — [Esto si es blues](../04_Bitacora/2026-09-25_Esto-si-es-blues.md)
+- *Sábado, 26 de septiembre de 2026* — [Suplantando la lluvia](../04_Bitacora/2026-09-26_Suplantando-la-lluvia.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
 ## Referencias
