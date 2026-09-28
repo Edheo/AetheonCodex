@@ -14,12 +14,12 @@ Me preparo mi café, mi rutina matutina de costumbre, y manos a la obra... me po
 
 ## Cosmogonía
 ### Musical
-**Obra:** Still got the Blues
-**Intérprete:** Everything But The Girl
-**Autor:** Tracey Thorn, Ben Watt
+**Obra:** The Rain Song
+**Intérprete:** Led Zeppelin
+**Autor:** Jimmy Page, Robert Plant
 <div class="aetheon-youtube">
   <iframe
-    src="https://www.youtube-nocookie.com/embed/aIkP9QiSnjg"
+    src="https://www.youtube-nocookie.com/embed/g8VduT7aR2c"
     title="YouTube video"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -28,7 +28,7 @@ Me preparo mi café, mi rutina matutina de costumbre, y manos a la obra... me po
 </div>
 
 <div class="aetheon-youtube-link">
-  <a href="https://www.youtube.com/watch?v=aIkP9QiSnjg"
+  <a href="https://www.youtube.com/watch?v=g8VduT7aR2c"
      target="_blank"
      rel="noopener noreferrer">
     Ver en YouTube
@@ -41,6 +41,10 @@ Me preparo mi café, mi rutina matutina de costumbre, y manos a la obra... me po
 030
 ### Autoría
 Edheo
+
+### Primera incorporación al Codex
+2026-09-26
+<!-- Fuente: Git; commit 833d31fa8845cb8d3c13c47a53dbd9b41c9aa2b2; fecha de incorporación documentada, no de escritura. -->
 
 ### Contenido
 El jueves, pese ser festivo en la oficina, para mí fué un dia agotador en las urgencias del hospital por mi episodio epiléptico amnésico.
@@ -62,7 +66,8 @@ Las demogorgons escalan vetusta, juegan al escondite conmigo mientras riego el a
 Luna y Nala protestan los ladridos de perros del vecindario, como queriendo tener siempre su última palabra, o su último ladrido, al respecto que estén discutiendo entre ellos.
 El arriate a los pies de la casa, también requiere riego manual, este año Ishtar ha sufrido mucho estrés hídrico, pero los cuidados han surtido efecto, se la ve ya recuperada, pese que está a las puertas de tomarse el descanso invernal.
 Bajo los pinos masqueperros, tenemos reservadas las macetas más tropicales, a salvo del sol más agresivo.
-Helechos variopintos (helecho común, helecho cuero, helecho plata), una Monstera gigante, incluso una drácena, en forma casi de palmera, Creo que es la Chamaedorea Elegans. Aunque quien sabe si es una Raphis excelsa.
+Helechos variopintos (helecho común, helecho cuero, helecho plata), una Monstera gigante, incluso una Chamaedorea Elegans. Aunque quien sabe si es una Raphis excelsa.
+
 ## Resonancias
 ### Literarias
 Fernando Pessoa: No hay placer como el de encontrar un rincón que sea nuestro en el mundo.

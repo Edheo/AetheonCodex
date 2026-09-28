@@ -21,7 +21,7 @@ Ya veremos qué colores van surgiendo, y cuando tengan color, será más fácil 
 ### Capítulo
 08 - Aetheon Respira
 ### Secuencia
-040
+050
 ### Autoría
 Edheo
 

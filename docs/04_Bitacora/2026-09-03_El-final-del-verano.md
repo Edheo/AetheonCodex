@@ -36,7 +36,7 @@ Buen viaje tengáis, compañeros. Espero que hayáis encontrado las fuerzas para
 ### Capítulo
 08 - Aetheon Respira
 ### Secuencia
-050
+060
 ### Autoría
 Edheo
 

@@ -52,7 +52,7 @@ Walt
 ### Capítulo
 08 - Aetheon Respira
 ### Secuencia
-030
+040
 ### Autoría
 Edheo
 

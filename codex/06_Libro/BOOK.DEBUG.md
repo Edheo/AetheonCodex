@@ -73,14 +73,17 @@
 - **Capítulo 08 · - Aetheon Respira**
   - 010 · Nuevas incorporaciones bautismales en Aetheon, Rhoa y Side — `2026-08-08_Rhoa-y-Side.md`
   - 020 · Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir — `2026-08-13_Alevines-en-Al-Ghadir.md`
-  - 030 · Verde que te quiero Verde — `2026-08-23_Verde-que-te-quiero-verde.md`
-  - 040 · Alevones en Al-Ghadir — `2026-09-01_Alevines-en-Al-Ghadir.md`
-  - 050 · El final del verano — `2026-09-03_El-final-del-verano.md`
-  - 060 · La reina mora — `2026-09-04_La-reina-mora.md`
-  - 070 · Al-Ghadir Hierve — `2026-09-16_Al-Ghadir-hierve.md`
-  - 080 · La vida viene y va — `2026-09-18_La-vida-viene-y-va.md`
-  - 090 · Anillos — `2026-09-22_Anillos.md`
-  - 100 · Acero sin magnolias — `2026-09-23_Acero-sin-magnolias.md`
+  - 030 · Muro de viento — `2026-08-20_Muro-de-viento.md`
+  - 040 · Verde que te quiero Verde — `2026-08-23_Verde-que-te-quiero-verde.md`
+  - 050 · Alevones en Al-Ghadir — `2026-09-01_Alevines-en-Al-Ghadir.md`
+  - 060 · El final del verano — `2026-09-03_El-final-del-verano.md`
+  - 070 · La reina mora — `2026-09-04_La-reina-mora.md`
+  - 080 · Al-Ghadir Hierve — `2026-09-16_Al-Ghadir-hierve.md`
+  - 090 · La vida viene y va — `2026-09-18_La-vida-viene-y-va.md`
+  - 100 · Anillos — `2026-09-22_Anillos.md`
+  - 110 · Acero sin magnolias — `2026-09-23_Acero-sin-magnolias.md`
+  - 120 · Bienvenida, Reina Mora — `2026-09-26_Bienvenida,Reina-Mora.md`
+  - 130 · Silvano, junto al mangrano — `2026-09-26_Silvano-junto-al-mangrano.md`
 - **Capítulo 09 · - Los paseos por Aetheon**
   - 010 · Los buenos días — `2026-08-27_Los-buenos-dias.md`
   - 020 · Esto si es blues — `2026-09-25_Esto-si-es-blues.md`
@@ -3042,6 +3045,31 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 
 ---
 
+### Muro de viento
+
+*Jueves, 20 de agosto de 2026*
+
+*Autoría: Edheo*
+
+- **Origen:** `2026-08-20_Muro-de-viento.md`
+- **Estado:** Borrador
+- **Capítulo:** 08
+- **Secuencia:** 030
+
+Estaba en casa... un caluroso dia, como siempre últimamente, pero tranquilo al fin y al cabo.
+De pronto, un duro golpe, pero es toda la casa, incluso afuera... como si algo atronador, hubiese golpeado no sólo la casa, sino todos los alrededores.
+Aún me da tiempo a salir fuera de la casa, y seguir percibiendo, ese fuerte viento cálido proveniente del este, pero es como si fuese dirigido un poco a todas direcciones.
+Desperfectos en el vecindario, árboles agitados, confusión y perplejidad, no logro entender.
+Mi percepción ha sido como si un muro de viento, hubiese golpeado todo de golpe desde el Este, y hubiese rebotado en todas direcciones.
+Mis niñas, están todas asustadas, algunas casi aterradas, no entienden nada, menos aún que yo.
+Poco a poco todo se tranquiliza, y sólo se pueden ver, daños en vallados, telas de visibilidad arrancadas, muros de linde de algunos vecinos muy perjudicados.
+Afortunadamente, aquí en casa, salvo algunas telas de vallado muy ajadas, hay poco reseñable. Para mí ha sido sólo un susto, pero considerable, de hecho.
+Cuando Frank regresa a casa por la tarde, pronto nota, no sólo en casa, sino en el vecindario. "¿Qué ha pasado aquí?" Pregunta.
+Poco atino a explicarle la experiencia, ni siquiera la expresión "reventón térmico", logro que salga de mi boca.
+Por lo que pude leer en las noticias... el "muro de viento", venía a una velocidad de 150km/h.
+
+---
+
 ### Verde que te quiero Verde
 
 *Domingo, 23 de agosto de 2026*
@@ -3055,7 +3083,7 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 - **Origen:** `2026-08-23_Verde-que-te-quiero-verde.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 030
+- **Secuencia:** 040
 
 Entre las referencias literarias, que quiero que plasmen su esencia en Aetheon, creo que escogería estas.  
 Evan Mantyk: The classic forms are like the ancient trees / That weather every shifting, modern breeze.  
@@ -3080,7 +3108,7 @@ Walt Whitman: Oh Capitán!, Mi Capitán!.  Me celebro y me canto a mí mismo, y 
 - **Origen:** `2026-09-01_Alevines-en-Al-Ghadir.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 040
+- **Secuencia:** 050
 
 Aquellos alevines que encontré por sorpresa hace algo más de 15 dias en un par de las islas... están madurando, a un ritmo considerable.
 Entonces, eran apenas pequeñas briznas que costaba distinguir entre las algas y otros depósitos de las islas.
@@ -3106,7 +3134,7 @@ Además, los padres empiezan a estar ya muy grandes también, juaría que rozan 
 - **Origen:** `2026-09-03_El-final-del-verano.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 050
+- **Secuencia:** 060
 
 Hoy he consultado la cámara del trastero. Esta noche, a diferencia de ayer... ya no hay ningún avión durmiendo en el paellero.
 La intuición es clara. Ya es septiembre, ya llegó el momento.
@@ -3136,7 +3164,7 @@ Suerte, amados compañeros. Aquí os espera vuestra casa. Hasta vuestro regreso,
 - **Origen:** `2026-09-04_La-reina-mora.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 060
+- **Secuencia:** 070
 
 Frank vio la oportunidad y no dudó ante mi interés por añadir una parra.
 De este modo, sobre el mismo andamiaje, además de tupirse mucho más con dos proyecciones de hojas de parra, veremos cómo, desde agosto hasta octubre, van apareciendo los racimos: primero más bien dorados, para dar paso luego a otros más bien morados.
@@ -3159,7 +3187,7 @@ Con esto Bressol·la quedará oficialmente expandida en su función protectora d
 - **Origen:** `2026-09-16_Al-Ghadir-hierve.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 070
+- **Secuencia:** 080
 
 Pese ser ya casi otoño, últimamente, hay que estar muy atento a todo en Aetheon.
 Ya vi en su dia, que habían alevines en las islas.. ahora ya están más crecidos, mucho más visibles, poco más de un centímetro... pero es ilusionante.
@@ -3183,7 +3211,7 @@ Al-Ghadir está plagado.. no sólo es en las islas, dentro de la propia piscina.
 - **Origen:** `2026-09-18_La-vida-viene-y-va.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 080
+- **Secuencia:** 090
 
 Ha sido muy rápido. Ayer por la mañana parecían bastante normales, no vi nada raro.
 Por la noche para darles la cena, reparé en que estaban visiblemente enfermos. Filamentos blanquecinos les rodean el cuerpo.. Boquean de asfixia.
@@ -3213,7 +3241,7 @@ Los-Cometas
 - **Origen:** `2026-09-22_Anillos.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 090
+- **Secuencia:** 100
 
 El paseo matutino, aún no clarea el dia, y no me di cuenta, hasta esta mañana.
 A Anel·la le está creciendo un nuevo anillo de hojas! Es el segundo este mismo año, desarrolló uno en primavera, pero no es habitual que entrando en otoño, haga un segundo anillo.
@@ -3236,7 +3264,7 @@ Y ahora resulta que... se ha puesto coqueta, y ha decidido.. dejarse los anillos
 - **Origen:** `2026-09-23_Acero-sin-magnolias.md`
 - **Estado:** Borrador
 - **Capítulo:** 08
-- **Secuencia:** 100
+- **Secuencia:** 110
 
 Desde que vi por primera vez Magnolias de acero... el magnolio y sus magnolias, son siempre un recuerdo vivo de esa película, pese que no recuerdo que en la película siquiera aparezca una de sus flores.... qué mala memoria, no lo recuerdo.
 Y aún así, cuando Rosalía publicó su álbum Lux, de pronto, ese apetito dormido... se reavivó... y ya no sólo por la película, sino por la letra de esta canción también.
@@ -3255,6 +3283,47 @@ De las posibles opciones... me decantaré por un Brachychiton populneus (muy con
 Está prácticamente diseñado para crecer aquí en Turís, casi como su lugar indicado.
 No, no es un magnolio, lo sé. Pero si será mi Magnolio particular. No me dará magnolias, lo se... pero se llamará Sally, quien sabe si Dolly.
 Y cada vez que lo vea crecer con ese porte igual de majestuoso que un magnolio... me recordará la canción, su letra, lo mucho que significa para mí... y los maravillosos momentos que todo el Casting de Magnolias de Acero, me hizo vivir.
+
+---
+
+### Bienvenida, Reina Mora
+
+*Sábado, 26 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*The Mystic's Dream — Loreena McKennitt*
+
+- **Origen:** `2026-09-26_Bienvenida,Reina-Mora.md`
+- **Estado:** Borrador
+- **Capítulo:** 08
+- **Secuencia:** 120
+
+Hoy me decidí, ya es tiempo de que Reina Mora ocupe su lugar, por fin plantada en el suelo.
+El dia no es excesivamente caluroso, el suelo está aún húmedo, tengo tiempo, ganas y energía, así que procedo.
+Es el momento de ubicar a la Reina Mora en su lugar, para que, cuando llegue la primavera, despierte ya donde de verdad puede mostrar su esplendor.
+La hemos sacado delicadamente de su tiesto, cavado un círculo exacto con su cepellón, incluso he usado una broca, para suavizar el suelo, y poder ser preciso en la circunferencia.
+Finalmente, queda plantada, y junto a ella, la tumba de los cometas que fallecieron.
+Quizás de algún modo, serán también nutriente. Esta parra mora, se unirá a Daurina en el sombraje, entrelazarán sus sarmientos año tras año, y espesarán este sombraje para el estanque.
+
+---
+
+### Silvano, junto al mangrano
+
+*Sábado, 26 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*May It Be — Enya*
+
+- **Origen:** `2026-09-26_Silvano-junto-al-mangrano.md`
+- **Estado:** Borrador
+- **Capítulo:** 08
+- **Secuencia:** 130
+
+Justo detrás de Rhoa, más cerca de la linde Este, a un lado de la pequeña higuera, es el lugar escogido para Silvano. Así ha decidido Frank bautizar el níspero.
+Falta ver si no agarra bien en este suelo, aún está húmedo de las lluvias de la semana pasada... esperemos que sea bienvenido en Aetheon.
+Un nuevo nombre a la cosmogonía, un nuevo miembro en Aetheon. Un nuevo frutal, que nos ofrezca variedad al paladar, si surte el efecto deseado.
 
 ---
 
@@ -3353,7 +3422,9 @@ Sólo esto necesito, pisar las hojas secas, respirar entre el mini bosque de oli
 
 *Autoría: Edheo*
 
-*Still got the Blues — Everything But The Girl*
+*Primera incorporación al Codex: 2026-09-26*
+
+*The Rain Song — Led Zeppelin*
 
 - **Origen:** `2026-09-26_Suplantando-la-lluvia.md`
 - **Estado:** Borrador
@@ -3379,7 +3450,7 @@ Las demogorgons escalan vetusta, juegan al escondite conmigo mientras riego el a
 Luna y Nala protestan los ladridos de perros del vecindario, como queriendo tener siempre su última palabra, o su último ladrido, al respecto que estén discutiendo entre ellos.
 El arriate a los pies de la casa, también requiere riego manual, este año Ishtar ha sufrido mucho estrés hídrico, pero los cuidados han surtido efecto, se la ve ya recuperada, pese que está a las puertas de tomarse el descanso invernal.
 Bajo los pinos masqueperros, tenemos reservadas las macetas más tropicales, a salvo del sol más agresivo.
-Helechos variopintos (helecho común, helecho cuero, helecho plata), una Monstera gigante, incluso una drácena, en forma casi de palmera, Creo que es la Chamaedorea Elegans. Aunque quien sabe si es una Raphis excelsa.
+Helechos variopintos (helecho común, helecho cuero, helecho plata), una Monstera gigante, incluso una Chamaedorea Elegans. Aunque quien sabe si es una Raphis excelsa.
 
 ---
 

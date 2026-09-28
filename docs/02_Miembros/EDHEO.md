@@ -116,6 +116,7 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Jueves, 13 de agosto de 2026* — [Alevines de cometa descubiertos en las islas flotantes de Al-Ghadir](../04_Bitacora/2026-08-13_Alevines-en-Al-Ghadir.md)
 - *Viernes, 14 de agosto de 2026* — [El resultado de la espera](../04_Bitacora/2026-08-14_El-resultado-de-la-espera.md)
 - *Viernes, 14 de agosto de 2026* — [La inquietud y la semilla](../04_Bitacora/2026-08-14_La-inquietud-y-la-semilla.md)
+- *Jueves, 20 de agosto de 2026* — [Muro de viento](../04_Bitacora/2026-08-20_Muro-de-viento.md)
 - *Domingo, 23 de agosto de 2026* — [Verde que te quiero Verde](../04_Bitacora/2026-08-23_Verde-que-te-quiero-verde.md)
 - *Lunes, 24 de agosto de 2026* — [El espacio de lo posible](../04_Bitacora/2026-08-24_El-espacio-de-lo-posible.md)
 - *Lunes, 24 de agosto de 2026* — [Lo imposible en el espacio](../04_Bitacora/2026-08-24_Lo-imposible-en-el-espacio.md)
@@ -139,6 +140,8 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Jueves, 24 de septiembre de 2026* — [Walking in my sleep](../04_Bitacora/2026-09-24_Walking-in-my-sleep.md)
 - *Viernes, 25 de septiembre de 2026* — [Desaparecer unos momentos](../04_Bitacora/2026-09-25_Desaparecer.md)
 - *Viernes, 25 de septiembre de 2026* — [Esto si es blues](../04_Bitacora/2026-09-25_Esto-si-es-blues.md)
+- *Sábado, 26 de septiembre de 2026* — [Bienvenida, Reina Mora](../04_Bitacora/2026-09-26_Bienvenida,Reina-Mora.md)
+- *Sábado, 26 de septiembre de 2026* — [Silvano, junto al mangrano](../04_Bitacora/2026-09-26_Silvano-junto-al-mangrano.md)
 - *Sábado, 26 de septiembre de 2026* — [Suplantando la lluvia](../04_Bitacora/2026-09-26_Suplantando-la-lluvia.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 

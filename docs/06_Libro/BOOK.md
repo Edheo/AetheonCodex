@@ -2623,6 +2623,25 @@ Un sistema que se autoregula, que se equilibra, y a medida que más miembros for
 Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte de ti.
 
 
+### Muro de viento
+
+*Jueves, 20 de agosto de 2026*
+
+*Autoría: Edheo*
+
+Estaba en casa... un caluroso dia, como siempre últimamente, pero tranquilo al fin y al cabo.
+De pronto, un duro golpe, pero es toda la casa, incluso afuera... como si algo atronador, hubiese golpeado no sólo la casa, sino todos los alrededores.
+Aún me da tiempo a salir fuera de la casa, y seguir percibiendo, ese fuerte viento cálido proveniente del este, pero es como si fuese dirigido un poco a todas direcciones.
+Desperfectos en el vecindario, árboles agitados, confusión y perplejidad, no logro entender.
+Mi percepción ha sido como si un muro de viento, hubiese golpeado todo de golpe desde el Este, y hubiese rebotado en todas direcciones.
+Mis niñas, están todas asustadas, algunas casi aterradas, no entienden nada, menos aún que yo.
+Poco a poco todo se tranquiliza, y sólo se pueden ver, daños en vallados, telas de visibilidad arrancadas, muros de linde de algunos vecinos muy perjudicados.
+Afortunadamente, aquí en casa, salvo algunas telas de vallado muy ajadas, hay poco reseñable. Para mí ha sido sólo un susto, pero considerable, de hecho.
+Cuando Frank regresa a casa por la tarde, pronto nota, no sólo en casa, sino en el vecindario. "¿Qué ha pasado aquí?" Pregunta.
+Poco atino a explicarle la experiencia, ni siquiera la expresión "reventón térmico", logro que salga de mi boca.
+Por lo que pude leer en las noticias... el "muro de viento", venía a una velocidad de 150km/h.
+
+
 ### Verde que te quiero Verde
 
 *Domingo, 23 de agosto de 2026*
@@ -2791,6 +2810,35 @@ No, no es un magnolio, lo sé. Pero si será mi Magnolio particular. No me dará
 Y cada vez que lo vea crecer con ese porte igual de majestuoso que un magnolio... me recordará la canción, su letra, lo mucho que significa para mí... y los maravillosos momentos que todo el Casting de Magnolias de Acero, me hizo vivir.
 
 
+### Bienvenida, Reina Mora
+
+*Sábado, 26 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*The Mystic's Dream — Loreena McKennitt*
+
+Hoy me decidí, ya es tiempo de que Reina Mora ocupe su lugar, por fin plantada en el suelo.
+El dia no es excesivamente caluroso, el suelo está aún húmedo, tengo tiempo, ganas y energía, así que procedo.
+Es el momento de ubicar a la Reina Mora en su lugar, para que, cuando llegue la primavera, despierte ya donde de verdad puede mostrar su esplendor.
+La hemos sacado delicadamente de su tiesto, cavado un círculo exacto con su cepellón, incluso he usado una broca, para suavizar el suelo, y poder ser preciso en la circunferencia.
+Finalmente, queda plantada, y junto a ella, la tumba de los cometas que fallecieron.
+Quizás de algún modo, serán también nutriente. Esta parra mora, se unirá a Daurina en el sombraje, entrelazarán sus sarmientos año tras año, y espesarán este sombraje para el estanque.
+
+
+### Silvano, junto al mangrano
+
+*Sábado, 26 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*May It Be — Enya*
+
+Justo detrás de Rhoa, más cerca de la linde Este, a un lado de la pequeña higuera, es el lugar escogido para Silvano. Así ha decidido Frank bautizar el níspero.
+Falta ver si no agarra bien en este suelo, aún está húmedo de las lluvias de la semana pasada... esperemos que sea bienvenido en Aetheon.
+Un nuevo nombre a la cosmogonía, un nuevo miembro en Aetheon. Un nuevo frutal, que nos ofrezca variedad al paladar, si surte el efecto deseado.
+
+
 ## Capítulo 09 · - Los paseos por Aetheon
 
 ### Los buenos días
@@ -2874,7 +2922,9 @@ Sólo esto necesito, pisar las hojas secas, respirar entre el mini bosque de oli
 
 *Autoría: Edheo*
 
-*Still got the Blues — Everything But The Girl*
+*Primera incorporación al Codex: 2026-09-26*
+
+*The Rain Song — Led Zeppelin*
 
 El jueves, pese ser festivo en la oficina, para mí fué un dia agotador en las urgencias del hospital por mi episodio epiléptico amnésico.
 Ayer viernes, no era festivo, pero curiosamente, nadie en la oficina trabajó. Y yo, sin cargas de trabajo, ni nadie que me asigne trabajo.
@@ -2895,4 +2945,4 @@ Las demogorgons escalan vetusta, juegan al escondite conmigo mientras riego el a
 Luna y Nala protestan los ladridos de perros del vecindario, como queriendo tener siempre su última palabra, o su último ladrido, al respecto que estén discutiendo entre ellos.
 El arriate a los pies de la casa, también requiere riego manual, este año Ishtar ha sufrido mucho estrés hídrico, pero los cuidados han surtido efecto, se la ve ya recuperada, pese que está a las puertas de tomarse el descanso invernal.
 Bajo los pinos masqueperros, tenemos reservadas las macetas más tropicales, a salvo del sol más agresivo.
-Helechos variopintos (helecho común, helecho cuero, helecho plata), una Monstera gigante, incluso una drácena, en forma casi de palmera, Creo que es la Chamaedorea Elegans. Aunque quien sabe si es una Raphis excelsa.
+Helechos variopintos (helecho común, helecho cuero, helecho plata), una Monstera gigante, incluso una Chamaedorea Elegans. Aunque quien sabe si es una Raphis excelsa.

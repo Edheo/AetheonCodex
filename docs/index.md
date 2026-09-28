@@ -70,6 +70,7 @@
 - [2026-08-13_Alevines-en-Al-Ghadir](04_Bitacora/2026-08-13_Alevines-en-Al-Ghadir.md)
 - [2026-08-14_El-resultado-de-la-espera](04_Bitacora/2026-08-14_El-resultado-de-la-espera.md)
 - [2026-08-14_La-inquietud-y-la-semilla](04_Bitacora/2026-08-14_La-inquietud-y-la-semilla.md)
+- [2026-08-20_Muro-de-viento](04_Bitacora/2026-08-20_Muro-de-viento.md)
 - [2026-08-23_Verde-que-te-quiero-verde](04_Bitacora/2026-08-23_Verde-que-te-quiero-verde.md)
 - [2026-08-24_El-espacio-de-lo-posible](04_Bitacora/2026-08-24_El-espacio-de-lo-posible.md)
 - [2026-08-24_Lo-imposible-en-el-espacio](04_Bitacora/2026-08-24_Lo-imposible-en-el-espacio.md)
@@ -99,6 +100,8 @@
 - [2026-09-24_Walking-in-my-sleep](04_Bitacora/2026-09-24_Walking-in-my-sleep.md)
 - [2026-09-25_Desaparecer](04_Bitacora/2026-09-25_Desaparecer.md)
 - [2026-09-25_Esto-si-es-blues](04_Bitacora/2026-09-25_Esto-si-es-blues.md)
+- [2026-09-26_Bienvenida,Reina-Mora](04_Bitacora/2026-09-26_Bienvenida,Reina-Mora.md)
+- [2026-09-26_Silvano-junto-al-mangrano](04_Bitacora/2026-09-26_Silvano-junto-al-mangrano.md)
 - [2026-09-26_Suplantando-la-lluvia](04_Bitacora/2026-09-26_Suplantando-la-lluvia.md)
 
 ## 05_Cartografia
