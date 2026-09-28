@@ -101,6 +101,7 @@
 - [2026-09-25_Desaparecer](04_Bitacora/2026-09-25_Desaparecer.md)
 - [2026-09-25_Esto-si-es-blues](04_Bitacora/2026-09-25_Esto-si-es-blues.md)
 - [2026-09-26_Bienvenida,Reina-Mora](04_Bitacora/2026-09-26_Bienvenida,Reina-Mora.md)
+- [2026-09-26_Mamma](04_Bitacora/2026-09-26_Mamma.md)
 - [2026-09-26_Silvano-junto-al-mangrano](04_Bitacora/2026-09-26_Silvano-junto-al-mangrano.md)
 - [2026-09-26_Suplantando-la-lluvia](04_Bitacora/2026-09-26_Suplantando-la-lluvia.md)
 

@@ -47,6 +47,7 @@
   - 030 · Lo que la sombra reunió — `2026-08-24_Lo-que-la-sombra-reunio.md`
   - 040 · Antes de llamarse Aetheon — `2026-08-28_Antes-de-llamarse-Aetheon.md`
   - 050 · El historial desde HEAD — `2026-08-31_El-historial-desde-HEAD.md`
+  - 060 · Mamma — `2026-09-26_Mamma.md`
 - **Capítulo 05 · - Evolución**
   - 010 · Dana de Valencia — `2024-10-29_Dana-de-Valencia.md`
   - 020 · Álzate, Daurina — `2025-03-20_Alzate.Daurina.md`
@@ -1993,6 +1994,34 @@ otro estado al historial.
 
 ---
 
+### Mamma
+
+*Sábado, 26 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Perfect — Alanis Morissette*
+
+- **Origen:** `2026-09-26_Mamma.md`
+- **Estado:** Borrador
+- **Capítulo:** 04
+- **Secuencia:** 060
+
+Es sábado, como suelo hacer los sábados, voy a atender a mis padres.
+Esta vez, viene Frank conmigo. Con mis epilepsias, no puedo conducir.
+Les comunico a Bessy (la cuidadora de mis padres) y a mi madre. Que mientras siga teniendo estas epilepsias amnésicas, no puedo conducir.
+Voy a tener que suspender mis visitas. Organizar todo de otro modo, sin mi presencia.
+En un momento en que mi madre tiene ocasión... me informa... preocupada. Sus joyas, muy pocas y humildes, de hecho, las que guarda en un cajón. Quiere hacerme saber, que desea que... sean para mis primas.
+De nuevo, otro momento más, en que... de nuevo... no soy digno. No merezco ese recuerdo suyo, ellas si, sus sobrinas favoritas, las que debieron haber sido sus hijas.
+Supongo que yo.. nunca di la talla. Pese mis cuidados en hospital, pese mis sacrificos, pese todo lo que hice por ellos y su bienestar.
+Yo nunca... nunca seré digno. Ni de su máquina de coser, a los pies de la cual me pasé la infancia.
+Sus joyas tampoco.
+Ellas si, ellas si son dignas, y ese es su pesar, que no lleguen a ellas sus joyas.
+No se para que me cuenta esto, debería dárselas ya, y así no tener que irse a la tumba pensando que tal vez yo... me quede con ellas, egoistamente.
+Al fin y al cabo, hay que entenderlo... no he sido más que... su mayor motivo de verguenza y tristeza.
+
+---
+
 ## Capítulo 05 · - Evolución
 
 ### Dana de Valencia
@@ -3050,6 +3079,7 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 *Jueves, 20 de agosto de 2026*
 
 *Autoría: Edheo*
+*Primera incorporación al Codex: 2026-09-28*
 
 - **Origen:** `2026-08-20_Muro-de-viento.md`
 - **Estado:** Borrador
@@ -3292,6 +3322,8 @@ Y cada vez que lo vea crecer con ese porte igual de majestuoso que un magnolio..
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-09-28*
+
 *The Mystic's Dream — Loreena McKennitt*
 
 - **Origen:** `2026-09-26_Bienvenida,Reina-Mora.md`
@@ -3313,6 +3345,8 @@ Quizás de algún modo, serán también nutriente. Esta parra mora, se unirá a 
 *Sábado, 26 de septiembre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-28*
 
 *May It Be — Enya*
 

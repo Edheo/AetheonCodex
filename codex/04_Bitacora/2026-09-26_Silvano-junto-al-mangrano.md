@@ -24,6 +24,10 @@ El níspero, lleva casi dos meses esperando también. El mismo dia que Reina Mor
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-28
+<!-- Fuente: Git; commit ba5b3b14bed786d97f52266b73e41198af7d92fd; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Justo detrás de Rhoa, más cerca de la linde Este, a un lado de la pequeña higuera, es el lugar escogido para Silvano. Así ha decidido Frank bautizar el níspero.
 Falta ver si no agarra bien en este suelo, aún está húmedo de las lluvias de la semana pasada... esperemos que sea bienvenido en Aetheon.

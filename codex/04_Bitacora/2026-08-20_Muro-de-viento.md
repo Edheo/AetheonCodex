@@ -34,6 +34,10 @@ iPRSxwZBmcM
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-28
+<!-- Fuente: Git; commit ba5b3b14bed786d97f52266b73e41198af7d92fd; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Estaba en casa... un caluroso dia, como siempre últimamente, pero tranquilo al fin y al cabo.
 De pronto, un duro golpe, pero es toda la casa, incluso afuera... como si algo atronador, hubiese golpeado no sólo la casa, sino todos los alrededores.

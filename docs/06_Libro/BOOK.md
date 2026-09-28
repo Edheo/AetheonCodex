@@ -1703,6 +1703,28 @@ ocurrir, heredero de todos los anteriores y a punto de añadir, quiera o no,
 otro estado al historial.
 
 
+### Mamma
+
+*Sábado, 26 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Perfect — Alanis Morissette*
+
+Es sábado, como suelo hacer los sábados, voy a atender a mis padres.
+Esta vez, viene Frank conmigo. Con mis epilepsias, no puedo conducir.
+Les comunico a Bessy (la cuidadora de mis padres) y a mi madre. Que mientras siga teniendo estas epilepsias amnésicas, no puedo conducir.
+Voy a tener que suspender mis visitas. Organizar todo de otro modo, sin mi presencia.
+En un momento en que mi madre tiene ocasión... me informa... preocupada. Sus joyas, muy pocas y humildes, de hecho, las que guarda en un cajón. Quiere hacerme saber, que desea que... sean para mis primas.
+De nuevo, otro momento más, en que... de nuevo... no soy digno. No merezco ese recuerdo suyo, ellas si, sus sobrinas favoritas, las que debieron haber sido sus hijas.
+Supongo que yo.. nunca di la talla. Pese mis cuidados en hospital, pese mis sacrificos, pese todo lo que hice por ellos y su bienestar.
+Yo nunca... nunca seré digno. Ni de su máquina de coser, a los pies de la cual me pasé la infancia.
+Sus joyas tampoco.
+Ellas si, ellas si son dignas, y ese es su pesar, que no lleguen a ellas sus joyas.
+No se para que me cuenta esto, debería dárselas ya, y así no tener que irse a la tumba pensando que tal vez yo... me quede con ellas, egoistamente.
+Al fin y al cabo, hay que entenderlo... no he sido más que... su mayor motivo de verguenza y tristeza.
+
+
 ## Capítulo 05 · - Evolución
 
 ### Dana de Valencia
@@ -2628,6 +2650,7 @@ Bienvenido seas, Aetheon, y gracias por tener yo la oportunidad de formar parte 
 *Jueves, 20 de agosto de 2026*
 
 *Autoría: Edheo*
+*Primera incorporación al Codex: 2026-09-28*
 
 Estaba en casa... un caluroso dia, como siempre últimamente, pero tranquilo al fin y al cabo.
 De pronto, un duro golpe, pero es toda la casa, incluso afuera... como si algo atronador, hubiese golpeado no sólo la casa, sino todos los alrededores.
@@ -2816,6 +2839,8 @@ Y cada vez que lo vea crecer con ese porte igual de majestuoso que un magnolio..
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-09-28*
+
 *The Mystic's Dream — Loreena McKennitt*
 
 Hoy me decidí, ya es tiempo de que Reina Mora ocupe su lugar, por fin plantada en el suelo.
@@ -2831,6 +2856,8 @@ Quizás de algún modo, serán también nutriente. Esta parra mora, se unirá a 
 *Sábado, 26 de septiembre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-28*
 
 *May It Be — Enya*
 

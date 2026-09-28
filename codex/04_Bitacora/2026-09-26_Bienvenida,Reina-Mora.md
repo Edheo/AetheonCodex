@@ -25,6 +25,10 @@ Por fin hemos podido sacar un rato, para poder instalarla definitivamente arraig
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-09-28
+<!-- Fuente: Git; commit ba5b3b14bed786d97f52266b73e41198af7d92fd; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Hoy me decidí, ya es tiempo de que Reina Mora ocupe su lugar, por fin plantada en el suelo.
 El dia no es excesivamente caluroso, el suelo está aún húmedo, tengo tiempo, ganas y energía, así que procedo.

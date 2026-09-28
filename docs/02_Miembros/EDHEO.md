@@ -141,6 +141,7 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Viernes, 25 de septiembre de 2026* — [Desaparecer unos momentos](../04_Bitacora/2026-09-25_Desaparecer.md)
 - *Viernes, 25 de septiembre de 2026* — [Esto si es blues](../04_Bitacora/2026-09-25_Esto-si-es-blues.md)
 - *Sábado, 26 de septiembre de 2026* — [Bienvenida, Reina Mora](../04_Bitacora/2026-09-26_Bienvenida,Reina-Mora.md)
+- *Sábado, 26 de septiembre de 2026* — [Mamma](../04_Bitacora/2026-09-26_Mamma.md)
 - *Sábado, 26 de septiembre de 2026* — [Silvano, junto al mangrano](../04_Bitacora/2026-09-26_Silvano-junto-al-mangrano.md)
 - *Sábado, 26 de septiembre de 2026* — [Suplantando la lluvia](../04_Bitacora/2026-09-26_Suplantando-la-lluvia.md)
 <!-- END GENERATED MEMBER JOURNAL -->
