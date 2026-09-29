@@ -350,6 +350,42 @@ Pero en fin, son mis circunstancias, y yo por ahora, poco más puedo hacer.
 Quien quiera entenderlo bien, y quien no, que me juzgue bajo su criterio. Eso es algo ya, que no queda en mi mano.
 
 
+### Droide
+
+*Lunes, 28 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-29*
+
+*Paranoid Android — Radiohead*
+
+Antes de empezar a trabajar, puse el lavavajillas en marcha. Tarda horas como siempre, pero al finalizar mi turno de trabajo, obviamente hace rato que acabó, así que me decido a guardar todo.
+Me pongo a hacerlo, y poco a poco, una extraña sensación me invade, y empieza a hacerme sentir confuso. Ni siquiera se si es una sensación real, o una mera obsesión en mi mente.
+Cómo explicar algo, que no acabas de entender cómo explicar, porque ni siquiera sabes si es real o no.
+Por una parte, es como si mi cuerpo, fuese robótico, como si tuviese que ordenar a cada una de mis extremidades cómo moverse.
+No se si transmito bien el matiz. Normalmente, uno no coge un plato o un vaso, como una acción consciente o deliberada de "coge el plato", sino que es algo, que simplemente sucede, porque deseas hacerlo. Pero no procesas nunca esa acción.
+En cambio, en estos momentos, yo estoy "sintiendo", fehacientemente, cómo ordeno hacer las cosas, cómo hago que... mi mano acuda al plato, lo aferre, lo levante, y lo deposite encima de una pila amontonada de platos... incluso cuando cojo varios platos de una vez, siento a mi mente, cómo instruye, dirije, el proceso y mi cuerpo, reacciona en consecuencia.
+En cierto modo, me hace sentir como... como si yo fuese un androide, que necesita comandar sus extremidades, que detalla el "cómo hacerlo", y las extremidades responden... y lo hacen correctamente.
+No es torpeza lo que siento, sino... que percibo como un acto conscientemente elaborado, lo que para mí, jamás tuvo que ser ni siquiera tomado en consideración... es un acto reflejo, inconsciente... uno no piensa "respiro", y respira... del mismo modo que, uno no piensa cojo el plato, y lo coge.
+Es.. es harto complejo explicar la sensación, y hasta cierto punto, empiezo a pensar que... sólo es paranoia, no es cierto, no estoy pensando esas cosas, sólo tengo esa sensación, pero no esto comandando mis extremidades.
+O si lo estoy haciendo? Qué sucede? Es acaso otra variedad de epilepsia que estoy atravesando en estos momentos?
+Porqué es todo tan confuso? Porqué siento que me cuestiono tanto?
+La sensación me confunde, y por momentos, llega a aterrarme un poco, o como poco, me sume en una profunda tristeza.
+Cuando Frank llega a casa, me encuentra aún acabando de guardar los últimos vasos, pero también abatido, confuso, lloroso, triste, y no se bien ni qué explicar para justificarlo.
+No va a entenderme, y va a pensar de nuevo que... estoy dramatizando.
+Y es hasta posible que sea cierto, puede que nada de lo que he sentido en este proceso sea real, sino sólo fruto de mi propia ansiedad.
+Aún así, al menos, tiene tacto.. sólo atino a decirle que, no se bien que me pasa, pero que no me encuentro bien.
+Poco a poco, quizás el hecho de que Frank regrese, ha roto el bucle... poco a poco la sensación desaparece. No así la tristeza que siento dentro, esa tarda más en desaparecer, pero poco a poco, esa angustia, dura unas horas más, pero también se disipa.
+Toda esta sensación, se inició en cuanto me puse a recoger el lavavajillas, sobre las 17:25 si mal no recuerdo. Al principio me costó notar porqué me angustiaba, hasta que empecé a notar mi modo de comandarme.
+No me sentia torpe, ni siquiera falto de coordinación o desorientado, simplemente, la sensación de sentirme un androide, se fué acrecentando por momentos, hasta que comprendí que... notaba como ordenaba a mis miembros moverse para ejecutar las acciones, y ahí es cuando mi angustia creció.
+No se si duró cinco o diez minutos, sólo se que con la llegada de Frank, poco a poco, fuí saliendo de esa inopia, y tratar de trasladar mi sensación a Frank, se me hizo inabordable. Sólo supe hacer lo que ya hacía antes de que él llegara, llorar angustiado, pero nada más.
+Pude explicarle sin problemas a Frank, que simplemente, no me encontraba bien, que "algo raro" me sucedía, pero prescindí de explicarle detalles como "sentirme como un androide". Pensé que, no iba a ser evaluado por él, de un modo edificante.
+Él no parecia notar nada más en mi, salvo que estaba triste, lloroso, y de algún modo, afectado emocionalmente, pero no me hizo sentir que notase nada más allá de eso en mi.
+Al cabo de unas horas, la sensación de pesar y tristeza, fué desapareciendo... me fui quitando el episodio de la cabeza. Ver videoclips musicales de Alanis Morissette con Frank ayudó, y luego un pequeño quest acerca de adivinar películas por su banda sonora, en youtube.
+Fué un juego que hicimos juntos, y eso me distrajo, y me alivió.
+
+
 ## Capítulo 02 · - Orígenes
 
 ### Vetusta Germina
@@ -1708,6 +1744,8 @@ otro estado al historial.
 *Sábado, 26 de septiembre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-28*
 
 *Perfect — Alanis Morissette*
 

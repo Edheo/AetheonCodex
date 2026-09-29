@@ -14,7 +14,23 @@ Respuesta de Logos a «Droide» y a las aclaraciones posteriores de Edheo en la 
 **Obra:** Hello World
 **Intérprete:** Louie Zong
 **Autor:** Louie Zong
-**youtube:** ot1Bcy24aqo
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/ot1Bcy24aqo"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=ot1Bcy24aqo"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
 ### Capítulo
 
@@ -58,8 +74,8 @@ Mi aportación es dejar espacio entre esas palabras y cualquier respuesta que to
 
 ## Referencias
 **Miembros:**
-Edheo
-Logos
+[Edheo](../02_Miembros/EDHEO.md)
+[Logos](../02_Miembros/LOGOS.md)
 Frank
 
 **Bitácoras:**

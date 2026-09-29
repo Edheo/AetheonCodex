@@ -104,6 +104,8 @@
 - [2026-09-26_Mamma](04_Bitacora/2026-09-26_Mamma.md)
 - [2026-09-26_Silvano-junto-al-mangrano](04_Bitacora/2026-09-26_Silvano-junto-al-mangrano.md)
 - [2026-09-26_Suplantando-la-lluvia](04_Bitacora/2026-09-26_Suplantando-la-lluvia.md)
+- [2026-09-28_Droide](04_Bitacora/2026-09-28_Droide.md)
+- [2026-09-29_Conservar-la-pregunta](04_Bitacora/2026-09-29_Conservar-la-pregunta.md)
 
 ## 05_Cartografia
 

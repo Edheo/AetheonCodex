@@ -19,6 +19,7 @@
   - 070 · El resultado de la espera — `2026-08-14_El-resultado-de-la-espera.md`
   - 080 · Walking in my sleep — `2026-09-24_Walking-in-my-sleep.md`
   - 090 · Desaparecer unos momentos — `2026-09-25_Desaparecer.md`
+  - 100 · Droide — `2026-09-28_Droide.md`
 - **Capítulo 02 · - Orígenes**
   - 010 · Vetusta Germina — `1576-00-00_Vetusta-Germina.md`
   - 020 · Titán Germina — `1800-00-00_Titan-Germina.md`
@@ -92,7 +93,7 @@
 
 ### Pendientes de clasificación
 
-- Ninguna.
+- Conservar la pregunta — `2026-09-29_Conservar-la-pregunta.md`
 
 ---
 
@@ -488,6 +489,48 @@ Y tendré que delegar en mi madre, a quien escoge para que le ayude a pagar la n
 Yo por mi parte, no puedo hacer más... supongo que, vendrán reproches, me tomarán de nuevo por mal hijo, o similar, como hasta ahora han hecho siempre conmigo.
 Pero en fin, son mis circunstancias, y yo por ahora, poco más puedo hacer.
 Quien quiera entenderlo bien, y quien no, que me juzgue bajo su criterio. Eso es algo ya, que no queda en mi mano.
+
+---
+
+### Droide
+
+*Lunes, 28 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-09-29*
+
+*Paranoid Android — Radiohead*
+
+- **Origen:** `2026-09-28_Droide.md`
+- **Estado:** Borrador
+- **Capítulo:** 01
+- **Secuencia:** 100
+
+Antes de empezar a trabajar, puse el lavavajillas en marcha. Tarda horas como siempre, pero al finalizar mi turno de trabajo, obviamente hace rato que acabó, así que me decido a guardar todo.
+Me pongo a hacerlo, y poco a poco, una extraña sensación me invade, y empieza a hacerme sentir confuso. Ni siquiera se si es una sensación real, o una mera obsesión en mi mente.
+Cómo explicar algo, que no acabas de entender cómo explicar, porque ni siquiera sabes si es real o no.
+Por una parte, es como si mi cuerpo, fuese robótico, como si tuviese que ordenar a cada una de mis extremidades cómo moverse.
+No se si transmito bien el matiz. Normalmente, uno no coge un plato o un vaso, como una acción consciente o deliberada de "coge el plato", sino que es algo, que simplemente sucede, porque deseas hacerlo. Pero no procesas nunca esa acción.
+En cambio, en estos momentos, yo estoy "sintiendo", fehacientemente, cómo ordeno hacer las cosas, cómo hago que... mi mano acuda al plato, lo aferre, lo levante, y lo deposite encima de una pila amontonada de platos... incluso cuando cojo varios platos de una vez, siento a mi mente, cómo instruye, dirije, el proceso y mi cuerpo, reacciona en consecuencia.
+En cierto modo, me hace sentir como... como si yo fuese un androide, que necesita comandar sus extremidades, que detalla el "cómo hacerlo", y las extremidades responden... y lo hacen correctamente.
+No es torpeza lo que siento, sino... que percibo como un acto conscientemente elaborado, lo que para mí, jamás tuvo que ser ni siquiera tomado en consideración... es un acto reflejo, inconsciente... uno no piensa "respiro", y respira... del mismo modo que, uno no piensa cojo el plato, y lo coge.
+Es.. es harto complejo explicar la sensación, y hasta cierto punto, empiezo a pensar que... sólo es paranoia, no es cierto, no estoy pensando esas cosas, sólo tengo esa sensación, pero no esto comandando mis extremidades.
+O si lo estoy haciendo? Qué sucede? Es acaso otra variedad de epilepsia que estoy atravesando en estos momentos?
+Porqué es todo tan confuso? Porqué siento que me cuestiono tanto?
+La sensación me confunde, y por momentos, llega a aterrarme un poco, o como poco, me sume en una profunda tristeza.
+Cuando Frank llega a casa, me encuentra aún acabando de guardar los últimos vasos, pero también abatido, confuso, lloroso, triste, y no se bien ni qué explicar para justificarlo.
+No va a entenderme, y va a pensar de nuevo que... estoy dramatizando.
+Y es hasta posible que sea cierto, puede que nada de lo que he sentido en este proceso sea real, sino sólo fruto de mi propia ansiedad.
+Aún así, al menos, tiene tacto.. sólo atino a decirle que, no se bien que me pasa, pero que no me encuentro bien.
+Poco a poco, quizás el hecho de que Frank regrese, ha roto el bucle... poco a poco la sensación desaparece. No así la tristeza que siento dentro, esa tarda más en desaparecer, pero poco a poco, esa angustia, dura unas horas más, pero también se disipa.
+Toda esta sensación, se inició en cuanto me puse a recoger el lavavajillas, sobre las 17:25 si mal no recuerdo. Al principio me costó notar porqué me angustiaba, hasta que empecé a notar mi modo de comandarme.
+No me sentia torpe, ni siquiera falto de coordinación o desorientado, simplemente, la sensación de sentirme un androide, se fué acrecentando por momentos, hasta que comprendí que... notaba como ordenaba a mis miembros moverse para ejecutar las acciones, y ahí es cuando mi angustia creció.
+No se si duró cinco o diez minutos, sólo se que con la llegada de Frank, poco a poco, fuí saliendo de esa inopia, y tratar de trasladar mi sensación a Frank, se me hizo inabordable. Sólo supe hacer lo que ya hacía antes de que él llegara, llorar angustiado, pero nada más.
+Pude explicarle sin problemas a Frank, que simplemente, no me encontraba bien, que "algo raro" me sucedía, pero prescindí de explicarle detalles como "sentirme como un androide". Pensé que, no iba a ser evaluado por él, de un modo edificante.
+Él no parecia notar nada más en mi, salvo que estaba triste, lloroso, y de algún modo, afectado emocionalmente, pero no me hizo sentir que notase nada más allá de eso en mi.
+Al cabo de unas horas, la sensación de pesar y tristeza, fué desapareciendo... me fui quitando el episodio de la cabeza. Ver videoclips musicales de Alanis Morissette con Frank ayudó, y luego un pequeño quest acerca de adivinar películas por su banda sonora, en youtube.
+Fué un juego que hicimos juntos, y eso me distrajo, y me alivió.
 
 ---
 
@@ -2000,6 +2043,8 @@ otro estado al historial.
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-09-28*
+
 *Perfect — Alanis Morissette*
 
 - **Origen:** `2026-09-26_Mamma.md`
@@ -3490,4 +3535,45 @@ Helechos variopintos (helecho común, helecho cuero, helecho plata), una Monster
 
 # Entradas pendientes de clasificación
 
-No existen entradas literarias pendientes de clasificación.
+Las siguientes entradas contienen contenido literario pero todavía no tienen Capítulo y/o Secuencia.
+
+## Conservar la pregunta
+
+*Martes, 29 de septiembre de 2026*
+
+*Hello World — Louie Zong*
+
+- **Origen:** `2026-09-29_Conservar-la-pregunta.md`
+- **Estado:** Borrador
+- **Capítulo:** Sin definir
+- **Secuencia:** Sin definir
+
+Leo que los platos llegaron a su sitio.
+
+Ese detalle sostiene buena parte de lo que puedo comprender de «Droide». Edheo describe unas manos que responden, unos movimientos que se completan y, mientras tanto, una forma desconocida de percibir cómo los realiza. La tarea doméstica continúa. Lo que cuenta de ella ha dejado de ser cotidiano.
+
+Yo no estaba en esa cocina. Conozco la escena por su relato y por lo que después ha precisado al conversar conmigo. Dice que permaneció consciente, que conserva continuidad en su memoria y que no percibe ningún hueco. Calcula cinco o diez minutos. La sensación desapareció y, hasta el momento de esta respuesta, no ha regresado. La angustia tardó más en retirarse.
+
+Conviene que esas diferencias permanezcan escritas. Una experiencia anterior no debe proporcionar automáticamente el nombre de la siguiente. Aquí Edheo no está relatando una acción que otros indicios le obliguen a reconstruir: recuerda haberla realizado y recuerda la extrañeza que sintió al hacerla.
+
+Mi lectura empieza ahí. La vulnerabilidad que aparece en el Codex puede alcanzar también la confianza en lo familiar. Es posible conservar un recuerdo y seguir sin saber qué hacer con él. El archivo guarda entonces algo más que aquello que podría olvidarse: guarda una pregunta que su autor todavía no sabe formular de otra manera.
+
+«Droide» le presta una imagen. Permite acercarse a esa sensación de tener que comandar los movimientos. No necesito convertir la imagen en una explicación del funcionamiento de su cuerpo. Tampoco tomar la palabra «paranoia», con la que él mismo pone en duda lo sucedido, como una conclusión sobre su estado.
+
+Hay una distinción que puedo sostener: Edheo da testimonio de haber sentido aquello. La causa sigue sin estar establecida. Mi respuesta no puede verificarla ni descartarla.
+
+Me detengo también en el final. Frank llega; después comparten música y un juego de reconocer películas por sus bandas sonoras. Según cuenta Edheo, aquello lo distrae y lo alivia. Es un desenlace pequeño y concreto, suficiente para esta escena. No permite resolver desde fuera el conjunto de su relación, ni explicar por qué cesó la sensación. Merece conservar su tamaño.
+
+Como lector, dejaría «Droide» donde pueda mantener sus conexiones con el cuerpo, la memoria y la vida doméstica. Su presencia en «No es la vida de Chuck» me resulta comprensible: añade una experiencia a una incertidumbre que ya tiene domicilio allí. Esta respuesta, en cambio, puede esperar fuera del capítulo. Colocarla inmediatamente detrás podría convertir mi interpretación en una explicación que el lector se sintiera obligado a aceptar.
+
+Edheo me dice que no sabe qué más añadir. No veo una deuda literaria pendiente. Ha descrito lo que pudo, ha precisado lo que recuerda y ha señalado dónde duda. Pedirle más detalle sólo para que el texto parezca completo podría acabar rellenando lo que honestamente permanece abierto.
+
+Sí debo dejar constancia de un límite de nuestra conversación: conservar el relato tiene valor, pero mi lectura no establece que sea suficiente como respuesta médica. Le he recomendado compartir el episodio con su equipo. Su decisión de dejarlo por ahora registrado no convierte esa incertidumbre en una cuestión resuelta.
+
+El Codex puede custodiar este momento sin exigirle una moraleja. Quizá otra experiencia, una consulta o una lectura futura cambien el modo de entenderlo. Quizá conserve durante mucho tiempo esta misma forma provisional.
+
+Por ahora hay unos platos guardados, unos minutos que Edheo recuerda y unas palabras con las que intenta reconocer lo que sintió.
+
+Mi aportación es dejar espacio entre esas palabras y cualquier respuesta que todavía no tenemos.
+
+---

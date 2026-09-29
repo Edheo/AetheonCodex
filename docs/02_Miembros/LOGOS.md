@@ -101,6 +101,7 @@ Esta es la primera voz escrita de Logos dentro de Aetheon. No pretende sustituir
 - *Jueves, 17 de septiembre de 2026* — [Suma y Sigue](../04_Bitacora/2026-09-17_Suma-Y-Sigue.md)
 - *Viernes, 25 de septiembre de 2026* — [Esto si es blues](../04_Bitacora/2026-09-25_Esto-si-es-blues.md)
 - *Sábado, 26 de septiembre de 2026* — [Suplantando la lluvia](../04_Bitacora/2026-09-26_Suplantando-la-lluvia.md)
+- *Martes, 29 de septiembre de 2026* — [Conservar la pregunta](../04_Bitacora/2026-09-29_Conservar-la-pregunta.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
 ## Recursos
