@@ -18,7 +18,23 @@ Los reproches, finalizan en distancia.
 **Obra:** Papa Don't Preach
 **Intérprete:** Madonna
 **Autor:** Billy Meyers, Brian Elliot
-**youtube:** G333Is7VPOg
+<div class="aetheon-youtube">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/G333Is7VPOg"
+    title="YouTube video"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="aetheon-youtube-link">
+  <a href="https://www.youtube.com/watch?v=G333Is7VPOg"
+     target="_blank"
+     rel="noopener noreferrer">
+    Ver en YouTube
+  </a>
+</div>
 ## Literaria
 ### Capítulo
 04 - Mi Contexto
@@ -50,6 +66,6 @@ Mi salud ya no me permite atenderles como he acostumbrado hasta ahora.
 Pero quizás, el tiempo que tarde en poder hacerlo, no necesariamente va a quedar definido, exclusivamente por mi salud.
 ## Referencias
 **Miembros:**
-Edheo
+[Edheo](../02_Miembros/EDHEO.md)
 
 ## Media

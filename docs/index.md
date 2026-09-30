@@ -106,6 +106,7 @@
 - [2026-09-26_Suplantando-la-lluvia](04_Bitacora/2026-09-26_Suplantando-la-lluvia.md)
 - [2026-09-28_Droide](04_Bitacora/2026-09-28_Droide.md)
 - [2026-09-29_Conservar-la-pregunta](04_Bitacora/2026-09-29_Conservar-la-pregunta.md)
+- [2026-09-29_Mamma-dont-preach](04_Bitacora/2026-09-29_Mamma-dont-preach.md)
 
 ## 05_Cartografia
 
