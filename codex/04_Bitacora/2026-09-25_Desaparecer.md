@@ -34,7 +34,7 @@ Edheo
 ### Contenido
 Acudí a mi cita con la doctora. Ella poco puede hacer por mí... me indica que desde el primer momento, debí haber acudido a urgencias del Hospital General, donde me intervinieron el tumor, y me trataron posteriormente mi neurocirujano y mis oncólogos.
 El problema, claro está, es que no debo conducir. Pero Frank, no mostró ningún tipo de interés ni preocupación por mi episodio... según él... es algo que "nos puede pasar a cualquiera", no hay que preocuparse sin necesidad.
-Así que descarto la idea de esperar a que regrese de trabajar, e importunarle con hacerle llevarme a urgencias, esperar los eternos y lentos trámites, que allí acaecen. Así que asumo mi riesgo, después de comer algo, acudo al hospital en mi coche. Llego allí sobre las 4 de la tarde.
+Así que descarto la idea de esperar a que regrese de trabajar, e importunarle con hacerle llevarme a urgencias, esperar los eternos y lentos trámites, que allí acaecen. Así que asumo mi riesgo, ayer después de comer algo, acudo al hospital en mi coche. Llegué allí sobre las 4 de la tarde.
 El triaje es rápido, como siempre... lo demás no.
 Las horas se suceden allí, interminablemente, siempre bajo la duda de "me habrán llamado y no me he enterado? se habrán olvidado de mi?". Pero son pensamientos que hay que afrontar allí con resignación y paciencia, porque una vez entras allí, se te adjudica un nombre. Y ese nombre es "paciente".
 Hay que honrar ese nombre, pese tus inquietudes, tus miedos, tu necesidad de respuesta... todo se relega al peso de ese nombre, porque no es arbitrario. Hay que tener paciencia allí, no queda otra, pasen las horas que pasen.

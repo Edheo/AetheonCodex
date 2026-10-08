@@ -43,6 +43,10 @@ Así que no me limito, tomo mi coche, en cuanto Ray me hace saber que espera mi 
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-10-08
+<!-- Fuente: Git; commit 6c14e90a796c9b50b626531f92c5ce92e9277900; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Desde hace unos dias, como en alguna ocasión hacemos, retomamos contacto por Whatsapp, Ray y yo.
 Ray (Jose Ramón en realidad) y yo fuimos.. bueno, pareja no se si nunca llegamos a ser, amigos, obviamente si, pero no siempre muy bien avenidos.

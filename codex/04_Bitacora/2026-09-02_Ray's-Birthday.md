@@ -23,6 +23,10 @@ Mi gran amigo, compañero, y ausente presente, celebra hoy su cumpleaños.
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-10-08
+<!-- Fuente: Git; commit 6c14e90a796c9b50b626531f92c5ce92e9277900; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Mi amigo, no se si llegó a ser pareja, hará ya como casi veinte años, pero si gran amigo. Ese ser incomprendido o incompresible, para mí y para todos quizás, y que hoy, desde mi experiencia, puedo leer con tanta claridad.
 Quizás no supe acompañarle en su dia, como él necesitó. Y en cambio hoy dia, me veo tan reflejado en aquel Ray (Jose Ramón, curiosamente coincide su nombre con el de mi ex), el que conocí entonces, ahora siento que habita en mí.

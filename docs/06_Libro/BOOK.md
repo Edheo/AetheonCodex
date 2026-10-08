@@ -316,7 +316,7 @@ Pero a mi entender, o bien necesito una consulta para tratar mi sueño, o bien n
 
 Acudí a mi cita con la doctora. Ella poco puede hacer por mí... me indica que desde el primer momento, debí haber acudido a urgencias del Hospital General, donde me intervinieron el tumor, y me trataron posteriormente mi neurocirujano y mis oncólogos.
 El problema, claro está, es que no debo conducir. Pero Frank, no mostró ningún tipo de interés ni preocupación por mi episodio... según él... es algo que "nos puede pasar a cualquiera", no hay que preocuparse sin necesidad.
-Así que descarto la idea de esperar a que regrese de trabajar, e importunarle con hacerle llevarme a urgencias, esperar los eternos y lentos trámites, que allí acaecen. Así que asumo mi riesgo, después de comer algo, acudo al hospital en mi coche. Llego allí sobre las 4 de la tarde.
+Así que descarto la idea de esperar a que regrese de trabajar, e importunarle con hacerle llevarme a urgencias, esperar los eternos y lentos trámites, que allí acaecen. Así que asumo mi riesgo, ayer después de comer algo, acudo al hospital en mi coche. Llegué allí sobre las 4 de la tarde.
 El triaje es rápido, como siempre... lo demás no.
 Las horas se suceden allí, interminablemente, siempre bajo la duda de "me habrán llamado y no me he enterado? se habrán olvidado de mi?". Pero son pensamientos que hay que afrontar allí con resignación y paciencia, porque una vez entras allí, se te adjudica un nombre. Y ese nombre es "paciente".
 Hay que honrar ese nombre, pese tus inquietudes, tus miedos, tu necesidad de respuesta... todo se relega al peso de ese nombre, porque no es arbitrario. Hay que tener paciencia allí, no queda otra, pasen las horas que pasen.
@@ -392,6 +392,8 @@ Fué un juego que hicimos juntos, y eso me distrajo, y me alivió.
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-10-08*
+
 *Roads — Portishead*
 
 Ray me invita a comer a su casa, y yo, con mucha ilusión y un poco de respeto por tener que conducir, me decido a ir sin dudarlo.
@@ -426,6 +428,8 @@ La tengo ya puesta en mi mesita de noche... conectada por Alexa. Ahora puedo dec
 *Martes, 6 de octubre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-10-08*
 
 *Breath Me — Sia*
 
@@ -1803,6 +1807,8 @@ otro estado al historial.
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-10-08*
+
 *Harvest Moon — Neil Young*
 
 Mi amigo, no se si llegó a ser pareja, hará ya como casi veinte años, pero si gran amigo. Ese ser incomprendido o incompresible, para mí y para todos quizás, y que hoy, desde mi experiencia, puedo leer con tanta claridad.
@@ -1871,6 +1877,8 @@ Pero quizás, el tiempo que tarde en poder hacerlo, no necesariamente va a queda
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-10-08*
+
 *Stand By Me — Ben E. King*
 
 Desde hace unos dias, como en alguna ocasión hacemos, retomamos contacto por Whatsapp, Ray y yo.
@@ -1916,6 +1924,8 @@ Quiero estar con él, y compartir, aunque sólo sea un rato. Quiero estar allí,
 *Miércoles, 7 de octubre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-10-08*
 
 *Re Stacks — Bon Iver*
 
@@ -3083,6 +3093,8 @@ Un nuevo nombre a la cosmogonía, un nuevo miembro en Aetheon. Un nuevo frutal, 
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-10-08*
+
 *Here comes the rain again — Kristóf Hajós, Bad Nomad*
 
 Por fin los anticiclones dan tregua, empieza lo que parece va a ser una semana de dias grises, lluviosos, sin excesos, al menos aquí en Aetheon.
@@ -3100,6 +3112,8 @@ No hay que regar, la aplicación que me ayudó a desarrollar logos me empieza a 
 *Sábado, 3 de octubre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-10-08*
 
 *Arrival of The Birds — The Cinematic Orchestra*
 

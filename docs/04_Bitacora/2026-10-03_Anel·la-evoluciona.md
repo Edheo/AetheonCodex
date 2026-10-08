@@ -41,6 +41,10 @@ Está sacando un hijuelo, una especie de nuevo brote mana del tronco. Una ramifi
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-10-08
+<!-- Fuente: Git; commit 6c14e90a796c9b50b626531f92c5ce92e9277900; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Amaneciendo, y siento deseos de ver cómo crece el nuevo anillo de hojas de Anel·la.
 Le hago fotos, sus nuevas hojas son espectaculares, crecientes... Anel·la radiante... tomo distancia y entonces la sorpresa.

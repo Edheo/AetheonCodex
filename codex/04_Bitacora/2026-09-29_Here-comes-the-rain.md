@@ -23,6 +23,10 @@ Ha empezado, una racha de dias lluviosos. Son lluvias calmas, sin excesos, con p
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-10-08
+<!-- Fuente: Git; commit 6c14e90a796c9b50b626531f92c5ce92e9277900; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Por fin los anticiclones dan tregua, empieza lo que parece va a ser una semana de dias grises, lluviosos, sin excesos, al menos aquí en Aetheon.
 Episodios de intensas lluvias y fenómenos severos se suceden por el litoral mediterráneo. Aquí simplemente llueve, casi a diario.
