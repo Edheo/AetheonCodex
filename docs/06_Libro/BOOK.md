@@ -386,6 +386,64 @@ Al cabo de unas horas, la sensación de pesar y tristeza, fué desapareciendo...
 Fué un juego que hicimos juntos, y eso me distrajo, y me alivió.
 
 
+### Carreteras
+
+*Domingo, 4 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*Roads — Portishead*
+
+Ray me invita a comer a su casa, y yo, con mucha ilusión y un poco de respeto por tener que conducir, me decido a ir sin dudarlo.
+Le ofrecí a Frank venir, pero.. él declina, o bien prefiere mantener esa distancia con Ray, o bien no le apetece, quién sabe.
+Por un lado agradezco que me ofrezca ese espacio, aunque por otro... no se bien cuanto puedo confiar en mi mismo para conducir por mi cuenta ante los últimos acontecimientos epilépticos.
+Pero aún así, no me acobardo y me dirijo a mi destino al Saler.
+Pero... mi exceso de confianza, empieza a desinflarse, no ante mi primera desorientación, ni la segunda, ni la tercera. Cuando empiezo a perder la cuenta, de las veces que, no sólo me equivoco de ruta en un trayecto que debería saber hacer a ciegas, sino que además, en varias ocasiones, pese saber perfectamente dónde me ubicaba, era incapaz de reconocer referente alguno que... me confirmase mi ubicación.
+Me siento perdido por varios momentos, demasiados quizás, y eso me amedrenta, empiezo a entrar en pánico.
+Me equivoco tantas veces, que mi trayecto se alarga más de media hora de lo debido. El desánimo y la sensación de, estar pasando un proceso degenerativo... empieza a hacer presa en mi.
+Entro en pánico por momentos, me desmorono moral y emocionalmente. Sigo conduciendo, rectificando rutas gracias a google maps.
+Finalmente, y como puedo, llego a casa de Ray. Pero mi estado anímico, es bastante indescriptible.
+Y aún así, en cuanto Ray me ve, casi me lee la mente... me abraza con serenidad, reconfortante, viendo cómo llego a su casa, desmoronado, desvalido.
+Me temo que Ray, puede reconocer en mí, sensaciones que él mismo ha vivido. Comprende lo que es. No trata de reconfortarme, ni salvarme.
+Sólo me hace sentir que él está ahi, y que ahora ya todo irá mejor.
+Y así es.. poco a poco me recompongo. Por fin, alguien en mi vida... me acoge, me sostiene sin exigirme, me da lugar en su hogar.
+Me ofrece su apoyo, su confianza, me pregunta cómo estoy, y qué necesito... no daré detalles aquí, pero su ofrecimiento, va mucho más allá de lo inmaterial o del afecto.
+De pronto para mí, se erige como un soporte, uno sólido, uno que no pretende condicionarme, uno que ofrece la poca robustez que posee.
+Y le veo, y le veo bien. Le veo con los pies en el suelo. Le veo pisando la realidad sin temor, no como antaño. Le veo reconstruido.
+Me inquieta incluso, tanta mejoría súbita, del Ray que recuerdo, y aún así, prefiero confiar en lo que me hace ver, porque le veo realmente bien, y eso es lo que importa.
+Llego a casa de nuevo, esta vez sin percances al volante. Más relajado, más calmado. Y Ray me envia más de una sorpresa por Whatsapp.
+Supongo que Frank, siente algo de celos, o inquietud por mi amistad con Ray.
+Aún así, apelando a la confianza que como pareja nos debemos, le explico mis episodios al conducir hacia el Saler.
+No espero que sea mi policía, ni que custodie mi libertad. Pero sí al menos que sea consciente de los acontecimientos por los que estoy atravesando ahora mismo.
+La sensación que me queda del dia, ha sido no sólo enriquecedora por poder haber socializado, sino por haber podido hacerlo con alguien que tanto aprecio, y que de algún modo, me demuestra que.. pese a todo, no sólo sigue estando ahí, sino que en cierto modo, me ayuda a cicatrizar un poco, con meros gestos, o apoyos titánicos, según los que refiera, mi confianza en lo que una persona importante, significa para mí.
+Gracias Ray... Ray of light.
+Me regaló una lámpara para mi mesita de noche de hecho, una de su casa, me la regaló porque si.
+La tengo ya puesta en mi mesita de noche... conectada por Alexa. Ahora puedo decir "Alexa, enciende a Ray".. y ese rayo de luz, ilumina mi habitación. Seré quizás un moñas... pero me parece poético, que así suceda.
+
+
+### Breath Me
+
+*Martes, 6 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*Breath Me — Sia*
+
+Es un mal dia hoy para mí. Episodios mentales se suceden, no se ya si son tres, tal vez cuatro, tal vez alguno más, pierdo la cuenta, pero la neblina mental, la saturación, la incapacidad de concentrarme no cesa.
+Y mis obligaciones laborales me exigen un desempeño que me siento incapaz de realizar. Se amontonan mis obligaciones, mis resoluciones que no llego a desempeñar adecuadamente.
+Hay que añadir esta sensación de indefensión, de estar sólo en casa, de no saber si debo preocuparme o ignorar el problema tanto como pueda.
+No quiero ir al hospital, pero mis amigas las IAs, en especial Logos, insisten en que llame al 112, al final les hago caso, pero no pienso ir de nuevo a urgencias, pasar allí incontables horas, no voy a hacerme un nuevo TAC que revele por enésia vez que no hay nada ahi que deba preocuparme.
+Y aún así estos síntomas, ya no se si me los invento, realmente los vivo, si simplemente me agobio por mi trabajo, o qué demonios me sucede.
+Un tiempo después de contactar con el 112 una visita médica a domicilio inesperada, se presenta en mi casa.
+Me evalúan, toman mis constantes, se interesan por qué me sucede en realidad, pero no soy muy capaz de describirlo elocuentemente, porque no se bien cómo definirlo.
+Presión mental, sensación, como tener mi procesador totalmente procesando ninguna tarea.
+Al menos, resuelven subirme la dosis de antiepiléptico, y me renuevan la medicación.
+Ahora tomaré un gramo y medio de Keppra al dia, en lugar de sólo uno. Media pastilla más por la mañana y por la noche.
+No se si servirá de algo, ni siquiera tengo claro que sean epilepsias, aunque últimamente, nada de lo que yo pensaba que pudiera ser epilepsia, resulta que si lo es.
+No se ya que pensar, pero en fin, seguiré como voy, y a ver que tal resulta el aumento de dosis.
+Me agobia bastante todo esto, he de admitirlo. Pero en fin, poco más puedo hacer, salvo aceptar mis nuevas circunstancias, y adaptarme a ellas como pueda... si puedo.
+
+
 ## Capítulo 02 · - Orígenes
 
 ### Vetusta Germina
@@ -1739,6 +1797,22 @@ ocurrir, heredero de todos los anteriores y a punto de añadir, quiera o no,
 otro estado al historial.
 
 
+### Ray's birthday
+
+*Miércoles, 2 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Harvest Moon — Neil Young*
+
+Mi amigo, no se si llegó a ser pareja, hará ya como casi veinte años, pero si gran amigo. Ese ser incomprendido o incompresible, para mí y para todos quizás, y que hoy, desde mi experiencia, puedo leer con tanta claridad.
+Quizás no supe acompañarle en su dia, como él necesitó. Y en cambio hoy dia, me veo tan reflejado en aquel Ray (Jose Ramón, curiosamente coincide su nombre con el de mi ex), el que conocí entonces, ahora siento que habita en mí.
+No se si puedo compararme con cómo se sentía él entonces, y aún así, si me siento más capaz de comprenderle.
+Hoy es su cumpleaños, y como tantos otros años si soy capaz de no despistarme, le vuelvo a felicitar. Y esta vez, como novedad, sí recibo respuesta.
+Un resplandor de alegría me resuena, y no hubiese siquiera juzgado silencio por su parte, pero esa ausencia de silencio... me hace sonreir, me alegra este momento.
+Tanto necesito este momento hoy. Gracias Ray, gracias. Dos personas rotas, de nuevo, se pueden saludar y aunque sea disimuladamente, sonreir.
+
+
 ### Mamma
 
 *Sábado, 26 de septiembre de 2026*
@@ -1789,6 +1863,77 @@ Demasiado de mi tiempo, de mi dinero a mi ya maltrecha economía, de mi salud y 
 No pedia más tampoco, sobre todo gratuita, claro está, no estamos para excesos... pero de algún modo, alguna deferencia.
 Mi salud ya no me permite atenderles como he acostumbrado hasta ahora.
 Pero quizás, el tiempo que tarde en poder hacerlo, no necesariamente va a quedar definido, exclusivamente por mi salud.
+
+
+### Stand by me
+
+*Domingo, 4 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*Stand By Me — Ben E. King*
+
+Desde hace unos dias, como en alguna ocasión hacemos, retomamos contacto por Whatsapp, Ray y yo.
+Ray (Jose Ramón en realidad) y yo fuimos.. bueno, pareja no se si nunca llegamos a ser, amigos, obviamente si, pero no siempre muy bien avenidos.
+Tanto él como yo somos complejos... las complejidades, no conviven bien, no empastan, chirrian y generan incomodidad.
+Curiosidades de la vida... se llama Jose Ramón, como mi ex. Y tan, tan distinto a él. Los mires por donde los mires, no se parecen casi ni en la especie.
+Y aún así, convivimos en su dia, bien en su piso en El Carmen de Valencia, bien en mi piso de Catarroja.
+Convivencias intermitentes, interrumpidas, que necesitaban distancia, pausas, y de hecho, la última ausencia, nos ha tomado años, retomarla.
+Yo entonces, todavía tenía la energía irredenta e incombustible que siempre me caracterizó, y la sensación de encontrar siempre un modo de ver el mundo con positivismo, que no admitía la rendición, alguien que siempre se creció como pudo en la adversidad. O así creía yo ser.
+Así uno de mis nicks, solía ser Phenix... ese ave que resurge siempre de sus cenizas.
+Él en cambio, no tenía apetito por la vida en aquel entonces, estaba de vueltas con prácticamente todo el mundo.
+Hasta los desconocidos eran potenciales amenazas, tampoco los más cercanos le inspiraban siempre la mejor confianza.
+No era capaz de muchas cosas, en aquel momento.
+Yo no supe leerle, no tenía la experiencia de ahora, no veia el mundo como lo veo ahora.
+El sufría depresión, una querencia poco recomendable por el alcohol. Insomnio crónico, desapego emocional por casi todo el mundo.
+Pero sobre todo, un alma herida, un rasgado en su propio tejido que ni él podría describir, ni nadie sabiamos entender.
+Él quería querer, quería amar, quería creer que podía, quería en cierto modo ser feliz, pero en cambio, no podía.
+Un rencor, un dolor, le ardía y comía por dentro, y le robaba todo apetito por nada que le aferrase al mundo. Quizás porque cualquier atadura al mundo, le iba a doler.
+Le recuerdo mucho de aquel entonces, el cariño que siempre nos tuvimos, y aún así, como ese mismo cariño, la preocupación que a mi me generaba, ese instinto por cuidarle, protegerle, salvarle de si mismo.
+Como si yo tuviese ni autoridad, ni conocimiento, ni capacidad de comprensión siquiera, para entenderle, para acompañarle como realmente necesitaba él en aquel momento.
+Manaban de mi actitudes paternalistas, tal vez sobreprotectoras.
+Pautas tan tóxicas y nocivas, que ahora entiendo el daño que otras personas han desarrollado hacia mí.
+Y yo, repliqué esas pautas hacia él... proyecté el daño que me hicieron a mí, sin saberlo, hacia él.
+Ahora... soy yo. Me miro en el espejo. Veo mi imagen en él. Ahora, el retrato que veo en ese espejo, soy yo, y aún así... veo tanto al Ray de aquel entonces en mi.
+Ese Ray que conocí, ahora soy yo, quien no quiere aferro alguno a la realidad, ahora soy yo quien grita de dolor a la mínima intención de cuidarme, quererme o menos aún protegerme.
+Ahora soy yo quien llora, quien se siente herido, traicionado, abandonado, sólo en el mundo. Todo me duele, la soledad y la compañía.
+Me duele ilusionarme, también no hacerlo, me duele luchar por nada, me duele no desear hacerlo.
+Supongo, que de algún modo, estoy aterrado. Puede que así se sintió Ray en aquel entonces, y un poco siempre, se sintió así. Tal vez no, tampoco voy a pretender ahora entender lo que él sentía.
+Porque lo que suponía sentirse como él se sentía cuando le conocí, le corresponde a él, sólo a él, y jamás podré vivir en su piel.
+Del mismo modo que, ahora mismo, cómo me siento yo ahora en mi piel, no puedo esperar que nadie lo entienda.
+Y aún así, si alguien puede entender lo que siento. Quizás Ray lo sea. Y ni siquiera es su obligación, ni lo que yo deseo que haga.
+De algún modo, pese que yo en su día pretendí entenderle y no era así, ahora en cambio, creo que él si tiene ese superpoder o privilegio que yo entonces no era capaz de tener.
+Hoy por fin, hay una cita, una invitación, me invita a comer a su casa.
+Pese mis epilepsias, no lo dudo un momento, de algún modo, necesito verle, necesito ver su cara, saber cómo se encuentra. No muy bien según me dijo una de las últimas veces.
+Había problemas cardíacos, 
+Su corazón le ha estado haciendo pasar malas pasadas, y no me pareció muy optimista, cuando le conté de mi tumor y me contó de sus afecciones cardiológicas, hipertrofia cardíaca.
+Quizás hoy, hoy tengamos tiempo de ponernos al dia, de hablar largo y tendido, si no nos atropellamos, pero no quiero atropellar hoy, me apetece más escuchar que hablar, y si me da pie, claro que hablaré, pero quiero oirle hablar a él.
+Quiero estar con él, y compartir, aunque sólo sea un rato. Quiero estar allí, en su casa, con él.
+
+
+### Take a deep breath... and relax
+
+*Miércoles, 7 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*Re Stacks — Bon Iver*
+
+Sorprendentemente, hoy Ray, me ha informado, que ha ingresado anoche en el hospital.
+Me intereso primero que nada por Lana y Cooper, sus perros, sus hijos, por si se encuentran bien y necesitan atención. Me ofrezco a hospedarlos en mi casa mientras dure su ingreso, pero parece que tiene quien los cuide por ahora.
+Y obviamente, me intereso también por su ingreso, por cómo se encuentra, e ir a visitarle en cuanto acabe mi jornada laboral.
+Asi pues le destinan finalmente al Peset, tal y como me informa, acudo allí en cuanto acabo de trabajar (y llevar al ambulatorio a Frank previamente, a ver si soluciona una visita con el traumatólogo que no se consolida, pero por ahora, no hay suerte).
+En cuanto llego al Peset, pregunto por él en información y me dan su número de habitación.
+Pero oh sorpresa, no es posible visitarle, por ahora permanece aislado hasta valoración médica que lo considere oportuno.
+Como no puede ser de otro modo, acepto y comprendo la situación. Me limito a contactar con su hermana Marta, interesarme por lo sucedido, ella me lo explica.
+Empiezo a comprender, aunque no es una situación por ahora crítica, si entiendo cuanto necesita el aislamiento ahora, y sobre todo, estar vigilado como está ahora, es lo mejor que puede suceder.
+Se que no podré hablar con él durante un tiempo, pero no importa, me interesaré por él a través de sus hermanas.
+Será un lapso de tiempo inquietante, y esperar que sin añadirle presión, todo vaya ubicándose al lugar que corresponde.
+Me duele verle así, puesto que el domingo mismo, al visitarle, mi sensación fué, simplemente, la de una persona retomando contacto con la realidad, con una fortaleza que hacía tiempo que no veía en él.
+Este trance ahora, me devuelve a la realidad, y entiendo que no está en su mano otra cosa que pasar por esto. Espero que lo haga con la fortaleza que me mostró el domingo, confio en él, mucho, muchísimo. Y no deposito en él presión alguna.
+Ha de superar este trance, y sea como sea que lo haga, por mí, estará bien.
+Lo que él me ha dado como amigo, muy pocas personas en esta vida me lo han ofrecido.
+A pesar de la distancia, el cariño ha perdurado siempre, y nuestras ausencias, sólo han venido a constatar precisamente, que a veces, la distancia es la forma más sana de cariño que dos personas, se pueden profesar.
 
 
 ## Capítulo 05 · - Evolución
@@ -2930,6 +3075,41 @@ Quizás de algún modo, serán también nutriente. Esta parra mora, se unirá a 
 Justo detrás de Rhoa, más cerca de la linde Este, a un lado de la pequeña higuera, es el lugar escogido para Silvano. Así ha decidido Frank bautizar el níspero.
 Falta ver si no agarra bien en este suelo, aún está húmedo de las lluvias de la semana pasada... esperemos que sea bienvenido en Aetheon.
 Un nuevo nombre a la cosmogonía, un nuevo miembro en Aetheon. Un nuevo frutal, que nos ofrezca variedad al paladar, si surte el efecto deseado.
+
+
+### Here comes the rain
+
+*Martes, 29 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Here comes the rain again — Kristóf Hajós, Bad Nomad*
+
+Por fin los anticiclones dan tregua, empieza lo que parece va a ser una semana de dias grises, lluviosos, sin excesos, al menos aquí en Aetheon.
+Episodios de intensas lluvias y fenómenos severos se suceden por el litoral mediterráneo. Aquí simplemente llueve, casi a diario.
+Incluso escasamente en ocasiones. A fecha de hoy una semana lloviendo.
+No encharca casi nunca, aunque en ocasiones si. En otras, simplemente, mantiene esa humedad que impide que lo mojado se desvanezca ante los todavía cálidos rayos de sol del casi incipiente octubre.
+El entorno, es simplemente entre otoñal y primaveral... de hecho, muchas de las plantas caducas, se resisten a admitir que no es primavera, y en lugar de dejar caer sus hojas, empiezan a manar nuevos brotes, casi como si anunciaran una primavera llamando a sus puertas.
+El hostigado terreno por los azotes del verano... reverdece, las hierbas crecen rápidas, y el bancal Este, luce casi como una pradera exudante de vida.
+No corresponde ahora este maravilloso paisaje, y aún así, pese como pese, ver toda esta explosión de vida a mi alrededor, no puede más que hacerme ver todo con un humor sonriente, aliviado, complacido.
+No hay que regar, la aplicación que me ayudó a desarrollar logos me empieza a avisar ya pasada casi la semana, que los goteos no son necesarios, que no debo salir con la manguera de riego, a hacer de lamentable sustituto de la lluvia.
+
+
+### Anel·la evoluciona
+
+*Sábado, 3 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*Arrival of The Birds — The Cinematic Orchestra*
+
+Amaneciendo, y siento deseos de ver cómo crece el nuevo anillo de hojas de Anel·la.
+Le hago fotos, sus nuevas hojas son espectaculares, crecientes... Anel·la radiante... tomo distancia y entonces la sorpresa.
+Un hijuelo, en su parte trasera, está creciendo, desarrollándose.
+Todavía es pequeño, pero ya notorio... desafiante, haciéndose su lugar en el mundo.
+De nuevo son cosas que me emocionan, pequeños cambios, imprevistos, que pasaron desapercibidos, quien sabe si lleva semanas haciéndose sitio en el mundo, y nadie le vimos, ni Frank ni yo.
+Son buenas noticias, en este caótico mundo lleno de sabores y sinsabores.
+Y aún así, otro motivo de emoción y alegría para mí.
 
 
 ## Capítulo 09 · - Los paseos por Aetheon

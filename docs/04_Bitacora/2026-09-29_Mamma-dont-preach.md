@@ -39,7 +39,7 @@ Los reproches, finalizan en distancia.
 ### Capítulo
 04 - Mi Contexto
 ### Secuencia
-070
+080
 ### Autoría
 Edheo
 

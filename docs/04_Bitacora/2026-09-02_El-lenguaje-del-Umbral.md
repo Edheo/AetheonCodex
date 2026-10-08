@@ -7,7 +7,7 @@ Borrador
 El lenguaje del umbral
 
 ## Descripción
-Con esta entrada se trata de definir 
+Con esta entrada se trata de definir el prólogo de esta cosmogonía/libro/bitácora
 
 ## Cosmogonía
 ### Musical

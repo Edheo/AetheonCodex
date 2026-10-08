@@ -83,6 +83,7 @@
 - [2026-08-31_El-historial-desde-HEAD](04_Bitacora/2026-08-31_El-historial-desde-HEAD.md)
 - [2026-09-01_Alevines-en-Al-Ghadir](04_Bitacora/2026-09-01_Alevines-en-Al-Ghadir.md)
 - [2026-09-02_El-lenguaje-del-Umbral](04_Bitacora/2026-09-02_El-lenguaje-del-Umbral.md)
+- [2026-09-02_Ray's-Birthday](04_Bitacora/2026-09-02_Ray's-Birthday.md)
 - [2026-09-03_El-final-del-verano](04_Bitacora/2026-09-03_El-final-del-verano.md)
 - [2026-09-04_La-reina-mora](04_Bitacora/2026-09-04_La-reina-mora.md)
 - [2026-09-06_Se-Acabó](04_Bitacora/2026-09-06_Se-Acabó.md)
@@ -106,7 +107,13 @@
 - [2026-09-26_Suplantando-la-lluvia](04_Bitacora/2026-09-26_Suplantando-la-lluvia.md)
 - [2026-09-28_Droide](04_Bitacora/2026-09-28_Droide.md)
 - [2026-09-29_Conservar-la-pregunta](04_Bitacora/2026-09-29_Conservar-la-pregunta.md)
+- [2026-09-29_Here-comes-the-rain](04_Bitacora/2026-09-29_Here-comes-the-rain.md)
 - [2026-09-29_Mamma-dont-preach](04_Bitacora/2026-09-29_Mamma-dont-preach.md)
+- [2026-10-03_Anel·la-evoluciona](04_Bitacora/2026-10-03_Anel·la-evoluciona.md)
+- [2026-10-04_Reencuentro](04_Bitacora/2026-10-04_Reencuentro.md)
+- [2026-10-04_Roads](04_Bitacora/2026-10-04_Roads.md)
+- [2026-10-06_Breath-Me](04_Bitacora/2026-10-06_Breath-Me.md)
+- [2026-10-07_Take-a-deep-breath](04_Bitacora/2026-10-07_Take-a-deep-breath.md)
 
 ## 05_Cartografia
 

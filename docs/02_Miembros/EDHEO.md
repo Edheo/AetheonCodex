@@ -146,6 +146,12 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Sábado, 26 de septiembre de 2026* — [Suplantando la lluvia](../04_Bitacora/2026-09-26_Suplantando-la-lluvia.md)
 - *Lunes, 28 de septiembre de 2026* — [Droide](../04_Bitacora/2026-09-28_Droide.md)
 - *Martes, 29 de septiembre de 2026* — [Conservar la pregunta](../04_Bitacora/2026-09-29_Conservar-la-pregunta.md)
+- *Martes, 29 de septiembre de 2026* — [Here comes the rain](../04_Bitacora/2026-09-29_Here-comes-the-rain.md)
 - *Martes, 29 de septiembre de 2026* — [Mamma Don't Preach](../04_Bitacora/2026-09-29_Mamma-dont-preach.md)
+- *Sábado, 3 de octubre de 2026* — [Anel·la evoluciona](../04_Bitacora/2026-10-03_Anel·la-evoluciona.md)
+- *Domingo, 4 de octubre de 2026* — [Stand by me](../04_Bitacora/2026-10-04_Reencuentro.md)
+- *Domingo, 4 de octubre de 2026* — [Carreteras](../04_Bitacora/2026-10-04_Roads.md)
+- *Martes, 6 de octubre de 2026* — [Breath Me](../04_Bitacora/2026-10-06_Breath-Me.md)
+- *Miércoles, 7 de octubre de 2026* — [Take a deep breath... and relax](../04_Bitacora/2026-10-07_Take-a-deep-breath.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
