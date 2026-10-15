@@ -624,9 +624,11 @@ Me agobia bastante todo esto, he de admitirlo. Pero en fin, poco más puedo hace
 
 ### Knoking
 
-*Domingo, 11 de octubre de 2026*
+*Jueves, 8 de octubre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-10-15*
 
 *Knoking — Double Vision*
 
@@ -1229,6 +1231,8 @@ Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y 
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-10-15*
+
 *Little Boys Grow Up and Dogs Get Old — Luke Bryan*
 
 - **Origen:** `2026-10-12_Invitados-de-honor.md`
@@ -1265,6 +1269,8 @@ Quizás el ajetreo del dia, ha creado suficiente ruido en mi mente, como para ma
 *Miércoles, 14 de octubre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-10-15*
 
 *You've got a friend in me — Randy Newman*
 
@@ -2398,6 +2404,8 @@ A pesar de la distancia, el cariño ha perdurado siempre, y nuestras ausencias, 
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-10-15*
+
 *Pocketful of Sunshine — Natasha Bedingfield*
 
 - **Origen:** `2026-10-09_Sol-en-mi-bolsillo.md`
@@ -2433,6 +2441,8 @@ Siento que.. por un rato, he podido estar... sin tener que pedir perdón por hac
 *Miércoles, 14 de octubre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-10-15*
 
 *No Surprises — Radiohead*
 
@@ -3857,6 +3867,8 @@ Y aún así, otro motivo de emoción y alegría para mí.
 *Sábado, 10 de octubre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-10-15*
 
 *Dos Oruguitas — Sebastián Yatra*
 

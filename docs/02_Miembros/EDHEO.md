@@ -153,7 +153,7 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Domingo, 4 de octubre de 2026* — [Carreteras](../04_Bitacora/2026-10-04_Roads.md)
 - *Martes, 6 de octubre de 2026* — [Breath Me](../04_Bitacora/2026-10-06_Breath-Me.md)
 - *Miércoles, 7 de octubre de 2026* — [Take a deep breath... and relax](../04_Bitacora/2026-10-07_Take-a-deep-breath.md)
-- *Domingo, 11 de octubre de 2026* — [Knoking](../04_Bitacora/2026-10-08_Knocking.md)
+- *Jueves, 8 de octubre de 2026* — [Knoking](../04_Bitacora/2026-10-08_Knocking.md)
 - *Viernes, 9 de octubre de 2026* — [Sol en mi bolsillo](../04_Bitacora/2026-10-09_Sol-en-mi-bolsillo.md)
 - *Sábado, 10 de octubre de 2026* — [Alevines en el acuario](../04_Bitacora/2026-10-10_Alevines-en-el-acuario.md)
 - *Lunes, 12 de octubre de 2026* — [Invitados de honor](../04_Bitacora/2026-10-12_Invitados-de-honor.md)

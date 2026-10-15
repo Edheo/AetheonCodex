@@ -9,7 +9,7 @@ Alevines en el acuario
 ## Descripción
 Llegó el momento, los alevines ya son suficientemente maduros para ser liberados de sus isla guardería. Ya empieza a ser escasa para ellos y su tamaño es suficiente como para no ser depredados por sus padres.
 Hoy los liberamos.. y reservamos unos pocos, 5 de ellos para ocupar el espacio en el acuario que quedó vacío.
-Quizás puede sonar cruel, pero sólo verlos, en ese acuario limpio, 
+Quizás puede sonar cruel, pero sólo verlos, en ese acuario limpio, realmente es estimulante, y creo que al igual que los antiguos habitantes, pueden tener una larga vida aquí, aunque más confinada, eso es cierto, pero con otros hábitos y rutinas, ligados a nosotros.
 
 ## Cosmogonía
 ### Musical
@@ -40,6 +40,10 @@ Quizás puede sonar cruel, pero sólo verlos, en ese acuario limpio,
 160
 ### Autoría
 Edheo
+
+### Primera incorporación al Codex
+2026-10-15
+<!-- Fuente: Git; commit 860529535b51f7a2aeb885d25a31aea00d464322; fecha de incorporación documentada, no de escritura. -->
 
 ### Contenido
 Los alevines de las islas cuna de Al-Ghadir, han ido creciendo. Muy rápido al principio, pero poco a poco más lentamente. Imagino que el espacio tan confinado les limita.

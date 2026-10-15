@@ -51,6 +51,10 @@ Necesito paz, lejanía, solitud no deseada, pero si es necesaria, es lo que voy 
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-10-15
+<!-- Fuente: Git; commit 860529535b51f7a2aeb885d25a31aea00d464322; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Resuena aún la acusación de Raka, el otro dia, cuando no dejé de fumar. Su ataque gratuito en su Whatsapp.. "O te ha caído la pasta del cielo o no estás tan mal de pasta como dices".
 Quizás si se disculpó levemente después, fué como siempre, porque... "yo reaccioné muy mal a sus palabras", quien sabe si es mi reacción la incorrecta, y aún así... no creo merecer esa reacción por su parte, sabiendo como sabe, por todo lo que estoy pasando.

@@ -27,6 +27,10 @@ Me llena de gozo verles tan integrados y tranquilos.
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-10-15
+<!-- Fuente: Git; commit 860529535b51f7a2aeb885d25a31aea00d464322; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Lana y Cooper, siguen conviviendo con nosotros. Poco a poco Frank y yo nos estamos encariñando con ellos, con su afable carácter, descubriendo sus comportamientos.
 La consciencia de Cooper de su dependencia, y aún así, no para de querer pasear por fuera, olfatear, mear... le encanta oler los montones de pinocha de los pino o las matas de murta que hay por la parcela, deben recordarle a El Saler, su hogar, es lo que quiero creer.

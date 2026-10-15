@@ -27,6 +27,10 @@ Al parecer Ray lo considera, y finalmente, hoy vamos a recogerlos a su casa.
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-10-15
+<!-- Fuente: Git; commit 860529535b51f7a2aeb885d25a31aea00d464322; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 El viernes de nuevo le recordé a Ray (que evoluciona muy bien, pero aún permanece ingresado en el hospital), que puedo hospedar a sus perros, Lana y Cooper, en mi casa, hasta que reciba el alta.
 Hay vecinos que les pasean y les atienden, y aún así, Cooper es muy mayor, con movilidad limitada, y encima ciego, con cataratas, y una tos crónica, que no le da mucha tregua. Son 17 años ya en sus lomos.

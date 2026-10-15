@@ -24,6 +24,10 @@ Así que hoy, en cuanto tengo un momento después de trabajar, me voy a visitarl
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-10-15
+<!-- Fuente: Git; commit 860529535b51f7a2aeb885d25a31aea00d464322; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Acabo de trabajar, como con Frank. El tiene festivo, es el dia de la comunidad autónoma de Valencia. Pero trabajo para Barcelona, así que para mí, no es festivo.
 En cuanto tengo el momento, cojo el coche y me dirijo al Hospital Doctor Peset, a visitar a Ray.
