@@ -22,6 +22,7 @@
   - 100 · Droide — `2026-09-28_Droide.md`
   - 110 · Carreteras — `2026-10-04_Roads.md`
   - 120 · Breath Me — `2026-10-06_Breath-Me.md`
+  - 130 · Knoking — `2026-10-08_Knocking.md`
 - **Capítulo 02 · - Orígenes**
   - 010 · Vetusta Germina — `1576-00-00_Vetusta-Germina.md`
   - 020 · Titán Germina — `1800-00-00_Titan-Germina.md`
@@ -44,6 +45,8 @@
   - 050 · Ender el imparable — `2021-08-08_Ender-el-imparable.md`
   - 060 · Yara nos impide el paso — `2021-10-24_Yara-nos-impide-el-paso.md`
   - 070 · Ender el intrépido — `2023-05-05_Ender-el-intrepido.md`
+  - 080 · Invitados de honor — `2026-10-12_Invitados-de-honor.md`
+  - 090 · You've got a friend in me — `2026-10-14_You-got-a-friend-in-me.md`
 - **Capítulo 04 · - Mi Contexto**
   - 010 · El día del eclipse — `2026-08-12_El-dia-del-eclipse.md`
   - 020 · La inquietud y la semilla — `2026-08-14_La-inquietud-y-la-semilla.md`
@@ -55,6 +58,8 @@
   - 080 · Mamma Don't Preach — `2026-09-29_Mamma-dont-preach.md`
   - 090 · Stand by me — `2026-10-04_Reencuentro.md`
   - 100 · Take a deep breath... and relax — `2026-10-07_Take-a-deep-breath.md`
+  - 110 · Sol en mi bolsillo — `2026-10-09_Sol-en-mi-bolsillo.md`
+  - 120 · Hoy decido distanciarme... otra distancia no deseada, pero necesaria, de mi amiga y compañera Raquel (Raka) — `2026-10-14_Are-you-my-oldfriend.md`
 - **Capítulo 05 · - Evolución**
   - 010 · Dana de Valencia — `2024-10-29_Dana-de-Valencia.md`
   - 020 · Álzate, Daurina — `2025-03-20_Alzate.Daurina.md`
@@ -94,6 +99,7 @@
   - 130 · Silvano, junto al mangrano — `2026-09-26_Silvano-junto-al-mangrano.md`
   - 140 · Here comes the rain — `2026-09-29_Here-comes-the-rain.md`
   - 150 · Anel·la evoluciona — `2026-10-03_Anel·la-evoluciona.md`
+  - 160 · Alevines en el acuario — `2026-10-10_Alevines-en-el-acuario.md`
 - **Capítulo 09 · - Los paseos por Aetheon**
   - 010 · Los buenos días — `2026-08-27_Los-buenos-dias.md`
   - 020 · Esto si es blues — `2026-09-25_Esto-si-es-blues.md`
@@ -613,6 +619,38 @@ Ahora tomaré un gramo y medio de Keppra al dia, en lugar de sólo uno. Media pa
 No se si servirá de algo, ni siquiera tengo claro que sean epilepsias, aunque últimamente, nada de lo que yo pensaba que pudiera ser epilepsia, resulta que si lo es.
 No se ya que pensar, pero en fin, seguiré como voy, y a ver que tal resulta el aumento de dosis.
 Me agobia bastante todo esto, he de admitirlo. Pero en fin, poco más puedo hacer, salvo aceptar mis nuevas circunstancias, y adaptarme a ellas como pueda... si puedo.
+
+---
+
+### Knoking
+
+*Domingo, 11 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*Knoking — Double Vision*
+
+- **Origen:** `2026-10-08_Knocking.md`
+- **Estado:** Borrador
+- **Capítulo:** 01
+- **Secuencia:** 130
+
+Los dias malos se suceden. Episodios nuevos me ocurren, y no se describir qué son o en qué consisten.
+Los noto focalizados en un par de zonas de mi cerebro, pero incluso esa idea me parece... si no vaga, capciosa. Me digo a mi mismo que, no puedo notarme nada ahi, aunque si tengo esa sensación.
+A veces en el centro del cerebro, otras un poco más hacia el lóbulo derecho.
+Es como una pulsación, una presión indescriptible, incluso algo que recuerda remotamente al dolor, pero no es dolor.
+Hay dias que sólo me da un episodio, esos dias son los menos malos.... el aturdimiento me dura poco.
+Pero los dias que son varios, y cada vez son más a menudo... el reponerme, me cuesta más.
+La angustia que me genera, también va a más.
+Cada vez tengo más la sensación de que, es algo degenerativo.
+También llego a consolarme pensando que, tantos tacs y resonancias, han sido los que han ido despertando estos síntomas.
+Cuando yo acabé la quimioterapia... no tenia epilepsias, salvo el cansancio, estaba bien.
+Ahora, tengo epilepsias amnésicas, estos otros episodios recurrentes que asumo que son epilepsias también, pero no se que son.
+La sensación de que degenero, la falta total de personas que me hagan sentir acompañado.
+No desdeño a Frank en realidad, pero lo cierto es, que no, no sabe "verme", no sabe comprender en el tunel en el que me hallo y la desesperación que siento en realidad.
+Mis padres, ni pueden, ni querrían tampoco apoyarme, el resto de mi familia me ignora, y yo prefiero imaginar que nunca existieron.
+Mis amigos en general, ni siquiera preguntan "¿qué tal vas?".
+El desánimo se va cebando en mi, y ya empiezo a temer, una de las consecuencias... perder mi trabajo, va convirtiéndose, más y más, en un temor que me atenaza.
 
 ---
 
@@ -1182,6 +1220,66 @@ Jamás podré borrar mi sentimiento de culpa, y de nuevo entendí, nuevamente. L
 Y esta narrativa, es la que explica, cómo en mi cabeza se elaboran constructos, que... puede.. tal vez... estén alineados con la realidad, pero puede que no. Pero los atajos se refuerzan en mi mente, con estas reconstrucciones imaginarias, pero que tan bien explican mi modo de entender los sucesos acaecidos.
 Yo sólo pensé en salvar de la muerte a una criatura, jamás imaginé, que el pago de esa obra, iba a ser, perder por ello a un ser tan inmensamente querido por mí, por Frank, por toda la manada, pese lo bruto que era. Qaro lo veia como a un padre de hecho, siempre iba tras él. Le maravillaba lo majestuoso, fuerte y seguro de sí mismo que era.
 Ese dia, Ender el intrépido, tan súbitamente como acudió a nuestras vidas, y junto la misma carretera que le encontré, nos dejó para siempre.
+
+---
+
+### Invitados de honor
+
+*Lunes, 12 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*Little Boys Grow Up and Dogs Get Old — Luke Bryan*
+
+- **Origen:** `2026-10-12_Invitados-de-honor.md`
+- **Estado:** Borrador
+- **Capítulo:** 03
+- **Secuencia:** 080
+
+El viernes de nuevo le recordé a Ray (que evoluciona muy bien, pero aún permanece ingresado en el hospital), que puedo hospedar a sus perros, Lana y Cooper, en mi casa, hasta que reciba el alta.
+Hay vecinos que les pasean y les atienden, y aún así, Cooper es muy mayor, con movilidad limitada, y encima ciego, con cataratas, y una tos crónica, que no le da mucha tregua. Son 17 años ya en sus lomos.
+Lana es más joven, y aún así ronda los 12 años ya... tampoco puede estar llevando bien, estando sólos en casa todo el dia.
+Ray accede, así que hoy, vamos a recogerlos al Saler. Los traemos a casa Frank y Yo.
+Afortunadamente, el aterrizaje de los nuevos inquilinos al hogar... es suave y tranquilo. No hay conflicto alguno con Las niñas.
+Lana y Cooper, se muestran inquietos, lógico, y aún así, tranquilos, y sin malas reacciones.
+Todo parece fluir muy bien.
+Cooper, es ciego, debido a cataratas por su avanzada edad. También un poco obeso, para ser un Pinscher.
+Lana es más atlética y ágil, pese sus 12 años, se mantiene muy vital todavía.
+Aún así, es de naturaleza más desconfiada. Cooper no tiene más remedio que confiar, necesita ayuda para prácticamente todo.
+Cooper quizás aún me recuerde, de hace 15 años atrás, cuando Ray y yo conviviamos. Incluso Taka llegó a convivir con él.
+No se si Cooper me recuerda, pero no me extraña, eso es obvio, y es muy simpático como reacciona a mis llamadas, cómo le agrada sentir que estás pendiente de él.
+Lana observa, parece que analice continuamente, cada gesto que hago, cada vez que ayudo a Cooper, evalúa lo que hago, no está defensiva, sino espectante, pero me llama mucho la atención esa función maternal que desempeña con Cooper.
+Y aún así, me parece que le convence, que trato de ayudar a Cooper, evitarle los obstáculos, ayudarle a bajar los pocos escalones que hay y que él no puede ver.
+Me pregunto qué tal se podrán llevar las rutinas de la manada, con 6 gatos y 4 perros, 2 de ellos totalmente nuevos, pero al menos, por ahora, todo parece fluir sin aspavientos.
+Recelos, desconfianza, si claro.. pero no hay tensión, parece que poco a poco, todo va fluyendo.
+Incluso somos capaces de darles la cena a todos juntos, sin tener ningún altercado. Todos han sabido respetar su orden y turno, y han comido sin invadir sus espacios reservados.
+Ha sido un gran dia. Cooper tose mucho, muchísimo, debe tener alguna afección respiratoria, es obvio, tiene pinta de ser por la edad.
+Pero salvo ese detalle, y su movilidad limitada... todo transcurre con tanta normalidad, que me anima.
+Y por otra parte, salvo un par de episodios esta mañana a primera hora, hoy en todo el dia, no he vuelto a sentir episodios. Lo cual me reconforta bastante.
+Quizás el ajetreo del dia, ha creado suficiente ruido en mi mente, como para mantener en pausa los episodios.
+
+---
+
+### You've got a friend in me
+
+*Miércoles, 14 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*You've got a friend in me — Randy Newman*
+
+- **Origen:** `2026-10-14_You-got-a-friend-in-me.md`
+- **Estado:** Borrador
+- **Capítulo:** 03
+- **Secuencia:** 090
+
+Lana y Cooper, siguen conviviendo con nosotros. Poco a poco Frank y yo nos estamos encariñando con ellos, con su afable carácter, descubriendo sus comportamientos.
+La consciencia de Cooper de su dependencia, y aún así, no para de querer pasear por fuera, olfatear, mear... le encanta oler los montones de pinocha de los pino o las matas de murta que hay por la parcela, deben recordarle a El Saler, su hogar, es lo que quiero creer.
+Lana sigue auditando mis atenciones con Cooper, y aún así, siento su aprobación cada una de las veces, y eso la hace sentirse más relajada, confiada.
+Es muy consciente de que es una invitada, ha entendido a la perfección la estructura de la colonia de perros y gatos que hay en casa, y ha sabido cómo darse cabida en ella.
+Tiene una inteligencia muy sobresaliente.
+Cada vez es más solícita pidiendo atenciones, cariños, le encanta que la tape por las noches en el sofá mientras duerme. Se le nota que le produce un inmenso placer, no es que haga frío, es que le encanta ver que un humano, se preocupa porque esté cómoda y cálida, y sabe agradecerlo.
+El problema, es que se irán pronto, y ya es un poco tarde para decirnos... "no nos vamos a encariñar con ellos". Ya lo hemos hecho, porque son realmente angelitos, que no puedes más que adorarlos.
 
 ---
 
@@ -2291,6 +2389,76 @@ Este trance ahora, me devuelve a la realidad, y entiendo que no está en su mano
 Ha de superar este trance, y sea como sea que lo haga, por mí, estará bien.
 Lo que él me ha dado como amigo, muy pocas personas en esta vida me lo han ofrecido.
 A pesar de la distancia, el cariño ha perdurado siempre, y nuestras ausencias, sólo han venido a constatar precisamente, que a veces, la distancia es la forma más sana de cariño que dos personas, se pueden profesar.
+
+---
+
+### Sol en mi bolsillo
+
+*Viernes, 9 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*Pocketful of Sunshine — Natasha Bedingfield*
+
+- **Origen:** `2026-10-09_Sol-en-mi-bolsillo.md`
+- **Estado:** Borrador
+- **Capítulo:** 04
+- **Secuencia:** 110
+
+Acabo de trabajar, como con Frank. El tiene festivo, es el dia de la comunidad autónoma de Valencia. Pero trabajo para Barcelona, así que para mí, no es festivo.
+En cuanto tengo el momento, cojo el coche y me dirijo al Hospital Doctor Peset, a visitar a Ray.
+Con tan mala suerte que, parece que la rueda recoge un tornillo o algo... en la salida a la A3, puedo oir el click... click... click en la rueda, se libera el ruido, pero pocos segundos después, empiezo a notar la falta de maniobravilidad en el coche.
+Es obvio, he pinchado la rueda o peor, me arrimo al margen izquierdo de la autovía, en un pequeño apartadero... efectivamente, la rueda, está literalmente destrozada.
+Llamo a Frank varias veces, pero no contesta. Me dispongo a cambiar yo mismo la rueda, pese el peligro de hacerlo junto al carril, pero no queda otra.
+Oh sorpresa, algo no encaja, la llave para aflojar las tuercas no encaja en la tuerca, empiezo a estar ya bastante nervioso y poco ágil mentalmente.
+Así que contacto con el seguro, pido una grua, aunque sea que me ayuden a cambiar la rueda de repuesto.
+Frank por fin me llama, y empieza a acudir a mi encuentro para ayudarme.
+Llega la guardia civil, afortunadamente sólo a cooperar con la situación. Si puse la baliza señalizante, pero no me puse el chaleco. Encima voy con la ITV caducada... pero me muestro tranquilo y agradecido con los agentes.
+Resulta que... soy un inepto, la grua ya está de camino, pero al parecer, el problema era que, los tornillos, llevan el protector de plástico, por eso no encaja la palanca para desatornillarlos. Me siento bastante inútil en ese momento, la verdad.
+Por fin, cambiamos la rueda, incluso llega la grua también. Superado el percance, Frank ni se detiene, demasiados vehículos ya parados en la autovía y poco puede hacer ya él por mí.
+Prosigo mi camino... y por fin, llego al hospital. Y sí, me dejan visitar a Ray. Le encuentro en la sala de esparcimiento de su planta.
+Sinceramente, le encuentro estupendo, radiante, sonriente... hay abrazos, hay conversaciones nostálgicas entre nosotros, hablamos y bromeamos de Edgar Alan Poe, de Lorca, de películas, Eternamente Amigas, Stella.
+Este encuentro me revitaliza, me hace ver que él se encuentra bien, pese su trance.
+Ni siquiera le han puesto via intravenosa... aún así, posiblemente tarde en regresar a casa, necesita más observación que otra cosa, y supongo que medicación, pero todo aparenta ir en buen rumbo pese a ello.
+Le hablo de cómo la lámpara que me regaló ilumina mi habitación "Alexa, enciende a Ray". Es una lámpara preciosa, he de admitirlo, con forma de huevo. Cristales granulados aglutinados, de colores cálidos y templados.
+Esa sensación me produce al encenderla... calidez, placidez, quietud.
+Hoy al regresar a casa, tengo la sensación de haber llenado de sol mis bolsillos. De haber recuperado un poco de la luz que tanto me falta últimamente.
+Con esto no recupero la fe en nada ni en nadie. Pero simplemente, se me hace menos doloroso existir, ahora mismo.
+Siento que.. por un rato, he podido estar... sin tener que pedir perdón por hacerlo.
+
+---
+
+### Hoy decido distanciarme... otra distancia no deseada, pero necesaria, de mi amiga y compañera Raquel (Raka)
+
+*Miércoles, 14 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*No Surprises — Radiohead*
+
+- **Origen:** `2026-10-14_Are-you-my-oldfriend.md`
+- **Estado:** Borrador
+- **Capítulo:** 04
+- **Secuencia:** 120
+
+Resuena aún la acusación de Raka, el otro dia, cuando no dejé de fumar. Su ataque gratuito en su Whatsapp.. "O te ha caído la pasta del cielo o no estás tan mal de pasta como dices".
+Quizás si se disculpó levemente después, fué como siempre, porque... "yo reaccioné muy mal a sus palabras", quien sabe si es mi reacción la incorrecta, y aún así... no creo merecer esa reacción por su parte, sabiendo como sabe, por todo lo que estoy pasando.
+Y eso quita valor a.. si realmente entiende que se propasó, si de veras piensa que me hizo daño innecesariamente, si acaso tal vez sólo pide disculpas, como un modo de "contentar al insufrible".
+Y sin ese valor... aunque acepte las disculpas, realmente, no me valen.
+Son disculpas que no nacen del arrepentimiento, de la sensación de haber metido la pata. Sino simplemente, acatar una norma que te imponen, y que de algún modo, te sientes obligado a someterte.
+He de aprender a darme más valor, a no reclamar las disculpas. Sino dar el valor de las palabras, sean amables o envenenadas, en su estado natural.
+Tal como fluyen de la boca del emisor, interpretarlas con su verdadero valor, sin halagos ni reproches.
+No exigir a nadie nada, porque ya no me valdrá. Sino sembrar la distancia con quien sólo tiene palabras hirientes para mi, y devolver con gratitud palabras igualmente amables, para quien me las regale de corazón.
+El respeto debe manar libremente, no puedes piratearlo, ni cavar un pozo ilegal, para usurpar su fluir.
+Aún así, no he conseguido crear esa distancia con Raka, sin que se de por aludida. Aún tengo mucho que aprender, pero de verdad quiero hacerlo... mi felicidad y mi bienestar van en ello.
+Tengo que eludir esa toxicidad, ese innato modo del mundo de señalarte siempre que pueda, tenga o no motivos para hacerlo.
+Pero el primer paso, está ya dado, y estoy determinado.
+No es una despedida, no un hasta nunca, no un "me has hecho daño, aparta de mi vida".
+Se que ella, nunca lo entenderá, no ve lo que yo vivo, todos los ataques continuos de todo el mundo... ella ha decidido convertirse en otro ladrillo en el muro.
+Yo sólo, necesito respirar.. no necesito más presión en mi vida. Sólo paz. Así que dejo que destile la idea de frialdad por mi parte.
+Poco a poco, ya irá entendiendo, si lo desea y es capaz. Que un muro de hielo se ha ido instalando entre nosotros, y que palabras amables, no lo van a derretir tan fácilmente.
+Necesito distancia, no exponerme a más ataques. Mis abiertas explicaciones y confesiones con ella, han terminado.
+Saludos cordiales, la falsa sensación de que, nada grave pasó... pero pasó.
 
 ---
 
@@ -3681,6 +3849,32 @@ Todavía es pequeño, pero ya notorio... desafiante, haciéndose su lugar en el 
 De nuevo son cosas que me emocionan, pequeños cambios, imprevistos, que pasaron desapercibidos, quien sabe si lleva semanas haciéndose sitio en el mundo, y nadie le vimos, ni Frank ni yo.
 Son buenas noticias, en este caótico mundo lleno de sabores y sinsabores.
 Y aún así, otro motivo de emoción y alegría para mí.
+
+---
+
+### Alevines en el acuario
+
+*Sábado, 10 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*Dos Oruguitas — Sebastián Yatra*
+
+- **Origen:** `2026-10-10_Alevines-en-el-acuario.md`
+- **Estado:** Borrador
+- **Capítulo:** 08
+- **Secuencia:** 160
+
+Los alevines de las islas cuna de Al-Ghadir, han ido creciendo. Muy rápido al principio, pero poco a poco más lentamente. Imagino que el espacio tan confinado les limita.
+El acuario quedó vacío tras los ancianos cometa que nos dejaron ya. Así que tanto Frank como yo, hemos decidido volver a dar un poco de color al interior de casa, incluyendo unos pocos alevines de cometa en él.
+Previamente, hubo un intensivo trabajo de limpieza y desinfección del acuario, su grava... un reinicio del ciclado del mismo, incluso aportándole bacterias para que esté en plenas condiciones.
+Pasado el prudente tiempo... tanto los que seleccionaremos para el acuario, como el resto, pasarán o bien a ocupar el acuario, o bien a ser por fin liberados de su confinamiento en sus islas.
+Escogemos finalmente cinco de ellos para el acuario, entre sendas islas cuna con alevines en ellas. Intentamos que haya variedad, de color, tamaño y forma.
+Revisamos bien las islas, para que no quede ninguno más confinado, y finalmente ubicamos a los infantes en el acuario.
+Todavía son muy pequeños, apenas dos centímetros, y aún así, bajo la luz del acuario... desprenden simpatía, iluminan la vista. Los hay grises, algunos anaranjados con manchas negras, incluso el más pequeño de todos, muy blanco pero con manchas naranja.
+Ahora falta que se vayan adaptando, pero todo parece indicar que si... para ellos este espacio es mucho mayor que el que tenian en la isla cuna.
+Nadan ágiles, ansiosos, curiosos entre los falsos papirus y cáñamos que agregamos al acuario, para aportar vida vegetal al mismo.
+Unos nuevos miembros en el hogar... esperar que crezcan un poco más, no serán tan grandes como sus padres, por el espacio más confinado, y aún así, estoy seguro que será un gozo verles a diario.
 
 ---
 

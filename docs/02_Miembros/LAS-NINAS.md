@@ -35,6 +35,8 @@ Nala
 - *Jueves, 20 de agosto de 2026* — [Muro de viento](../04_Bitacora/2026-08-20_Muro-de-viento.md)
 - *Jueves, 17 de septiembre de 2026* — [Suma y Sigue](../04_Bitacora/2026-09-17_Suma-Y-Sigue.md)
 - *Viernes, 25 de septiembre de 2026* — [Desaparecer unos momentos](../04_Bitacora/2026-09-25_Desaparecer.md)
+- *Lunes, 12 de octubre de 2026* — [Invitados de honor](../04_Bitacora/2026-10-12_Invitados-de-honor.md)
+- *Miércoles, 14 de octubre de 2026* — [You've got a friend in me](../04_Bitacora/2026-10-14_You-got-a-friend-in-me.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
 ## Referencias

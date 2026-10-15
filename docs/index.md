@@ -114,6 +114,12 @@
 - [2026-10-04_Roads](04_Bitacora/2026-10-04_Roads.md)
 - [2026-10-06_Breath-Me](04_Bitacora/2026-10-06_Breath-Me.md)
 - [2026-10-07_Take-a-deep-breath](04_Bitacora/2026-10-07_Take-a-deep-breath.md)
+- [2026-10-08_Knocking](04_Bitacora/2026-10-08_Knocking.md)
+- [2026-10-09_Sol-en-mi-bolsillo](04_Bitacora/2026-10-09_Sol-en-mi-bolsillo.md)
+- [2026-10-10_Alevines-en-el-acuario](04_Bitacora/2026-10-10_Alevines-en-el-acuario.md)
+- [2026-10-12_Invitados-de-honor](04_Bitacora/2026-10-12_Invitados-de-honor.md)
+- [2026-10-14_Are-you-my-oldfriend](04_Bitacora/2026-10-14_Are-you-my-oldfriend.md)
+- [2026-10-14_You-got-a-friend-in-me](04_Bitacora/2026-10-14_You-got-a-friend-in-me.md)
 
 ## 05_Cartografia
 
