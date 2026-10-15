@@ -23,7 +23,7 @@ Así que no me limito, tomo mi coche, en cuanto Ray me hace saber que espera mi 
 ### Capítulo
 04 - Mi Contexto
 ### Secuencia
-090
+100
 ### Autoría
 Edheo
 

@@ -144,6 +144,7 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Sábado, 26 de septiembre de 2026* — [Mamma](../04_Bitacora/2026-09-26_Mamma.md)
 - *Sábado, 26 de septiembre de 2026* — [Silvano, junto al mangrano](../04_Bitacora/2026-09-26_Silvano-junto-al-mangrano.md)
 - *Sábado, 26 de septiembre de 2026* — [Suplantando la lluvia](../04_Bitacora/2026-09-26_Suplantando-la-lluvia.md)
+- *Domingo, 27 de septiembre de 2026* — [Perfect](../04_Bitacora/2026-09-27_Perfect.md)
 - *Lunes, 28 de septiembre de 2026* — [Droide](../04_Bitacora/2026-09-28_Droide.md)
 - *Martes, 29 de septiembre de 2026* — [Conservar la pregunta](../04_Bitacora/2026-09-29_Conservar-la-pregunta.md)
 - *Martes, 29 de septiembre de 2026* — [Here comes the rain](../04_Bitacora/2026-09-29_Here-comes-the-rain.md)
@@ -157,7 +158,7 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Viernes, 9 de octubre de 2026* — [Sol en mi bolsillo](../04_Bitacora/2026-10-09_Sol-en-mi-bolsillo.md)
 - *Sábado, 10 de octubre de 2026* — [Alevines en el acuario](../04_Bitacora/2026-10-10_Alevines-en-el-acuario.md)
 - *Lunes, 12 de octubre de 2026* — [Invitados de honor](../04_Bitacora/2026-10-12_Invitados-de-honor.md)
-- *Miércoles, 14 de octubre de 2026* — [Hoy decido distanciarme... otra distancia no deseada, pero necesaria, de mi amiga y compañera Raquel (Raka)](../04_Bitacora/2026-10-14_Are-you-my-oldfriend.md)
+- *Miércoles, 14 de octubre de 2026* — [¿Sigues siendo la amiga que creí?](../04_Bitacora/2026-10-14_Are-you-my-oldfriend.md)
 - *Miércoles, 14 de octubre de 2026* — [You've got a friend in me](../04_Bitacora/2026-10-14_You-got-a-friend-in-me.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 

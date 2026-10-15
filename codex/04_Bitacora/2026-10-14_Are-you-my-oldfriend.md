@@ -4,13 +4,7 @@
 Borrador
 
 ## Evento
-Hoy decido distanciarme... otra distancia no deseada, pero necesaria, de mi amiga y compañera Raquel (Raka)
-Sus faltas de empatía, sus ataques gratuítos... quizás con reservas, si llega a disculparse.
-Pero tengo demasiada gente atacándome. Sin motivo. Sin propósito. Sólo por hacer daño, o sólo por creerse con autoridad para hacerlo.
-Y yo ya no distingo a los atacantes, para mi, son un conglomerado anónimo, una multitud que me ataca, de la que sólo quiero tomar distancia.
-Así que con ella, tendré que hacerlo también, sin aspavientos, sin sobresaltos, pero le he dejado caer que esa frialdad, se ha instalado ya entre nosotros.
-Si lo que comparto con ella, en lugar de invitarla a acompañarme, la empuja a atacarme... estoy demasiado débil para ataques, incluso si luego vienen disculpas (que no es lo habitual).
-Necesito paz, lejanía, solitud no deseada, pero si es necesaria, es lo que voy a hacer.
+¿Sigues siendo la amiga que creí?
 
 ## Descripción
 Hoy decido distanciarme... otra distancia no deseada, pero necesaria, de mi amiga y compañera Raquel (Raka)
@@ -32,7 +26,7 @@ Necesito paz, lejanía, solitud no deseada, pero si es necesaria, es lo que voy 
 ### Capítulo
 04 - Mi Contexto
 ### Secuencia
-120
+130
 ### Autoría
 Edheo
 

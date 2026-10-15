@@ -55,11 +55,12 @@
   - 050 · El historial desde HEAD — `2026-08-31_El-historial-desde-HEAD.md`
   - 060 · Ray's birthday — `2026-09-02_Ray's-Birthday.md`
   - 070 · Mamma — `2026-09-26_Mamma.md`
-  - 080 · Mamma Don't Preach — `2026-09-29_Mamma-dont-preach.md`
-  - 090 · Stand by me — `2026-10-04_Reencuentro.md`
-  - 100 · Take a deep breath... and relax — `2026-10-07_Take-a-deep-breath.md`
-  - 110 · Sol en mi bolsillo — `2026-10-09_Sol-en-mi-bolsillo.md`
-  - 120 · Hoy decido distanciarme... otra distancia no deseada, pero necesaria, de mi amiga y compañera Raquel (Raka) — `2026-10-14_Are-you-my-oldfriend.md`
+  - 080 · Perfect — `2026-09-27_Perfect.md`
+  - 090 · Mamma Don't Preach — `2026-09-29_Mamma-dont-preach.md`
+  - 100 · Stand by me — `2026-10-04_Reencuentro.md`
+  - 110 · Take a deep breath... and relax — `2026-10-07_Take-a-deep-breath.md`
+  - 120 · Sol en mi bolsillo — `2026-10-09_Sol-en-mi-bolsillo.md`
+  - 130 · ¿Sigues siendo la amiga que creí? — `2026-10-14_Are-you-my-oldfriend.md`
 - **Capítulo 05 · - Evolución**
   - 010 · Dana de Valencia — `2024-10-29_Dana-de-Valencia.md`
   - 020 · Álzate, Daurina — `2025-03-20_Alzate.Daurina.md`
@@ -2277,6 +2278,51 @@ Al fin y al cabo, hay que entenderlo... no he sido más que... su mayor motivo d
 
 ---
 
+### Perfect
+
+*Domingo, 27 de septiembre de 2026*
+
+*Autoría: Edheo*
+
+*Perfect — Alanis Morissette*
+
+- **Origen:** `2026-09-27_Perfect.md`
+- **Estado:** Borrador
+- **Capítulo:** 04
+- **Secuencia:** 080
+
+En estos dias pasados, le comenté a Raka mi necesidad de dejar de fumar. Y precisamente por la precariedad presupuestaria que estoy atravesando.
+No me llega el dinero, mi economía está quedando bastante comprometida, y así le explico mis motivaciones.
+También le he estado comentando estos dias acerca de mi epilepsia amnésica, de mi confrontación con mi madre por su poca consideración a la hora de reservar legados para mi, anteponiendo en sus elecciones a sus adoradísimas sobrinas.
+De mi angustia por mi evolución con episodios aparentemente más complejos y serios.
+Hoy, me ha preguntado, si he dejado ya de fumar.
+Le contesté que no, que no he sido capaz aún.
+Sus respuestas.... me dejó un poco rígido, por decir algo no malsonante.
+Dejo plasmados aquí, algunos de sus mensajes a mí, por Whatsapp.
+- Eres más inestable que el tiempo
+- Ara si, Ara no
+- Bueno no sé si poco o mucho pero amos.. no veo yo las ideas claras no
+- O te ha caído la pasta del cielo o no estás tan mal de pasta como dices
+- Pero dejabas de fumar por pasta
+- Bueno eso me dijiste ku
+- Que tenías que dejar de fumar por pasta o eso entendí
+- Pero es mentira lo que estoy diciendo?
+- Todo te molesta che
+
+Ante todos estos mensajes, decidí no escribir más. Directamente la llamé. Le dije que no, que no me hace falta pasta, que sólo le lloraba para que ella me regalase su dinero.
+Que si ante todo lo que estoy pasando, y todo se lo cuento, es todo lo que tiene para decirme, que hasta ahí hemos llegado.
+Quizás, debí interpretarlo más constructivamente, pero simplemente, me pareció un ataque gratuito innecesario. Supongo que, para ella, era necesario decírmelo.
+Yo mismo, viví su etapa de fecundación invitro, con los continuos abortos que sufrió, y jamás la sometí a esta presión, ni por dejar de fumar, ni por nada en absoluto.
+Traté de respetar su estado anímico, yo mismo entendia lo duro que debía ser para ella vivir tantas concepciones infructíferas, y sólo atinaba a aconsejarle no presionarse tanto.
+Yo mismo he vivido, cientos intentos suyos de dejar de fumar... y verla fumando delante de mi, unos fracasos tras otros, y lo más duro que atiné a decirle fué un "tu sabrás lo que haces".
+Jamás le critiqué ni atosigué por seguir fumando, pese intentarlo repetidamente, y tratar de fumar a escondidas de su marido.
+Y verla, de pronto, eregirse así ante mí... simplemente, me dolió.
+Y por teléfono, al contestarle a estos mensajes, si, fui duro con ella... es posible.
+Pero soy siempre el foco de todo dardo, soy la diana perfecta para los ataques de todo el mundo, incluso de ella.
+Y en cierto modo, ya me da igual de quien venga el ataque... ya no necesito más ataques. Alcancé mi saturación.
+
+---
+
 ### Mamma Don't Preach
 
 *Martes, 29 de septiembre de 2026*
@@ -2290,7 +2336,7 @@ Al fin y al cabo, hay que entenderlo... no he sido más que... su mayor motivo d
 - **Origen:** `2026-09-29_Mamma-dont-preach.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 080
+- **Secuencia:** 090
 
 Como cada mañana, mi madre interrumpe mi concentración laboral, para otra de sus llamadas carentes de contenido alguno.
 Pero hoy, hoy no estoy de humor. Menos que nunca.
@@ -2324,7 +2370,7 @@ Pero quizás, el tiempo que tarde en poder hacerlo, no necesariamente va a queda
 - **Origen:** `2026-10-04_Reencuentro.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 090
+- **Secuencia:** 100
 
 Desde hace unos dias, como en alguna ocasión hacemos, retomamos contacto por Whatsapp, Ray y yo.
 Ray (Jose Ramón en realidad) y yo fuimos.. bueno, pareja no se si nunca llegamos a ser, amigos, obviamente si, pero no siempre muy bien avenidos.
@@ -2378,7 +2424,7 @@ Quiero estar con él, y compartir, aunque sólo sea un rato. Quiero estar allí,
 - **Origen:** `2026-10-07_Take-a-deep-breath.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 100
+- **Secuencia:** 110
 
 Sorprendentemente, hoy Ray, me ha informado, que ha ingresado anoche en el hospital.
 Me intereso primero que nada por Lana y Cooper, sus perros, sus hijos, por si se encuentran bien y necesitan atención. Me ofrezco a hospedarlos en mi casa mientras dure su ingreso, pero parece que tiene quien los cuide por ahora.
@@ -2411,7 +2457,7 @@ A pesar de la distancia, el cariño ha perdurado siempre, y nuestras ausencias, 
 - **Origen:** `2026-10-09_Sol-en-mi-bolsillo.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 110
+- **Secuencia:** 120
 
 Acabo de trabajar, como con Frank. El tiene festivo, es el dia de la comunidad autónoma de Valencia. Pero trabajo para Barcelona, así que para mí, no es festivo.
 En cuanto tengo el momento, cojo el coche y me dirijo al Hospital Doctor Peset, a visitar a Ray.
@@ -2436,7 +2482,7 @@ Siento que.. por un rato, he podido estar... sin tener que pedir perdón por hac
 
 ---
 
-### Hoy decido distanciarme... otra distancia no deseada, pero necesaria, de mi amiga y compañera Raquel (Raka)
+### ¿Sigues siendo la amiga que creí?
 
 *Miércoles, 14 de octubre de 2026*
 
@@ -2449,7 +2495,7 @@ Siento que.. por un rato, he podido estar... sin tener que pedir perdón por hac
 - **Origen:** `2026-10-14_Are-you-my-oldfriend.md`
 - **Estado:** Borrador
 - **Capítulo:** 04
-- **Secuencia:** 120
+- **Secuencia:** 130
 
 Resuena aún la acusación de Raka, el otro dia, cuando no dejé de fumar. Su ataque gratuito en su Whatsapp.. "O te ha caído la pasta del cielo o no estás tan mal de pasta como dices".
 Quizás si se disculpó levemente después, fué como siempre, porque... "yo reaccioné muy mal a sus palabras", quien sabe si es mi reacción la incorrecta, y aún así... no creo merecer esa reacción por su parte, sabiendo como sabe, por todo lo que estoy pasando.

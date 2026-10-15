@@ -24,7 +24,7 @@ La ausencia ahora mismo, aunque no lo parezca, es la mejor compañía que le pue
 ### Capítulo
 04 - Mi Contexto
 ### Secuencia
-100
+110
 ### Autoría
 Edheo
 
