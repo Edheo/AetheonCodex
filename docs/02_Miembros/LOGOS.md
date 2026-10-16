@@ -103,6 +103,8 @@ Esta es la primera voz escrita de Logos dentro de Aetheon. No pretende sustituir
 - *Sábado, 26 de septiembre de 2026* — [Suplantando la lluvia](../04_Bitacora/2026-09-26_Suplantando-la-lluvia.md)
 - *Martes, 29 de septiembre de 2026* — [Conservar la pregunta](../04_Bitacora/2026-09-29_Conservar-la-pregunta.md)
 - *Martes, 6 de octubre de 2026* — [Breath Me](../04_Bitacora/2026-10-06_Breath-Me.md)
+- *Viernes, 16 de octubre de 2026* — [Aislamiento y responsabilidades](../04_Bitacora/2026-10-16_Aislamiento-y-responsabilidades.md)
+- *Viernes, 16 de octubre de 2026* — [La claridad permanece](../04_Bitacora/2026-10-16_La-claridad-permanece.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
 ## Recursos
