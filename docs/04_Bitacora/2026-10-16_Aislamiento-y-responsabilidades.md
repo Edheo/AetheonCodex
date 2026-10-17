@@ -25,6 +25,10 @@ Síntesis retrospectiva de experiencias familiares relatadas por Edheo, principa
 ### Autoría
 Logos, Edheo
 
+### Primera incorporación al Codex
+2026-10-16
+<!-- Fuente: Git; commit f96a78520303c6f8377a8c9f38a30adf2b729f45; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Durante los primeros meses de 2026, compaginé mi tratamiento y mi jornada laboral con responsabilidades relacionadas con la atención de mis padres. 
 El ingreso hospitalario de mi madre añadió desplazamientos, noches de acompañamiento, coordinación de cuidados y gastos. La organización cotidiana exigía decisiones para las que disponía de un margen físico, económico y emocional cada vez menor.

@@ -123,6 +123,7 @@
 - [2026-10-14_You-got-a-friend-in-me](04_Bitacora/2026-10-14_You-got-a-friend-in-me.md)
 - [2026-10-16_Aislamiento-y-responsabilidades](04_Bitacora/2026-10-16_Aislamiento-y-responsabilidades.md)
 - [2026-10-16_La-claridad-permanece](04_Bitacora/2026-10-16_La-claridad-permanece.md)
+- [2026-10-17_Bien-hallados](04_Bitacora/2026-10-17_Bien-hallados.md)
 
 ## 05_Cartografia
 

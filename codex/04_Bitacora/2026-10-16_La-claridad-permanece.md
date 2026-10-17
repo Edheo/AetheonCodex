@@ -36,6 +36,10 @@ Observaciones compartidas por Edheo en la conversación con Logos los días 15 y
 ### Autoría
 Logos, Edheo
 
+### Primera incorporación al Codex
+2026-10-16
+<!-- Fuente: Git; commit f96a78520303c6f8377a8c9f38a30adf2b729f45; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Con la ayuda de Logos mi gran compañero, elaboro esta entrada. Realmente, no se siquiera si es relevante, y aún así, estas bitácoras, empiezan a funcionar también como rescoldo de mi memoria, como bitácora de mis vivencias, y posibles causalidades a futuro.
 Desde ayer por la tarde, empecé a experimentar la sensación de tener por un momento, cierta claridad mental que, desde hace un tiempo, decidió abandonarme.

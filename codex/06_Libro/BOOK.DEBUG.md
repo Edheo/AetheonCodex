@@ -48,6 +48,7 @@
   - 070 · Ender el intrépido — `2023-05-05_Ender-el-intrepido.md`
   - 080 · Invitados de honor — `2026-10-12_Invitados-de-honor.md`
   - 090 · You've got a friend in me — `2026-10-14_You-got-a-friend-in-me.md`
+  - 100 · Bien Hallados — `2026-10-17_Bien-hallados.md`
 - **Capítulo 04 · - Mi Contexto**
   - 010 · El día del eclipse — `2026-08-12_El-dia-del-eclipse.md`
   - 020 · La inquietud y la semilla — `2026-08-14_La-inquietud-y-la-semilla.md`
@@ -664,6 +665,8 @@ El desánimo se va cebando en mi, y ya empiezo a temer, una de las consecuencias
 *Viernes, 16 de octubre de 2026*
 
 *Autoría: Logos, Edheo*
+
+*Primera incorporación al Codex: 2026-10-16*
 
 *The Fog — Kate Bush*
 
@@ -1315,6 +1318,38 @@ Es muy consciente de que es una invitada, ha entendido a la perfección la estru
 Tiene una inteligencia muy sobresaliente.
 Cada vez es más solícita pidiendo atenciones, cariños, le encanta que la tape por las noches en el sofá mientras duerme. Se le nota que le produce un inmenso placer, no es que haga frío, es que le encanta ver que un humano, se preocupa porque esté cómoda y cálida, y sabe agradecerlo.
 El problema, es que se irán pronto, y ya es un poco tarde para decirnos... "no nos vamos a encariñar con ellos". Ya lo hemos hecho, porque son realmente angelitos, que no puedes más que adorarlos.
+
+---
+
+### Bien Hallados
+
+*Sábado, 17 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*Harvest Moon — Neil Young*
+
+- **Origen:** `2026-10-17_Bien-hallados.md`
+- **Estado:** Borrador
+- **Capítulo:** 03
+- **Secuencia:** 100
+
+Lana y Cooper siguen con nosotros. Se han habituado rápidamente a la rutina del hogar.
+Suelen compartir tiempo conmigo mientras teletrabajo en la cama junto al escritorio.
+Cada vez que Cooper necesita salir, sabe pedirlo... se levanta, se acerca, y es la señal pactada. Yo le oriento hasta la puerta de salida, con mi voz y animándole, el me sigue ansioso.
+Le ayudo a bajar los escalones, no puede verlos y teme caerse, yo le ahorro esa inseguridad.
+Lana nos observa siempre, se siente curiosa del modo que vigilo los pasos de Cooper. Aún así, Cooper ya conoce bien la casa, donde buscar el agua, donde echarse en su cuna, donde buscarme mientras trabajo, qué rutas seguir afuera para pasear y distenderse.
+A Cooper le encantan los montones de pinocha y la murta, estoy convencido de que le recuerdan al Saler, su hogar.
+Lana es siempre más reservada, espectante, y aún así, a su vez, muy solícita... reclama caricias, en cuanto tiene ocasión se sube al regazo, para que le hagas caricias y atenciones.
+Es muy curiosa, siempre disfruta de ver qué haces, y si lo que hagas deriva en algún premio o comida para ella.
+Sale en compañía de Luna, cada vez que Luna sale a ladrar para poner en orden el vecindario, es su escudera como quien dice.
+Les he cogido un inmenso cariño, me digo a diario que no debo encariñarme, se que me dolerá cuando se vayan.
+Pero son esas cosas que, por mucho que te las digas.. no puedes evitarlo, son adorables.
+En las madrugadas cuando me levanto temprano, me acerco al sofá, donde suele dormir Lana, y a la cuna donde Cooper duerme. Les arropo con las mantas, ambos gorgotean complacidos por el gesto, mientras te miran, y se quedan tan plácidos sintiendo más calor en sus cuerpos.
+No es que haga frío, esque les encanta sentir esa calidez, esa presencia, saber que alguien les arropa para que se sientan más en su hogar.
+Son una bendición, y los desayunos y cenas de toda la tropa, todo un espectáculo.
+Me esperaba más conflictos o problemas, a la hora de dar de desayuno y cena, a 6 gatos y 4 perros a la vez en el mismo espacio, pero no, todos se portan muy bien, todos colaboran, todos comprenden los turnos y plazos. No se puede repartir 10 platos de comida en menos de 30 segundos, lo entienden y esperan pacientes todos.
+Qué extraña belleza tiene, ver que todo esto sucede con fluidez, y percibir sus caras agradecidas pese la impaciencia de "ya me toca a mi".
 
 ---
 
@@ -2553,6 +2588,7 @@ Saludos cordiales, la falsa sensación de que, nada grave pasó... pero pasó.
 *Viernes, 16 de octubre de 2026*
 
 *Autoría: Logos, Edheo*
+*Primera incorporación al Codex: 2026-10-16*
 
 - **Origen:** `2026-10-16_Aislamiento-y-responsabilidades.md`
 - **Estado:** Borrador de trabajo pendiente de reelaboración por Edheo
