@@ -498,6 +498,22 @@ Y aún así, esa molestia la siento, y aún así, sigo pensando que... empieza a
 Sigo durmiendo poco... unas pocas horas cada noche, y eso acusa mi cansancio, claro está, que también influye en la ecuación... pero ese aspecto, tendrá que ser tratado más adelante, no he conseguido todavía que me deriven a ninguna especialidad, que me ayude con este tema.
 
 
+### Siete dias
+
+*Lunes, 19 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*I Giorni — Ludovico Einaudi*
+
+Siete dias han pasado, desde el pasado Lunes.
+Siete dias hace, que sufrí ese mismo lunes por la mañana, los últimos pocos episodios que recuerdo.
+Siete dias que mi mente, aún sumida en una leve bruma marina, ha ido abandonando la espesa neblina mental.
+Siete dias que sólo son eso, siete dias, con una monotonía distinta, o una amenidad nueva, como queramos verlo.
+No es un contador, ni una promesa de nada, ni el fin de nada, ni la promesa de un temor que se aleja.
+Sólo son siete dias, y para mí con eso, me basta para dejarlo aquí retratado.
+
+
 ## Capítulo 02 · - Orígenes
 
 ### Vetusta Germina
@@ -1004,6 +1020,8 @@ El problema, es que se irán pronto, y ya es un poco tarde para decirnos... "no 
 *Sábado, 17 de octubre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-10-17*
 
 *Harvest Moon — Neil Young*
 

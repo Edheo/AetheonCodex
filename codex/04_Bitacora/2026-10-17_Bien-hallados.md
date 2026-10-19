@@ -10,11 +10,6 @@ Bien Hallados
 Lana y Cooper siguen conviviendo con nosotros. Aún no hace una semana, y parece ya como si hubiesen estado siempre con nosotros.
 Será difícil para nosotros cuando se vayan.
 Pese que para ellos no será plena felicidad puesto que echan por seguro de menos a Ray, su padre... les veo aquí tan integrados, cómodos, habituados ya a las nuevas rutinas... que me cuesta pensar que no se encuentren mejor aquí, que como estaban, sólos en su casa, mientras Ray sigue ingresado.
-## Testimonio
-«Pero al menos, pese que sigo cansado... sigo manteniendo cierta descongestión mental, como ayer por la tarde.»
-
-## Procedencia
-Observaciones compartidas por Edheo en la conversación con Logos los días 15 y 16 de octubre de 2026. Registro documental redactado por Logos a petición de Edheo; el testimonio citado conserva sus palabras.
 
 ## Cosmogonía
 ### Musical
@@ -30,6 +25,10 @@ Observaciones compartidas por Edheo en la conversación con Logos los días 15 y
 100
 ### Autoría
 Edheo
+
+### Primera incorporación al Codex
+2026-10-17
+<!-- Fuente: Git; commit 3b04ce531ad11e834427a2d5c2a3072a6194799a; fecha de incorporación documentada, no de escritura. -->
 
 ### Contenido
 Lana y Cooper siguen con nosotros. Se han habituado rápidamente a la rutina del hogar.
@@ -54,6 +53,3 @@ Qué extraña belleza tiene, ver que todo esto sucede con fluidez, y percibir su
 Edheo
 Cooper
 Lana
-
-**Bitácoras:**
-[Knoking](2026-10-08_Knocking.md)

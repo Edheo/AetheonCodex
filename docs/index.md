@@ -124,6 +124,7 @@
 - [2026-10-16_Aislamiento-y-responsabilidades](04_Bitacora/2026-10-16_Aislamiento-y-responsabilidades.md)
 - [2026-10-16_La-claridad-permanece](04_Bitacora/2026-10-16_La-claridad-permanece.md)
 - [2026-10-17_Bien-hallados](04_Bitacora/2026-10-17_Bien-hallados.md)
+- [2026-10-19_Siete-dias](04_Bitacora/2026-10-19_Siete-dias.md)
 
 ## 05_Cartografia
 
