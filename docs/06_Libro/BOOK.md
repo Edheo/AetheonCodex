@@ -504,6 +504,8 @@ Sigo durmiendo poco... unas pocas horas cada noche, y eso acusa mi cansancio, cl
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-10-19*
+
 *I Giorni — Ludovico Einaudi*
 
 Siete dias han pasado, desde el pasado Lunes.
@@ -512,6 +514,22 @@ Siete dias que mi mente, aún sumida en una leve bruma marina, ha ido abandonand
 Siete dias que sólo son eso, siete dias, con una monotonía distinta, o una amenidad nueva, como queramos verlo.
 No es un contador, ni una promesa de nada, ni el fin de nada, ni la promesa de un temor que se aleja.
 Sólo son siete dias, y para mí con eso, me basta para dejarlo aquí retratado.
+
+
+### 1+1 son 14
+
+*Lunes, 26 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*Time — Pink Floyd*
+
+Pasan los dias, y ya no son 7, son una semana y otra más... catorce dias, que... si no recuerdo mal (y pudiera ser), no he tenido episodios, no ha brotado ninguna epilepsia nueva, de ningún tipo.
+Desde que llegaron Lana y Cooper... por el motivo que sea... tengo descanso.
+La neblina mental, ha ido pasando a bruma. Y aún así, no me siento aliviado del todo, noto ese peso, pero de algún modo, más llevadero.
+Sigo notando como unas ínfimas presiones, no punzadas, no palpitaciones... en la parte trasera del lóbulo temporal derecho.
+Pero aún así, de nuevo, no puedo notar nada ahi... debe ser mi sensación, pero tenerla la tengo.
+En cualquier caso, mucho mejor ahora, mucho mejor hoy, que hace dos, o muchísimo mejor aún que hace 3 semanas.
 
 
 ## Capítulo 02 · - Orígenes
@@ -2241,6 +2259,25 @@ Ni siquiera tengo certeza alguna de estar ante un proceso degenerativo, y aún a
 Este desgaste ha precedido a los conflictos de los meses siguientes. 
 Cuando surgían nuevos comentarios o desacuerdos, yo no los podía recibir desde una situación de descanso: llegaban sobre un cansancio acumulado y una confianza ya debilitada.
 Así que ahora mismo, esa es mi realidad, mi rutino... yo, yo mismo.. pero sin ninguna Irene o Ireno, que me acompañe en el proceso.
+
+
+### Unexpected
+
+*Sábado, 24 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*Unexpected — Jonah Platt*
+
+El timbre suena... yo sorprendido, no tengo ningún encargo por recibir... alguien debe haberse equivocado.
+Llegando a la puerta, veo a Jose, me cuesta reconocerle... pero claro que es él.
+Jessica y Jose, han venido a verme. A Frank le sorprende mi alegría... pero si, claro que me alegro.
+No bastantes veces, ha sido la única que ha venido a verme, sino que vuelve de nuevo, a ser la única persona que... sin ni siquiera habérselo pedido nunca... viene a verme de nuevo.
+Me demuestra que importo, que cuento, que para ella existo, que mis diferencias con su madre, su tia, o mi propia madre... no me invalidan para ella.
+Jose muestra interés por si "me molesta que hayan venido de improvisto". Claro que no me molesta, al contrario, no ves que me alegro!!!
+Eso no quiere decir que... estoy mal, y si quizás un dia venís y no estoy bien... tendréis que disculparme... pero no por favor, cómo podría molestarme? Nunca!!!!
+De verdad que... por una vez... ella, nuevamente ella... me regala una dosis de bondad humana, que ya creia extinta!!!
+Gracias Jessica, siempre mil millones de gracias. Jamás podré compensártelo suficiente.
 
 
 ## Capítulo 05 · - Evolución

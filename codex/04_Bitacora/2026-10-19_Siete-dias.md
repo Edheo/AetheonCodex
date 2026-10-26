@@ -24,6 +24,10 @@ Siete dias han pasado, desde mis últimos episodios. No significa, sólo signifi
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-10-19
+<!-- Fuente: Git; commit e3a61494050735666fad46d71be8eecd31e1521c; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Siete dias han pasado, desde el pasado Lunes.
 Siete dias hace, que sufrí ese mismo lunes por la mañana, los últimos pocos episodios que recuerdo.
