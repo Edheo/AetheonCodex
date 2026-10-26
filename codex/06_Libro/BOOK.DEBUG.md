@@ -67,6 +67,7 @@
   - 130 · ¿Sigues siendo la amiga que creí? — `2026-10-14_Are-you-my-oldfriend.md`
   - 140 · Aislamiento y responsabilidades — `2026-10-16_Aislamiento-y-responsabilidades.md`
   - 150 · Unexpected — `2026-10-24_Unexpected.md`
+  - 160 · Reunión familiar — `2026-10-25_Reunión-familiar.md`
 - **Capítulo 05 · - Evolución**
   - 010 · Dana de Valencia — `2024-10-29_Dana-de-Valencia.md`
   - 020 · Álzate, Daurina — `2025-03-20_Alzate.Daurina.md`
@@ -720,6 +721,8 @@ Sólo son siete dias, y para mí con eso, me basta para dejarlo aquí retratado.
 *Lunes, 26 de octubre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-10-26*
 
 *Time — Pink Floyd*
 
@@ -2694,6 +2697,8 @@ Así que ahora mismo, esa es mi realidad, mi rutino... yo, yo mismo.. pero sin n
 
 *Autoría: Edheo*
 
+*Primera incorporación al Codex: 2026-10-26*
+
 *Unexpected — Jonah Platt*
 
 - **Origen:** `2026-10-24_Unexpected.md`
@@ -2710,6 +2715,39 @@ Jose muestra interés por si "me molesta que hayan venido de improvisto". Claro 
 Eso no quiere decir que... estoy mal, y si quizás un dia venís y no estoy bien... tendréis que disculparme... pero no por favor, cómo podría molestarme? Nunca!!!!
 De verdad que... por una vez... ella, nuevamente ella... me regala una dosis de bondad humana, que ya creia extinta!!!
 Gracias Jessica, siempre mil millones de gracias. Jamás podré compensártelo suficiente.
+
+---
+
+### Reunión familiar
+
+*Domingo, 25 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*We are family — Sister Sledge*
+
+- **Origen:** `2026-10-25_Reunión-familiar.md`
+- **Estado:** Borrador
+- **Capítulo:** 04
+- **Secuencia:** 160
+
+Me acerqué a Calderer un poco más tarde que Frank. Para poder estar más tiempo con las niñas, no dejarlas solas tanto rato.
+Llegué a Calderer sobre poco antes de la una de la tarde. Ayudé un poco a Frank, me presenté a su ex suegro.
+Charlé con las hermanas de Asun, que son muy majas, me tratan muy bien. Noto que intenta suplir un cariño que saben que me falta, y yo, la verdad, no puedo estar más agradecido.
+Aún así, aquí llego yo, con mi pasado, con mis facturas ya pagadas.
+Yo una vez, tuve unas sobrinas, y en cuanto vine a bien no ser pareja de Jose Ramón, bien valió, no verlas a ellas, no volver a mi ex-suegra, Maria, que tanto apreciaba. A Lluna y mi adoradísima Neus, jamás me dejaron volver a verlas.
+Me recuerda que, si no me llevo bien con mi madre... el pago es ese, toda mi familia, toma parte, y no por mí. Me han dado la espalda, han preferido hacerme ese vacío.
+Si no sigo soportando, como se espera de mi, el comportamiento de mi madre, entonces... no hay familia para mí.
+Y ahora, de nuevo, se postulan a darme cariño incondicional, tal y como me prometió la familia de Jose Ramón... "siempre serán tus sobrinas, siempre, pase lo que pase"... y no, no lo han sido.
+"Te queremos más que a nada en el mundo"... dice mi familia... pero no, no es así... la letra pequeña es "si sigues sin quejarte de como te trate tu madre".
+Y ahora, vienen unos nuevos... con su mejor intención, ya sé que si... pero.... huele de nuevo a lo mismo... "te querremos ininito... hasta que dejes de ser, lo que queremos que seas". Por ejemplo, hasta que me separe de Frank.
+Llego a casa, un poco antes que Frank, para no dejar solas a todas las niñas tanto tiempo, así lo teníamos ya pactado Frank y yo.
+Y si, ha sido un dia bonito, ha sido agradable, me han tratado muy bien, y nada ha enturbiado el dia, salvo el leve reproche por irme antes que los demás, pero nada que señalar... lo normal, lo cordial. Frank siguió allí con su familia, a acabar de disfrutar del dia como debe ser, y yo a Aetheon, para verificar que todas nuestras niñas estén bien, y estar tranquilos por ellas.
+Por la noche... sentía ese dolor en el pecho, ese que.. parece que duela el corazón, pero sé que no, se que es ansiedad.
+Es esa punzada a medio pecho, un poco a un lado, cuando la ansiedad te supera, te atenaza, te oprime y no sabes como aliviarla.
+De nuevo se postulan cariños incondicionales, que al menor contratiempo, de nuevo... se irán, como las oscuras golondrinas.
+Y no, no estoy yo listo, para exponerme de nuevo, ni a esos cariños, ni a esas pérdidas.
+Vivo con ese temor, de llegar a quererles y tener que olvidarles... nuevamente.
 
 ---
 

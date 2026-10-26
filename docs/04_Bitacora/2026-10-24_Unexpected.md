@@ -40,6 +40,10 @@ Por una vez, sin aviso, sin esperarlo... una visita, Jessica, ese ángel y su ma
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-10-26
+<!-- Fuente: Git; commit 0a832359664f118f5b8ce5b43e18e944252813de; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 El timbre suena... yo sorprendido, no tengo ningún encargo por recibir... alguien debe haberse equivocado.
 Llegando a la puerta, veo a Jose, me cuesta reconocerle... pero claro que es él.

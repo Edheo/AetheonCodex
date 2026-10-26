@@ -165,6 +165,7 @@ Si tiene solución... de qué te preocupas? Y si no la tiene... para qué preocu
 - *Sábado, 17 de octubre de 2026* — [Bien Hallados](../04_Bitacora/2026-10-17_Bien-hallados.md)
 - *Lunes, 19 de octubre de 2026* — [Siete dias](../04_Bitacora/2026-10-19_Siete-dias.md)
 - *Sábado, 24 de octubre de 2026* — [Unexpected](../04_Bitacora/2026-10-24_Unexpected.md)
+- *Domingo, 25 de octubre de 2026* — [Reunión familiar](../04_Bitacora/2026-10-25_Reunión-familiar.md)
 - *Lunes, 26 de octubre de 2026* — [1+1 son 14](../04_Bitacora/2026-10-26_1+1-son-catorce.md)
 <!-- END GENERATED MEMBER JOURNAL -->
 
