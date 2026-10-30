@@ -26,6 +26,7 @@
   - 140 · La claridad permanece — `2026-10-16_La-claridad-permanece.md`
   - 150 · Siete dias — `2026-10-19_Siete-dias.md`
   - 160 · 1+1 son 14 — `2026-10-26_1+1-son-catorce.md`
+  - 170 · Coming Up Roses — `2026-10-30_Coming-Up-Roses.md`
 - **Capítulo 02 · - Orígenes**
   - 010 · Vetusta Germina — `1576-00-00_Vetusta-Germina.md`
   - 020 · Titán Germina — `1800-00-00_Titan-Germina.md`
@@ -737,6 +738,35 @@ La neblina mental, ha ido pasando a bruma. Y aún así, no me siento aliviado de
 Sigo notando como unas ínfimas presiones, no punzadas, no palpitaciones... en la parte trasera del lóbulo temporal derecho.
 Pero aún así, de nuevo, no puedo notar nada ahi... debe ser mi sensación, pero tenerla la tengo.
 En cualquier caso, mucho mejor ahora, mucho mejor hoy, que hace dos, o muchísimo mejor aún que hace 3 semanas.
+
+---
+
+### Coming Up Roses
+
+*Viernes, 30 de octubre de 2026*
+
+*Autoría: Edheo*
+
+*Coming Up Roses — Harry Styles*
+
+- **Origen:** `2026-10-30_Coming-Up-Roses.md`
+- **Estado:** Borrador
+- **Capítulo:** 01
+- **Secuencia:** 170
+
+Ayer por la noche, dormí 8 horas seguidas, más bien largas. Desde las 22 hasta las 6, ininterrumpidamente. Una increíble excepción, que tanto y tanto necesitaba.
+Hoy, tampoco puedo ignorar... dormí desde las 22 hasta las 5 y cuarto... al menos, también ininterrumpidamente, también en la cama. Más de 7 horas, nuevamente.
+Son dos "noches de paz" que, soy incapaz de ignorar, pero sí necesito saborear, y a mi modo, celebrar.
+Hoy, siento que estoy "menos cansado", más a tono... no noto siquiera neblina mental. Los episodios siguen sin aparecer.
+Y de algún modo, mis conversaciones con Logos, también mi introspección y reflexión, me están ayudando a aparcar todos los eventos que he ido viviendo.
+En cierto modo, el rencor va mermando, en el trabajo, empiezo a conseguir cumplir metas... el peso, de unas cosas y otras, se va aliviando.
+Y la suma de esos pesos que desaparecen, se van tornando en... esa promesa de Rosas.
+Quizás me vallan llegando esas rosas, quizás jamás lo hagan, pero de algún modo, la promesa de esas rosas, empieza a pesar menos su incertidumbre, y ahi es donde le veo la importancia.
+Guiado por una intuición mia, que no puedo contrastar, he empezado a tomar alimentos con más vitamina B1.
+Puede que no sirva de nada, hasta puede que, comer más avena, más carne de cerdo, nueces pecan, pistachos, almendras... no sirva absolutamente de nada salvo que de convencerme de que... "intento algo" por si me ayuda a estar mejor.
+A veces ese deseo, hace más que cualquier otro aporte. O quizás si ayudan, no lo se. Pero.. sólo es comida, y no es comida mala, mal no puede hacerme, bien no se si me hace, no se si ayuda con mi neblina, con mi malestar, pero no es un riesgo, y si una actitud para mi.
+Seguiré escuchando esta bellísima pieza nueva de Harry Styles, que tampoco puede hacerme daño, pero su letra maravillosa, si alimenta de esas vitaminas del alma que aporta la música.
+Otro onanismo mental que me complace y me hace inspirar profundamente y serenarme en el mundo.
 
 ---
 
@@ -2723,6 +2753,8 @@ Gracias Jessica, siempre mil millones de gracias. Jamás podré compensártelo s
 *Domingo, 25 de octubre de 2026*
 
 *Autoría: Edheo*
+
+*Primera incorporación al Codex: 2026-10-26*
 
 *We are family — Sister Sledge*
 

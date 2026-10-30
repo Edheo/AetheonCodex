@@ -25,6 +25,10 @@ Fué un buen dia, de celebración... y aún así, yo no puedo evitar que... teng
 ### Autoría
 Edheo
 
+### Primera incorporación al Codex
+2026-10-26
+<!-- Fuente: Git; commit b187cac508812f108fa71645a8cb88b9c0682ef3; fecha de incorporación documentada, no de escritura. -->
+
 ### Contenido
 Me acerqué a Calderer un poco más tarde que Frank. Para poder estar más tiempo con las niñas, no dejarlas solas tanto rato.
 Llegué a Calderer sobre poco antes de la una de la tarde. Ayudé un poco a Frank, me presenté a su ex suegro.

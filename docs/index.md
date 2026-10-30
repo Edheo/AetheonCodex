@@ -128,6 +128,7 @@
 - [2026-10-24_Unexpected](04_Bitacora/2026-10-24_Unexpected.md)
 - [2026-10-25_Reunión-familiar](04_Bitacora/2026-10-25_Reunión-familiar.md)
 - [2026-10-26_1+1-son-catorce](04_Bitacora/2026-10-26_1+1-son-catorce.md)
+- [2026-10-30_Coming-Up-Roses](04_Bitacora/2026-10-30_Coming-Up-Roses.md)
 
 ## 05_Cartografia
 
